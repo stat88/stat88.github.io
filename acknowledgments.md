@@ -5,7 +5,7 @@ title: Acknowledgments
 
 #### A. Adhikari and J. Pitman ####
 
-#### August 2018 ####
+#### August 2019 ####
 
 The development of Stat 88 has been a team effort by faculty and students.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Prob 140
+title: About Stat 88
 ---
 
 This part of the website is still under construction - check back later for more info!
