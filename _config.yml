@@ -6,14 +6,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'Prob 140'
-tagline:          'Probability for Data Science'
-description:      'Probability for Data Science <br /> Ani Adhikari <br />'
+title:            'Stat 88'
+tagline:          'Probability and Mathematical Statistics for Data Science'
+description:      'Probability and Mathematical Statistics for Data Science <br /> Ani Adhikari <br />'
 url:              http://prob140.org
 baseurl:          /
 
 author:
-  name:           'Dibya Ghosh, Jason Zhang'
+  name:           'Francie McQuarrie, Rohan Narain, Ashley Chien'
   url:            http://prob140.org
 
 paginate:         5

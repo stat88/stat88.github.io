@@ -4,7 +4,7 @@ title: Resources
 ---
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js" integrity="sha384-vhJnz1OVIdLktyixHY4Uk3OHEwdQqPppqYR8+5mjsauETgLOcEynD9oPHhhz18Nw" crossorigin="anonymous"></script>
 
-### Mathematics Prerequisites
+<!-- ### Mathematics Prerequisites
 - Summation Notation - [Here](http://www.cs.yale.edu/homes/aspnes/pinewiki/attachments/SummationNotation/summation-notation.pdf) is a terrific summary by Prof. [James Aspnes](http://www.cs.yale.edu/homes/aspnes/) of the Yale CS department.
 - Exponential and Log Functions - [Graphs and Approximations](/resources/exponential_approximations)
 - Mathematical Induction - [Here](https://www.cs.cmu.edu/~adamchik/21-127/lectures/induction_1_print.pdf) is a clear and concise exposition, with several examples, by Prof. [Victor Adamchik](http://www.cs.cmu.edu/~adamchik/) of the CS department at Carnegie Mellon.
@@ -24,4 +24,4 @@ title: Resources
 ### Python References
 - [prob140 library reference](http://prob140.org/prob140/)
 - [datascience library reference](http://data8.org/datascience/tables.html)
-- [Final Exam Code Reference](/assets/final_reference_code_fa18.pdf)
+- [Final Exam Code Reference](/assets/final_reference_code_fa18.pdf) -->
