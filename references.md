@@ -4,6 +4,9 @@ title: Resources
 ---
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js" integrity="sha384-vhJnz1OVIdLktyixHY4Uk3OHEwdQqPppqYR8+5mjsauETgLOcEynD9oPHhhz18Nw" crossorigin="anonymous"></script>
 
+### Inference Corequisites
+- Data 8 - [Course Website](http://data8.org/sp18/) and [Textbook](http://inferentialthinking.com/)
+
 <!-- ### Mathematics Prerequisites
 - Summation Notation - [Here](http://www.cs.yale.edu/homes/aspnes/pinewiki/attachments/SummationNotation/summation-notation.pdf) is a terrific summary by Prof. [James Aspnes](http://www.cs.yale.edu/homes/aspnes/) of the Yale CS department.
 - Exponential and Log Functions - [Graphs and Approximations](/resources/exponential_approximations)
