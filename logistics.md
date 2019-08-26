@@ -7,7 +7,7 @@ title: Stat 88 Course Information, Fall 2019
 You must enroll in the lecture and in a discussion section that meets twice weekly. See the [Academic Guide](https://classes.berkeley.edu/content/2019-fall-stat-88-001-lec-001) for details. You can attend only the discussion section in which you are enrolled on CalCentral. Note that quizzes will be held in discussion sections. 
 
 ### Enrollment and Prerequisites ###
-Please see the [Academic Guide](https://classes.berkeley.edu/content/2019-fall-stat-88-001-lec-001) or the [About](https://stat-88.github.io/about/) page for details.
+Please see the [Academic Guide](https://classes.berkeley.edu/content/2019-fall-stat-88-001-lec-001) or the [About](https://stat88.github.io/about/) page for details.
 Prerequisites:
 
 - One semester of calculus at the level of Math 16A, Math 10A, or Math 1A. 
@@ -19,7 +19,7 @@ Corequisite:
 These are enforced by CalCentral.
 
 ### Text ###
-The [course textbook](https://stat-88.github.io/textbook/chapters/README) will be available on the course website.  Lectures and the textbook will be closely related in content and sequence, though examples done in lecture might be different from those in the text.
+The [course textbook](https://stat88.github.io/textbook/notebooks/intro) will be available on the course website.  Lectures and the textbook will be closely related in content and sequence, though examples done in lecture might be different from those in the text.
 
 ### The Required Components of Your Work ###
 
