@@ -5,12 +5,12 @@ weeks:
     basic:
     - date: Mon 08/26
       content: "No school"
-      assignments:
-      - name: HW 1 (Due Tues 09/03 at 9 AM)
     - date: Tues 08/27
       content: "No school"
     - date: Wed 08/28
       content: "Lecture 1: Course introduction; fundamentals"
+      assignments:
+      - name: HW 1 (Due Tues 09/03 at 9 AM)
     - date: Thu 08/29
       content: "Discussion"
     - date: Fri 08/30
