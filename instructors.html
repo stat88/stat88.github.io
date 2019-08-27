@@ -11,7 +11,7 @@
   <meta name="description" content="Probability and Mathematical Statistics for Data Science (listed as Stat 88) is an introductory course on probability" />
   <title>
 
-      Staff &middot; Prob 140
+      Staff &middot; Stat 88
 
   </title>
 
@@ -101,11 +101,8 @@ MathJax.Hub.Config({
 
     <!-- If we need scrollbar -->
     <div class="swiper-wrapper">
-      {% for announcement in site.data.announcements %}
         <div class="swiper-slide">
-        {{announcement}}
         </div>
-      {% endfor %}
 
 </div>
 </div>
@@ -313,7 +310,7 @@ MathJax.Hub.Config({
 
     function showAnnouncements(){
       basicModal.show({
-    body: "<h2> Announcements </h2> <ul>{% for announcement in site.data.announcements %}<li>{{announcement}}</li>{% endfor %}</ul>",
+    body: "<h2> Announcements </h2>",
     closable: true,
     buttons: {
         action: {
