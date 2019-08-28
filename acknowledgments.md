@@ -3,22 +3,18 @@ layout: page
 title: Acknowledgments
 ---
 
-#### A. Adhikari and J. Pitman ####
+#### A. Adhikari ####
 
 #### August 2019 ####
 
-The development of Stat 88 has been a team effort by faculty and students.
+I developed Stat 88 in Fall 2015 as a seminar course for about 25 students. The goal was for the participants to discover the mathematics together and then write it up correctly and in a manner that would be accessible to their peers. Though the course has now changed substantially and now serves hundreds of students each semester, its foundations were established by the class of Fall 2015:
 
-<!---
-Dibya Ghosh and Jason Zhang have been central to course development, including course infrastructure, the prob140 Python library, the building and features of the interactive online textbook, computational and pedagogical aspects of several labs, quizzes, and overall pedagogy. They were also the Lead UGSIs (Undergraduate Student Instructors) in the initial offerings of the course. 
+Shreya Agarwal, Thomas Anthony, Bryannie Bach, Adith Balamurugan, Betty Chang, Aditya Gandhi, Dibya Ghosh, Edward Huang, Jiayi Huang, Weston Hughes, Arvind Iyengar, Andrew Linxie, Rahil Mathur, Nishaad Navkal, Kyle Nguyen, Christopher Sauceda, Rohan Singh, Parth Singhal, Max Weinstein, Yu Xia, Anthony Xian, and Ling Xie.
 
-Max Weinstein completed the UGSI team in the pilot offering and worked on several labs. Kazu Kogachi and Mujahid Zaman have been part of the course staff as tutors and UGSIs since it was first offered.
+Dibya Ghosh continued to work with me on the textbook and was the editor of subsequent drafts.
 
-Discussion section structure and content owes much to Dibya Ghosh, Biyonka Liang, and Katherine Yen.
+Chris Holdgraf developed the system for publishing the book online.
 
-The textbook was rebuilt in Summer 2018 by Dominic Croce.
+The exposition owes much to two Berkeley texts: *Probability* by Jim Pitman, and the masterpiece *Statistics* by Freedman, Pisani, and Purves.
 
-The course logo, by Biyonka Liang, was the winning entry in a competition among students and staff in the pilot offering.
 
-Prob 140 has had outstandingly dedicated and creative staff teams. Apart from those mentioned above, the initial offerings were fortunate to have the contributions of Priyanka Bhoj, Alan Chuang, Arvind Iyengar, Serena Jiang, Tara Mirmira, Xinyi Ren, and Henry Zhu. 
--->
