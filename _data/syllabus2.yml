@@ -24,10 +24,11 @@ weeks:
     basic:
     - date: Mon 09/02
       content: "Holiday"
-      assignments:
-      - name: HW 2 (Due Mon 09/09 at noon)
     - date: Tues 09/03
       content: "Discussion"
+      assignments:
+        - name: HW 2 (Due Mon 09/09 at noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_02.ipynb
     - date: Wed 09/04
       content: "Lecture 3: Intersections of several events"
     - date: Thu 09/05
