@@ -12,6 +12,8 @@ weeks:
       assignments:
       - name: HW 1 (Due Tues 09/03 at 9 AM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_1.ipynb
+      - name: HW 1 Solutions
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw_solutions/Homework_1_solutions.ipynb
     - date: Thu 08/29
       content: "Discussion"
     - date: Fri 08/30
