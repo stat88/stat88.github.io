@@ -49,7 +49,7 @@ weeks:
       content: "Lecture 5: A closer look at independence"
       assignments:
       - name: HW 3 (Due Mon 09/16 at noon)
-      - url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_03.ipynb
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_03.ipynb
     - date: Tues 09/10
       content: "Discussion"
     - date: Wed 09/11
