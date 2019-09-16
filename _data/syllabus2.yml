@@ -64,6 +64,7 @@ weeks:
       content: "Lecture 8: Exponential approximations"
       assignments:
       - name: HW 4 (Due Mon 09/23 at noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_04.ipynb
     - date: Tues 09/17
       content: "Discussion"
     - date: Wed 09/18
