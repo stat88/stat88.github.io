@@ -86,11 +86,11 @@ weeks:
     - date: Tues 09/24
       content: "Discussion"
     - date: Wed 09/25
-      content: "Lecture 12: Additivity of expectation; unbiased estimates "
+      content: "Lecture 12: Additivity and the power of Booleans"
     - date: Thu 09/26
       content: "Quiz 2"
     - date: Fri 09/27
-      content: "Lecture 13: The power of Booleans: the method of indicators"
+      content: "Lecture 13: Unbiased estimates"
 
 
   - weekNum: 6
