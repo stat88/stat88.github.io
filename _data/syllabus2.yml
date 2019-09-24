@@ -83,6 +83,7 @@ weeks:
       content: "Lecture 11: Collections of random variables: joint distribution"
       assignments:
       - name: HW 5 (Due Mon 09/30 at noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_05.ipynb
     - date: Tues 09/24
       content: "Discussion"
     - date: Wed 09/25
