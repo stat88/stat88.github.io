@@ -102,6 +102,7 @@ weeks:
       content: "Lecture 14: Updating revisited: conditional distribution"
       assignments:
       - name: HW 6 (Due Mon 10/07 at noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_06.ipynb
     - date: Tues 10/01
       content: "Discussion"
     - date: Wed 10/02
