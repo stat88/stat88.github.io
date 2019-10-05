@@ -110,7 +110,7 @@ weeks:
     - date: Thu 10/03
       content: "Discussion"
     - date: Fri 10/04
-      content: "Lecture 16: Least squares prediction"
+      content: "Lecture 16: Expectation by conditioning: examples"
 
 
   - weekNum: 7
