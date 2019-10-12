@@ -124,11 +124,11 @@ weeks:
     - date: Tues 10/08
       content: "Discussion"
     - date: Wed 10/09
-      content: "Midterm review"
+      content: "Lecture Canceled"
     - date: Thu 10/10
-      content: "Discussion"
+      content: "Discussion Canceled"
     - date: Fri 10/11
-      content: "Midterm"
+      content: "Midterm Canceled"
 
 
   - weekNum: 8
@@ -146,7 +146,7 @@ weeks:
     - date: Thu 10/17
       content: "Discussion"
     - date: Fri 10/18
-      content: "Lecture 20: The accuracy of a simple random sample"
+      content: "Rescheduled midterm (Previously 10/11)"
 
 
   - weekNum: 9
