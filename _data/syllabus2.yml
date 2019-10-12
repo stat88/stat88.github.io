@@ -160,11 +160,11 @@ weeks:
     - date: Tues 10/22
       content: "Discussion"
     - date: Wed 10/23
-      content: "Lecture 22: The square root law and the law of averages"
+      content: "Lecture 22: The accuracy of a simple random sample"
     - date: Thu 10/24
       content: "Discussion"
     - date: Fri 10/25
-      content: "Lecture 23: Central Limit Theorem"
+      content: "Lecture 23: Large samples and the law of averages"
 
 
   - weekNum: 10
@@ -172,17 +172,17 @@ weeks:
     weekDuration: 10/28-11/01
     basic:
     - date: Mon 10/28
-      content: "Lecture 24: Inference: confidence intervals based on the CLT"
+      content: "Lecture 24: Central Limit Theorem"
       assignments:
       - name: HW 9 (Due Mon 11/04 at noon)
     - date: Tues 10/29
       content: "Discussion"
     - date: Wed 10/30
-      content: "Lecture 25: Inference: testing hypotheses"
+      content: "Lecture 25: Inference: confidence intervals based on the CLT"
     - date: Thu 10/31
       content: "Quiz 3"
     - date: Fri 11/01
-      content: "Lecture 26: Sample size and power"
+      content: "Lecture 26: Inference: testing hypotheses"
 
 
   - weekNum: 11
