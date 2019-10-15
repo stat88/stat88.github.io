@@ -139,6 +139,7 @@ weeks:
       content: "Lecture 18: Measuring variability"
       assignments:
       - name: HW 7 (Due Mon 10/21 at noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_07.ipynb
     - date: Tues 10/15
       content: "Discussion"
     - date: Wed 10/16
