@@ -158,6 +158,7 @@ weeks:
       content: "Lecture 21: Variability of a random sample sum"
       assignments:
       - name: HW 8 (Due Mon 10/28 at noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_08.ipynb
     - date: Tues 10/22
       content: "Discussion"
     - date: Wed 10/23
