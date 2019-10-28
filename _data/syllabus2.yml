@@ -174,17 +174,17 @@ weeks:
     weekDuration: 10/28-11/01
     basic:
     - date: Mon 10/28
-      content: "Lecture 24: Central Limit Theorem"
-      assignments:
-      - name: HW 9 (Due Mon 11/04 at noon)
+      content: "Lecture Canceled"
     - date: Tues 10/29
       content: "Discussion"
+      assignments:
+      - name: HW 9 (Due Mon 11/04 at noon)
     - date: Wed 10/30
-      content: "Lecture 25: Inference: confidence intervals based on the CLT"
+      content: "Lecture 24: Central Limit Theorem"
     - date: Thu 10/31
       content: "Quiz 3"
     - date: Fri 11/01
-      content: "Lecture 26: Inference: testing hypotheses"
+      content: "Lecture 25: Testing hypotheses"
 
 
   - weekNum: 11
@@ -192,17 +192,17 @@ weeks:
     weekDuration: 11/04-11/08
     basic:
     - date: Mon 11/04
-      content: "Lecture 27: Probability density"
+      content: "Lecture 26: A/B testing"
       assignments:
       - name: HW 10 (Due Mon 11/11 at noon)
     - date: Tues 11/05
       content: "Discussion"
     - date: Wed 11/06
-      content: "Lecture 28: The exponential distribution"
+      content: "Lecture 27: Confidence intervals based on the CLT"
     - date: Thu 11/07
       content: "Discussion"
     - date: Fri 11/08
-      content: "Lecture 29: Some properties of the normal distribution"
+      content: "Lecture 28: Interpretation of confidence intervals"
 
 
   - weekNum: 12
@@ -216,11 +216,11 @@ weeks:
     - date: Tues 11/12
       content: "Discussion"
     - date: Wed 11/13
-      content: "Lecture 30: Method-of-moments estimates"
+      content: "Lecture 29: Probability density"
     - date: Thu 11/14
       content: "Discussion"
     - date: Fri 11/15
-      content: "Lecture 31: The bias-variance tradeoff"
+      content: "Lecture 30: The exponential distribution"
 
 
   - weekNum: 13
@@ -228,17 +228,17 @@ weeks:
     weekDuration: 11/18-11/22
     basic:
     - date: Mon 11/18
-      content: "Lecture 32: Correlation"
+      content: "Lecture 31: Some properties of the normal distribution"
       assignments:
       - name: HW 12 (Due Mon 11/25 at noon)
     - date: Tues 11/19
       content: "Discussion"
     - date: Wed 11/20
-      content: "Lecture 33: Least squares linear prediction"
+      content: "Lecture 32: Prediction: bias and variance"
     - date: Thu 11/21
       content: "Quiz 4"
     - date: Fri 11/22
-      content: "Lecture 34: The regression effect and the regression fallacy"
+      content: "Lecture 33: Least squares linear prediction"
 
 
   - weekNum: 14
@@ -246,7 +246,7 @@ weeks:
     weekDuration: 11/25-11/29
     basic:
     - date: Mon 11/25
-      content: "Lecture 35: Error in the regression estimate"
+      content: "Lecture 34: Correlation and the regression effect"
       assignments:
       - name: HW 13 (Due Mon 12/02 at noon)
     - date: Tues 11/26
@@ -264,17 +264,17 @@ weeks:
     weekDuration: 12/02-12/06
     basic:
     - date: Mon 12/02
-      content: "Lecture 36: The regression model for data"
+      content: "Lecture 35: Error in the regression estimate"
       assignments:
       - name: HW 14 (Due Mon 12/09 at noon)
     - date: Tues 12/03
       content: "Discussion"
     - date: Wed 12/04
-      content: "Lecture 37: Inference for the true slope in the regression model"
+      content: "Lecture 36: The regression model for data"
     - date: Thu 12/05
       content: "Discussion"
     - date: Fri 12/06
-      content: "Lecture 38: Conclusion"  
+      content: "Lecture 37: Inference for the true slope in the regression model"  
       
   - weekNum: 16
     weekName: RRR Week
