@@ -184,7 +184,7 @@ weeks:
     - date: Thu 10/31
       content: "Quiz 3"
     - date: Fri 11/01
-      content: "Lecture 25: Testing hypotheses"
+      content: "Lecture 25: Normal approximation"
 
 
   - weekNum: 11
@@ -192,7 +192,7 @@ weeks:
     weekDuration: 11/04-11/08
     basic:
     - date: Mon 11/04
-      content: "Lecture 26: A/B testing"
+      content: "Lecture 26: Testing hypotheses"
       assignments:
       - name: HW 10 (Due Mon 11/11 at noon)
     - date: Tues 11/05
