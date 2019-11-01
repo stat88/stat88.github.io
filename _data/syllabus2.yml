@@ -178,7 +178,7 @@ weeks:
     - date: Tues 10/29
       content: "Discussion"
       assignments:
-      - name: HW 9 (Due Mon 11/05 at noon)
+      - name: HW 9 (Due Tues 11/05 at noon)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_09.ipynb
     - date: Wed 10/30
       content: "Lecture 24: Central Limit Theorem"
