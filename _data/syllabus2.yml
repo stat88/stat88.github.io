@@ -194,10 +194,11 @@ weeks:
     basic:
     - date: Mon 11/04
       content: "Lecture 26: Testing hypotheses"
-      assignments:
-      - name: HW 10 (Due Mon 11/11 at noon)
     - date: Tues 11/05
       content: "Discussion"
+      assignments:
+        - name: HW 10 (Due Tues 11/12 at 11:59 PM)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_10.ipynb
     - date: Wed 11/06
       content: "Lecture 27: Confidence intervals based on the CLT"
     - date: Thu 11/07
