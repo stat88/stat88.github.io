@@ -213,10 +213,10 @@ weeks:
     basic:
     - date: Mon 11/11
       content: "Holiday"
-      assignments:
-      - name: HW 11 (Due Mon 11/18 at noon)
     - date: Tues 11/12
       content: "Discussion"
+      assignments:
+        - name: HW 11 (Due Mon 11/18 at noon)
     - date: Wed 11/13
       content: "Lecture 29: Probability density"
     - date: Thu 11/14
@@ -250,7 +250,7 @@ weeks:
     - date: Mon 11/25
       content: "Lecture 34: Correlation and the regression effect"
       assignments:
-      - name: HW 13 (Due Mon 12/02 at noon)
+      - name: HW 13 (Due Tues 12/03 at 11:59 PM)
     - date: Tues 11/26
       content: "Discussion"
     - date: Wed 11/27
@@ -267,10 +267,10 @@ weeks:
     basic:
     - date: Mon 12/02
       content: "Lecture 35: Error in the regression estimate"
-      assignments:
-      - name: HW 14 (Due Mon 12/09 at noon)
     - date: Tues 12/03
       content: "Discussion"
+      assignments:
+        - name: HW 14 (Due Tues 12/10 at noon)
     - date: Wed 12/04
       content: "Lecture 36: The regression model for data"
     - date: Thu 12/05
