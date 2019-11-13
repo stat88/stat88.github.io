@@ -217,6 +217,7 @@ weeks:
       content: "Discussion"
       assignments:
         - name: HW 11 (Due Mon 11/18 at noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_11.ipynb
     - date: Wed 11/13
       content: "Lecture 29: Probability density"
     - date: Thu 11/14
