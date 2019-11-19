@@ -234,6 +234,7 @@ weeks:
       content: "Lecture 31: Some properties of the normal distribution"
       assignments:
       - name: HW 12 (Due Mon 11/25 at noon)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_12.ipynb
     - date: Tues 11/19
       content: "Discussion"
     - date: Wed 11/20
