@@ -242,7 +242,7 @@ weeks:
     - date: Thu 11/21
       content: "Quiz 4"
     - date: Fri 11/22
-      content: "Lecture 33: Least squares linear prediction"
+      content: "Lecture 33: Bias and variance continued"
 
 
   - weekNum: 14
@@ -250,7 +250,7 @@ weeks:
     weekDuration: 11/25-11/29
     basic:
     - date: Mon 11/25
-      content: "Lecture 34: Correlation and the regression effect"
+      content: "Lecture 34: Correlation and regression"
       assignments:
       - name: HW 13 (Due Tues 12/03 at 11:59 PM)
     - date: Tues 11/26
