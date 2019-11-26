@@ -253,6 +253,7 @@ weeks:
       content: "Lecture 34: Correlation and regression"
       assignments:
       - name: HW 13 (Due Tues 12/03 at 11:59 PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_13.ipynb
     - date: Tues 11/26
       content: "Discussion"
     - date: Wed 11/27
