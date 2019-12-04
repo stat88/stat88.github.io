@@ -287,15 +287,15 @@ weeks:
     weekDuration: 12/09-12/13
     basic:
     - date: Mon 12/09
-      content: 
+      content: "Review lecture"
     - date: Tues 12/10
-      content: 
+      content: "Topical review sessions"
     - date: Wed 12/11
-      content: 
+      content: "No lecture"
     - date: Thu 12/12
-      content: 
+      content: "No section"
     - date: Fri 12/13
-      content:  
+      content:  "No lecture"
 
   - weekNum: 17
     weekName: Finals Week
