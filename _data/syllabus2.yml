@@ -274,6 +274,7 @@ weeks:
       content: "Discussion"
       assignments:
         - name: HW 14 (Due Tues 12/10 at noon)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=hw/Homework_14.ipynb
     - date: Wed 12/04
       content: "Lecture 36: The regression model for data"
     - date: Thu 12/05
