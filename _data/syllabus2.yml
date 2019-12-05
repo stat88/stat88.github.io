@@ -279,6 +279,9 @@ weeks:
       content: "Lecture 36: The regression model for data"
     - date: Thu 12/05
       content: "Discussion"
+      assignments:
+        - name: Regression Lab (not to be turned in)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa19&branch=master&subPath=section/Thurs_12_05_Section.ipynb
     - date: Fri 12/06
       content: "Lecture 37: Inference for the true slope in the regression model"  
       
