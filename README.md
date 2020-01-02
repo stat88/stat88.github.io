@@ -84,3 +84,105 @@ The Stat 88 website is sourced from Hyde, and is built on top of Jekyll. We atte
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+## From Ashley: Script for creating fresh `syllabus2.yml`
+
+This will have to be tweaked for the Spring, but I hope it'll be useful :) This will print out a `syllabus2.yml` (with all the proper dates and lecture titles). 
+
+```
+import datetime
+
+lectureCount = 0
+hwCount = 0
+
+def getCompleteString(string):
+  global lectureCount
+  if not ("No school" in string or "Holiday" in string or "Midterm" in string):
+    lectureCount += 1
+    return "Lecture " + str(lectureCount) + ": " + string
+  return string
+
+def getPossibleQuiz(date):
+  if date == '09/12':
+    return "Quiz 1"
+  elif date == '09/26':
+    return "Quiz 2"
+  elif date == "10/31":
+    return "Quiz 3"
+  elif date == "11/21":
+    return "Quiz 4"
+  elif date == "11/28":
+    return "Holiday"
+  elif date == "08/27":
+    return "No school"
+  return "Discussion"
+
+def getPossibleHomework(date):
+  global hwCount
+  if date.strftime("%x")[:-3] == '10/07':
+    return "No homework: Midterm"
+  elif date.strftime("%x")[:-3] == '08/26':
+    hwCount += 1
+    return "HW " + str(hwCount) + " (Due Tues " + (date + datetime.timedelta(days=8)).strftime("%x")[:-3] + ' at 9 AM)'
+  else:
+    hwCount += 1
+    return "HW " + str(hwCount) + " (Due Mon " + (date + datetime.timedelta(days=7)).strftime("%x")[:-3] + ' at noon)'
+
+
+weekNames = ["Getting Started", "Conditioning", "Random Variables", "Random Variables and Expectation",
+"The Power of Additivity", "Path to Prediction", "Midterm Week", "Variability", "Large Random Samples",
+"Fundamentals of Inference", "Continuous Distributions", "Bias and Variance", "Introduction to Regression",
+"The Error in a Regression Estimate", "Inference in Regression"]
+
+
+lectureTitles = ["No school", "Course introduction; fundamentals", "Exact calculations, and bounds", "Holiday", 
+"Intersections of several events", "Updating chances: Bayes' rule", "A closer look at independence",
+"Random variables and their distributions: the binomial", "Simple random sampling",
+"Exponential approximations", "The Poisson distribution", "Expectation", "Collections of random variables: joint distribution",
+"Additivity of expectation; unbiased estimates ", "The power of Booleans: the method of indicators",
+"Updating revisited: conditional distribution", "Expectation by conditioning", "Least squares prediction",
+"Putting it all together: examples", "Midterm review", "Midterm", "Measuring variability", "Typical or unusual? Tails of distributions",
+"The accuracy of a simple random sample", "Variability of a random sample sum", "The square root law and the law of averages",
+"Central Limit Theorem", "Inference: confidence intervals based on the CLT", "Inference: testing hypotheses",
+"Sample size and power", "Probability density", "The exponential distribution", "Some properties of the normal distribution",
+"Holiday", "Method-of-moments estimates", "The bias-variance tradeoff", "Correlation", 
+"Least squares linear prediction", "The regression effect and the regression fallacy", "Error in the regression estimate",
+"Holiday", "Holiday", "The regression model for data", "Inference for the true slope in the regression model", "Conclusion"]
+
+
+date = datetime.datetime(2019, 8, 26)
+lectureCount = 0
+
+for i in range(15):
+
+
+  print("""
+  - weekNum: {}
+    weekName: {}
+    weekDuration: {}-{}
+    basic:
+    - date: Mon {}
+      content: "{}"  
+      assignments:
+      - name: {}    
+    - date: Tues {}
+      content: "{}"
+    - date: Wed {}
+      content: "{}"
+    - date: Thu {}
+      content: "{}"
+    - date: Fri {}
+      content: "{}"
+  """.format(i+1, weekNames[i], date.strftime("%x")[:-3], (date + datetime.timedelta(days=4)).strftime("%x")[:-3],
+    (date + datetime.timedelta(days=0)).strftime("%x")[:-3], getCompleteString(lectureTitles[i * 3]),
+    getPossibleHomework(date),
+    (date + datetime.timedelta(days=1)).strftime("%x")[:-3], getPossibleQuiz((date + datetime.timedelta(days=1)).strftime("%x")[:-3]),
+    (date + datetime.timedelta(days=2)).strftime("%x")[:-3], getCompleteString(lectureTitles[i * 3 + 1]),
+    (date + datetime.timedelta(days=3)).strftime("%x")[:-3], getPossibleQuiz((date + datetime.timedelta(days=3)).strftime("%x")[:-3]),
+    (date + datetime.timedelta(days=4)).strftime("%x")[:-3], getCompleteString(lectureTitles[i * 3 + 2]) )
+  )
+
+  date += datetime.timedelta(days=7)
+
+ 
+```
