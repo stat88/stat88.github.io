@@ -3,8 +3,6 @@ layout: page
 title: About Stat 88
 ---
 
-#### A. Adhikari ####
-
 ### What is Stat 88? ###
 Stat 88 is an introduction to the theoretical underpinnings of the methods used in [Data 8](https://www.inferentialthinking.com/chapters/intro.html). It is intended for students who have taken some calculus and 
 
