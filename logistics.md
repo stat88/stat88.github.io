@@ -6,14 +6,7 @@ title: Stat 88 Course Information, Fall 2019
 <!-- #### A. Adhikari #### -->
 ### About This Course ###
 
-In this connector course we will state precisely and prove results discovered while explor-
-ing data in Data 8. Topics include: probability, conditioning, and independence; random
-
-variables; distributions and joint distributions; expectation, variance, tail bounds; Central
-Limit Theorem; symmetries in random permutations; prior and posterior distributions;
-
-probabilistic models; bias-variance tradeoff; testing hypotheses; correlation and the regres-
-sion model.
+In this connector course we will state precisely and prove results discovered while exploring data in Data 8. Topics include: probability, conditioning, and independence; random variables; distributions and joint distributions; expectation, variance, tail bounds; Central Limit Theorem; symmetries in random permutations; prior and posterior distributions;probabilistic models; bias-variance tradeoff; testing hypotheses; correlation and the regression model.
 
 ### Enrollment and Prerequisites ###
 You must enroll in the lecture and in a discussion section that meets twice weekly.
