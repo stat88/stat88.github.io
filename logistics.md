@@ -3,24 +3,57 @@ layout: page
 title: Stat 88 Course Information, Fall 2019
 ---
 
-#### A. Adhikari ####
-You must enroll in the lecture and in a discussion section that meets twice weekly. See the [Academic Guide](https://classes.berkeley.edu/content/2019-fall-stat-88-001-lec-001) for details. You can attend only the discussion section in which you are enrolled on CalCentral. Note that quizzes will be held in discussion sections. 
+<!-- #### A. Adhikari #### -->
+### About This Course ###
+
+In this connector course we will state precisely and prove results discovered while explor-
+ing data in Data 8. Topics include: probability, conditioning, and independence; random
+
+variables; distributions and joint distributions; expectation, variance, tail bounds; Central
+Limit Theorem; symmetries in random permutations; prior and posterior distributions;
+
+probabilistic models; bias-variance tradeoff; testing hypotheses; correlation and the regres-
+sion model.
 
 ### Enrollment and Prerequisites ###
-Please see the [Academic Guide](https://classes.berkeley.edu/content/2019-fall-stat-88-001-lec-001) or the [About](https://stat88.github.io/about/) page for details.
-Prerequisites:
-
-- One semester of calculus at the level of Math 16A, Math 10A, or Math 1A. 
-
-Corequisite:
-
-- Foundations of Data Science (COMPSCI / DATASCI / INFO / STAT C8)
-
-These are enforced by CalCentral.
+You must enroll in the lecture and in a discussion section that meets twice weekly.
+See the Academic Guide for details. You can attend only the discussion section in
+which you are enrolled on CalCentral. Note that quizzes will be held in discussion
+sections.
+- (prerequisite:) One semester of calculus at the level of Math 16A, Math 10A, or Math
+1A.
+- (corequisite:) Foundations of Data Science (COMPSCI / DATASCI / INFO / STAT
+C8)
 
 ### Text ###
-The [course textbook](https://stat88.github.io/textbook/notebooks/intro) will be available on the course website.  Lectures and the textbook will be closely related in content and sequence, though examples done in lecture might be different from those in the text.
+The course textbook will be available on the course website. Lectures and
+the textbook will be closely related in content and sequence, though examples done in
+lecture might be different from those in the text.
 
+### The Required Components of Your Work ###
+
+- **Weekly Homework**  which will be done on paper and turned into the course Grade
+scope. Homework will be posted each Monday evening and will be due the following
+**Monday at 10pm**. In some weeks (such as Week 5) there may be deviations from
+this due to exams or holidays; well let you know. Homework is graded based on
+correctness. As there is plenty of support available and you have a week to do the
+work, we expect that you will get the problems pretty much wholly right.
+
+-  **Quizzes**
+	- Quiz 1: Thursday 2/6
+	- Quiz 2 Thursday 2/27
+	- Quiz 3 Thursday 4/2
+	- Quiz 4 Thursday 4/23
+- **Midterm** on **Friday March 6 2020** during the lecture hour. No substitutes except
+as required by university rules.
+
+- **Final exam** on **Tuesday 11:30-2:30**. No substitutes except as required by univer-
+sity rules. **The final is required for a passing grade. Please make sure that
+you are not enrolled in a class that has a conflicting final exam.**
+
+Data science is not a solitary activity; please expect to participate in lectures and discussion
+section. Lectures will not be webcast. The online text will contain the main points covered.
+<!-- 
 ### The Required Components of Your Work ###
 
 - **Weekly Homework** which will be done on paper and turned in to the course Gradescope. Homework will be posted each Monday evening and will be due the following **Monday at noon**. In some weeks (such as Week 1) there may be deviations from this due to exams or holidays; we’ll let you know. Homework is graded based on correctness. As there is plenty of support available and you have a week to do the work, we expect that you will get the problems pretty much wholly right.
@@ -33,6 +66,17 @@ The [course textbook](https://stat88.github.io/textbook/notebooks/intro) will be
 - **Final exam** on **Tuesday December 17, 2019, from 7pm-10pm** (exam group 8). Room to be announced. No substitutes except as required by university rules. **The final is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam.**
 
 Data science is not a solitary activity; please expect to participate in lectures and discussion section. Lectures will not be webcast. The online text will contain the main points covered. 
+ -->
+
+
+### Grade Curve ###
+This class has a typical statisitics course curve with 30% of the class getting some kind of
+A and 30% of the class getting some kind of B and 30% some kind of C.
+
+
+### Piazza ###
+There will be a student run Piazza site for this class.
+
 
 ### Grading ###
 In the calculation of your overall score, we will drop
@@ -56,10 +100,5 @@ Copying assignments from others is not only dishonest, it also doesn’t help an
 Stat 88 materials including exams and solutions are the intellectual property of the course developers. From the campus statement on Academic Integrity: “… students may not circulate or post materials (handouts, exams, syllabi, i.e. any class materials) from their classes without the written permission of the instructor.”
 
 I am extremely tough with dishonest students and I hope that I will not be put in that situation in Stat 88 I expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
-
-
-
-
-
 
 
