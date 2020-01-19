@@ -18,7 +18,7 @@ sections.
 - (corequisite:) Foundations of Data Science (COMPSCI / DATASCI / INFO / STAT
 C8)
 
-### Text ###
+### Textbook ###
 The course textbook will be available on the course website. Lectures and
 the textbook will be closely related in content and sequence, though examples done in
 lecture might be different from those in the text.
@@ -46,20 +46,6 @@ you are not enrolled in a class that has a conflicting final exam.**
 
 Data science is not a solitary activity; please expect to participate in lectures and discussion
 section. Lectures will not be webcast. The online text will contain the main points covered.
-<!-- 
-### The Required Components of Your Work ###
-
-- **Weekly Homework** which will be done on paper and turned in to the course Gradescope. Homework will be posted each Monday evening and will be due the following **Monday at noon**. In some weeks (such as Week 1) there may be deviations from this due to exams or holidays; we’ll let you know. Homework is graded based on correctness. As there is plenty of support available and you have a week to do the work, we expect that you will get the problems pretty much wholly right.
-- **Quizzes** four times during the term, in the discussion section in which you are enrolled. Dates:
-	- Quiz 1: Thursday 9/12
-	- Quiz 2: Thursday 9/26
-	- Quiz 3: Thursday 10/31
-    - Quiz 4: Thursday 11/21
-- **Midterm** on **Friday October 11, 2019** during the lecture hour. No substitutes except as required by university rules.
-- **Final exam** on **Tuesday December 17, 2019, from 7pm-10pm** (exam group 8). Room to be announced. No substitutes except as required by university rules. **The final is required for a passing grade. Please make sure that you are not enrolled in a class that has a conflicting final exam.**
-
-Data science is not a solitary activity; please expect to participate in lectures and discussion section. Lectures will not be webcast. The online text will contain the main points covered. 
- -->
 
 
 ### Grade Curve ###
