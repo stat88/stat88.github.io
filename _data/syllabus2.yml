@@ -47,8 +47,10 @@ weeks:
       content: "Discussion"
     - date: Wed 02/05
       content: "Lecture 7: Simple random sampling"
+    bold:
     - date: Thu 02/06
       content: "Quiz 1"
+    basic:
     - date: Fri 02/07
       content: "Lecture 8: Exponential approximations"
   
