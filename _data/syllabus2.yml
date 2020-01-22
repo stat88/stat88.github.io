@@ -7,7 +7,7 @@ weeks:
       content: "No school"  
       assignments:
       - name: HW 1 (Due Mon 01/27 at 10 PM)    
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=Homework_1.ipynb
+        # url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=Homework_1.ipynb
     - date: Tues 01/21
       content: "No school"
     - date: Wed 01/22
