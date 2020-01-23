@@ -8,8 +8,7 @@ weeks:
     - date: Tues 01/21
       content: "No school"
     - date: Wed 01/22
-      content: "Lecture 1: Course introduction; fundamentals 
-                Textbook section 1.1, 1.2"  
+      content: "Lecture 1: Course introduction; Fundamentals (section 1.1, 1.2)"  
       assignments:
       - name: "Lecture 1 Notes" 
         url: http://stat88.org/assets/notes/Lec1.pdf
