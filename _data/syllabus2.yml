@@ -8,10 +8,13 @@ weeks:
     - date: Tues 01/21
       content: "No school"
     - date: Wed 01/22
-      content: "Lecture 1: Course introduction; fundamentals"
+      content: "Lecture 1: Course introduction; fundamentals" 
+
       assignments:
       - name: HW 1 (Due Mon 01/27 at 10 PM)    
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_1.ipynb
+      - name: Note
+        url: https://github.com/stat88/content-sp20&branch=master&subPath=hw/Lec1.pdf
     - date: Thu 01/23
       content: "Discussion"
     - date: Fri 01/24
