@@ -17,7 +17,10 @@ weeks:
     - date: Thu 01/23
       content: "Discussion"
     - date: Fri 01/24
-      content: "Lecture 2: Exact calculations and bounds (section 1.2, 1.3)" 
+      content: "Lecture 2: Exact calculations and bounds (section 1.3)" 
+      assignments:
+      - name: "Lecture 2 Notes"
+        url: http://stat88.org/assets/notes/Lec2.pdf
   
 
   - weekNum: 2
