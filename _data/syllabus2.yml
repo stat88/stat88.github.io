@@ -30,7 +30,10 @@ weeks:
     - date: Mon 01/27
       content: "Lecture 3: Intersections of several events (section 2.1, 2.2)"  
       assignments:
-      # - name: HW 2 (Due Mon 02/03 at 10 PM)    
+      - name: HW 2 (Due Mon 02/03 at 10 PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_2.ipynb      
+      - name: "Lecture 3 Notes"
+        url: http://stat88.org/assets/notes/Lec3.pdf
     - date: Tues 01/28
       content: "Discussion"
     - date: Wed 01/29
