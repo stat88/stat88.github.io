@@ -45,6 +45,9 @@ weeks:
       content: "Discussion"
     - date: Fri 01/31
       content: "Lecture 5: A closer look at independence (section 2.4, 2.5)"
+      assignments:
+      - name: "Lecture 5 Notes"
+        url: http://stat88.org/assets/notes/Lec5.pdf
   
 
   - weekNum: 3
