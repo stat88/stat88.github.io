@@ -85,7 +85,7 @@ weeks:
     weekDuration: 02/10-02/14
     basic:
     - date: Mon 02/10
-      content: "Lecture 9: The Poisson distribution (section 4.4)"   
+      content: "Lecture 9: The Poisson distribution (section 4.2, 4.3)"   
       assignments:
       # - name: HW 4 (Due Mon 02/17 at 10 PM)    
     - date: Tues 02/11
