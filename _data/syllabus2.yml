@@ -74,7 +74,10 @@ weeks:
     - date: Thu 02/06
       content: "Quiz 1"
     - date: Fri 02/07
-      content: "Lecture 8: Exponential approximations (section 4.1, 4.2, 4.3)"
+      content: "Lecture 8: Exponential approximations (section 3.5, 4.1)"
+      assignments:
+      - name: "Lecture 8 Notes"
+        url: "http://stat88.org/assets/notes/Lec8.pdf"
   
 
   - weekNum: 4
