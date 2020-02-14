@@ -95,10 +95,12 @@ weeks:
       content: "Discussion"
     - date: Wed 02/12
       content: "Lecture 10: Exponential approximation and Poisson Distribution (section 4.3, 4.4)"
+      - name: "Lecture 10 Notes"
+        url: http://stat88.org/assets/notes/Lec10.pdf
     - date: Thu 02/13
       content: "Discussion"
     - date: Fri 02/14
-      content: "Lecture 11: Collections of random variables: joint distribution (section 5.1, 5.2)"
+      content: "Lecture 11: Expectation (section 4.4, 5.1)"
   
 
   - weekNum: 5
