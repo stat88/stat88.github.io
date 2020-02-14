@@ -95,6 +95,7 @@ weeks:
       content: "Discussion"
     - date: Wed 02/12
       content: "Lecture 10: Exponential approximation and Poisson Distribution (section 4.3, 4.4)"
+      assignments:
       - name: "Lecture 10 Notes"
         url: http://stat88.org/assets/notes/Lec10.pdf
     - date: Thu 02/13
