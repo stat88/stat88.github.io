@@ -87,7 +87,7 @@ weeks:
     - date: Mon 02/10
       content: "Lecture 9: Waiting time (section 4.2, 4.3)"   
       assignments:
-      - name: HW 4 (Due Mon 02/17 at 10 PM)
+      - name: HW 4 (Due Tue 02/18 at 10 PM)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_4.ipynb      
       - name: "Lecture 9 Notes"
         url: http://stat88.org/assets/notes/Lec9.pdf
