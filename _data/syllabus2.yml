@@ -102,6 +102,13 @@ weeks:
       content: "Discussion"
     - date: Fri 02/14
       content: "Lecture 11: Expectation (section 4.4, 5.1)"
+      assignments:
+      - name: "Lecture 11 Notes"
+        url: http://stat88.org/assets/notes/Lec11.pdf
+      - name: "Lecture 11 Video Part1"
+        url: https://vimeo.com/391730753?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220
+      - name: "Lecture 11 Video Part2"
+        url: https://vimeo.com/391731607?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220
   
 
   - weekNum: 5
