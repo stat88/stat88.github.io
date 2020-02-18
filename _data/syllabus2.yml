@@ -118,7 +118,8 @@ weeks:
     - date: Mon 02/17
       content: "Holiday"  
       assignments:
-      # - name: HW 5 (Due Mon 02/24 at 10 PM)    
+      - name: HW 5 (Due Mon 02/24 at 10 PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_4.ipynb    
     - date: Tues 02/18
       content: "Discussion"
     - date: Wed 02/19
