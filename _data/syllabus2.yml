@@ -101,7 +101,7 @@ weeks:
     - date: Thu 02/13
       content: "Discussion"
     - date: Fri 02/14
-      content: "Lecture 11: Expectation (section 4.4, 5.1)"
+      content: "Lecture 11: Poisson and Expectation (section 4.4, 5.1)"
       assignments:
       - name: "Lecture 11 Notes"
         url: http://stat88.org/assets/notes/Lec11.pdf
@@ -123,11 +123,11 @@ weeks:
     - date: Tues 02/18
       content: "Discussion"
     - date: Wed 02/19
-      content: "Lecture 12: Additivity of expectation; the method of indicators(section 5.3)"
+      content: "Lecture 12: Expectation and Joint Distribution; (section 5.1, 5.2, 5.3)"
     - date: Thu 02/20
       content: "Discussion"
     - date: Fri 02/21
-      content: "Lecture 13: Unbiased estimates (section 5.4)"
+      content: "Lecture 13: The method of indicators and Additivity of Expectation (section 5.3)"
   
 
   - weekNum: 6
@@ -135,17 +135,17 @@ weeks:
     weekDuration: 02/24-02/28
     basic:
     - date: Mon 02/24
-      content: "Lecture 14: Updating revisited: conditional distribution (section 5.5)"  
+      content: "Lecture 14: Indicators and Updating revisited: conditional distribution (section 5.3, 5.4)"  
       assignments:
       # - name: HW 6 (Due Mon 03/02 at 10 PM)    
     - date: Tues 02/25
       content: "Discussion"
     - date: Wed 02/26
-      content: "Lecture 15: Expectation by conditioning (section 5.5, 5.6)"
+      content: "Lecture 15: Unbiased biased estimator(section 5.4, 5.5)"
     - date: Thu 02/27
       content: "Quiz 2"
     - date: Fri 02/28
-      content: "Lecture 16: Expectation by conditioning continue (section 5.6)"
+      content: "Lecture 16: Expectation by conditioning (section 5.5)"
   
 
   - weekNum: 7
@@ -153,7 +153,7 @@ weeks:
     weekDuration: 03/02-03/06
     basic:
     - date: Mon 03/02
-      content: "Lecture 17: Putting it all together: examples"  
+      content: "Lecture 17: Expectation by conditioning continued (section 5.6)"  
       assignments:
       # - name: HW 7 (Due Mon 03/09 at 10 PM)    
     - date: Tues 03/03
