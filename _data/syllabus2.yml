@@ -124,6 +124,7 @@ weeks:
       content: "Discussion"
     - date: Wed 02/19
       content: "Lecture 12: Expectation and Joint Distribution; (section 5.1, 5.2, 5.3)"
+      assignments:
       - name: "Lecture 12 Notes"
         url: http://stat88.org/assets/notes/Lec12.pdf
     - date: Thu 02/20
