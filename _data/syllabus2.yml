@@ -143,6 +143,9 @@ weeks:
     - date: Mon 02/24
       content: "Lecture 14: Indicators and Updating revisited: conditional distribution (section 5.3, 5.4)"  
       assignments:
+      - name: "Lecture 14 Notes"
+      url: http://stat88.org/assets/notes/Lec14.pdf
+  
       # - name: HW 6 (Due Mon 03/02 at 10 PM)    
     - date: Tues 02/25
       content: "Discussion"
