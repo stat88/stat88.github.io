@@ -145,8 +145,8 @@ weeks:
       assignments:
       - name: "Lecture 14 Notes"
         url: http://stat88.org/assets/notes/Lec14.pdf
-  
-      # - name: HW 6 (Due Mon 03/02 at 10 PM)    
+      - name: HW 6 (Due Mon 03/02 at 10 PM)  
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_6.ipynb     
     - date: Tues 02/25
       content: "Discussion"
     - date: Wed 02/26
