@@ -168,9 +168,11 @@ weeks:
     weekDuration: 03/02-03/06
     basic:
     - date: Mon 03/02
-      content: "Lecture 17: Expectation by conditioning continued (section 5.6)"  
+      content: "Lecture 17: examples: putting things together"  
       assignments:
-      # - name: HW 7 (Due Mon 03/09 at 10 PM)    
+      - name: "Midterm Information"
+        url: https://piazza.com/class/k5k20py3wbjha?cid=195
+      - name: 
     - date: Tues 03/03
       content: "Discussion"
     - date: Wed 03/04
