@@ -159,8 +159,8 @@ weeks:
     - date: Fri 02/28
       content: "Lecture 16: Expectation by conditioning (section 5.5)"
       assignments:
-       - name: "Lecture 16 Notes"
-         url: http://stat88.org/assets/notes/Lec16.pdf
+      - name: "Lecture 16 Notes"
+        url: http://stat88.org/assets/notes/Lec16.pdf
   
 
   - weekNum: 7
@@ -172,7 +172,9 @@ weeks:
       assignments:
       - name: "Midterm Information"
         url: https://piazza.com/class/k5k20py3wbjha?cid=195
-      - name: 
+      - name: "Lecture 17 Notes"
+        url: http://stat88.org/assets/notes/Lec17.pdf
+
     - date: Tues 03/03
       content: "Discussion"
     - date: Wed 03/04
