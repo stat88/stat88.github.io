@@ -179,6 +179,9 @@ weeks:
       content: "Discussion"
     - date: Wed 03/04
       content: "Midterm review"
+      assignments:
+      - name: "Lecture 18 Notes"
+        url: http://stat88.org/assets/notes/Lec18.pdf
     - date: Thu 03/05
       content: "Discussion"
     - date: Fri 03/06
