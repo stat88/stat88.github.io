@@ -193,17 +193,20 @@ weeks:
     weekDuration: 03/09-03/13
     basic:
     - date: Mon 03/09
-      content: "Lecture 18: Measuring variability (section 6.1, 6.2)"   
+      content: "Lecture 20: Measuring variability (section 6.1, 6.2)"   
       assignments:
-      # - name: HW 8 (Due Mon 03/16 at 10 PM)    
+      - name: "Lecture 20 Notes"
+        url: http://stat88.org/assets/notes/Lec20.pdf
+      - name: HW 7 (Due Mon 03/16 at 10 PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_7.ipynb
     - date: Tues 03/10
       content: "Discussion"
     - date: Wed 03/11
-      content: "Lecture 19: Typical or unusual? Tails of distributions (section 6.3, 6.4)"
+      content: "Lecture 21: Typical or unusual? Tails of distributions (section 6.3, 6.4)"
     - date: Thu 03/12
       content: "Discussion"
     - date: Fri 03/13
-      content: "Lecture 20: Variability of a random sample sum (section 7.1)"
+      content: "Lecture 22: Variability of a random sample sum (section 7.1)"
   
 
   - weekNum: 9
@@ -211,17 +214,17 @@ weeks:
     weekDuration: 03/16-03/20
     basic:
     - date: Mon 03/16
-      content: "Lecture 21: The accuracy of a simple random sample (section 7.2)"  
+      content: "Lecture 23: The accuracy of a simple random sample (section 7.2)"  
       assignments:
       # - name: No homework: Midterm    
     - date: Tues 03/17
       content: "Discussion"
     - date: Wed 03/18
-      content: "Lecture 22: The law of averages (section 7.3)"
+      content: "Lecture 24: The law of averages (section 7.3)"
     - date: Thu 03/19
       content: "Discussion"
     - date: Fri 03/20
-      content: "Lecture 23: Central Limit Theorem (section 8.1, 8.2)"
+      content: "Lecture 25: Central Limit Theorem (section 8.1, 8.2)"
   
  
   - weekNum: 10
