@@ -203,6 +203,9 @@ weeks:
       content: "Discussion"
     - date: Wed 03/11
       content: "Lecture 21: Typical or unusual? Tails of distributions (section 6.3, 6.4)"
+      assignments:
+      - name: "Lecture 21 Notes"
+        url: http://stat88.org/assets/notes/Lec21.pdf
     - date: Thu 03/12
       content: "Discussion"
     - date: Fri 03/13
