@@ -206,10 +206,18 @@ weeks:
       assignments:
       - name: "Lecture 21 Notes"
         url: http://stat88.org/assets/notes/Lec21.pdf
+      - name: "Lecture 21 Recording"
+        url: https://berkeley.zoom.us/rec/share/_sZPN-7S7V9IXI3r5X_ZBaoTLo77eaa81XMe8vFexEbE8V-jDB6mC6K3ksXydeLi
     - date: Thu 03/12
       content: "Discussion"
     - date: Fri 03/13
       content: "Lecture 22: Variability of a random sample sum (section 7.1)"
+      assignments:
+      - name: "Lecture 22 Notes"
+        url: http://stat88.org/assets/notes/Lec22.pdf
+      - name: "Lecture 22 Recording"
+        url: https://berkeley.zoom.us/rec/share/_cMoFY_LyEdLS9LI7mLUAowOEIW_X6a81SYaqPsJmEeKwJL9D3OZsGgmwj6NpX-Y
+
   
 
   - weekNum: 9
