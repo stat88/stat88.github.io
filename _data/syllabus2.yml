@@ -226,7 +226,10 @@ weeks:
     basic:
     - date: Mon 03/16
       content: "Lecture 23: The accuracy of a simple random sample (section 7.2)"  
-      assignments:
+      - name: "Lecture 23 Notes"
+        url: http://stat88.org/assets/notes/Lec23.pdf
+      - name: "Lecture 23 Recording"
+        url: https://berkeley.zoom.us/rec/play/usYtI-uhrDo3GNKQtQSDUaB-W47vKP-s1XQZ-fdenUvgBiUANAGhNLATNLEysTCJH_J7cj7HRaeEfmw4?autoplay=true&startTime=1584392288000
       # - name: No homework: Midterm    
     - date: Tues 03/17
       content: "Discussion"
