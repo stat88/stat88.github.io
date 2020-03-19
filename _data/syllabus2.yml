@@ -237,6 +237,11 @@ weeks:
       content: "Discussion"
     - date: Wed 03/18
       content: "Lecture 24: The law of averages (section 7.3)"
+      assignments:
+      - name: "Lecture 24 Notes"
+        url: http://stat88.org/assets/notes/Lec24.pdf
+      - name: "Lecture 24 Recording"
+        url: https://berkeley.zoom.us/rec/play/vpF7f7yp_TI3S9ecsgSDUaR9W464J6KsgSJKrPUOn0zjUSNXOgLyZbpHMeV7sIFY1H1LAWqp4fEESSw5?autoplay=true&startTime=1584565375000   
     - date: Thu 03/19
       content: "Discussion"
     - date: Fri 03/20
