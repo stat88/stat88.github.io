@@ -246,6 +246,11 @@ weeks:
       content: "Discussion"
     - date: Fri 03/20
       content: "Lecture 25: Central Limit Theorem (section 8.1, 8.2)"
+      assignments:
+      - name: "Lecture 25 Notes"
+        url: http://stat88.org/assets/notes/Lec25.pdf
+      - name: "Lecture 25 Recording"
+        url: https://berkeley.zoom.us/rec/play/u5B-f7v6qD83E9KctwSDVPd7W9S7Lvmsg3VNqKIFxUfmVCIENgL3ZrYbNuZyCCPbt9a-M5l6KsMaxMZZ?autoplay=true&startTime=1584737226000
   
  
   - weekNum: 10
