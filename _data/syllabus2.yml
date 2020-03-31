@@ -276,17 +276,22 @@ weeks:
     weekDuration: 03/30-04/03
     basic:
     - date: Mon 03/30
-      content: "Lecture 24: Normal approximations (section 8.3, 8.4)"  
+      content: "Lecture 26: Normal approximations (section 8.3, 8.4)"  
       assignments:
-      # - name: HW 10 (Due Mon 04/06 at 10 PM)    
+      - name: HW 9 (Due Mon 04/06 at 10 PM)  
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_9.ipynb
+      - name: "Lecture 26 Recording"
+        url: https://berkeley.zoom.us/rec/play/6cF4du2uqDs3GoKQsQSDCvZwW9W7LqKs0iMe-qILz0e8W3hVZFGhYuEVN7Q1sk9XooPenwTXpRQN5PNG?autoplay=true&startTime=1585601838000
+      - name: "Lecture 26 Notes"
+        url: http://stat88.org/assets/notes/Lec26.pdf
     - date: Tues 03/31
       content: "Discussion"
     - date: Wed 04/01
-      content: "Lecture 25: Inference: testing hypotheses (section 9.1, 9.2)"
+      content: "Lecture 27: Inference: testing hypotheses (section 9.1, 9.2)"
     - date: Thu 04/02
       content: "Quiz 3"
     - date: Fri 04/03
-      content: "Lecture 26: Confidence intervals (section 9.3)"
+      content: "Lecture 28: Confidence intervals (section 9.3)"
   
 
   - weekNum: 12
