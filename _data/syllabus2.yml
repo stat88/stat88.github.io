@@ -287,11 +287,16 @@ weeks:
     - date: Tues 03/31
       content: "Discussion"
     - date: Wed 04/01
-      content: "Lecture 27: Inference: testing hypotheses (section 9.1, 9.2)"
+      content: "Lecture 27: Inference: testing hypotheses (section 9.1)"
+      assignments:
+      - name: Lecture 27 Recording
+        url: https://berkeley.zoom.us/rec/play/6Jd4Iuytp243E4WSswSDUKd9W9XoKK-sg3Ue-Ptczk6xAnUFZFelM-FGNussNA9GyEfOEnweZWmcbF2A?autoplay=true&startTime=1585774193000
+      - name: Lecture 27 Notes
+        url: http://stat88.org/assets/notes/Lec27.pdf
     - date: Thu 04/02
-      content: "Quiz 3"
+      content: "Discussion"
     - date: Fri 04/03
-      content: "Lecture 28: Confidence intervals (section 9.3)"
+      content: "Lecture 28: Inference: testing hypotheses (section 9.2) Continued"
   
 
   - weekNum: 12
@@ -299,17 +304,17 @@ weeks:
     weekDuration: 04/06-04/10
     basic:
     - date: Mon 04/06
-      content: "Lecture 27: Confidence intervals continue (section 9.4)"  
+      content: "Lecture 29: Confidence intervals continue (section 9.3, 9.4)"  
       assignments:
       # - name: HW 11 (Due Mon 04/13 at 10 PM)    
     - date: Tues 04/07
       content: "Discussion"
     - date: Wed 04/08
-      content: "Lecture 28: Probability density (section 10.1, 10.2)"
+      content: "Lecture 30: Probability density (section 10.1, 10.2)"
     - date: Thu 04/09
       content: "Discussion"
     - date: Fri 04/10
-      content: "Lecture 29: The exponential distribution (section 10.3)"
+      content: "Lecture 31: The exponential distribution (section 10.3)"
   
 
   - weekNum: 13
@@ -317,17 +322,17 @@ weeks:
     weekDuration: 04/13-04/17
     basic:
     - date: Mon 04/13
-      content: "Lecture 30: Some properties of the normal distribution (section 10.4)"  
+      content: "Lecture 32: Some properties of the normal distribution (section 10.4)"  
       assignments:
       # - name: HW 12 (Due Mon 04/20 at 10 PM)    
     - date: Tues 04/14
       content: "Discussion"
     - date: Wed 04/15
-      content: "Lecture 31: Prediction: bias-varaince (section 11.1)"
+      content: "Lecture 33: Prediction: bias-varaince (section 11.1)"
     - date: Thu 04/16
       content: "Discussion"
     - date: Fri 04/17
-      content: "Lecture 32: The bias-variance tradeoff (section 11.2)"
+      content: "Lecture 34: The bias-variance tradeoff (section 11.2)"
   
 
   - weekNum: 14
@@ -335,17 +340,17 @@ weeks:
     weekDuration: 04/20-04/24
     basic:
     - date: Mon 04/20
-      content: "Lecture 33: Correlation (section 11.3, 11.4)"  
+      content: "Lecture 35: Correlation (section 11.3, 11.4)"  
       assignments:
       # - name: HW 13 (Due Mon 04/27 at 10 PM)    
     - date: Tues 04/21
       content: "Discussion"
     - date: Wed 04/22
-      content: "Lecture 34: The regression estimates, effect and fallacy (section 11.4, 11.5)"
+      content: "Lecture 36: The regression estimates, effect and fallacy (section 11.4, 11.5)"
     - date: Thu 04/23
       content: "Quiz 4"
     - date: Fri 04/24
-      content: "Lecture 35: The regression model for data (section 12.1)"
+      content: "Lecture 37: The regression model for data (section 12.1)"
   
 
   - weekNum: 15
@@ -353,14 +358,14 @@ weeks:
     weekDuration: 04/27-05/01
     basic:
     - date: Mon 04/27
-      content: "Lecture 36: Inference for the true slope in the regression model (section 12.2, 12.3)"  
+      content: "Lecture 38: Inference for the true slope in the regression model (section 12.2, 12.3)"  
       assignments:
       # - name: HW 14 (Due Mon 05/04 at 10 PM)    
     - date: Tues 04/28
       content: "Discussion"
     - date: Wed 04/29
-      content: "Lecture 37: Conclusion"
+      content: "Lecture 39: Conclusion"
     - date: Thu 04/30
       content: "Discussion"
     - date: Fri 05/01
-      content: "Lecture 38: Review"
+      content: "Lecture 40: Review"
