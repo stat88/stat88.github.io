@@ -297,6 +297,11 @@ weeks:
       content: "Discussion"
     - date: Fri 04/03
       content: "Lecture 28: Inference: testing hypotheses (section 9.2) Continued"
+      assignments:
+      - name: Lecture 28 Recording
+        url: https://berkeley.zoom.us/rec/play/tZx8c72t_D03G4DH4wSDC6UoW43uK_is1XcXrqEEmke9U3AGMVqnY-cRZOrvLMziSfBxvGa_n40vQe3x?autoplay=true&startTime=1585950655000
+      - name: Lecture 28 Notes
+        url: http://stat88.org/assets/notes/Lec28.pdf
   
 
   - weekNum: 12
