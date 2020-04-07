@@ -311,7 +311,8 @@ weeks:
     - date: Mon 04/06
       content: "Lecture 29: Confidence intervals continue (section 9.3, 9.4)"  
       assignments:
-      # - name: HW 11 (Due Mon 04/13 at 10 PM) 
+      - name: HW 10 (Due Mon 04/13 at 10 PM) 
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_10.ipynb
       - name: Lecture 29 Recording
         url: https://berkeley.zoom.us/rec/play/uJMpJuigqG43TtDGtwSDUPIoW47vLaqs13carvYOxE2yUiUEOlLzZLBEYubkFyREPuSa28W4gGzZV09Y?autoplay=true&startTime=1586206044000
       - name: Lecture 29 Notes
