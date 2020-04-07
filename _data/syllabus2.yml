@@ -311,7 +311,14 @@ weeks:
     - date: Mon 04/06
       content: "Lecture 29: Confidence intervals continue (section 9.3, 9.4)"  
       assignments:
-      # - name: HW 11 (Due Mon 04/13 at 10 PM)    
+      # - name: HW 11 (Due Mon 04/13 at 10 PM) 
+      - name: Lecture 29 Recording
+        url: https://berkeley.zoom.us/rec/play/uJMpJuigqG43TtDGtwSDUPIoW47vLaqs13carvYOxE2yUiUEOlLzZLBEYubkFyREPuSa28W4gGzZV09Y?autoplay=true&startTime=1586206044000
+      - name: Lecture 29 Notes
+        url: http://stat88.org/assets/notes/Lec29.pdf
+  
+
+      
     - date: Tues 04/07
       content: "Discussion"
     - date: Wed 04/08
