@@ -324,6 +324,12 @@ weeks:
       content: "Discussion"
     - date: Wed 04/08
       content: "Lecture 30: Probability density (section 10.1, 10.2)"
+      assignments:
+      - name: Lecture 30 Recording
+        url: https://berkeley.zoom.us/rec/play/tMcrceGh-Do3EtaV5gSDCvIqW9S1fPmsg3Ac_PsLykqyVHkBZlPwYLVHa-NwtgYehuapZiOel3yccN6p?autoplay=true&startTime=1586379260000
+      - name: Lecture 30 Notes
+        url: http://stat88.org/assets/notes/Lec30.pdf
+
     - date: Thu 04/09
       content: "Discussion"
     - date: Fri 04/10
