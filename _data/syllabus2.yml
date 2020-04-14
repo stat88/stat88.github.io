@@ -311,14 +311,12 @@ weeks:
     - date: Mon 04/06
       content: "Lecture 29: Confidence intervals continue (section 9.3, 9.4)"  
       assignments:
-      - name: HW 10 (Due Mon 04/13 at 10 PM) 
+      - name: HW 10 (Due Tu 04/14 at 10 PM) 
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_10.ipynb
       - name: Lecture 29 Recording
         url: https://berkeley.zoom.us/rec/play/uJMpJuigqG43TtDGtwSDUPIoW47vLaqs13carvYOxE2yUiUEOlLzZLBEYubkFyREPuSa28W4gGzZV09Y?autoplay=true&startTime=1586206044000
       - name: Lecture 29 Notes
         url: http://stat88.org/assets/notes/Lec29.pdf
-  
-
       
     - date: Tues 04/07
       content: "Discussion"
@@ -348,7 +346,13 @@ weeks:
     - date: Mon 04/13
       content: "Lecture 32: Some properties of the normal distribution (section 10.4)"  
       assignments:
-      # - name: HW 12 (Due Mon 04/20 at 10 PM)    
+      - name: HW 11 (Due Mon 04/20 at 10 PM) 
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_11.ipynb
+      - name: Lecture 32 Recording
+        url: https://berkeley.zoom.us/rec/play/vsd7IumsqW43ToWc5ASDUPF-W9S-Ka2s0ShNr_RZzRy8AHAEMAfyZbJHZ-Z5gtObN3_cKJuvczH0YI8z?autoplay=true&startTime=1586811739000
+      - name: Lecture 32 Notes
+        url: http://stat88.org/assets/notes/Lec32.pdf  
+
     - date: Tues 04/14
       content: "Discussion"
     - date: Wed 04/15
