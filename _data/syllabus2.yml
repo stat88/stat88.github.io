@@ -359,6 +359,7 @@ weeks:
 
     - date: Wed 04/15
       content: "Lecture 33: Prediction: bias-varaince (section 11.1)"
+      assignments:
       - name: Lecture 33 Recording
         url: https://berkeley.zoom.us/rec/play/ucJ5du-tpjk3GoeQ4gSDBP55W9S1eK-s0HJP_KFYzkq2UnkHM1OlYrpDY7Fsoti7z1ypBAwLQqbAM_-u?autoplay=true&startTime=1586983972000
       - name: Lecture 33 Notes
