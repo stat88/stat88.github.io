@@ -352,20 +352,15 @@ weeks:
         url: https://berkeley.zoom.us/rec/play/vsd7IumsqW43ToWc5ASDUPF-W9S-Ka2s0ShNr_RZzRy8AHAEMAfyZbJHZ-Z5gtObN3_cKJuvczH0YI8z?autoplay=true&startTime=1586811739000
       - name: Lecture 32 Notes
         url: http://stat88.org/assets/notes/Lec32.pdf  
-
     - date: Tues 04/14
       content: "Discussion"
-
-
     - date: Wed 04/15
       content: "Lecture 33: Prediction: bias-varaince (section 11.1)"
       assignments:
-      - name: Lecture 33 Recording
-        url: https://berkeley.zoom.us/rec/play/ucJ5du-tpjk3GoeQ4gSDBP55W9S1eK-s0HJP_KFYzkq2UnkHM1OlYrpDY7Fsoti7z1ypBAwLQqbAM_-u?autoplay=true&startTime=1586983972000
       - name: Lecture 33 Notes
         url: http://stat88.org/assets/notes/Lec33.pdf
-
-      
+      - name: Lecture 33 Recording
+        url: https://berkeley.zoom.us/rec/play/ucJ5du-tpjk3GoeQ4gSDBP55W9S1eK-s0HJP_KFYzkq2UnkHM1OlYrpDY7Fsoti7z1ypBAwLQqbAM_-u?autoplay=true&startTime=1586983972000
     - date: Thu 04/16
       content: "Discussion"
     - date: Fri 04/17
