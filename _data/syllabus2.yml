@@ -365,7 +365,11 @@ weeks:
       content: "Discussion"
     - date: Fri 04/17
       content: "Lecture 34: The bias-variance tradeoff (section 11.2)"
-  
+      assignments:
+      - name: Lecture 34 Notes
+        url: http://stat88.org/assets/notes/Lec34.pdf
+      - name: Lecture 34 Recording
+        url: https://berkeley.zoom.us/rec/play/78IpI7iqqj43T4eTsASDVPB7W47vf6-s13QZ8vMFn0mxUiEDOlGmNeNDNLVv9IKvCH0sIhLOPpdtY3g?autoplay=true&startTime=1587156971000
 
   - weekNum: 14
     weekName: Introduction to Regression 
