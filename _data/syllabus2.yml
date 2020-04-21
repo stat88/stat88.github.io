@@ -378,7 +378,13 @@ weeks:
     - date: Mon 04/20
       content: "Lecture 35: Correlation (section 11.3, 11.4)"  
       assignments:
-      # - name: HW 13 (Due Mon 04/27 at 10 PM)    
+      - name: HW 12 (Due Mon 04/27 at 10 PM)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_12.ipynb
+      - name: Lecture 35 Notes
+        url: http://stat88.org/assets/notes/Lec35.pdf
+      - name: Lecture 35 Recording
+        url: https://berkeley.zoom.us/rec/play/68cpJL_9rjk3T92VsgSDA_ArW467ff-shicWqfcKz0a2VCIDYFX0YrsXYNu3PYQL2F5_Lll-VIrWG_M?autoplay=true&startTime=1587416224000
+
     - date: Tues 04/21
       content: "Discussion"
     - date: Wed 04/22
