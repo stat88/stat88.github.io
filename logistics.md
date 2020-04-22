@@ -67,6 +67,7 @@ Course grades will be assigned by taking the **maximum** of:
 
 - 20% Homework, 20% Quizzes, 25% Midterm, 35% Final
 - 20% Homework, 20% Quizzes, 60% Final
+- 20% Homework, 25% Quizzes, 20% Pre-Midterm section of Final,  35% Post-Midterm section on Final
 
 ### Late Submission ###
 Late submission of homework will not be accepted under any circumstances, unless you have relevant university accommodations. If you have such accommodations, please provide the formal notification to your lab GSI before the end of the second week of classes. There will be no alternate due dates for assignments missed due to illness, other commitments, and so on. The drops are intended to cover those situations.
