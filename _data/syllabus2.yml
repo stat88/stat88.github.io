@@ -415,6 +415,9 @@ weeks:
       # - name: HW 14 (Due Mon 05/04 at 10 PM)    
     - date: Tues 04/28
       content: "Discussion"
+      assignments: 
+      - name: Regression Lab
+        url: url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=section/Thurs_12_05_Section.ipynb
     - date: Wed 04/29
       content: "Lecture 39: Conclusion"
     - date: Thu 04/30
