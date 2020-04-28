@@ -412,7 +412,12 @@ weeks:
     - date: Mon 04/27
       content: "Lecture 38: Inference for the true slope in the regression model (section 12.2, 12.3)"  
       assignments:
-      # - name: HW 14 (Due Mon 05/04 at 10 PM)    
+      - name: HW 13 (Due Mon 05/04 at 10 PM)  
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_13.ipynb  
+      - name: Lecture 38 Recording
+        url: https://berkeley.zoom.us/rec/play/vsIvduiqqjo3H9KWtASDV_V9W43re6is2iIXrqVYmR3jUXZXMVSnYuQaMLOU94HFn5MVJBLwTNuqLjF0?autoplay=true&startTime=1588021209000
+      - name: Lecture 38 Notes
+        url: http://stat88.org/assets/notes/Lec38.pdf  
     - date: Tues 04/28
       content: "Discussion"
       assignments: 
