@@ -423,6 +423,8 @@ weeks:
       assignments: 
       - name: Regression Lab
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=section/Thurs_12_05_Section.ipynb
+      - name: Play with more data
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=section/Data.ipynb
     - date: Wed 04/29
       content: "Lecture 39: Conclusion"
       assignments:
