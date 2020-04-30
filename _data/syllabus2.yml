@@ -425,6 +425,11 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=section/Thurs_12_05_Section.ipynb
     - date: Wed 04/29
       content: "Lecture 39: Conclusion"
+      assignments:
+      - name: Lecture 39 Recording
+        url: https://berkeley.zoom.us/rec/play/6cEocLqurzo3E9OduQSDV_NxW9TufKqs1iUcqPINyBu9UnZVZFCjZOAUZOETzXFnx1hQDS8wK7z2Grkv?autoplay=true&startTime=1588193913000
+      - name: Lecture 39 Notes
+        url: http://stat88.org/assets/notes/Lec39.pdf  
     - date: Thu 04/30
       content: "Discussion"
     - date: Fri 05/01
