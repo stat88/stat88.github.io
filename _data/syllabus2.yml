@@ -436,3 +436,8 @@ weeks:
       content: "Discussion"
     - date: Fri 05/01
       content: "Lecture 40: Review"
+      assignments:
+      - name: Lecture 40 Recording
+        url: https://berkeley.zoom.us/rec/play/6Zx7Iuj7pzw3HNCQuQSDVPN6W9W-f_ms1CcbqKILzRq1W3EAO1eiZrpBM-F01mfn9V3jK0cWnCeY8J2z?autoplay=true&startTime=1588366826000
+      - name: Lecture 40 Notes
+        url: http://stat88.org/assets/notes/Lec40.pdf  
