@@ -1,443 +1,270 @@
-weeks: 
-  - weekNum: 1
+weeks:
+- weekNum: 1
     weekName: Getting Started
-    weekDuration: 01/20-01/24
+    weekDuration: 08/24-08/28
     basic:
-    - date: Mon 01/20
-      content: "No school"  
-    - date: Tues 01/21
+    - date: Mon 08/24
       content: "No school"
-    - date: Wed 01/22
-      content: "Lecture 1: Course introduction and fundamentals (section 1.1, 1.2)"  
-      assignments:
-      - name: "Lecture 1 Notes" 
-        url: http://stat88.org/assets/notes/Lec1.pdf
-      - name: HW 1 (Due Mon 01/27 at 10 PM)    
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_1.ipynb
-    - date: Thu 01/23
+    - date: Tues 08/25
+      content: "No school"
+    - date: Wed 08/26
+      content: "Lecture 1: Course introduction; fundamentals (section 1.1, 1.2)"
+#      assignments:
+#      - name: HW 1 (Due Mon 08/31 at 11:59 PM Pacfic Time)
+    - date: Thu 08/27
       content: "Discussion"
-    - date: Fri 01/24
-      content: "Lecture 2: Exact calculations and bounds (section 1.3)" 
-      assignments:
-      - name: "Lecture 2 Notes"
-        url: http://stat88.org/assets/notes/Lec2.pdf
-  
+    - date: Fri 08/28
+      content: "Lecture 2: Exact calculations, and bounds (section 1.3)"
+
 
   - weekNum: 2
     weekName: Conditioning
-    weekDuration: 01/27-01/31
+    weekDuration: 08/31-09/04
     basic:
-    - date: Mon 01/27
-      content: "Lecture 3: Intersections of several events (section 2.1, 2.2)"  
-      assignments:
-      - name: HW 2 (Due Mon 02/03 at 10 PM)
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_2.ipynb      
-      - name: "Lecture 3 Notes"
-        url: http://stat88.org/assets/notes/Lec3.pdf
-    - date: Tues 01/28
+    - date: Mon 08/31
+      content: "Lecture 3: Intersections of several events (section 2.1, 2.2)"
+#      assignments:
+#      - name: HW 2 (Due Mon 09/07 at noon)
+    - date: Tues 09/01
       content: "Discussion"
-    - date: Wed 01/29
+    - date: Wed 09/02
       content: "Lecture 4: Updating chances: Bayes' rule (section 2.3, 2.4)"
-      assignments:
-      - name: "Lecture 4 Notes"
-        url: http://stat88.org/assets/notes/Lec4.pdf
-    - date: Thu 01/30
+    - date: Thu 09/03
       content: "Discussion"
-    - date: Fri 01/31
+    - date: Fri 09/04
       content: "Lecture 5: A closer look at independence (section 2.4, 2.5)"
-      assignments:
-      - name: "Lecture 5 Notes"
-        url: http://stat88.org/assets/notes/Lec5.pdf
-  
+
 
   - weekNum: 3
     weekName: Random Variables
-    weekDuration: 02/03-02/07
+    weekDuration: 09/07-09/11
     basic:
-    - date: Mon 02/03
-      content: "Lecture 6: Random variables and their distributions: the binomial (section 3.1, 3.2, 3.3)"  
-      assignments:
-      - name: HW 3 (Due Mon 02/10 at 10 PM)  
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_3.ipynb      
-      - name: "Lecture 6 Notes"
-        url: http://stat88.org/assets/notes/Lec6.pdf
-
-        
-    - date: Tues 02/04
+    - date: Mon 09/07
+      content: "Holiday"
+#      assignments:
+#      - name: HW 3 (Due Mon 09/14 at noon)
+    - date: Tues 09/08
       content: "Discussion"
-    - date: Wed 02/05
+    - date: Wed 09/09
+      content: "Lecture 6: Random variables and their distributions: the binomial (section 3.1, 3.2, 3.3)"
+    - date: Thu 09/10
+      content: "Discussion"
+    - date: Fri 09/11
       content: "Lecture 7: Simple random sampling (section 3.4, 3.5)"
-      assignments:
-      - name: "Lecture 7 Notes"
-        url: http://stat88.org/assets/notes/Lec7.pdf
-      
-    - date: Thu 02/06
-      content: "Quiz 1"
-    - date: Fri 02/07
-      content: "Lecture 8: Exponential approximations (section 3.5, 4.1)"
-      assignments:
-      - name: "Lecture 8 Notes"
-        url: "http://stat88.org/assets/notes/Lec8.pdf"
-  
+
 
   - weekNum: 4
     weekName: Random Variables and Expectation
-    weekDuration: 02/10-02/14
+    weekDuration: 09/14-09/18
     basic:
-    - date: Mon 02/10
-      content: "Lecture 9: Waiting time (section 4.2, 4.3)"   
-      assignments:
-      - name: HW 4 (Due Tue 02/18 at 10 PM)
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_4.ipynb      
-      - name: "Lecture 9 Notes"
-        url: http://stat88.org/assets/notes/Lec9.pdf
-    - date: Tues 02/11
+    - date: Mon 09/14
+      content: "Lecture 8: Exponential approximations (section 3.5, 4.1)"
+#      assignments:
+#      - name: HW 4 (Due Mon 09/21 at noon)
+    - date: Tues 09/15
       content: "Discussion"
-    - date: Wed 02/12
-      content: "Lecture 10: Exponential approximation and Poisson Distribution (section 4.3, 4.4)"
-      assignments:
-      - name: "Lecture 10 Notes"
-        url: http://stat88.org/assets/notes/Lec10.pdf
-    - date: Thu 02/13
+    - date: Wed 09/16
+      content: "Lecture 9: Waiting Time (section 4.2, 4.3)"
+    - date: Thu 09/17
       content: "Discussion"
-    - date: Fri 02/14
-      content: "Lecture 11: Poisson and Expectation (section 4.4, 5.1)"
-      assignments:
-      - name: "Lecture 11 Notes"
-        url: http://stat88.org/assets/notes/Lec11.pdf
-      - name: "Lecture 11 Video Part1"
-        url: https://vimeo.com/391730753?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220
-      - name: "Lecture 11 Video Part2"
-        url: https://vimeo.com/391731607?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220
-  
+    - date: Fri 09/18
+      content: "Lecture 10: Expectation and Poisson distribution (section 4.3, 4.4)"
+
 
   - weekNum: 5
     weekName: The Power of Additivity
-    weekDuration: 02/17-02/21
+    weekDuration: 09/21-09/25
     basic:
-    - date: Mon 02/17
-      content: "Holiday"  
-      assignments:
-      - name: HW 5 (Due Mon 02/24 at 10 PM)
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_5.ipynb    
-    - date: Tues 02/18
+    - date: Mon 09/21
+      content: "Lecture 11: Poisson and Expectation (section 4.4, 5.1)"
+#      assignments:
+#      - name: HW 5 (Due Mon 09/28 at noon)
+    - date: Tues 09/22
       content: "Discussion"
-    - date: Wed 02/19
+    - date: Wed 09/23
       content: "Lecture 12: Expectation and Joint Distribution; (section 5.1, 5.2, 5.3)"
-      assignments:
-      - name: "Lecture 12 Notes"
-        url: http://stat88.org/assets/notes/Lec12.pdf
-    - date: Thu 02/20
+    - date: Thu 09/24
       content: "Discussion"
-    - date: Fri 02/21
+    - date: Fri 09/25
       content: "Lecture 13: The method of indicators and Additivity of Expectation (section 5.3)"
-      assignments:
-      - name: "Lecture 13 Notes"
-        url: http://stat88.org/assets/notes/Lec13.pdf
-  
+
 
   - weekNum: 6
     weekName: Path to Prediction
-    weekDuration: 02/24-02/28
+    weekDuration: 09/28-10/02
     basic:
-    - date: Mon 02/24
-      content: "Lecture 14: Indicators and Updating revisited: conditional distribution (section 5.3, 5.4)"  
-      assignments:
-      - name: "Lecture 14 Notes"
-        url: http://stat88.org/assets/notes/Lec14.pdf
-      - name: HW 6 (Due Mon 03/02 at 10 PM)  
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_6.ipynb     
-    - date: Tues 02/25
+    - date: Mon 09/28
+      content: "Lecture 14: Indicators and Updating revisited: conditional distribution (section 5.3, 5.4)"
+#      assignments:
+#      - name: HW 6 (Due Mon 10/05 at noon)
+    - date: Tues 09/29
       content: "Discussion"
-    - date: Wed 02/26
+    - date: Wed 09/30
       content: "Lecture 15: Unbiased biased estimator(section 5.4, 5.5)"
-      assignments:
-       - name: "Lecture 15 Notes"
-         url: http://stat88.org/assets/notes/Lec15.pdf
-    - date: Thu 02/27
-      content: "Quiz 2"
-    - date: Fri 02/28
+    - date: Thu 10/01
+      content: "Discussion"
+    - date: Fri 10/02
       content: "Lecture 16: Expectation by conditioning (section 5.5)"
-      assignments:
-      - name: "Lecture 16 Notes"
-        url: http://stat88.org/assets/notes/Lec16.pdf
-  
+
 
   - weekNum: 7
     weekName: Midterm Week
-    weekDuration: 03/02-03/06
+    weekDuration: 10/05-10/09
     basic:
-    - date: Mon 03/02
-      content: "Lecture 17: examples: putting things together"  
-      assignments:
-      - name: "Midterm Information"
-        url: https://piazza.com/class/k5k20py3wbjha?cid=195
-      - name: "Lecture 17 Notes"
-        url: http://stat88.org/assets/notes/Lec17.pdf
-
-    - date: Tues 03/03
+    - date: Mon 10/05
+      content: "Lecture 17: Examples: putting things together"
+#      assignments:
+#      - name: HW 7 (Due Mon 10/12 at noon)
+    - date: Tues 10/06
       content: "Discussion"
-    - date: Wed 03/04
+    - date: Wed 10/07
       content: "Midterm review"
-      assignments:
-      - name: "Lecture 18 Notes"
-        url: http://stat88.org/assets/notes/Lec18.pdf
-    - date: Thu 03/05
+    - date: Thu 10/08
       content: "Discussion"
-    - date: Fri 03/06
+    - date: Fri 10/09
       content: "Midterm"
-  
+
 
   - weekNum: 8
     weekName: Variability
-    weekDuration: 03/09-03/13
+    weekDuration: 10/12-10/16
     basic:
-    - date: Mon 03/09
-      content: "Lecture 20: Measuring variability (section 6.1, 6.2)"   
-      assignments:
-      - name: "Lecture 20 Notes"
-        url: http://stat88.org/assets/notes/Lec20.pdf
-      - name: HW 7 (Due Mon 03/16 at 10 PM)
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_7.ipynb
-    - date: Tues 03/10
+    - date: Mon 10/12
+      content: "Lecture 20: Measuring variability (section 6.1, 6.2)"
+#      assignments:
+#      - name: HW 8 (Due Mon 10/19 at noon)
+    - date: Tues 10/13
       content: "Discussion"
-    - date: Wed 03/11
+    - date: Wed 10/14
       content: "Lecture 21: Typical or unusual? Tails of distributions (section 6.3, 6.4)"
-      assignments:
-      - name: "Lecture 21 Notes"
-        url: http://stat88.org/assets/notes/Lec21.pdf
-      - name: "Lecture 21 Recording"
-        url: https://berkeley.zoom.us/rec/share/_sZPN-7S7V9IXI3r5X_ZBaoTLo77eaa81XMe8vFexEbE8V-jDB6mC6K3ksXydeLi
-    - date: Thu 03/12
+    - date: Thu 10/15
       content: "Discussion"
-    - date: Fri 03/13
+    - date: Fri 10/16
       content: "Lecture 22: Variability of a random sample sum (section 7.1)"
-      assignments:
-      - name: "Lecture 22 Notes"
-        url: http://stat88.org/assets/notes/Lec22.pdf
-      - name: "Lecture 22 Recording"
-        url: https://berkeley.zoom.us/rec/share/_cMoFY_LyEdLS9LI7mLUAowOEIW_X6a81SYaqPsJmEeKwJL9D3OZsGgmwj6NpX-Y
 
-  
+
 
   - weekNum: 9
     weekName: Large Random Samples
-    weekDuration: 03/16-03/20
+    weekDuration: 10/19-10/23
     basic:
-    - date: Mon 03/16
-      content: "Lecture 23: The accuracy of a simple random sample (section 7.2)" 
-      assignments: 
-      - name: "HW 8 (Due Mon 03/30 at 10 PM)"   
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_8.ipynb
-      - name: "Lecture 23 Notes"
-        url: http://stat88.org/assets/notes/Lec23.pdf
-      - name: "Lecture 23 Recording"
-        url: https://berkeley.zoom.us/rec/play/usYtI-uhrDo3GNKQtQSDUaB-W47vKP-s1XQZ-fdenUvgBiUANAGhNLATNLEysTCJH_J7cj7HRaeEfmw4?autoplay=true&startTime=1584392288000  
-    - date: Tues 03/17
+    - date: Mon 10/19
+      content: "Lecture 23: The accuracy of a simple random sample (section 7.2)"
+#      assignments:
+#      - name: HW 9 (Due Mon 10/26 at noon)
+    - date: Tues 10/20
       content: "Discussion"
-    - date: Wed 03/18
+    - date: Wed 10/21
       content: "Lecture 24: The law of averages (section 7.3)"
-      assignments:
-      - name: "Lecture 24 Notes"
-        url: http://stat88.org/assets/notes/Lec24.pdf
-      - name: "Lecture 24 Recording"
-        url: https://berkeley.zoom.us/rec/play/vpF7f7yp_TI3S9ecsgSDUaR9W464J6KsgSJKrPUOn0zjUSNXOgLyZbpHMeV7sIFY1H1LAWqp4fEESSw5?autoplay=true&startTime=1584565375000   
-    - date: Thu 03/19
+    - date: Thu 10/22
       content: "Discussion"
-    - date: Fri 03/20
+    - date: Fri 10/23
       content: "Lecture 25: Central Limit Theorem (section 8.1, 8.2)"
-      assignments:
-      - name: "Lecture 25 Notes"
-        url: http://stat88.org/assets/notes/Lec25.pdf
-      - name: "Lecture 25 Recording"
-        url: https://berkeley.zoom.us/rec/play/u5B-f7v6qD83E9KctwSDVPd7W9S7Lvmsg3VNqKIFxUfmVCIENgL3ZrYbNuZyCCPbt9a-M5l6KsMaxMZZ?autoplay=true&startTime=1584737226000
-  
- 
+
+
   - weekNum: 10
-    weekName: Holiday
-    weekDuration: 03/23-03/27
+    weekName: Fundamentals of Inference
+    weekDuration: 10/26-10/30
     basic:
-    - date: Mon 03/23
-      content: "Holiday"  
-      assignments:
-      # - name: HW 9 (Due Mon 03/30 at 10 PM)    
-    - date: Tues 03/24
-      content: "Holiday"
-    - date: Wed 03/25
-      content: "Holiday"
-    - date: Thu 03/26
-      content: "Holiday"
-    - date: Fri 03/27
-      content: "Holiday"
-  
+    - date: Mon 10/26
+      content: "Lecture 26: Normal approximations (section 8.3, 8.4)"
+#      assignments:
+#      - name: HW 10 (Due Mon 11/02 at noon)
+    - date: Tues 10/27
+      content: "Discussion"
+    - date: Wed 10/28
+      content: "Lecture 27: Inference: testing hypotheses (section 9.1)"
+    - date: Thu 10/29
+      content: "Discussion"
+    - date: Fri 10/30
+      content: "Lecture 28: Inference: testing hypotheses (section 9.2) Continued"
+
 
   - weekNum: 11
-    weekName: Fundamentals of Inference
-    weekDuration: 03/30-04/03
+    weekName: Continuous Distributions
+    weekDuration: 11/02-11/06
     basic:
-    - date: Mon 03/30
-      content: "Lecture 26: Normal approximations (section 8.3, 8.4)"  
-      assignments:
-      - name: HW 9 (Due Mon 04/06 at 10 PM)  
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_9.ipynb
-      - name: "Lecture 26 Recording"
-        url: https://berkeley.zoom.us/rec/play/6cF4du2uqDs3GoKQsQSDCvZwW9W7LqKs0iMe-qILz0e8W3hVZFGhYuEVN7Q1sk9XooPenwTXpRQN5PNG?autoplay=true&startTime=1585601838000
-      - name: "Lecture 26 Notes"
-        url: http://stat88.org/assets/notes/Lec26.pdf
-    - date: Tues 03/31
+    - date: Mon 11/02
+      content: "Lecture 29: Confidence intervals continue (section 9.3, 9.4)"
+#      assignments:
+#      - name: HW 11 (Due Mon 11/09 at noon)
+    - date: Tues 11/03
       content: "Discussion"
-    - date: Wed 04/01
-      content: "Lecture 27: Inference: testing hypotheses (section 9.1)"
-      assignments:
-      - name: Lecture 27 Recording
-        url: https://berkeley.zoom.us/rec/play/6Jd4Iuytp243E4WSswSDUKd9W9XoKK-sg3Ue-Ptczk6xAnUFZFelM-FGNussNA9GyEfOEnweZWmcbF2A?autoplay=true&startTime=1585774193000
-      - name: Lecture 27 Notes
-        url: http://stat88.org/assets/notes/Lec27.pdf
-    - date: Thu 04/02
+    - date: Wed 11/04
+      content: "Lecture 30: Probability density (section 10.1, 10.2)"
+    - date: Thu 11/05
       content: "Discussion"
-    - date: Fri 04/03
-      content: "Lecture 28: Inference: testing hypotheses (section 9.2) Continued"
-      assignments:
-      - name: Lecture 28 Recording
-        url: https://berkeley.zoom.us/rec/play/tZx8c72t_D03G4DH4wSDC6UoW43uK_is1XcXrqEEmke9U3AGMVqnY-cRZOrvLMziSfBxvGa_n40vQe3x?autoplay=true&startTime=1585950655000
-      - name: Lecture 28 Notes
-        url: http://stat88.org/assets/notes/Lec28.pdf
-  
+    - date: Fri 11/06
+      content: "Lecture 31: The exponential distribution (section 10.3)"
+
 
   - weekNum: 12
-    weekName: Continuous Distributions
-    weekDuration: 04/06-04/10
+    weekName: Bias and Variance
+    weekDuration: 11/09-11/13
     basic:
-    - date: Mon 04/06
-      content: "Lecture 29: Confidence intervals continue (section 9.3, 9.4)"  
-      assignments:
-      - name: HW 10 (Due Tu 04/14 at 10 PM) 
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_10.ipynb
-      - name: Lecture 29 Recording
-        url: https://berkeley.zoom.us/rec/play/uJMpJuigqG43TtDGtwSDUPIoW47vLaqs13carvYOxE2yUiUEOlLzZLBEYubkFyREPuSa28W4gGzZV09Y?autoplay=true&startTime=1586206044000
-      - name: Lecture 29 Notes
-        url: http://stat88.org/assets/notes/Lec29.pdf
-      
-    - date: Tues 04/07
+    - date: Mon 11/09
+      content: "Lecture 32: Some properties of the normal distribution (section 10.4)"
+#      assignments:
+#      - name: HW 12 (Due Mon 11/16 at noon)
+    - date: Tues 11/10
       content: "Discussion"
-    - date: Wed 04/08
-      content: "Lecture 30: Probability density (section 10.1, 10.2)"
-      assignments:
-      - name: Lecture 30 Recording
-        url: https://berkeley.zoom.us/rec/play/tMcrceGh-Do3EtaV5gSDCvIqW9S1fPmsg3Ac_PsLykqyVHkBZlPwYLVHa-NwtgYehuapZiOel3yccN6p?autoplay=true&startTime=1586379260000
-      - name: Lecture 30 Notes
-        url: http://stat88.org/assets/notes/Lec30.pdf
+    - date: Wed 11/11
+      content: "Holiday"
+    - date: Thu 11/12
+      content: "Discussion"
+    - date: Fri 11/13
+      content: "Lecture 33: Prediction: bias-varaince (section 11.1)"
 
-    - date: Thu 04/09
-      content: "Discussion"
-    - date: Fri 04/10
-      content: "Lecture 31: The exponential distribution (section 10.3)"
-      assignments:
-      - name: Lecture 31 Recording
-        url: https://berkeley.zoom.us/rec/play/vsZ4I-v8qz03SNTDuASDBqB7W9W-LPqs0XQe_vMFyEvkUnQBYwajZuZEYuIemCf-WF0W_sqjMGEqVhZn?autoplay=true&startTime=1586552855000 
-      - name: Lecture 31 Notes
-        url: http://stat88.org/assets/notes/Lec31.pdf
-  
 
   - weekNum: 13
-    weekName: Bias and Variance
-    weekDuration: 04/13-04/17
+    weekName: Introduction to Regression
+    weekDuration: 11/16-11/20
     basic:
-    - date: Mon 04/13
-      content: "Lecture 32: Some properties of the normal distribution (section 10.4)"  
-      assignments:
-      - name: HW 11 (Due Mon 04/20 at 10 PM) 
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_11.ipynb
-      - name: Lecture 32 Recording
-        url: https://berkeley.zoom.us/rec/play/vsd7IumsqW43ToWc5ASDUPF-W9S-Ka2s0ShNr_RZzRy8AHAEMAfyZbJHZ-Z5gtObN3_cKJuvczH0YI8z?autoplay=true&startTime=1586811739000
-      - name: Lecture 32 Notes
-        url: http://stat88.org/assets/notes/Lec32.pdf  
-    - date: Tues 04/14
-      content: "Discussion"
-    - date: Wed 04/15
-      content: "Lecture 33: Prediction: bias-varaince (section 11.1)"
-      assignments:
-      - name: Lecture 33 Notes
-        url: http://stat88.org/assets/notes/Lec33.pdf
-      - name: Lecture 33 Recording
-        url: https://berkeley.zoom.us/rec/play/ucJ5du-tpjk3GoeQ4gSDBP55W9S1eK-s0HJP_KFYzkq2UnkHM1OlYrpDY7Fsoti7z1ypBAwLQqbAM_-u?autoplay=true&startTime=1586983972000
-    - date: Thu 04/16
-      content: "Discussion"
-    - date: Fri 04/17
+    - date: Mon 11/16
       content: "Lecture 34: The bias-variance tradeoff (section 11.2)"
-      assignments:
-      - name: Lecture 34 Notes
-        url: http://stat88.org/assets/notes/Lec34.pdf
-      - name: Lecture 34 Recording
-        url: https://berkeley.zoom.us/rec/play/78IpI7iqqj43T4eTsASDVPB7W47vf6-s13QZ8vMFn0mxUiEDOlGmNeNDNLVv9IKvCH0sIhLOPpdtY3g?autoplay=true&startTime=1587156971000
+#      assignments:
+#      - name: HW 13 (Due Mon 11/23 at noon)
+    - date: Tues 11/17
+      content: "Discussion"
+    - date: Wed 11/18
+      content: "Lecture 35: Correlation (section 11.3, 11.4)"
+    - date: Thu 11/19
+      content: "Discussion"
+    - date: Fri 11/20
+      content: "Lecture 36: The regression estimates, effect and fallacy (section 11.4, 11.5)"
+
 
   - weekNum: 14
-    weekName: Introduction to Regression 
-    weekDuration: 04/20-04/24
+    weekName: The Error in a Regression Estimate
+    weekDuration: 11/23-11/27
     basic:
-    - date: Mon 04/20
-      content: "Lecture 35: Correlation (section 11.3, 11.4)"  
-      assignments:
-      - name: HW 12 (Due Mon 04/27 at 10 PM)
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_12.ipynb
-      - name: Lecture 35 Notes
-        url: http://stat88.org/assets/notes/Lec35.pdf
-      - name: Lecture 35 Recording
-        url: https://berkeley.zoom.us/rec/play/68cpJL_9rjk3T92VsgSDA_ArW467ff-shicWqfcKz0a2VCIDYFX0YrsXYNu3PYQL2F5_Lll-VIrWG_M?autoplay=true&startTime=1587416224000
-
-    - date: Tues 04/21
-      content: "Discussion"
-    - date: Wed 04/22
-      content: "Lecture 36: The regression estimates, effect and fallacy (section 11.4, 11.5)"
-      assignments:
-      - name: Lecture 36 Recording
-        url: https://berkeley.zoom.us/rec/play/usIkJe2gqjo3SNDAuASDB_MsW464Jqqs1iMd_vcLmEvjASQANVWlYLIRY7DDGuM_eN95MAXUoeZ8NkKq?autoplay=true&startTime=1587588893000
-      - name: Lecture 36 Notes
-        url: http://stat88.org/assets/notes/Lec36.pdf  
-    - date: Thu 04/23
-      content: "Quiz 4"
-    - date: Fri 04/24
+    - date: Mon 11/23
       content: "Lecture 37: The regression model for data (section 12.1)"
-      assignments:
-      - name: Lecture 37 Recording
-        url: https://berkeley.zoom.us/rec/play/tZ0ucLis-2o3HYbDswSDAv4vW47uePis0nIc_KEJyE2wVCJRZlbybrYXZ7FQXzJIGKpWyDM6tcXjL460?autoplay=true&startTime=1587764245000
-      - name: Lecture 37 Notes
-        url: http://stat88.org/assets/notes/Lec37.pdf
-  
+#      assignments:
+#      - name: HW 14 (Due Mon 11/30 at noon)
+    - date: Tues 11/24
+      content: "Discussion"
+    - date: Wed 11/25
+      content: "Holiday"
+    - date: Thu 11/26
+      content: "Holiday"
+    - date: Fri 11/27
+      content: "Holiday"
+
 
   - weekNum: 15
     weekName: Inference in Regression
-    weekDuration: 04/27-05/01
+    weekDuration: 11/30-12/04
     basic:
-    - date: Mon 04/27
-      content: "Lecture 38: Inference for the true slope in the regression model (section 12.2, 12.3)"  
-      assignments:
-      - name: HW 13 (Due Mon 05/04 at 10 PM)  
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=hw/Homework_13.ipynb  
-      - name: Lecture 38 Recording
-        url: https://berkeley.zoom.us/rec/play/vsIvduiqqjo3H9KWtASDV_V9W43re6is2iIXrqVYmR3jUXZXMVSnYuQaMLOU94HFn5MVJBLwTNuqLjF0?autoplay=true&startTime=1588021209000
-      - name: Lecture 38 Notes
-        url: http://stat88.org/assets/notes/Lec38.pdf  
-    - date: Tues 04/28
+    - date: Mon 11/30
+      content: "Lecture 38: Inference for the true slope in the regression model (section 12.2, section 12.3)"
+#      assignments:
+#      - name: HW 15 (Due Mon 12/07 at noon)
+    - date: Tues 12/01
       content: "Discussion"
-      assignments: 
-      - name: Regression Lab
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=section/Thurs_12_05_Section.ipynb
-      - name: Play with more data
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp20&branch=master&subPath=section/Data.ipynb
-    - date: Wed 04/29
+    - date: Wed 12/02
       content: "Lecture 39: Conclusion"
-      assignments:
-      - name: Lecture 39 Recording
-        url: https://berkeley.zoom.us/rec/play/6cEocLqurzo3E9OduQSDV_NxW9TufKqs1iUcqPINyBu9UnZVZFCjZOAUZOETzXFnx1hQDS8wK7z2Grkv?autoplay=true&startTime=1588193913000
-      - name: Lecture 39 Notes
-        url: http://stat88.org/assets/notes/Lec39.pdf  
-    - date: Thu 04/30
+    - date: Thu 12/03
       content: "Discussion"
-    - date: Fri 05/01
+    - date: Fri 12/04
       content: "Lecture 40: Review"
-      assignments:
-      - name: Lecture 40 Recording
-        url: https://berkeley.zoom.us/rec/play/6Zx7Iuj7pzw3HNCQuQSDVPN6W9W-f_ms1CcbqKILzRq1W3EAO1eiZrpBM-F01mfn9V3jK0cWnCeY8J2z?autoplay=true&startTime=1588366826000
-      - name: Lecture 40 Notes
-        url: http://stat88.org/assets/notes/Lec40.pdf  
