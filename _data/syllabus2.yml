@@ -1,5 +1,5 @@
 weeks:
-- weekNum: 1
+  - weekNum: 1
     weekName: Getting Started
     weekDuration: 08/24-08/28
     basic:
