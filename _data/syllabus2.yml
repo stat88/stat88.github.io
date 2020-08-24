@@ -213,7 +213,7 @@ weeks:
     - date: Thu 11/12
       content: "Discussion"
     - date: Fri 11/13
-      content: "Lecture 33: Prediction: bias-varaince (section 11.1)"
+      content: "Lecture 33: Prediction: bias-variance (section 11.1)"
 
 
   - weekNum: 13
