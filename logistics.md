@@ -12,9 +12,9 @@ In this connector course we will state precisely and prove results discovered wh
 
 ### Enrollment and Prerequisites ###
 You must enroll in the lecture and in a discussion section that meets twice weekly. If your section time is incompatible with your time zone, you are allowed to attend other discussion sections without changing which one you are registered for. However, we strongly encourage you to stick with one section or one uGSI for a more consistent learning experience. Some of the section times will also be rescheduled to accommodate students in different time zones. More information will be posted on Piazza.
-- (prerequisite:) One semester of calculus at the level of Math 16A, Math 10A, or Math
+- Prerequisite: One semester of calculus at the level of Math 16A, Math 10A, or Math
 1A.
-- (corequisite:) Foundations of Data Science (COMPSCI / DATASCI / INFO / STAT
+- Co-requisite: Foundations of Data Science (COMPSCI / DATASCI / INFO / STAT
 C8)
 
 ### Textbook ###
