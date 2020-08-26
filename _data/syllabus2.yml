@@ -11,7 +11,9 @@ weeks:
       content: "Lecture 1: Course introduction; fundamentals (section 1.1, 1.2)"
       assignments:
       - name: "Lecture 1 Notes"
-        url: http://stat88.org/assets/notes/Lec01-pre-lec.pdf
+        url: http://stat88.org/assets/notes/Lec01.pdf
+      - name: "Lecture 1 Video"
+        url: https://bcourses.berkeley.edu/courses/1497308/files/folder/Lecture_Recordings?preview=78027915
       - name: "HW 1 (Due Fri 09/04 at 11:59 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_1.ipynb
     - date: Thu 08/27
