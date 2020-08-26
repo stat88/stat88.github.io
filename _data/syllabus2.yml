@@ -9,8 +9,11 @@ weeks:
       content: "No school"
     - date: Wed 08/26
       content: "Lecture 1: Course introduction; fundamentals (section 1.1, 1.2)"
-#      assignments:
-#      - name: HW 1 (Due Mon 08/31 at 11:59 PM Pacfic Time)
+      assignments:
+      - name: "Lecture 1 Notes"
+        url: http://stat88.org/assets/notes/Lec01-pre-lec.pdf
+      - name: "HW 1 (Due Fri 09/04 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_1.ipynb
     - date: Thu 08/27
       content: "Discussion"
     - date: Fri 08/28
