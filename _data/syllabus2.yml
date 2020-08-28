@@ -20,6 +20,9 @@ weeks:
       content: "Discussion"
     - date: Fri 08/28
       content: "Lecture 2: Exact calculations, and bounds (section 1.3)"
+      assignments:
+      - name: "Lecture 2 Pre-Lecture Notes"
+        url: http://stat88.org/assets/notes/Lec02-pre-lec.pdf
 
 
   - weekNum: 2
