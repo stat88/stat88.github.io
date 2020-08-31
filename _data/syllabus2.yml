@@ -34,8 +34,9 @@ weeks:
     basic:
     - date: Mon 08/31
       content: "Lecture 3: Intersections of several events (section 2.1, 2.2)"
-#      assignments:
-#      - name: HW 2 (Due Mon 09/07 at noon)
+      assignments:
+      - name: "Lecture 3 Pre-Lecture Notes"
+        url: http://stat88.org/assets/notes/Lec03-pre-lec.pdf
     - date: Tues 09/01
       content: "Discussion"
     - date: Wed 09/02
