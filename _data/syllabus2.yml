@@ -37,6 +37,8 @@ weeks:
       assignments:
       - name: "Lecture 3 Pre-Lecture Notes"
         url: http://stat88.org/assets/notes/Lec03-pre-lec.pdf
+      - name: "HW 2 (Due Wed 09/09 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_2.ipynb
     - date: Tues 09/01
       content: "Discussion"
     - date: Wed 09/02
