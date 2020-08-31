@@ -10,6 +10,8 @@ weeks:
     - date: Wed 08/26
       content: "Lecture 1: Course introduction; fundamentals (section 1.1, 1.2)"
       assignments:
+      - name: "Lecture 1 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec01-pre-lec.pdf
       - name: "Lecture 1 Notes"
         url: http://stat88.org/assets/notes/Lec01.pdf
       - name: "Lecture 1 Video"
@@ -21,6 +23,8 @@ weeks:
     - date: Fri 08/28
       content: "Lecture 2: Exact calculations, and bounds (section 1.3)"
       assignments:
+      - name: "Lecture 2 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec02-pre-lec.pdf
       - name: "Lecture 2 Notes"
         url: http://stat88.org/assets/notes/Lec02.pdf
       - name: "Lecture 2 Video"
@@ -35,6 +39,8 @@ weeks:
     - date: Mon 08/31
       content: "Lecture 3: Intersections of several events (section 2.1, 2.2)"
       assignments:
+      - name: "Lecture 3 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec03-pre-lec.pdf
       - name: "Lecture 3 Notes"
         url: http://stat88.org/assets/notes/Lec03.pdf
       - name: "Lecture 3 Video"
