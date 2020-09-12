@@ -102,6 +102,12 @@ weeks:
         url: http://stat88.org/assets/notes/Lec07.pdf
       - name: "Lecture 7 Video"
         url: https://berkeley.zoom.us/rec/share/1LDWPL8aSFbNWUoNbCdpKGSCnykL1IsTRahsc3T5YRH5o4e5-i0UzAWq9M-E4bML.eJJY2RgKisrdkRmM?startTime=1599840711000
+      - name: "Lecture 7 (Part II) Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec07(2)-pre-lec.pdf
+      - name: "Lecture 7 (Part II) Notes"
+        url: http://stat88.org/assets/notes/Lec07(2).pdf
+      - name: "Lecture 7 (Part II) Video"
+        url: https://berkeley.zoom.us/rec/share/ebtz4HN3jfXALfgr8cb5A8mrIlNtVluVKQlvt_5lXCW07zJ9VNKcDcgBJ6mS61CD.eXnFC6buVkWAjxWb?startTime=1599878547000
 
 
   - weekNum: 4
