@@ -116,8 +116,11 @@ weeks:
     basic:
     - date: Mon 09/14
       content: "Lecture 8: Exponential approximations (section 3.5, 4.1)"
-#      assignments:
-#      - name: HW 4 (Due Mon 09/21 at noon)
+      assignments:
+      - name: "Lecture 8 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec08-pre-lec.pdf
+      - name: "HW 4 (Due Mon 09/21 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_4.ipynb
     - date: Tues 09/15
       content: "Discussion"
     - date: Wed 09/16
