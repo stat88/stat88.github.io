@@ -129,6 +129,9 @@ weeks:
       content: "Discussion"
     - date: Wed 09/16
       content: "Lecture 9: Waiting Time (section 4.2, 4.3)"
+      assignments:
+      - name: "Lecture 9 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec09-pre-lec.pdf
     - date: Thu 09/17
       content: "Discussion"
     - date: Fri 09/18
