@@ -132,7 +132,7 @@ weeks:
       assignments:
       - name: "Lecture 9 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec09-pre-lec.pdf
-      - name: "Lecture 9 Lecture Notes"
+      - name: "Lecture 9 Notes"
         url: http://stat88.org/assets/notes/Lec09.pdf
       - name: "Lecture 9 Video"
         url: https://berkeley.zoom.us/rec/share/O9eJ3YnMRUS5T_5GGH2A8Hz1zFLbXyDQhw4un7U_NY31RzMSY97p1hCOj5BHul-J.ZrnkFV3HDCnKuqwt?startTime=1600272632000
@@ -143,6 +143,11 @@ weeks:
       assignments:
       - name: "Lecture 10 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec10-pre-lec.pdf
+      - name: "Lecture 10 Notes"
+        url: http://stat88.org/assets/notes/Lec10.pdf
+      - name: "Lecture 10 Video"
+        url: https://berkeley.zoom.us/rec/share/9hYjJuzGCpMRtCbAclt6JzfPjFucsk69P2gwAvD2PxaMXREE9FJW9aW7lLCOhIv0.3ne9jU8BmrXVN7YC?startTime=1600445493000
+
 
 
 
