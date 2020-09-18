@@ -139,7 +139,11 @@ weeks:
     - date: Thu 09/17
       content: "Discussion"
     - date: Fri 09/18
-      content: "Lecture 10: Expectation and Poisson distribution (section 4.3, 4.4)"
+      content: "Lecture 10: Exponential approximation and Poisson Distribution (section 4.3, 4.4)"
+      assignments:
+      - name: "Lecture 10 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec10-pre-lec.pdf
+
 
 
   - weekNum: 5
