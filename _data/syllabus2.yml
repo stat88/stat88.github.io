@@ -160,8 +160,12 @@ weeks:
       assignments:
       - name: "Lecture 11 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec11-pre-lec.pdf
-#      assignments:
-#      - name: HW 5 (Due Mon 09/28 at noon)
+      - name: "Lecture 11 Notes"
+        url: http://stat88.org/assets/notes/Lec11.pdf
+      - name: "Lecture 11 Video"
+        url: https://berkeley.zoom.us/rec/share/Ou-o8Tg01mVv_hSOaKcKWpgWZUy84tW09Kx0XiElDiFs5aCQzlTPmgfCN9r2LuIF.x1Q7aNHUGWbESYJM?startTime=1600704629000
+      - name: "HW 5 (Due Mon 09/28 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_5.ipynb
     - date: Tues 09/22
       content: "Discussion"
     - date: Wed 09/23
