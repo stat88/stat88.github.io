@@ -157,6 +157,9 @@ weeks:
     basic:
     - date: Mon 09/21
       content: "Lecture 11: Poisson and Expectation (section 4.4, 5.1)"
+      assignments:
+      - name: "Lecture 11 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec11-pre-lec.pdf
 #      assignments:
 #      - name: HW 5 (Due Mon 09/28 at noon)
     - date: Tues 09/22
