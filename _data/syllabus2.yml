@@ -170,6 +170,9 @@ weeks:
       content: "Discussion"
     - date: Wed 09/23
       content: "Lecture 12: Expectation and Joint Distribution; (section 5.1, 5.2, 5.3)"
+      assignments:
+      - name: "Lecture 12 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec12-pre-lec.pdf
     - date: Thu 09/24
       content: "Discussion"
     - date: Fri 09/25
