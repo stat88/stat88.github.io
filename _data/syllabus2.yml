@@ -173,6 +173,10 @@ weeks:
       assignments:
       - name: "Lecture 12 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec12-pre-lec.pdf
+      - name: "Lecture 12 Notes"
+        url: http://stat88.org/assets/notes/Lec12.pdf
+      - name: "Lecture 12 Video"
+        url: https://berkeley.zoom.us/rec/share/JXwERB-8q7IQ81T1QtfKqJiwOt-ZAKqrhWgvE3KYhPrsOzL9eFHpCtFuOQtz8B53._JI85g8k3AlJN19R?startTime=1600877427000
     - date: Thu 09/24
       content: "Discussion"
     - date: Fri 09/25
