@@ -181,6 +181,9 @@ weeks:
       content: "Discussion"
     - date: Fri 09/25
       content: "Lecture 13: The method of indicators and Additivity of Expectation (section 5.3)"
+      assignments:
+      - name: "Lecture 13 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec13-pre-lec.pdf
 
 
   - weekNum: 6
