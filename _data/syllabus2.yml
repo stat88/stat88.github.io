@@ -196,6 +196,9 @@ weeks:
     basic:
     - date: Mon 09/28
       content: "Lecture 14: Indicators and Updating revisited: conditional distribution (section 5.3, 5.4)"
+      assignments:
+      - name: "Lecture 14 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec14-pre-lec.pdf
 #      assignments:
 #      - name: HW 6 (Due Mon 10/05 at noon)
     - date: Tues 09/29
