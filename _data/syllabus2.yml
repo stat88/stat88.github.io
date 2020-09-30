@@ -209,6 +209,7 @@ weeks:
       content: "Discussion"
     - date: Wed 09/30
       content: "Lecture 15: Unbiased biased estimator(section 5.4, 5.5)"
+      assignments:
       - name: "Lecture 15 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec15-pre-lec.pdf
     - date: Thu 10/01
