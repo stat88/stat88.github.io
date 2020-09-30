@@ -203,7 +203,7 @@ weeks:
         url: http://stat88.org/assets/notes/Lec14.pdf
       - name: "Lecture 14 Video"
         url: https://berkeley.zoom.us/rec/share/VFahnMK62i01pfofwssqR7fvc9VA-Y5kOqbGhzCsXTb0206SZTkjeQ8rQgh4gRfl.l6Cqz_nwYg7rO6V5?startTime=1601309453000
-      - name: "HW 6 (Due Mon 10/05 at 11:59 PM)"
+      - name: "HW 6 (Due Wed 10/07 at 11:59 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_6.ipynb
     - date: Tues 09/29
       content: "Discussion"
