@@ -205,13 +205,12 @@ weeks:
         url: https://berkeley.zoom.us/rec/share/VFahnMK62i01pfofwssqR7fvc9VA-Y5kOqbGhzCsXTb0206SZTkjeQ8rQgh4gRfl.l6Cqz_nwYg7rO6V5?startTime=1601309453000
       - name: "HW 6 (Due Mon 10/05 at 11:59 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_6.ipynb
-
-#      assignments:
-#      - name: HW 6 (Due Mon 10/05 at noon)
     - date: Tues 09/29
       content: "Discussion"
     - date: Wed 09/30
       content: "Lecture 15: Unbiased biased estimator(section 5.4, 5.5)"
+      - name: "Lecture 15 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec15-pre-lec.pdf
     - date: Thu 10/01
       content: "Discussion"
     - date: Fri 10/02
