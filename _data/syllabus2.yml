@@ -235,8 +235,14 @@ weeks:
     basic:
     - date: Mon 10/05
       content: "Lecture 17: Examples: putting things together"
-#      assignments:
-#      - name: HW 7 (Due Mon 10/12 at noon)
+      assignments:
+      - name: "Lecture 17 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec17-pre-lec.pdf
+      - name: "Lecture 17 Notes"
+        url: http://stat88.org/assets/notes/Lec17.pdf
+      - name: "Lecture 17 Video"
+        url: https://berkeley.zoom.us/rec/share/R733WRD0yrdoWm9pk87hLzW1GYxjyE6CXLTF0tWp1bFSVpBLAHceYRKT5b-FznoT.gwzh9RWXJ7IrwuQo?startTime=1601914247000
+
     - date: Tues 10/06
       content: "Discussion"
     - date: Wed 10/07
