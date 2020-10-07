@@ -242,11 +242,13 @@ weeks:
         url: http://stat88.org/assets/notes/Lec17.pdf
       - name: "Lecture 17 Video"
         url: https://berkeley.zoom.us/rec/share/R733WRD0yrdoWm9pk87hLzW1GYxjyE6CXLTF0tWp1bFSVpBLAHceYRKT5b-FznoT.gwzh9RWXJ7IrwuQo?startTime=1601914247000
-
     - date: Tues 10/06
       content: "Discussion"
     - date: Wed 10/07
       content: "Midterm review"
+      assignments:
+      - name: "Lecture 18 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec18-pre-lec.pdf
     - date: Thu 10/08
       content: "Discussion"
     - date: Fri 10/09
