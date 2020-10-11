@@ -265,8 +265,11 @@ weeks:
     basic:
     - date: Mon 10/12
       content: "Lecture 20: Measuring variability (section 6.1, 6.2)"
-#      assignments:
-#      - name: HW 8 (Due Mon 10/19 at noon)
+      assignments:
+      - name: "Lecture 20 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec20-pre-lec.pdf
+      - name: "HW 7 (Due Mon 10/19 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_7.ipynb
     - date: Tues 10/13
       content: "Discussion"
     - date: Wed 10/14
