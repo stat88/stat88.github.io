@@ -268,6 +268,10 @@ weeks:
       assignments:
       - name: "Lecture 20 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec20-pre-lec.pdf
+      - name: "Lecture 20 Notes"
+        url: http://stat88.org/assets/notes/Lec20.pdf
+      - name: "Lecture 20 Video"
+        url: https://berkeley.zoom.us/rec/share/MC-qwtuaZql1J--y3ixGpY_uop3oanmqv9p-305YiE9Dylnfa14EWwlEd0YPOts5.cR3B2htO3R5RxQpI?startTime=1602519117000
       - name: "HW 7 (Due Mon 10/19 at 11:59 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_7.ipynb
     - date: Tues 10/13
