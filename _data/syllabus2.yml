@@ -292,7 +292,10 @@ weeks:
       assignments:
       - name: "Lecture 22 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec22-pre-lec.pdf
-
+      - name: "Lecture 22 Notes"
+        url: http://stat88.org/assets/notes/Lec22.pdf
+      - name: "Lecture 22 Video"
+        url: https://berkeley.zoom.us/rec/share/yfMwNYsSaZPKEHT9QsbT8vA329WxG2xW60LhjQBoJlLfdHyR-NFIirke2FulqVJO.Es2jftUF2C0q39db?startTime=1602864772000
 
   - weekNum: 9
     weekName: Large Random Samples
