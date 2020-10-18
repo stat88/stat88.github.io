@@ -303,8 +303,11 @@ weeks:
     basic:
     - date: Mon 10/19
       content: "Lecture 23: The accuracy of a simple random sample (section 7.2)"
-#      assignments:
-#      - name: HW 9 (Due Mon 10/26 at noon)
+      assignments:
+      - name: "Lecture 23 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec23-pre-lec.pdf
+      - name: "HW8 (Due Mon 10/26 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_8.ipynb
     - date: Tues 10/20
       content: "Discussion"
     - date: Wed 10/21
