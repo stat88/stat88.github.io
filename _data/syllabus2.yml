@@ -316,6 +316,9 @@ weeks:
       content: "Discussion"
     - date: Wed 10/21
       content: "Lecture 24: The law of averages (section 7.3)"
+      assignments:
+      - name: "Lecture 24 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec24-pre-lec.pdf
     - date: Thu 10/22
       content: "Discussion"
     - date: Fri 10/23
