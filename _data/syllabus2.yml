@@ -319,6 +319,10 @@ weeks:
       assignments:
       - name: "Lecture 24 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec24-pre-lec.pdf
+      - name: "Lecture 24 Notes"
+        url: http://stat88.org/assets/notes/Lec24.pdf
+      - name: "Lecture 24 Video"
+        url: https://berkeley.zoom.us/rec/share/R125CeXzz-5J1DrGjDYOWhn7kPjan4LzOhuvtJth2dE8smLV5tpPZ1Zt98mtiytC.PvUQY45obkCpuMkO?startTime=1603296661000
     - date: Thu 10/22
       content: "Discussion"
     - date: Fri 10/23
