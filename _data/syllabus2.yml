@@ -327,6 +327,9 @@ weeks:
       content: "Discussion"
     - date: Fri 10/23
       content: "Lecture 25: Central Limit Theorem (section 8.1, 8.2)"
+      assignments:
+      - name: "Lecture 24 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec24-pre-lec.pdf
 
 
   - weekNum: 10
