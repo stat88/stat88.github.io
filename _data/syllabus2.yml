@@ -310,7 +310,7 @@ weeks:
         url: http://stat88.org/assets/notes/Lec23.pdf
       - name: "Lecture 23 Video"
         url: https://berkeley.zoom.us/rec/share/slj-PKn69Ifea_YtY-pSMjeHN2TWjnyMsc4ztPPKhdUCatoNWHJCPs3LkBBQWbqN.TUwZkLlPRSTv9UG1?startTime=1603123830000
-      - name: "HW8 (Due Mon 10/26 at 11:59 PM)"
+      - name: "HW 8 (Due Mon 10/26 at 11:59 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_8.ipynb
     - date: Tues 10/20
       content: "Discussion"
@@ -343,11 +343,11 @@ weeks:
     basic:
     - date: Mon 10/26
       content: "Lecture 26: Normal approximations (section 8.3, 8.4)"
-#      assignments:
-#      - name: HW 10 (Due Mon 11/02 at noon)
       assignments:
       - name: "Lecture 26 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec26-pre-lec.pdf
+      - name: "HW 9 (Due Mon 11/02 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_9.ipynb
     - date: Tues 10/27
       content: "Discussion"
     - date: Wed 10/28
