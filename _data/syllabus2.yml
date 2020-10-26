@@ -346,6 +346,10 @@ weeks:
       assignments:
       - name: "Lecture 26 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec26-pre-lec.pdf
+      - name: "Lecture 26 Notes"
+        url: http://stat88.org/assets/notes/Lec26.pdf
+      - name: "Lecture 26 Video"
+        url: https://berkeley.zoom.us/rec/share/YYhvX-IzYXjbR4KlU56QLihxS9fOqLn0zmz-38ATlQArrtIhzrcXns95nVGXQtwW.MMXtAft7RCTmGe_R?startTime=1603728672000
       - name: "HW 9 (Due Mon 11/02 at 11:59 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_9.ipynb
     - date: Tues 10/27
