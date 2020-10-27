@@ -356,6 +356,9 @@ weeks:
       content: "Discussion"
     - date: Wed 10/28
       content: "Lecture 27: Inference: testing hypotheses (section 9.1)"
+      assignments:
+      - name: "Lecture 27 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec27-pre-lec.pdf
     - date: Thu 10/29
       content: "Discussion"
     - date: Fri 10/30
