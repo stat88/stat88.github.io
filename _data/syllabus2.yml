@@ -359,6 +359,10 @@ weeks:
       assignments:
       - name: "Lecture 27 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec27-pre-lec.pdf
+      - name: "Lecture 27 Notes"
+        url: http://stat88.org/assets/notes/Lec27.pdf
+      - name: "Lecture 27 Video"
+        url: https://berkeley.zoom.us/rec/share/fz5Zz4dWjdtiY1E1kf5Ynfs1Cqd8IByhlJK3Lb-qxBe44vP0lLZo1b4WOIT1pOie.BdkyEhyBvdQHOipS?startTime=1603901463000        
     - date: Thu 10/29
       content: "Discussion"
     - date: Fri 10/30
