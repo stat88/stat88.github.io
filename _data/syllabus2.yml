@@ -382,6 +382,9 @@ weeks:
     basic:
     - date: Mon 11/02
       content: "Lecture 29: Confidence intervals continue (section 9.3, 9.4)"
+      assignments:
+      - name: "Lecture 29 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec29-pre-lec.pdf
 #      assignments:
 #      - name: HW 11 (Due Mon 11/09 at noon)
     - date: Tues 11/03
