@@ -398,6 +398,10 @@ weeks:
       assignments:
       - name: "Lecture 30 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec30-pre-lec.pdf
+      - name: "Lecture 30 Notes"
+        url: http://stat88.org/assets/notes/Lec30.pdf
+      - name: "Lecture 29 Video"
+        url: https://berkeley.zoom.us/rec/share/8ClSMx9eksxZdqNILbFT89pd2VSsvFglwab7x-B8WrQC5KNhmjjdfU1hNRS-Qaz7.rjwG9ZXGG-rZjgqh?startTime=1604509863000
     - date: Thu 11/05
       content: "Discussion"
     - date: Fri 11/06
