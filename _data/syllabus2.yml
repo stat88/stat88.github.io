@@ -406,7 +406,9 @@ weeks:
       content: "Discussion"
     - date: Fri 11/06
       content: "Lecture 31: The exponential distribution (section 10.3)"
-
+      assignments:
+      - name: "Lecture 31 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec31-pre-lec.pdf
 
   - weekNum: 12
     weekName: Bias and Variance
