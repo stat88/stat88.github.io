@@ -420,6 +420,9 @@ weeks:
     basic:
     - date: Mon 11/09
       content: "Lecture 32: Some properties of the normal distribution (section 10.4)"
+      assignments:
+      - name: "Lecture 32 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec32-pre-lec.pdf
 #      assignments:
 #      - name: HW 12 (Due Mon 11/16 at noon)
     - date: Tues 11/10
