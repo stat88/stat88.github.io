@@ -423,8 +423,12 @@ weeks:
       assignments:
       - name: "Lecture 32 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec32-pre-lec.pdf
-#      assignments:
-#      - name: HW 12 (Due Mon 11/16 at noon)
+      - name: "Lecture 32 Notes"
+        url: http://stat88.org/assets/notes/Lec32.pdf
+      - name: "Lecture 32 Video"
+        url: https://berkeley.zoom.us/rec/share/Ld-RFo7N03L02GUqJlKjTO-0Z6elbSddmjfwoXLjjv-95gelU9D1tOsn2AS1RdFp.msq-CcHZEwWPiYTz?startTime=1604941948000
+      - name: "HW 11 (Due Mon 11/16 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_11.ipynb
     - date: Tues 11/10
       content: "Discussion"
     - date: Wed 11/11
