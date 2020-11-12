@@ -437,6 +437,9 @@ weeks:
       content: "Discussion"
     - date: Fri 11/13
       content: "Lecture 33: Prediction: bias-variance (section 11.1)"
+      assignments:
+      - name: "Lecture 33 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec33-pre-lec.pdf
 
 
   - weekNum: 13
