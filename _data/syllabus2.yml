@@ -452,6 +452,9 @@ weeks:
     basic:
     - date: Mon 11/16
       content: "Lecture 34: The bias-variance tradeoff (section 11.2)"
+      assignments:
+      - name: "Lecture 34 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec34-pre-lec.pdf
 #      assignments:
 #      - name: HW 13 (Due Mon 11/23 at noon)
     - date: Tues 11/17
