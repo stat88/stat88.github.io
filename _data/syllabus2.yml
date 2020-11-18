@@ -468,6 +468,10 @@ weeks:
       assignments:
       - name: "Lecture 35 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec35-pre-lec.pdf
+      - name: "Lecture 35 Notes"
+        url: http://stat88.org/assets/notes/Lec35.pdf
+      - name: "Lecture 35 Video"
+        url: https://berkeley.zoom.us/rec/share/kOZMKIOGj9nnd-BIKPp_VFZg4yn-flY941XEwnqoIQot3jFnpociETLQ4MtbGfs3.I0ZLBgA5ii-7O-0a?startTime=1605719439000
     - date: Thu 11/19
       content: "Discussion"
     - date: Fri 11/20
