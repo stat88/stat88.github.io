@@ -465,6 +465,9 @@ weeks:
       content: "Discussion"
     - date: Wed 11/18
       content: "Lecture 35: Correlation (section 11.3, 11.4)"
+      assignments:
+      - name: "Lecture 35 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec35-pre-lec.pdf
     - date: Thu 11/19
       content: "Discussion"
     - date: Fri 11/20
