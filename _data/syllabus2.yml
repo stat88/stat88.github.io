@@ -476,8 +476,9 @@ weeks:
       content: "Discussion"
     - date: Fri 11/20
       content: "Lecture 36: The regression estimates, effect and fallacy (section 11.4, 11.5)"
-    - name: "Lecture 36 Pre-lecture Notes"
-      url: http://stat88.org/assets/notes/Lec36-pre-lec.pdf
+      assignments:
+      - name: "Lecture 36 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec36-pre-lec.pdf
 
 
   - weekNum: 14
