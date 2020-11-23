@@ -490,6 +490,11 @@ weeks:
     basic:
     - date: Mon 11/23
       content: "Lecture 37: The regression model for data (section 12.1)"
+      assignments:
+      - name: "Lecture 37 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec37-pre-lec.pdf
+      - name: "HW 13 (Part I) (Due Sat 12/07 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_13_1.ipynb
 #      assignments:
 #      - name: HW 14 (Due Mon 11/30 at noon)
     - date: Tues 11/24
