@@ -497,7 +497,7 @@ weeks:
         url: http://stat88.org/assets/notes/Lec37.pdf
       - name: "Lecture 37 Video"
         url: https://berkeley.zoom.us/rec/share/aYOkkXe3KbjJn6ursOOKOspLc2kh802uvGckLtEGSD6TApKOr5agHK3ikez1Jh7r.utL3bjLCs-NEO8C9?startTime=1606161090000
-      - name: "HW 13 (Part I) (Due Sat 12/07 at 11:59 PM)"
+      - name: "HW 13 (Part I) (Due Mon 12/07 at 11:59 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_13_1.ipynb
 #      assignments:
 #      - name: HW 14 (Due Mon 11/30 at noon)
