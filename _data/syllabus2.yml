@@ -517,8 +517,11 @@ weeks:
     basic:
     - date: Mon 11/30
       content: "Lecture 38: Inference for the true slope in the regression model (section 12.2, section 12.3)"
-#      assignments:
-#      - name: HW 15 (Due Mon 12/07 at noon)
+      assignments:
+      - name: "Lecture 38 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec38-pre-lec.pdf
+      - name: "HW 13 (Part II) (Due Mon 12/07 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_13_2.ipynb
     - date: Tues 12/01
       content: "Discussion"
     - date: Wed 12/02
