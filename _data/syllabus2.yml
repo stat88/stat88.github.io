@@ -523,13 +523,16 @@ weeks:
       - name: "Lecture 38 Notes"
         url: http://stat88.org/assets/notes/Lec38.pdf
       - name: "Lecture 38 Video"
-        url: https://berkeley.zoom.us/rec/share/MDHgzGSrc98njyxFbNfirWs2TTUb47fECClMqepcbbHVxsGeZwSHVppi4CFb_lqG.VvnPx4FeswRFcbqm?startTime=1606756243000    
+        url: https://berkeley.zoom.us/rec/share/MDHgzGSrc98njyxFbNfirWs2TTUb47fECClMqepcbbHVxsGeZwSHVppi4CFb_lqG.VvnPx4FeswRFcbqm?startTime=1606756243000
       - name: "HW 13 (Part II) (Due Mon 12/07 at 11:59 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=hw/Homework_13_2.ipynb
     - date: Tues 12/01
       content: "Discussion"
     - date: Wed 12/02
       content: "Lecture 39: Conclusion"
+      assignments:
+      - name: "Lecture 39 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec39-pre-lec.pdf
     - date: Thu 12/03
       content: "Discussion"
     - date: Fri 12/04
