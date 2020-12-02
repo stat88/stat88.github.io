@@ -533,6 +533,10 @@ weeks:
       assignments:
       - name: "Lecture 39 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec39-pre-lec.pdf
+      - name: "Lecture 39 Notes"
+        url: http://stat88.org/assets/notes/Lec39.pdf
+      - name: "Lecture 39 Video"
+        url: https://berkeley.zoom.us/rec/share/ufbp-IZPAuaI104cPVTt1JRWnQreQqdua3eSYfVH3At5QDjI15f4HAzNtYCd752L.PI2aQ2wKwHK0wJmC?startTime=1606929045000
     - date: Thu 12/03
       content: "Discussion"
     - date: Fri 12/04
