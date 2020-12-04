@@ -544,3 +544,7 @@ weeks:
       assignments:
       - name: "Lecture 40 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec40-pre-lec.pdf
+      - name: "Lecture 40 Notes"
+        url: http://stat88.org/assets/notes/Lec40.pdf
+      - name: "Lecture 40 Video"
+        url: https://berkeley.zoom.us/rec/share/D6YJMgx_f4HLaLehnQn_LXjknp0cNnNwX5A6Yg0fY5ZfwXHZnOP3AmzckL-Sv-7I.o3GFLsBUJe5_A4bO?startTime=1607101882000
