@@ -107,14 +107,14 @@ weeks:
       content: "Lecture 16: Expectation by conditioning (section 5.5)"
 
 
- - weekNum: 7
+  - weekNum: 7
     weekName: Midterm Week
     weekDuration: 03/01-03/05
     basic:
     - date: Mon 03/01
       content: "Lecture 17: Examples: putting things together"
-      assignments:
-      - name: HW 7 (Due Mon 03/08 at noon)
+      # assignments:
+      # - name: HW 7 (Due Mon 03/08 at noon)
     - date: Tues 03/02
       content: "Discussion"
     - date: Wed 03/03
@@ -255,8 +255,6 @@ weeks:
     basic:
     - date: Mon 04/26
       content: "Lecture 38: Inference for the true slope in the regression model (section 12.2, section 12.3)"
-      assignments:
-      - name: HW 15 (Due Mon 05/03 at noon)
     - date: Tues 04/27
       content: "Discussion"
     - date: Wed 04/28
