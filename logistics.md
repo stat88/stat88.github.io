@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stat 88 Course Information, Fall 2020
+title: Stat 88 Course Information, Spring 2021
 ---
 
 <!-- #### A. Adhikari #### -->
