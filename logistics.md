@@ -21,20 +21,17 @@ C8)
 The course textbook will be available on the course website. Lectures and the textbook will be closely related in content and sequence, though examples done in lecture might be different from those in the text.
 
 ### Attendance ###
-Lecture sessions will be replaced by live video “synchronous” sessions at the time specified for the class (9:00-10:00am on Monday, Wednesday, and Friday) and video lectures will be recorded and posted for students in incompatible time zones. UGSI-led live discussion sessions will meet twice per week on Tuesday and Thursday at various times. All live sessions are optional but highly encouraged to attend because they are amazing opportunities for you to develop problem-solving skills and ask clarification questions.
+Lecture sessions will be replaced by live video “synchronous” sessions at the time specified for the class (11:00am-12:00pm on Monday, Wednesday, and Friday) and video lectures will be recorded and posted for students in incompatible time zones. UGSI-led live discussion sessions will meet twice per week on Tuesday and Thursday at various times. While we will not take attendance during lecture and section, we highly encourage you to attend because they are amazing opportunities for you to develop problem-solving skills and ask clarification questions.
 
 ### Piazza ###
-There will be a student run Piazza site for this class.
+There will be a Piazza site for this class. We will post important announcements on Piazza so please check it regularly. We won't use bCourses site in STAT 88.
 
 ### The Required Components of Your Work ###
 All dates and times are with respect to the Berkeley time zone (Pacific time zone). It is **your responsibility** to convert them to your time and complete submission by the deadline.
-- **Weekly homework** which will be done on paper and turned into the course Gradescope. Homework will be posted each **Monday** evening and will be due the following **Monday** at **11:59pm PT regardless of which time zone you are in**. In some weeks, there may be deviations from this due to exams or holidays; we will let you know. Homework is graded based on correctness. We encourage you to use plenty of support available and get started as early as possible.
-- **Weekly quizzes** which mainly consist of textbook reading quizzes, including multiple-choice, true/false, or short answer questions, to help you check your own understanding, and one or two math questions. Weekly quizzes will be timed and posted each **Thursday** at **9:00am** and will be due on **Friday** at **9:00am**.
-- **Midterm** on **Friday October 9 2020** during the lecture hour. Alternate exam times will be offered to accommodate students in various time zones. More details about the midterms will be announced later.
+- **Weekly homework** which will be done on paper and turned into the course Gradescope. Homework will be posted each **Monday** evening and will be due the following **Monday** at **11:59pm Pacific Time regardless of which time zone you are in**. In some weeks, there may be deviations from this due to exams or holidays; we will let you know. Homework is graded based on correctness. We encourage you to use plenty of support available and get started as early as possible.
+- **Weekly quizzes** which mainly consist of textbook reading quizzes, including multiple-choice, true/false, or short answer questions, to help you check your own understanding, and one math question that requires written work. Weekly quizzes will be timed and posted each **Thursday** at **11:00am** and will be due on **Friday** at **11:00am** before lecture. Once you start the quiz, you will have **30 minutes** to complete and submit your work.
+- **Midterm** on **Friday March 9 2020** during the lecture hour. Alternate exam times will be offered to accommodate students in various time zones. More details about the midterms will be announced later.
 - **Final exam** on **Thursday December 17 2020** at **7:00-10:00pm**. Alternate exam times will be offered to accommodate students in various time zones.  More details about the finals will be announced later.
-
-Data science is not a solitary activity; please expect to participate in lectures and discussion
-section. Lectures will not be webcast. The online text will contain the main points covered.
 
 Anyone caught cheating on a weekly quiz or exam will receive a **failing** grade and will also be reported to the University Office of Student Conduct. Any unauthorized redistribution of
 quiz or exam material to anyone or any online platform, during or even after the designated testing period, is not only academic dishonesty but also intellectual property infringement.
@@ -48,10 +45,10 @@ Historically this class has a typical statistics course curve with 30% of the cl
 ### Grading ###
 In the calculation of your overall score, we will drop
 
-- your two lowest homework scores
-- your two lowest weekly quiz scores
+- your three lowest homework scores
+- your three lowest weekly quiz scores
 
-Course grades will be assigned using the following weights:25% Homework, 20% Checkpoint Quizzes, 20% Midterm, 35% Final
+Course grades will be assigned using the following weights: 20% Homework, 25% Checkpoint Quizzes, 20% Midterm, 35% Final. We will **clobber your midterm** score with your final score if doing so results in a higher grade.
 
 
 ### Comments and Suggestions ###
@@ -59,16 +56,16 @@ Course grades will be assigned using the following weights:25% Homework, 20% Che
 If you have any comments or suggestions, please feel free to send an email to me or uGSIs. All feedback is welcome.
 
 ### Late Submission ###
-Late submission of homework will not be accepted under any circumstances, unless you have relevant university accommodations. If you have such accommodations, please provide the formal notification to your lab GSI before the end of the second week of classes. There will be no alternate due dates for assignments missed due to illness, other commitments, and so on. The drops are intended to cover those situations.
+**Late submission of homework will not be accepted under any circumstances**, unless you have relevant university accommodations. If you have such accommodations, please provide the formal notification to your lab GSI before the end of the second week of classes. There will be no alternate due dates for assignments missed due to illness, other commitments, and so on. The drops are intended to cover those situations.
 
 ### Collaboration and Integrity ###
 You are encouraged to discuss practice problems and homework with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, you must write up all your own assignments.
 
-Copying assignments from others is not only dishonest, it also doesn’t help anyone. Each exercise requires its own combination of ideas, and each student needs practice in coming up with those combinations, or else they will be at a loss when trying to use probability theory in their future work. From a purely practical perspective, all students must work independently on Stat 88 quizzes and exams – no collaboration allowed. If a test is the first time a student works independently, then the test is not likely to go well.
+Copying assignments from others is not only dishonest, it also doesn’t help anyone. Each exercise requires its own combination of ideas, and each student needs practice in coming up with those combinations, or else they will be at a loss when trying to use probability theory in their future work. From a purely practical perspective, **all students must work independently on Stat 88 quizzes and exams – no collaboration allowed**. If a test is the first time a student works independently, then the test is not likely to go well.
 
 Stat 88 materials including exams and solutions are the intellectual property of the course developers. From the campus statement on Academic Integrity: “… students may not circulate or post materials (handouts, exams, syllabi, i.e. any class materials) from their classes without the written permission of the instructor.”
 
-I am extremely tough with dishonest students and I hope that I will not be put in that situation in Stat 88 I expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
+I am **extremely tough** with dishonest students and I hope that I will not be put in that situation in Stat 88 I expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
 
 ### Disability ###
 If you need accommodations for any physical, psychological, or learning disability, please email me or any of the head uGSIs. Please note that you must make arrangements in a timely manner through DSP so that I can make the appropriate accommodations.
