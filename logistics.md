@@ -24,14 +24,14 @@ The course textbook will be available on the course website. Lectures and the te
 Lecture sessions will be replaced by live video “synchronous” sessions at the time specified for the class (11:00am-12:00pm on Monday, Wednesday, and Friday) and video lectures will be recorded and posted for students in incompatible time zones. UGSI-led live discussion sessions will meet twice per week on Tuesday and Thursday at various times. While we will not take attendance during lecture and section, we highly encourage you to attend because they are amazing opportunities for you to develop problem-solving skills and ask clarification questions.
 
 ### Piazza ###
-There will be a Piazza site for this class. We will post important announcements on Piazza so please check it regularly. We won't use bCourses site in STAT 88.
+There will be a Piazza site for this class. We will post important announcements on Piazza so please check it regularly. We will not be using bCourses.
 
 ### The Required Components of Your Work ###
-All dates and times are with respect to the Berkeley time zone (Pacific time zone). It is **your responsibility** to convert them to your time and complete submission by the deadline.
-- **Weekly homework** which will be done on paper and turned into the course Gradescope. Homework will be posted each **Monday** evening and will be due the following **Monday** at **11:59pm Pacific Time regardless of which time zone you are in**. In some weeks, there may be deviations from this due to exams or holidays; we will let you know. Homework is graded based on correctness. We encourage you to use plenty of support available and get started as early as possible.
+All dates and times are with respect to the Berkeley time zone (Pacific Time). It is **your responsibility** to convert them to your time and complete submission by the deadline.
+- **Weekly homework** which will be done on paper and turn in on Gradescope. Homework will be posted each **Monday** evening and will be due the following **Monday** at **11:59pm Pacific Time regardless of which time zone you are in**. In some weeks, there may be deviations from this due to exams or holidays; we will let you know. Homework is graded based on correctness. We encourage you to use plenty of support available and get started as early as possible.
 - **Weekly quizzes** which mainly consist of textbook reading quizzes, including multiple-choice, true/false, or short answer questions, to help you check your own understanding, and one math question that requires written work. Weekly quizzes will be timed and posted each **Thursday** at **11:00am** and will be due on **Friday** at **11:00am** before lecture. Once you start the quiz, you will have **30 minutes** to complete and submit your work.
-- **Midterm** on **Friday March 9 2020**. Alternate exam times will be offered to accommodate students in various time zones. More details about the midterms will be announced later.
-- **Final exam** time TBD during the final week. Alternate exam times will be offered to accommodate students in various time zones.  More details about the finals will be announced later.
+- **Midterm** on **Friday March 9 2021**. Alternate exam times will be offered to accommodate students in various time zones. More details about the midterms will be announced later.
+- **Final exam** on **Tuesday May 11 2021**. Alternate exam times will be offered to accommodate students in various time zones.  More details about the finals will be announced later.
 
 Anyone caught cheating on a weekly quiz or exam will receive a **failing** grade and will also be reported to the University Office of Student Conduct. Any unauthorized redistribution of
 quiz or exam material to anyone or any online platform, during or even after the designated testing period, is not only academic dishonesty but also intellectual property infringement.
