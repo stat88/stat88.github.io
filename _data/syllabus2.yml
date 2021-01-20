@@ -10,7 +10,7 @@ weeks:
     - date: Tues 01/19
       content: "No school"
     - date: Wed 01/20
-      content: Lecture 1: Course introduction, Probabilities as Proportions, Exact Calculation or Bound (Sections 1.1, 1.2)
+      content: "Lecture 1: Course introduction, Probabilities as Proportions, Exact Calculation or Bound (Sections 1.1, 1.2)"
       assignments:
       - name: "Lecture 1 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec01-pre-lec.pdf
