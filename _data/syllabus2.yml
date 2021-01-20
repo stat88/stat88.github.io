@@ -10,11 +10,16 @@ weeks:
     - date: Tues 01/19
       content: "No school"
     - date: Wed 01/20
-      content: "Lecture 1: Course introduction; fundamentals (section 1.1, 1.2)"
+      content: Lecture 1: Course introduction, Probabilities as Proportions, Exact Calculation or Bound (Sections 1.1, 1.2)
+      assignments:
+      - name: "Lecture 1 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec01-pre-lec.pdf
+      - name: "HW 1 (Due Fri 01/29 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa20&branch=master&subPath=Homework_1.ipynb
     - date: Thu 01/21
       content: "Discussion"
     - date: Fri 01/22
-      content: "Lecture 2: Exact calculations, and bounds (section 1.3)"
+      content: "Lecture 2: Fundamentals (Section 1.3)"
 
 
   - weekNum: 2
