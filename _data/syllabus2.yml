@@ -14,6 +14,10 @@ weeks:
       assignments:
       - name: "Lecture 1 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec01-pre-lec.pdf
+      - name: "Lecture 1 Notes"
+        url: http://stat88.org/assets/notes/Lec01.pdf
+      - name: "Lecture 1 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/external_tools/69468
       - name: "HW 1 (Due Fri 01/29 at 11:59 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp21&branch=master&subPath=Homework_1.ipynb
     - date: Thu 01/21
