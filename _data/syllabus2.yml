@@ -24,6 +24,9 @@ weeks:
       content: "Discussion"
     - date: Fri 01/22
       content: "Lecture 2: Fundamentals (Section 1.3)"
+      assignments:
+      - name: "Lecture 2 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec02-pre-lec.pdf
 
 
   - weekNum: 2
