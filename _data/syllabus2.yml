@@ -27,20 +27,21 @@ weeks:
       assignments:
       - name: "Lecture 2 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec02-pre-lec.pdf
-
+      - name: "Lecture 2 Notes"
+        url: http://stat88.org/assets/notes/Lec02.pdf
 
   - weekNum: 2
     weekName: Conditioning
     weekDuration: 01/25-01/29
     basic:
     - date: Mon 01/25
-      content: "Lecture 3: Intersections of several events (section 2.1, 2.2)"
+      content: "Lecture 3: Fundamentals, intersections of several events (section 1.3, 2.1)"
       # assignments:
       # - name: HW 2 (Due Mon 02/01 at noon)
     - date: Tues 01/26
       content: "Discussion"
     - date: Wed 01/27
-      content: "Lecture 4: Updating chances: Bayes' rule (section 2.3, 2.4)"
+      content: "Lecture 4: Updating chances: Bayes' rule (section 2.2, 2.3)"
     - date: Thu 01/28
       content: "Discussion"
     - date: Fri 01/29
