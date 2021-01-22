@@ -29,6 +29,8 @@ weeks:
         url: http://stat88.org/assets/notes/Lec02-pre-lec.pdf
       - name: "Lecture 2 Notes"
         url: http://stat88.org/assets/notes/Lec02.pdf
+      - name: "Lecture 2 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-2-friday-jan-22
 
   - weekNum: 2
     weekName: Conditioning
