@@ -53,6 +53,9 @@ weeks:
       content: "Discussion"
     - date: Wed 01/27
       content: "Lecture 4: Updating chances: Bayes' rule (section 2.2, 2.3)"
+      assignments:
+      - name: "Lecture 4 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec04-pre-lec.pdf
     - date: Thu 01/28
       content: "Discussion"
     - date: Fri 01/29
