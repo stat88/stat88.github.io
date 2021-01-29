@@ -66,7 +66,8 @@ weeks:
       content: "Discussion"
     - date: Fri 01/29
       content: "Lecture 5: A closer look at independence (section 2.4, 2.5)"
-
+      - name: "Lecture 5 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec05-pre-lec.pdf
 
   - weekNum: 3
     weekName: Random Variables
