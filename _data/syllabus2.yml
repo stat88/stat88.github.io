@@ -69,6 +69,10 @@ weeks:
       assignments:
       - name: "Lecture 5 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec05-pre-lec.pdf
+      - name: "Lecture 5 Notes"
+        url: http://stat88.org/assets/notes/Lec05.pdf
+      - name: "Exam-prep Worksheet 1"
+        url: http://stat88.org/assets/notes/probhandout1.pdf
 
   - weekNum: 3
     weekName: Random Variables
