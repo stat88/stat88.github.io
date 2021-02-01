@@ -74,7 +74,7 @@ weeks:
       - name: "Lecture 5 Video"
         url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-5-friday-january-29
       - name: "Exam-prep Worksheet 1"
-        url: http://stat88.org/assets/notes/probhandout1.pdf
+        url: http://stat88.org/assets/notes/exam_prep_1_29.pdf
 
   - weekNum: 3
     weekName: Random Variables
@@ -82,6 +82,9 @@ weeks:
     basic:
     - date: Mon 02/01
       content: "Lecture 6: Random variables and their distributions: the binomial (section 3.1, 3.2, 3.3)"
+      assignments:
+      - name: "HW 3 (Due Mon 02/08 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp21&branch=master&subPath=Homework_3.ipynb
       # assignments:
       # - name: HW 3 (Due Mon 02/08 at noon)
     - date: Tues 02/02
