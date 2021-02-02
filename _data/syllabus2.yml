@@ -83,10 +83,14 @@ weeks:
     - date: Mon 02/01
       content: "Lecture 6: Random variables and their distributions: the binomial (section 3.1, 3.2, 3.3)"
       assignments:
-      - name: "HW 3 (Due Mon 02/08 at 11:59 PM)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp21&branch=master&subPath=Homework_3.ipynb
       - name: "Lecture 6 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec06-pre-lec.pdf
+      - name: "Lecture 6 Notes"
+        url: http://stat88.org/assets/notes/Lec06.pdf
+      - name: "Lecture 6 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-6-monday-february-1
+      - name: "HW 3 (Due Mon 02/08 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp21&branch=master&subPath=Homework_3.ipynb
       # assignments:
       # - name: HW 3 (Due Mon 02/08 at noon)
     - date: Tues 02/02
