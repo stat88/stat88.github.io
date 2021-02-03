@@ -97,6 +97,9 @@ weeks:
       content: "Discussion"
     - date: Wed 02/03
       content: "Lecture 7: Simple random sampling (section 3.4, 3.5)"
+      assignments:
+      - name: "Lecture 7 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec07-pre-lec.pdf
     - date: Thu 02/04
       content: "Discussion"
     - date: Fri 02/05
