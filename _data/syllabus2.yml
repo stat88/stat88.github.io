@@ -10,7 +10,7 @@ weeks:
     - date: Tues 01/19
       content: "No school"
     - date: Wed 01/20
-      content: "Lecture 1: Course introduction, Probabilities as Proportions, Exact Calculation or Bound (Sections 1.1, 1.2)"
+      content: "Lecture 1: Course introduction and the basics (Sections 1.1, 1.2)"
       assignments:
       - name: "Lecture 1 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec01-pre-lec.pdf
@@ -23,7 +23,7 @@ weeks:
     - date: Thu 01/21
       content: "Discussion"
     - date: Fri 01/22
-      content: "Lecture 2: Fundamentals (Section 1.3)"
+      content: "Lecture 2: Axioms of Probability (Section 1.3)"
       assignments:
       - name: "Lecture 2 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec02-pre-lec.pdf
@@ -37,7 +37,7 @@ weeks:
     weekDuration: 01/25-01/29
     basic:
     - date: Mon 01/25
-      content: "Lecture 3: Fundamentals, intersections of several events (section 1.3, 2.1)"
+      content: "Lecture 3: Axioms of Probability, Intersections (section 1.3, 2.1)"
       assignments:
       - name: "Lecture 3 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec03-pre-lec.pdf
@@ -52,7 +52,7 @@ weeks:
     - date: Tues 01/26
       content: "Discussion"
     - date: Wed 01/27
-      content: "Lecture 4: Updating chances: Bayes' rule (section 2.2, 2.3)"
+      content: "Lecture 4: Symmetry in Sampling, Bayes’ Rule (section 2.2, 2.3)"
       assignments:
       - name: "Lecture 4 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec04-pre-lec.pdf
@@ -65,7 +65,7 @@ weeks:
     - date: Thu 01/28
       content: "Discussion"
     - date: Fri 01/29
-      content: "Lecture 5: A closer look at independence (section 2.4, 2.5)"
+      content: "Lecture 5: Bayes’ Rule: definition, use, and interpretation, Independence (section 2.2, 2.3, 2.5)"
       assignments:
       - name: "Lecture 5 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec05-pre-lec.pdf
@@ -81,7 +81,7 @@ weeks:
     weekDuration: 02/01-02/05
     basic:
     - date: Mon 02/01
-      content: "Lecture 6: Random variables and their distributions: the binomial (section 3.1, 3.2, 3.3)"
+      content: "Lecture 6: Finish up chapter 2, Random variables & their distributions (section 2.4, 3.1, 3.2)"
       assignments:
       - name: "Lecture 6 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec06-pre-lec.pdf
@@ -96,7 +96,7 @@ weeks:
     - date: Tues 02/02
       content: "Discussion"
     - date: Wed 02/03
-      content: "Lecture 7: Simple random sampling (section 3.4, 3.5)"
+      content: "Lecture 7: Random variables & their distributions + 2 special distributions (section 3.1, 3.2, 3.3, 3.4)"
       assignments:
       - name: "Lecture 7 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec07-pre-lec.pdf
@@ -109,10 +109,12 @@ weeks:
     - date: Thu 02/04
       content: "Discussion"
     - date: Fri 02/05
-      content: "Lecture 8: Hypergeometric distribution, CDF (section 3.4, 3.5, 4.1)"
+      content: "Lecture 8: The hypergeometric distribution, examples, CDF (section 3.4, 3.5, 4.1)"
       assignments:
       - name: "Lecture 8 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec08-pre-lec.pdf
+      - name: "Lecture 8 Notes"
+        url: http://stat88.org/assets/notes/Lec08.pdf
 
   - weekNum: 4
     weekName: Random Variables and Expectation
