@@ -110,7 +110,9 @@ weeks:
       content: "Discussion"
     - date: Fri 02/05
       content: "Lecture 8: Hypergeometric distribution, CDF (section 3.4, 3.5, 4.1)"
-
+      assignments:
+      - name: "Lecture 8 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec08-pre-lec.pdf
 
   - weekNum: 4
     weekName: Random Variables and Expectation
