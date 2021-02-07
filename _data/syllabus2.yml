@@ -115,6 +115,8 @@ weeks:
         url: http://stat88.org/assets/notes/Lec08-pre-lec.pdf
       - name: "Lecture 8 Notes"
         url: http://stat88.org/assets/notes/Lec08.pdf
+      - name: "Lecture 8 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-8-friday-february-5
 
   - weekNum: 4
     weekName: Random Variables and Expectation
