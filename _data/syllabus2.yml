@@ -123,7 +123,10 @@ weeks:
     weekDuration: 02/08-02/12
     basic:
     - date: Mon 02/08
-      content: "Lecture 9: Waiting Time (section 4.2, 4.3)"
+      content: "Lecture 9: CDF, waiting times (section 3.5, 4.1, 4.2)"
+      assignments:
+      - name: "Lecture 9 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec09-pre-lec.pdf
       # assignments:
       # - name: HW 4 (Due Mon 02/15 at noon)
     - date: Tues 02/09
