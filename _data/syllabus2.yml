@@ -150,6 +150,9 @@ weeks:
       content: "Discussion"
     - date: Fri 02/12
       content: "Lecture 11: Poisson and Expectation (section 4.4, 5.1)"
+      assignments:
+      - name: "Lecture 11 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec11-pre-lec.pdf      
 
 
   - weekNum: 5
