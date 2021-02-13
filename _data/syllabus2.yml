@@ -155,6 +155,8 @@ weeks:
         url: http://stat88.org/assets/notes/Lec11-pre-lec.pdf
       - name: "Lecture 11 Notes"
         url: http://stat88.org/assets/notes/Lec11.pdf
+      - name: "Lecture 11 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-11-friday-february-12
 
   - weekNum: 5
     weekName: The Power of Additivity
