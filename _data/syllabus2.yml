@@ -131,7 +131,7 @@ weeks:
         url: http://stat88.org/assets/notes/Lec09.pdf
       - name: "Lecture 9 Video"
         url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-9-monday-february-8
-      - name: "HW 4 (Due Tues 02/16 at 11:59 PM)"
+      - name: "HW 4 (Due Wed 02/17 at 11:59 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp21&branch=master&subPath=Homework_4.ipynb
     # assignments:
       # - name: HW 4 (Due Mon 02/15 at noon)
