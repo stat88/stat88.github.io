@@ -177,6 +177,8 @@ weeks:
         url: http://stat88.org/assets/notes/Lec12.pdf
       - name: "Lecture 12 Video"
         url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-12-wednesday-february-17
+      - name: "HW 5 (Due Mon 02/22 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp21&branch=master&subPath=Homework_5.ipynb
     - date: Thu 02/18
       content: "Discussion"
     - date: Fri 02/19
