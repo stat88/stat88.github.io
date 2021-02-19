@@ -169,7 +169,7 @@ weeks:
     - date: Tues 02/16
       content: "Discussion"
     - date: Wed 02/17
-      content: "Lecture 12: Expectation and Joint Distribution (section 5.1, 5.2, 5.3)"
+      content: "Lecture 12: Sums of Poisson RVs, Expectation, Functions of RVs (section 4.4, 5.1, 5.2)"
       assignments:
       - name: "Lecture 12 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec12-pre-lec.pdf
@@ -182,24 +182,27 @@ weeks:
     - date: Thu 02/18
       content: "Discussion"
     - date: Fri 02/19
-      content: "Lecture 13: The power of Booleans: the method of indicators (section 5.3)"
+      content: "Lecture 13: Functions of RVs, Method of indicators (section 5.2, 5.3)"
       assignments:
       - name: "Lecture 13 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec13-pre-lec.pdf
-
+      - name: "Lecture 13 Notes"
+        url: http://stat88.org/assets/notes/Lec13.pdf
+      - name: "Lecture 13 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-13-friday-february-19
 
   - weekNum: 6
     weekName: Path to Prediction
     weekDuration: 02/22-02/26
     basic:
     - date: Mon 02/22
-      content: "Lecture 14: Updating revisited: conditional distribution (section 5.3, 5.4)"
+      content: "Lecture 14: Method of indicators, definition of unbiased estimators (section 5.3, 5.4)"
       # assignments:
       # - name: HW 6 (Due Mon 02/29 at noon)
     - date: Tues 02/23
       content: "Discussion"
     - date: Wed 02/24
-      content: "Lecture 15: Unbiased biased estimator (section 5.4, 5.5)"
+      content: "Lecture 15: Unbiased estimators, Conditional expectation (section 5.4, 5.5)"
     - date: Thu 02/25
       content: "Discussion"
     - date: Fri 02/26
