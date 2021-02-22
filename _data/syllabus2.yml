@@ -197,6 +197,9 @@ weeks:
     basic:
     - date: Mon 02/22
       content: "Lecture 14: Method of indicators, definition of unbiased estimators (section 5.3, 5.4)"
+      assignments:
+      - name: "Lecture 14 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec14-pre-lec.pdf
       # assignments:
       # - name: HW 6 (Due Mon 02/29 at noon)
     - date: Tues 02/23
