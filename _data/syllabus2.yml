@@ -177,7 +177,7 @@ weeks:
         url: http://stat88.org/assets/notes/Lec12.pdf
       - name: "Lecture 12 Video"
         url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-12-wednesday-february-17
-      - name: "HW 5 (Due Mon 02/22 at 11:59 PM)"
+      - name: "HW 5 (Due Tue 02/23 at 11:59 PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp21&branch=master&subPath=Homework_5.ipynb
     - date: Thu 02/18
       content: "Discussion"
@@ -200,6 +200,8 @@ weeks:
       assignments:
       - name: "Lecture 14 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec14-pre-lec.pdf
+      - name: "Lecture 14 Notes"
+        url: http://stat88.org/assets/notes/Lec14.pdf
       # assignments:
       # - name: HW 6 (Due Mon 02/29 at noon)
     - date: Tues 02/23
