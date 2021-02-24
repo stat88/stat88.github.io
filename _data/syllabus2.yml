@@ -212,6 +212,9 @@ weeks:
       content: "Discussion"
     - date: Wed 02/24
       content: "Lecture 15: Unbiased estimators, Conditional expectation (section 5.4, 5.5)"
+      assignments:
+      - name: "Lecture 15 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec15-pre-lec.pdf
     - date: Thu 02/25
       content: "Discussion"
     - date: Fri 02/26
