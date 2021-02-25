@@ -218,11 +218,14 @@ weeks:
       - name: "Lecture 15 Notes"
         url: http://stat88.org/assets/notes/Lec15.pdf
       - name: "Lecture 15 Video"
-        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-15-wednesday-february-24     
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-15-wednesday-february-24
     - date: Thu 02/25
       content: "Discussion"
     - date: Fri 02/26
       content: "Lecture 16: Expectation by conditioning (section 5.5)"
+      assignments:
+      - name: "Lecture 16 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec16-pre-lec.pdf
 
 
   - weekNum: 7
