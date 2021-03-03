@@ -254,6 +254,10 @@ weeks:
       assignments:
       - name: "Lecture 18 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec18-pre-lec.pdf
+      - name: "Lecture 18 Notes"
+        url: http://stat88.org/assets/notes/Lec18.pdf
+      - name: "Lecture 18 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-18-wednesday-march-3
     - date: Thu 03/04
       content: "Discussion"
     - date: Fri 03/05
