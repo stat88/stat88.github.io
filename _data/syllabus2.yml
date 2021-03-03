@@ -250,7 +250,10 @@ weeks:
     - date: Tues 03/02
       content: "Discussion"
     - date: Wed 03/03
-      content: "Midterm review"
+      content: "Lecture 18: Midterm review"
+      assignments:
+      - name: "Lecture 18 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec18-pre-lec.pdf
     - date: Thu 03/04
       content: "Discussion"
     - date: Fri 03/05
