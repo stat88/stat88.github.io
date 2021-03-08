@@ -273,6 +273,10 @@ weeks:
       assignments:
       - name: "Lecture 20 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec20-pre-lec.pdf
+      - name: "Lecture 20 Notes"
+        url: http://stat88.org/assets/notes/Lec20.pdf
+      - name: "Lecture 20 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-20-monday-march-8
       # assignments:
       # - name: HW 8 (Due Mon 03/15 at noon)
     - date: Tues 03/09
