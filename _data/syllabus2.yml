@@ -270,6 +270,9 @@ weeks:
     basic:
     - date: Mon 03/08
       content: "Lecture 20: Measuring variability (section 6.1, 6.2)"
+      assignments:
+      - name: "Lecture 20 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec20-pre-lec.pdf
       # assignments:
       # - name: HW 8 (Due Mon 03/15 at noon)
     - date: Tues 03/09
