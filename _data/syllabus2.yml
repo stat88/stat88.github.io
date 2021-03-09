@@ -277,6 +277,10 @@ weeks:
         url: http://stat88.org/assets/notes/Lec20.pdf
       - name: "Lecture 20 Video"
         url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-20-monday-march-8
+      - name: "HW 7 (Due Mon 03/15 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp21&branch=master&subPath=Homework_7.ipynb
+
+
       # assignments:
       # - name: HW 8 (Due Mon 03/15 at noon)
     - date: Tues 03/09
