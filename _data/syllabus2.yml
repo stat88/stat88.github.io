@@ -314,8 +314,10 @@ weeks:
         url: http://stat88.org/assets/notes/Lec23-pre-lec.pdf
       - name: "Lecture 23 Notes"
         url: http://stat88.org/assets/notes/Lec23.pdf
-      # assignments:
-      # - name: HW 9 (Due Mon 03/22 at noon)
+      - name: "Lecture 23 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-23-monday-march-15
+      - name: "HW 8 (Due Mon 03/29 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp21&branch=master&subPath=Homework_8.ipynb
     - date: Tues 03/16
       content: "Discussion"
     - date: Wed 03/17
