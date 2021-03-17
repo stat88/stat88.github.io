@@ -322,6 +322,9 @@ weeks:
       content: "Discussion"
     - date: Wed 03/17
       content: "Lecture 24: The law of averages (section 7.3)"
+      assignments:
+      - name: "Lecture 24 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec24-pre-lec.pdf
     - date: Thu 03/18
       content: "Discussion"
     - date: Fri 03/19
