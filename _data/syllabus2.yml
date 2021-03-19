@@ -328,12 +328,14 @@ weeks:
       - name: "Lecture 24 Notes"
         url: http://stat88.org/assets/notes/Lec24.pdf
       - name: "Lecture 24 Video"
-        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-24-wednesday-march-17   
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-24-wednesday-march-17
     - date: Thu 03/18
       content: "Discussion"
     - date: Fri 03/19
       content: "Lecture 25: Central Limit Theorem (section 8.1, 8.2)"
-
+      assignments:
+      - name: "Lecture 25 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec25-pre-lec.pdf
 
   - weekNum: 10
     weekName: Spring Recess
