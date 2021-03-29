@@ -363,8 +363,9 @@ weeks:
     basic:
     - date: Mon 03/29
       content: "Lecture 26: Normal approximations (section 8.3, 8.4)"
-      # assignments:
-      # - name: HW 10 (Due Mon 04/05 at noon)
+      assignments:
+      - name: "Lecture 26 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec26-pre-lec.pdf
     - date: Tues 03/30
       content: "Discussion"
     - date: Wed 03/31
