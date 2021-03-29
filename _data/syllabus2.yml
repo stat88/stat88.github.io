@@ -366,6 +366,8 @@ weeks:
       assignments:
       - name: "Lecture 26 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec26-pre-lec.pdf
+      - name: "Lecture 26 Notes"
+        url: http://stat88.org/assets/notes/Lec26.pdf
     - date: Tues 03/30
       content: "Discussion"
     - date: Wed 03/31
