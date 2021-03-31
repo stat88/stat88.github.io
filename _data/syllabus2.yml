@@ -370,6 +370,8 @@ weeks:
         url: http://stat88.org/assets/notes/Lec26.pdf
       - name: "Lecture 26 Video"
         url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-26-monday-march-29
+      - name: "HW 9 (Due Mon 04/05 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp21&branch=master&subPath=Homework_9.ipynb
     - date: Tues 03/30
       content: "Discussion"
     - date: Wed 03/31
