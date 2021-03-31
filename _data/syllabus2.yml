@@ -321,7 +321,7 @@ weeks:
     - date: Tues 03/16
       content: "Discussion"
     - date: Wed 03/17
-      content: "Lecture 24: The law of averages (section 7.3)"
+      content: "Lecture 24: Sampling without replacement and the Law of Averages (section 7.2, 7.3)"
       assignments:
       - name: "Lecture 24 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec24-pre-lec.pdf
@@ -332,7 +332,7 @@ weeks:
     - date: Thu 03/18
       content: "Discussion"
     - date: Fri 03/19
-      content: "Lecture 25: Central Limit Theorem (section 8.1, 8.2)"
+      content: "Lecture 25: The Law of Averages & setting up Chapter 8 (section 7.3)"
       assignments:
       - name: "Lecture 25 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec25-pre-lec.pdf
@@ -362,7 +362,7 @@ weeks:
     weekDuration: 03/29-04/02
     basic:
     - date: Mon 03/29
-      content: "Lecture 26: Normal approximations (section 8.3, 8.4)"
+      content: "Lecture 26: The Central Limit Theorem (section 8.1, 8.2)"
       assignments:
       - name: "Lecture 26 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec26-pre-lec.pdf
@@ -375,7 +375,10 @@ weeks:
     - date: Tues 03/30
       content: "Discussion"
     - date: Wed 03/31
-      content: "Lecture 27: Inference: testing hypotheses (section 9.1)"
+      content: "Lecture 27: The Normal distribution & using the Central Limit Theorem (section 8.2, 8,3)"
+      assignments:
+      - name: "Lecture 27 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec27-pre-lec.pdf
     - date: Thu 04/01
       content: "Discussion"
     - date: Fri 04/02
