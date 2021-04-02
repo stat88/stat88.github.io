@@ -388,10 +388,14 @@ weeks:
     - date: Fri 04/02
       content: "Lecture 28: Finish Chapter 8 and Hypothesis Tests (section 8.4, 9.1, 9.2)"
       assignments:
-      - name: "Lecture 28 Pre-lecture Notes Part I"
+      - name: "Lecture 28 Pre-lecture Notes I"
         url: http://stat88.org/assets/notes/Lec28-part1-pre-lec.pdf
-      - name: "Lecture 28 Pre-lecture Notes Part II"
+      - name: "Lecture 28 Pre-lecture Notes II"
         url: http://stat88.org/assets/notes/Lec28-part2-pre-lec.pdf
+      - name: "Lecture 28 Notes I"
+        url: http://stat88.org/assets/notes/Lec28-part1.pdf
+      - name: "Lecture 28 Notes II"
+        url: http://stat88.org/assets/notes/Lec28-part2.pdf    
       - name: "Lecture 28 Video Part I & II "
         url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-28-friday-april-2
 
