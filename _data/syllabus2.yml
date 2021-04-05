@@ -406,6 +406,13 @@ weeks:
     basic:
     - date: Mon 04/05
       content: "Lecture 29: Confidence intervals continue (section 9.3, 9.4)"
+      assignments:
+      - name: "Lecture 29 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec29-pre-lec.pdf
+      - name: "Lecture 29 Notes"
+        url: http://stat88.org/assets/notes/Lec29.pdf
+      - name: "Lecture 29 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-29-friday-april-4
       # assignments:
       # - name: HW 11 (Due Mon 04/12 at noon)
     - date: Tues 04/06
