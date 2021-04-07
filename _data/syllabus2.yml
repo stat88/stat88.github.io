@@ -405,7 +405,7 @@ weeks:
     weekDuration: 04/05-04/09
     basic:
     - date: Mon 04/05
-      content: "Lecture 29: Confidence intervals continue (section 9.3, 9.4)"
+      content: "Lecture 29: A/B Testing (section 9.2)"
       assignments:
       - name: "Lecture 29 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec29-pre-lec.pdf
@@ -418,16 +418,18 @@ weeks:
     - date: Tues 04/06
       content: "Discussion"
     - date: Wed 04/07
-      content: "Lecture 30: Probability density (section 10.1, 10.2)"
+      content: "Lecture 30: Confidence Intervals (section 9.3, 9.4)"
       assignments:
       - name: "Lecture 30 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec30-pre-lec.pdf
       - name: "Lecture 30 Notes"
         url: http://stat88.org/assets/notes/Lec30.pdf
+      - name: "Lecture 30 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-30-wednesday-april-7
     - date: Thu 04/08
       content: "Discussion"
     - date: Fri 04/09
-      content: "Lecture 31: The exponential distribution (section 10.3)"
+      content: "Lecture 31: Finish Confidence Intervals; Densities (section 9.4, 10.1)"
 
 
   - weekNum: 13
@@ -435,17 +437,17 @@ weeks:
     weekDuration: 04/12-04/16
     basic:
     - date: Mon 04/12
-      content: "Lecture 32: Some properties of the normal distribution (section 10.4)"
+      content: "Lecture 32: Continuous Distributions: Densities, Expectation, and Variance (section 10.1, 10.2, 10.3)"
       # assignments:
       # - name: HW 12 (Due Mon 04/19 at noon)
     - date: Tues 04/13
       content: "Discussion"
     - date: Wed 04/14
-      content: "Lecture 33: Prediction: bias-variance (section 11.1)"
+      content: "Lecture 33: Normal Distributions, Prediction: bias-variance (section 10.4, 11.1)"
     - date: Thu 04/15
       content: "Discussion"
     - date: Fri 04/16
-      content: "Lecture 34: The bias-variance tradeoff (section 11.2)"
+      content: "Lecture 34: (Asynchronous)The bias-variance tradeoff, Continued (section 11.1, 11.2)"
 
 
   - weekNum: 14
