@@ -419,6 +419,11 @@ weeks:
       content: "Discussion"
     - date: Wed 04/07
       content: "Lecture 30: Probability density (section 10.1, 10.2)"
+      assignments:
+      - name: "Lecture 30 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec30-pre-lec.pdf
+      - name: "Lecture 30 Notes"
+        url: http://stat88.org/assets/notes/Lec30.pdf
     - date: Thu 04/08
       content: "Discussion"
     - date: Fri 04/09
