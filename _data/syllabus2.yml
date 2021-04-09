@@ -432,7 +432,9 @@ weeks:
       content: "Discussion"
     - date: Fri 04/09
       content: "Lecture 31: Finish Confidence Intervals; Densities (section 9.4, 10.1)"
-
+      assignments:
+      - name: "Lecture 31 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec31-pre-lec.pdf
 
   - weekNum: 13
     weekName: Bias and Variance
