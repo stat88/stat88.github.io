@@ -438,7 +438,7 @@ weeks:
       - name: "Lecture 31 Notes"
         url: http://stat88.org/assets/notes/Lec31.pdf
       - name: "Lecture 31 Video"
-        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-31-friday-april-9 
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-31-friday-april-9
 
 
   - weekNum: 13
@@ -447,6 +447,9 @@ weeks:
     basic:
     - date: Mon 04/12
       content: "Lecture 32: Continuous Distributions: Densities, Expectation, and Variance (section 10.1, 10.2, 10.3)"
+      assignments:
+      - name: "Lecture 32 Notes"
+        url: http://stat88.org/assets/notes/Lec32.pdf      
       # assignments:
       # - name: HW 12 (Due Mon 04/19 at noon)
     - date: Tues 04/13
