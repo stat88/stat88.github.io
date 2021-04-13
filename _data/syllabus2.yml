@@ -449,7 +449,9 @@ weeks:
       content: "Lecture 32: Continuous Distributions: Densities, Expectation, and Variance (section 10.1, 10.2, 10.3)"
       assignments:
       - name: "Lecture 32 Notes"
-        url: http://stat88.org/assets/notes/Lec32.pdf      
+        url: http://stat88.org/assets/notes/Lec32.pdf
+      - name: "Lecture 32 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-32-monday-april-12 
       # assignments:
       # - name: HW 12 (Due Mon 04/19 at noon)
     - date: Tues 04/13
