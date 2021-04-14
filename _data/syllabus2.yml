@@ -451,13 +451,18 @@ weeks:
       - name: "Lecture 32 Notes"
         url: http://stat88.org/assets/notes/Lec32.pdf
       - name: "Lecture 32 Video"
-        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-32-monday-april-12 
-      # assignments:
-      # - name: HW 12 (Due Mon 04/19 at noon)
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-32-monday-april-12
+      - name: "HW 11 (Due Mon 04/19 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp21&branch=master&subPath=Homework_11.ipynb
     - date: Tues 04/13
       content: "Discussion"
     - date: Wed 04/14
       content: "Lecture 33: Normal Distributions, Prediction: bias-variance (section 10.4, 11.1)"
+      assignments:
+      - name: "Lecture 33 Notes"
+        url: http://stat88.org/assets/notes/Lec33.pdf
+      - name: "Lecture 33 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-33-wednesday-april-14
     - date: Thu 04/15
       content: "Discussion"
     - date: Fri 04/16
