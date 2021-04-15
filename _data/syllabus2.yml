@@ -467,7 +467,11 @@ weeks:
       content: "Discussion"
     - date: Fri 04/16
       content: "Lecture 34: (Asynchronous)The bias-variance tradeoff, Continued (section 11.1, 11.2)"
-
+      assignments:
+      - name: "Lecture 34 Notes"
+        url: http://stat88.org/assets/notes/Lec34.pdf
+      - name: "Lecture 34 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-34-friday-april-16
 
   - weekNum: 14
     weekName: The Error in a Regression Estimate
