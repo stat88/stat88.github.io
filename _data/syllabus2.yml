@@ -457,7 +457,7 @@ weeks:
     - date: Tues 04/13
       content: "Discussion"
     - date: Wed 04/14
-      content: "Lecture 33: Normal Distributions, Prediction: bias-variance (section 10.4, 11.1)"
+      content: "Lecture 33: Exponential Distribution (section 10.3)"
       assignments:
       - name: "Lecture 33 Notes"
         url: http://stat88.org/assets/notes/Lec33.pdf
@@ -466,7 +466,7 @@ weeks:
     - date: Thu 04/15
       content: "Discussion"
     - date: Fri 04/16
-      content: "Lecture 34: (Asynchronous)The bias-variance tradeoff, Continued (section 11.1, 11.2)"
+      content: "Lecture 34: (Asynchronous) Exponential Distribution, Normal Distribution (section 10.3, 10.4)"
       assignments:
       - name: "Lecture 34 Notes"
         url: http://stat88.org/assets/notes/Lec34.pdf
