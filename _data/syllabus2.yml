@@ -478,9 +478,10 @@ weeks:
     weekDuration: 04/19-04/23
     basic:
     - date: Mon 04/19
-      content: "Lecture 35: Correlation (section 11.3, 11.4)"
-      # assignments:
-      # - name: HW 13 (Due Mon 04/26 at noon)
+      content: "Lecture 35: Normal Distribution, Bias-variance Tradeoff (section 10.4, 11.1)"
+      assignments:
+      - name: "Lecture 35 Notes"
+        url: http://stat88.org/assets/notes/Lec35.pdf
     - date: Tues 04/20
       content: "Discussion"
     - date: Wed 04/21
