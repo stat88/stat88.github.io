@@ -482,14 +482,16 @@ weeks:
       assignments:
       - name: "Lecture 35 Notes"
         url: http://stat88.org/assets/notes/Lec35.pdf
+      - name: "Lecture 35 Video"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-35-monday-april-19
     - date: Tues 04/20
       content: "Discussion"
     - date: Wed 04/21
-      content: "Lecture 36: The regression estimates, effect and fallacy (section 11.4, 11.5)"
+      content: "Lecture 36: German Tank Problem, Least Squares Linear Regression (section 11.1, 11.2, 11.3)"
     - date: Thu 04/22
       content: "Discussion"
     - date: Fri 04/23
-      content: "Lecture 37: The regression model for data (section 12.1)"
+      content: "Lecture 37: Regression, Correlation (section 11.3, 11.4)"
 
 
   - weekNum: 15
