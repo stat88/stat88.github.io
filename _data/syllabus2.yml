@@ -484,6 +484,8 @@ weeks:
         url: http://stat88.org/assets/notes/Lec35.pdf
       - name: "Lecture 35 Video"
         url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-35-monday-april-19
+      - name: "HW 12 (Due Mon 04/26 at 11:59 PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp21&branch=master&subPath=Homework_12.ipynb
     - date: Tues 04/20
       content: "Discussion"
     - date: Wed 04/21
