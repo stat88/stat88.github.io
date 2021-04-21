@@ -490,6 +490,9 @@ weeks:
       content: "Discussion"
     - date: Wed 04/21
       content: "Lecture 36: German Tank Problem, Least Squares Linear Regression (section 11.1, 11.2, 11.3)"
+      assignments:
+      - name: "Lecture 36 Notes"
+        url: http://stat88.org/assets/notes/Lec36.pdf
     - date: Thu 04/22
       content: "Discussion"
     - date: Fri 04/23
