@@ -501,7 +501,9 @@ weeks:
       content: "Discussion"
     - date: Fri 04/23
       content: "Lecture 37: Regression, Correlation (section 11.3, 11.4)"
-
+      assignments:
+      - name: "Lecture 37 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec37-pre-lec.pdf
 
   - weekNum: 15
     weekName: Inference in Regression
