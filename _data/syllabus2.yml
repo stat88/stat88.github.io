@@ -515,6 +515,10 @@ weeks:
     basic:
     - date: Mon 04/26
       content: "Lecture 38: Inference for the true slope in the regression model (section 12.2, section 12.3)"
+      - name: "Lecture 38 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec38-pre-lec.pdf
+      - name: "Lecture 38 Notes"
+        url: http://stat88.org/assets/notes/Lec38.pdf
     - date: Tues 04/27
       content: "Discussion"
     - date: Wed 04/28
