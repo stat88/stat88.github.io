@@ -500,7 +500,7 @@ weeks:
     - date: Thu 04/22
       content: "Discussion"
     - date: Fri 04/23
-      content: "Lecture 37: Regression (section 11.3, 11.4)"
+      content: "Lecture 37: Regression (section 11.3)"
       assignments:
       - name: "Lecture 37 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec37-pre-lec.pdf
