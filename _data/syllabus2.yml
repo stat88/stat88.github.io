@@ -528,6 +528,9 @@ weeks:
       content: "Discussion"
     - date: Wed 04/28
       content: "Lecture 39: Conclusion"
+      assignments:
+      - name: "Lecture 39 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec39-pre-lec.pdf
     - date: Thu 04/29
       content: "Discussion"
     - date: Fri 04/30
