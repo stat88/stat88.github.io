@@ -539,3 +539,6 @@ weeks:
       content: "Discussion"
     - date: Fri 04/30
       content: "Lecture 40: Review"
+      assignments:
+      - name: "Lecture 40 Pre-lecture Notes"
+        url: http://stat88.org/assets/notes/Lec40-pre-lec.pdf
