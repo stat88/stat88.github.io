@@ -542,3 +542,7 @@ weeks:
       assignments:
       - name: "Lecture 40 Pre-lecture Notes"
         url: http://stat88.org/assets/notes/Lec40-pre-lec.pdf
+      - name: "Lecture 40 Notes"
+        url: http://stat88.org/assets/notes/Lec40.pdf
+      - name: "Lecture 40 Lecture"
+        url: https://bcourses.berkeley.edu/courses/1502780/pages/lecture-40-friday-april-30
