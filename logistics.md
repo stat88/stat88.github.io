@@ -48,7 +48,7 @@ In the calculation of your overall score, we will drop
 - your two lowest homework scores
 - your two lowest weekly quiz scores
 
-Course grades will be assigned using the following weights: 24% Homework, 12% Weekly Quizzes, 24% Midterm, 40% Final. We will **clobber your midterm** score with your final score if doing so results in a higher grade.
+Course grades will be assigned using the following weights: 28% Homework, 12% Weekly Quizzes, 20% Midterm, 40% Final. We will **clobber your midterm** score with your final score if doing so results in a higher grade.
 
 
 ### Comments and Suggestions ###
