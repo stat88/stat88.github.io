@@ -9,7 +9,7 @@ weeks:
       - name: "Lecture 1 Video"
         url: https://kaf.berkeley.edu/media/t/1_va563g8m/216799713
       - name: "Lecture 1 Notes"
-        url: http://stat88.org/assets/notes/Lec1.pdf
+        url: http://stat88.org/assets/notes/lecture1.pdf
       - name: "HW 1 (Due Wed 06/30 at 11:59 PM PDT)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_1.ipynb
     - date: Tues 06/22
