@@ -13,7 +13,7 @@ weeks:
     - date: Tues 06/22
       content: "Discussion"
       assignments:
-      - name "Discussion 1 Video"
+      - name: "Discussion 1 Video"
         url: https://bcourses.berkeley.edu/courses/1505936/external_tools/70734
     - date: Wed 06/23
       content: "Lecture 2: Simple Random Sample and Bayes' Rule (Sections 2.2, 2.3, 2.4)"
