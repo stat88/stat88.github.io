@@ -12,6 +12,9 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_1.ipynb
     - date: Tues 06/22
       content: "Discussion"
+      assignments:
+      - name "Discussion 1 Video"
+        url: https://bcourses.berkeley.edu/courses/1505936/external_tools/70734
     - date: Wed 06/23
       content: "Lecture 2: Simple Random Sample and Bayes' Rule (Sections 2.2, 2.3, 2.4)"
     - date: Thu 06/24
