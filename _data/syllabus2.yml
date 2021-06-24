@@ -19,6 +19,11 @@ weeks:
         url: https://kaf.berkeley.edu/media/t/1_q032wtfl/216799713
     - date: Wed 06/23
       content: "Lecture 2: Simple Random Sample and Bayes' Rule (Sections 2.2, 2.3, 2.4)"
+      assignments:
+      - name: "Lecture 2 Video"
+        url: processing
+      - name: "Lecture 2 Notes"
+        url: http://stat88.org/assets/notes/lecture2.pdf
     - date: Thu 06/24
       content: "Discussion"
     - date: Fri 06/25
