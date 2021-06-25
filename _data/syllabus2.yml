@@ -26,6 +26,11 @@ weeks:
         url: http://stat88.org/assets/notes/lecture2.pdf
     - date: Thu 06/24
       content: "Discussion"
+      assignments:
+      - name: "Discussion 2 Video"
+        url: https://kaf.berkeley.edu/media/t/1_sos2m39j/216799713
+      - name: "Discussion 2 Notes"
+        url: https://bcourses.berkeley.edu/courses/1505936/files?preview=80702985
     - date: Fri 06/25
       content: "Lecture 3: Independence, Random Variables (Sections 2.5, 3.2, 3.3)"
       
