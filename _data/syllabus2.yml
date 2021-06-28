@@ -45,15 +45,17 @@ weeks:
     weekDuration: 06/28-07/02
     basic:
     - date: Mon 06/28
-      content: "Lecture 4: Binomial and Hypergeometric (Sec 3.3, 3.4, 3.5)"
+      content: "No class today"
       assignments:
       - name: HW 2 (Due Wed 07/07 at 11:59 PM PDT)
     - date: Tues 06/29
       content: "Discussion"
     - date: Wed 06/30
-      content: "Lecture 5: CDF, Exponential (Sec 4.1, 4.2, 4.3)"
+      content: "Lecture 4: Binomial and Hypergeometric (Sec 3.3, 3.4, 3.5)"
     - date: Thu 07/01
       content: "Discussion"
     - date: Fri 07/02
-      content: "Lecture 6: Poisson, Expectation (Sec 4.4, 5.1, 5.2)"
+      content: "Lecture 5: CDF, Exponential (Sec 4.1, 4.2, 4.3)"
+      
+      #"Lecture 6: Poisson, Expectation (Sec 4.4, 5.1, 5.2)"
 
