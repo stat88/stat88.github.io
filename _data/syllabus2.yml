@@ -32,7 +32,7 @@ weeks:
       - name: "Discussion 2 Notes"
         url: https://bcourses.berkeley.edu/courses/1505936/files?preview=80702985
     - date: Fri 06/25
-      content: "Lecture 3: Independence, Random Variables (Sections 2.5, 3.2, 3.3, 3.4)"
+      content: "Lecture 3: Independence, Discrete Random Variables (Sections 2.5, 3.2, 3.3, 3.4, 4.2)"
       assignments:
       - name: "Lecture 3 Video"
         url: https://kaf.berkeley.edu/media/t/1_mzqnwcf6/216799713
@@ -52,11 +52,11 @@ weeks:
     - date: Tues 06/29
       content: "Discussion"
     - date: Wed 06/30
-      content: "Lecture 4: Binomial and Hypergeometric (Sec 3.3, 3.4, 3.5)"
+      content: "Lecture 4: Examples and Introduction to Python Programming (Sections 3.3, 3.4, 3.5, 4.1, 4.2)"
     - date: Thu 07/01
       content: "Discussion"
     - date: Fri 07/02
-      content: "Lecture 5: CDF, Exponential (Sec 4.1, 4.2, 4.3)"
+      content: "Lecture 5: Continuous Random Variables and Expectations (Sections 4.3, 4.4, 5.1, 5.2)"
       
       #"Lecture 6: Poisson, Expectation (Sec 4.4, 5.1, 5.2)"
 
