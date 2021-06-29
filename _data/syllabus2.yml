@@ -47,7 +47,7 @@ weeks:
     - date: Mon 06/28
       content: "No class today"
       assignments:
-      - name: HW 2 (Due Wed 07/07 at 11:59 PM PDT)
+      - name: "HW 2 (Due Wed 07/07 at 11:59 PM PDT)"
       - url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_2
     - date: Tues 06/29
       content: "Discussion"
