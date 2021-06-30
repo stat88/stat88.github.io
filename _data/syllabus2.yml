@@ -51,6 +51,9 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_2
     - date: Tues 06/29
       content: "Discussion"
+      assignments:
+      - name: "Discussion 3 Video"
+        url: https://kaf.berkeley.edu/media/t/1_ccc4dcls/216799713
     - date: Wed 06/30
       content: "Lecture 4: Examples and Introduction to Python Programming (Sections 3.3, 3.4, 3.5, 4.1, 4.2)"
     - date: Thu 07/01
