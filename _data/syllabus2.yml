@@ -61,6 +61,8 @@ weeks:
         url: https://kaf.berkeley.edu/media/t/1_n3jkgkl9/216799713
       - name: "Lecture 4 Notes"
         url: http://stat88.org/assets/notes/lecture4.pdf
+      - name: "Lecture 4 Notebook"
+        url: http://stat88.org/assets/notes/Lecture_4.ipynb
     - date: Thu 07/01
       content: "Discussion"
     - date: Fri 07/02
