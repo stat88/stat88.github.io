@@ -69,11 +69,31 @@ weeks:
       - name: "Discussion 4 Video"
         url: https://kaf.berkeley.edu/media/t/1_9s55zr9e/216799713
     - date: Fri 07/02
-      content: "Lecture 5: Exponential Approximation, Poisson Distribution and Expectations (Sections 4.3, 4.4, 5.1, 5.2)"assignments:
+      content: "Lecture 5: Exponential Approximation, Poisson Distribution and Expectations (Sections 4.3, 4.4, 5.1, 5.2)"
+      assignments:
       - name: "Lecture 5 Video"
         url: https://kaf.berkeley.edu/media/t/1_oqsostr2/216799713
       - name: "Lecture 5 Notes"
         url: http://stat88.org/assets/notes/lecture5.pdf
+ 
+  - weekNum: 3
+    weekName: Expectation and Variance
+    weekDuration: 07/05-07/09
+    basic:
+    - date: Mon 07/05
+      content: "No class today"
+      assignments:
+      - name: "HW 3 (Due Wed 07/14 at 11:59 PM PDT)"
+    - date: Tues 07/06
+      content: "Discussion"
+    - date: Wed 07/07
+      content: "Lecture 6: Expectation and Conditional Expectation (Sections 5.3, 5.5, 5.6)"
+    - date: Thu 07/08
+      content: "Discussion"
+    - date: Fri 07/02
+      content: "Lecture 7: Variance (Sections 6.1, 6.2)"
+
+   
       
       #"Lecture 6: Poisson, Expectation (Sec 4.4, 5.1, 5.2)"
 
