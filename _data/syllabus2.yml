@@ -84,6 +84,7 @@ weeks:
       content: "No class today"
       assignments:
       - name: "HW 3 (Due Wed 07/14 at 11:59 PM PDT)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_3
     - date: Tues 07/06
       content: "Discussion"
     - date: Wed 07/07
