@@ -94,10 +94,13 @@ weeks:
       content: "Lecture 6: Expectation and Conditional Expectation (Sections 5.3, 5.5, 5.6)"
     - date: Thu 07/08
       content: "Discussion"
-    - date: Fri 07/02
+      assignments:
+      - name: "Discussion 6 Video"
+        url: https://berkeley.zoom.us/rec/share/dUQCkIOpU45pz1sv3Tyk6j2U2YW5L-RWA66LfVShY5uQ7VDsLOfS6ybk-NCYfWHs.QWXjGUcqvPd-raKX
+    - date: Fri 07/09
       content: "Lecture 7: Variance (Sections 6.1, 6.2)"
 
-   
+
       
       #"Lecture 6: Poisson, Expectation (Sec 4.4, 5.1, 5.2)"
 
