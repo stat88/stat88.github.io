@@ -103,7 +103,12 @@ weeks:
       - name: "Discussion 6 Video"
         url: https://berkeley.zoom.us/rec/share/dUQCkIOpU45pz1sv3Tyk6j2U2YW5L-RWA66LfVShY5uQ7VDsLOfS6ybk-NCYfWHs.QWXjGUcqvPd-raKX
     - date: Fri 07/09
-      content: "Lecture 7: Variance (Sections 6.1, 6.2)"
+      content: "Lecture 7: Variance, Markov's inequality (Sections 6.1, 6.2, 6.3)"
+      assignments:
+      - name: "Lecture 7 Video"
+        url: https://kaf.berkeley.edu/media/t/1_rcnpiqxj/216799713
+      - name: "Lecture 7 Notes"
+        url: http://stat88.org/assets/notes/lecture7.pdf
 
 
       
