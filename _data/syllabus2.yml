@@ -110,7 +110,32 @@ weeks:
       - name: "Lecture 7 Notes"
         url: http://stat88.org/assets/notes/lecture7.pdf
 
+  - weekNum: 4
+    weekName: Midterm
+    weekDuration: 07/12-07/16
+    basic:
+    - date: Mon 07/12
+      content: Midterm Review
+      assignments:
+      - name: "No HW this week"
+    - date: Tues 07/13
+      content: "Discussion"
+    - date: Wed 07/14
+      content: "Midterm Review 2"
+    - date: Thu 07/15
+      content: "Discussion"
+    - date: Fri 07/16
+      content: "Midterm"
+      assignments:
+      - name: "20 spring midterm"
+        url: http://stat88.org/assets/midterm/sp20_midterm.pdf
+      - name: "20 spring midterm solution"
+        url: http://stat88.org/assets/midterm/sp20_midterm_solns.pdf
+      - name: "19 fall midterm"
+        url: http://stat88.org/assets/midterm/fa19_midterm.pdf
+      - name: "19 fall midterm solution"
+        url: http://stat88.org/assets/midterm/fa19_midterm_solns.pdf
 
-      
-      #"Lecture 6: Poisson, Expectation (Sec 4.4, 5.1, 5.2)"
+
+
 
