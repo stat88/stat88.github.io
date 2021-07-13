@@ -101,7 +101,7 @@ weeks:
       content: "Discussion"
       assignments:
       - name: "Discussion 6 Video"
-        url: https://berkeley.zoom.us/rec/share/dUQCkIOpU45pz1sv3Tyk6j2U2YW5L-RWA66LfVShY5uQ7VDsLOfS6ybk-NCYfWHs.QWXjGUcqvPd-raKX
+        url: https://kaf.berkeley.edu/media/t/1_9k15r909/216799713
     - date: Fri 07/09
       content: "Lecture 7: Variance, Markov's inequality (Sections 6.1, 6.2, 6.3)"
       assignments:
@@ -119,7 +119,10 @@ weeks:
       assignments:
       - name: "No HW this week"
     - date: Tues 07/13
-      content: "Discussion"
+      content: "Discussion 7"
+      assignments:
+      - name: "Discussion 7 Video"
+        url: https://kaf.berkeley.edu/media/t/1_8t9c19cu/216799713
     - date: Wed 07/14
       content: "Midterm Review 2"
     - date: Thu 07/15
