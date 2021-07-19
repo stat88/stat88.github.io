@@ -150,7 +150,20 @@ weeks:
       - name: "more questions' solution"
         url: http://stat88.org/assets/midterm/midterm_prep_problems_solns.pdf
 
-
+  - weekNum: 5
+    weekName: CLT and Inference
+    weekDuration: 07/19-07/23
+    basic:
+    - date: Mon 07/19
+      content: "Lecture 9: Variance of a sum (Sections 6.4, 7.1, 7.2, 7.3)"
+    - date: Tues 07/20
+      content: "Discussion 8"
+    - date: Wed 07/21
+      content: "Lecture 10: The Central Limit Theorem (Sections 8.1, 8.2, 8.3, 8.4)"
+    - date: Thu 07/22
+      content: "Discussion 9"
+    - date: Fri 07/23
+      content: "Lecture 11: Inference (Sections 9.1, 9.2, 9.3)"
 
 
 
