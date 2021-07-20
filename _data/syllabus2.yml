@@ -161,6 +161,9 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_4
     - date: Tues 07/20
       content: "Discussion 8"
+      assignments:
+      - name: "Discussion 8 Video"
+        url: https://kaf.berkeley.edu/media/t/1_ehgwbct5/216799713
     - date: Wed 07/21
       content: "Lecture 10: The Central Limit Theorem (Sections 8.1, 8.2, 8.3, 8.4)"
     - date: Thu 07/22
