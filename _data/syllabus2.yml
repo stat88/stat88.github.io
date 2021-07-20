@@ -156,6 +156,9 @@ weeks:
     basic:
     - date: Mon 07/19
       content: "Lecture 9: Variance of a sum (Sections 6.4, 7.1, 7.2, 7.3)"
+      assignments:
+      - name: "HW 4 (Due Wed 07/28 at 11:59 PM PDT)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_4
     - date: Tues 07/20
       content: "Discussion 8"
     - date: Wed 07/21
