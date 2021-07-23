@@ -170,6 +170,11 @@ weeks:
         url: https://kaf.berkeley.edu/media/t/1_ehgwbct5/216799713
     - date: Wed 07/21
       content: "Lecture 10: The Central Limit Theorem (Sections 8.1, 8.2, 8.3, 8.4)"
+      assignments:
+      - name: "Lecture 10 Video"
+        url: https://kaf.berkeley.edu/media/t/1_px7j0sif/216799713
+      - name: "Lecture 10 Notes"
+        url: http://stat88.org/assets/notes/lecture9.pdf
     - date: Thu 07/22
       content: "Discussion 9"
     - date: Fri 07/23
