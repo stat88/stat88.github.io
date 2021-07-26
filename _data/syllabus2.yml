@@ -190,7 +190,19 @@ weeks:
       - name: "Lecture 11 Notes"
         url: http://stat88.org/assets/notes/lecture11.pdf
 
-
-
+  - weekNum: 6
+    weekName: Continuous Random Variables
+    weekDuration: 07/26-07/30
+    basic:
+    - date: Mon 07/26
+      content: "Lecture 12: Density (Sections 9.4, 10.1, 10.2)"
+    - date: Tues 07/27
+      content: "Discussion 10"
+    - date: Wed 07/28
+      content: "Lecture 13: Exponential and Normal (Sections 10.3, 10.4)"
+    - date: Thu 07/29
+      content: "Discussion 11"
+    - date: Fri 07/30
+      content: "Lecture 14: Unbiased Estimation and Bias (Sections 5.4, 11.1)"
 
 
