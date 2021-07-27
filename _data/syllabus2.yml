@@ -201,6 +201,9 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_5
     - date: Tues 07/27
       content: "Discussion 10"
+      assignments:
+      - name: "Discussion 10 Video"
+        url: https://kaf.berkeley.edu/media/t/1_hnti4bul/216799713
     - date: Wed 07/28
       content: "Lecture 13: Exponential and Normal (Sections 10.3, 10.4)"
     - date: Thu 07/29
