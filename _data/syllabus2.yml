@@ -199,6 +199,10 @@ weeks:
       assignments:
       - name: "Homework 5 (Due Wed 08/04 at 11:59 PM PDT)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_5
+      - name: "Lecture 12 Video"
+        url: https://kaf.berkeley.edu/media/t/1_gz747y46/216799713
+      - name: "Lecture 12 Notes"
+        url: http://stat88.org/assets/notes/lecture12.pdf
     - date: Tues 07/27
       content: "Discussion 10"
       assignments:
