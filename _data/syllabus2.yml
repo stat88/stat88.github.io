@@ -212,6 +212,7 @@ weeks:
       content: "Lecture 13: Exponential and Normal (Sections 10.3, 10.4)"
     - date: Thu 07/29
       content: "Discussion 11"
+      assignments:
       - name: "Discussion 11 Video"
         url: https://kaf.berkeley.edu/media/t/1_1syruii5/216799713
     - date: Fri 07/30
