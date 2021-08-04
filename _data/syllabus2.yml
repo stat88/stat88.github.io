@@ -229,3 +229,37 @@ weeks:
         url: http://stat88.org/assets/notes/lecture14.pdf
 
 
+  - weekNum: 7
+    weekName: Least Square and Linear Regression
+    weekDuration: 08/01-08/05
+    basic:
+    - date: Mon 08/01
+      content: "Lecture 15: Sample Variance and Least Square (Sections 11.3)"
+      assignments:
+      - name: "Homework 6 (Due Wed 08/011 at 11:59 PM PDT)"
+        url: 
+      - name: "Lecture 15 Video"
+        url: https://kaf.berkeley.edu/media/t/1_gz747y46/216799713
+      - name: "Lecture 15 Notes"
+        url: http://stat88.org/assets/notes/lecture15.pdf
+    - date: Tues 08/02
+      content: "Discussion 12"
+      assignments:
+      - name: "Discussion 12 Video"
+    - date: Wed 08/03
+      content: "Lecture 16: Correlation, Error and Simple Linear Regression Model (Sec 11.4, 11.5, 12.1)"
+      assignments:
+      - name: "Lecture 16 Video"
+      - name: "Lecture 16 Notes"
+        url: http://stat88.org/assets/notes/lecture16.pdf
+    - date: Thu 08/04
+      content: "Discussion 13"
+      assignments:
+      - name: "Discussion 13 Video"
+    - date: Fri 07/30
+      content: "Lecture 17: Estimated Slope in Simple Linear Regression (Sections 12.2, 12.3)"
+      - name: "Lecture 17 Video"
+      - name: "Lecture 17 Notes"
+        url: http://stat88.org/assets/notes/lecture17.pdf
+
+
