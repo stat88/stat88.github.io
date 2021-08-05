@@ -231,34 +231,35 @@ weeks:
 
   - weekNum: 7
     weekName: Least Square and Linear Regression
-    weekDuration: 08/01-08/05
+    weekDuration: 08/02-08/06
     basic:
-    - date: Mon 08/01
+    - date: Mon 08/02
       content: "Lecture 15: Sample Variance and Least Square (Sections 11.3)"
       assignments:
-      - name: "Homework 6 (Due Wed 08/011 at 11:59 PM PDT)"
-        url: 
+      - name: "Homework 6 (Due Wed 08/11 at 11:59 PM PDT)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_6
       - name: "Lecture 15 Video"
         url: https://kaf.berkeley.edu/media/t/1_bbabl32y/216799713
       - name: "Lecture 15 Notes"
         url: http://stat88.org/assets/notes/lecture15.pdf
-    - date: Tues 08/02
+    - date: Tues 08/03
       content: "Discussion 12"
       assignments:
       - name: "Discussion 12 Video"
-    - date: Wed 08/03
+        url: https://kaf.berkeley.edu/media/t/1_8u3m7myv/216799713
+    - date: Wed 08/04
       content: "Lecture 16: Correlation, Error and Simple Linear Regression Model (Sec 11.4, 11.5, 12.1)"
       assignments:
-      - name: "Lecture 16 Video"
       - name: "Lecture 16 Notes"
         url: http://stat88.org/assets/notes/lecture16.pdf
-    - date: Thu 08/04
+    - date: Thu 08/05
       content: "Discussion 13"
       assignments:
       - name: "Discussion 13 Video"
-    - date: Fri 07/30
+        url: https://kaf.berkeley.edu/media/t/1_ebezwpsn/216799713
+    - date: Fri 08/06
       content: "Lecture 17: Estimated Slope in Simple Linear Regression (Sections 12.2, 12.3)"
-      - name: "Lecture 17 Video"
+      assignments:
       - name: "Lecture 17 Notes"
         url: http://stat88.org/assets/notes/lecture17.pdf
 
