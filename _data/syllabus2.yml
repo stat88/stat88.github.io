@@ -266,3 +266,31 @@ weeks:
         url: http://stat88.org/assets/notes/lecture17.pdf
 
 
+  - weekNum: 8
+    weekName: Final
+    weekDuration: 08/09-08/13
+    basic:
+    - date: Mon 08/09
+      content: Final Review
+    - date: Tues 08/10
+      content: "Discussion 14"
+    - date: Wed 08/11
+      content: "Final Q&A"
+    - date: Thu 08/12
+      content: "Discussion 15"
+    - date: Fri 08/13
+      content: "Final"
+      assignments:
+      - name: "20 fall final"
+        url: http://stat88.org/assets/exams/fa20_final.pdf
+      - name: "20 fall final solution"
+        url: http://stat88.org/assets/exams/fa20_final_sol.pdf
+      - name: "20 spring final"
+        url: http://stat88.org/assets/exams/sp20_final.pdf
+      - name: "20 spring final solution"
+        url: http://stat88.org/assets/exams/sp20_final_solns.pdf
+      - name: "19 fall final"
+        url: http://stat88.org/assets/exams/fa19_final.pdf
+      - name: "19 fall final solution"
+        url: http://stat88.org/assets/exams/fa19_final_solns.pdf
+
