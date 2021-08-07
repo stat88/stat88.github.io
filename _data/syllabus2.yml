@@ -262,9 +262,10 @@ weeks:
     - date: Fri 08/06
       content: "Lecture 17: Estimated Slope in Simple Linear Regression (Sections 12.2, 12.3)"
       assignments:
+      - name: "Lecture 17 Video"
+        url: https://kaf.berkeley.edu/media/t/1_kqyb0cxz/216799713
       - name: "Lecture 17 Notes"
         url: http://stat88.org/assets/notes/lecture17.pdf
-
 
   - weekNum: 8
     weekName: Final
