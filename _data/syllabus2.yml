@@ -273,6 +273,9 @@ weeks:
     basic:
     - date: Mon 08/09
       content: Final Review
+      assignments:
+      - name: "Final Review Video"
+        url: https://kaf.berkeley.edu/media/t/1_yhchqkig/216799713
     - date: Tues 08/10
       content: "Discussion 14"
     - date: Wed 08/11
