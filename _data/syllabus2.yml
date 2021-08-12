@@ -297,4 +297,7 @@ weeks:
         url: http://stat88.org/assets/exams/fa19_final.pdf
       - name: "19 fall final solution"
         url: http://stat88.org/assets/exams/fa19_final_sol.pdf
+      - name: "midterm solution"
+        url: http://stat88.org/assets/midterm/su21_midterm_solns.pdf
+
 
