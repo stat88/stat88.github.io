@@ -292,9 +292,9 @@ weeks:
       - name: "20 spring final"
         url: http://stat88.org/assets/exams/sp20_final.pdf
       - name: "20 spring final solution"
-        url: http://stat88.org/assets/exams/sp20_final_solns.pdf
+        url: http://stat88.org/assets/exams/sp20_final_sol.pdf
       - name: "19 fall final"
         url: http://stat88.org/assets/exams/fa19_final.pdf
       - name: "19 fall final solution"
-        url: http://stat88.org/assets/exams/fa19_final_solns.pdf
+        url: http://stat88.org/assets/exams/fa19_final_sol.pdf
 
