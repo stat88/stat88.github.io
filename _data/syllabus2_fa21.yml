@@ -234,9 +234,9 @@ weeks:
     - date: Mon 10/11
       content: "Lecture 18: 7.1: Sum of Independent Random Variables"
       assignments:
-      - name: "Lecture 3 Notes"
+      - name: 
         url:
-      - name: "Lecture 3 Video"
+      - name: 
         url: 
     - date: Tues 10/12
       content: "Discussion"
