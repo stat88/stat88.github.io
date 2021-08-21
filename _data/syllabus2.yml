@@ -1,303 +1,498 @@
 weeks:
   - weekNum: 1
     weekName: Getting Started
-    weekDuration: 06/21-06/25
+    weekDuration: 08/23-08/27
     basic:
-    - date: Mon 06/21
-      content: "Lecture 1: Course Introduction and Basic Notation (Sections 1.1, 1.2, 1.3, 2.1)"
+    - date: Mon 08/23
+      content: "No school"
+    - date: Tues 08/24
+      content: "No school"
+    - date: Wed 08/25
+      content: "Lecture 1: Introduction and Syllabus, 1.1: Probabilities as Proportions"
       assignments:
-      - name: "Lecture 1 Video"
-        url: https://kaf.berkeley.edu/media/t/1_va563g8m/216799713
       - name: "Lecture 1 Notes"
-        url: http://stat88.org/assets/notes/lecture1.pdf
-      - name: "HW 1 (Due Wed 06/30 at 11:59 PM PDT)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_1
-    - date: Tues 06/22
+        url: stat88.org/assets/notes_fa21/lecture_01.pdf
+      - name: "Lecture 1 Video"
+        url: 
+      - name: "HW 1 (Due 9/1 11:59PM)"
+        url: 
+    - date: Thu 08/26
       content: "Discussion"
+    - date: Fri 08/27
+      content: "Lecture 2: 1.2: Exact Calculation and Bounds 1.3: Fundamental Rules"
       assignments:
-      - name: "Discussion 1 Video"
-        url: https://kaf.berkeley.edu/media/t/1_q032wtfl/216799713
-    - date: Wed 06/23
-      content: "Lecture 2: Simple Random Sample and Bayes' Rule (Sections 2.2, 2.3, 2.4)"
-      assignments:
-      - name: "Lecture 2 Video"
-        url: https://kaf.berkeley.edu/media/t/1_7kg73s9i/216799713
       - name: "Lecture 2 Notes"
-        url: http://stat88.org/assets/notes/lecture2.pdf
-    - date: Thu 06/24
-      content: "Discussion"
-      assignments:
-      - name: "Discussion 2 Video"
-        url: https://kaf.berkeley.edu/media/t/1_sos2m39j/216799713
-      - name: "Discussion 2 Notes"
-        url: https://bcourses.berkeley.edu/courses/1505936/files?preview=80702985
-    - date: Fri 06/25
-      content: "Lecture 3: Independence, Discrete Random Variables (Sections 2.5, 3.2, 3.3, 3.4, 4.2)"
-      assignments:
-      - name: "Lecture 3 Video"
-        url: https://kaf.berkeley.edu/media/t/1_mzqnwcf6/216799713
-      - name: "Lecture 3 Notes"
-        url: http://stat88.org/assets/notes/lecture3.pdf
-      
-      
+        url: stat88.org/assets/notes_fa21/lecture_02.pdf
+      - name: "Lecture 2 Video"
+        url: 
+        
+        
+        
   - weekNum: 2
-    weekName: Random Variables
-    weekDuration: 06/28-07/02
+    weekName: Conditioning
+    weekDuration: 08/30 - 09/03
     basic:
-    - date: Mon 06/28
-      content: "No class today"
-      assignments:
-      - name: "HW 2 (Due Wed 07/07 at 11:59 PM PDT)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_2
-    - date: Tues 06/29
+    - date: Mon 08/30
+      content: "Lecture 3: 2.1: The Chance of an Intersection"
+      assighnments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 08/31
       content: "Discussion"
+    - date: Wed 09/01
+      content: "Lecture 4: 2.2: Symmetry in Simple Random Sampling 2.3: Bayes Rule"
       assignments:
-      - name: "Discussion 3 Video"
-        url: https://kaf.berkeley.edu/media/t/1_ccc4dcls/216799713
-    - date: Wed 06/30
-      content: "Lecture 4: Examples and Introduction to Python Programming (Sections 3.3, 3.4, 3.5, 4.1, 4.2)"
-      assignments:
-      - name: "Lecture 4 Video"
-        url: https://kaf.berkeley.edu/media/t/1_n3jkgkl9/216799713
-      - name: "Lecture 4 Notes"
-        url: http://stat88.org/assets/notes/lecture4.pdf
-      - name: "Lecture 4 Notebook"
-        url: http://stat88.org/assets/notes/Lecture_4.ipynb
-    - date: Thu 07/01
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 09/02
       content: "Discussion"
+    - date: Fri 09/03
+      content: "Lecture 5: 2.4: Uses and Interpretations 2.5: Independence
       assignments:
-      - name: "Discussion 4 Video"
-        url: https://kaf.berkeley.edu/media/t/1_9s55zr9e/216799713
-    - date: Fri 07/02
-      content: "Lecture 5: Exponential Approximation, Poisson Distribution and Expectations (Sections 4.3, 4.4, 5.1, 5.2)"
-      assignments:
-      - name: "Lecture 5 Video"
-        url: https://kaf.berkeley.edu/media/t/1_oqsostr2/216799713
-      - name: "Lecture 5 Notes"
-        url: http://stat88.org/assets/notes/lecture5.pdf
- 
+      - name: 
+        url:
+      - name: 
+        url: 
+        
+        
+        
   - weekNum: 3
-    weekName: Expectation and Variance
-    weekDuration: 07/05-07/09
+    weekName: Random Variables
+    weekDuration: 09/06 - 09/10
     basic:
-    - date: Mon 07/05
-      content: "No class today"
-      assignments:
-      - name: "HW 3 (Due Wed 07/14 at 11:59 PM PDT)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_3
-    - date: Tues 07/06
+    - date: Mon 09/06
+      content: "No School"   
+    - date: Tues 09/07
       content: "Discussion"
+    - date: Wed 09/08
+      content: "Lecture 6: 3.1: Success and Failure 3.2: Random Variables"
       assignments:
-      - name: "Discussion 5 Video"
-        url: https://kaf.berkeley.edu/media/t/1_2o4cfui4/216799713
-    - date: Wed 07/07
-      content: "Lecture 6: Expectation and Conditional Expectation (Sections 5.3, 5.5, 5.6)"
-      assignments:
-      - name: "Lecture 6 Video"
-        url: https://kaf.berkeley.edu/media/t/1_yezmj7qb/216799713
-      - name: "Lecture 6 Notes"
-        url: http://stat88.org/assets/notes/lecture6.pdf
-    - date: Thu 07/08
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 09/09
       content: "Discussion"
-      assignments:
-      - name: "Discussion 6 Video"
-        url: https://kaf.berkeley.edu/media/t/1_9k15r909/216799713
-    - date: Fri 07/09
-      content: "Lecture 7: Variance, Markov's inequality (Sections 6.1, 6.2, 6.3)"
-      assignments:
-      - name: "Lecture 7 Video"
-        url: https://kaf.berkeley.edu/media/t/1_rcnpiqxj/216799713
-      - name: "Lecture 7 Notes"
-        url: http://stat88.org/assets/notes/lecture7.pdf
-
+    - date: Fri 09/10
+      content: "Lecture 7: 3.3: Binomial Distribution 3.2: Hypergeometric Distribution"
+      assignments: 
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
   - weekNum: 4
-    weekName: Midterm
-    weekDuration: 07/12-07/16
+    weekName: Random Variables and Expectation
+    weekDuration: 09/13-09/17
     basic:
-    - date: Mon 07/12
-      content: Midterm Review
+    - date: Mon 09/13
+      content:  "Lecture 8: 3.4 Examples"
       assignments:
-      - name: "No HW this week"
-      - name: "Lecture 8 Video"
-        url: https://kaf.berkeley.edu/media/t/1_hmoz7pj7/216799713
-      - name: "Lecture 8 Notes"
-        url: http://stat88.org/assets/notes/lecture8.pdf
-    - date: Tues 07/13
-      content: "Discussion 7"
-      assignments:
-      - name: "Discussion 7 Video"
-        url: https://kaf.berkeley.edu/media/t/1_8t9c19cu/216799713
-    - date: Wed 07/14
-      content: "Midterm Review 2"
-      assignments:
-      - name: "Textbook practice solutions (ch1-11)"
-        url: http://stat88.org/assets/textbook_solns.pdf
-    - date: Thu 07/15
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 09/14
       content: "Discussion"
-    - date: Fri 07/16
+    - date: Wed 09/15
+      content: "Lecture 9: 4.1 Cumulative Distribution Functions"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 09/16
+      content: "Discussion"
+    - date: Fri 09/17
+      content: "Lecture 10: 4.2: Waiting Times – Negative Binomial 4.3: Exponential Approximations"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 5
+    weekName: The Power of Additivity
+    weekDuration: 09/20-09/24
+    basic:
+    - date: Mon 09/20
+      content: "Lecture 11: 4.4: Poisson Distributions"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 09/21
+      content: "Discussion"
+    - date: Wed 09/22
+      content: "Lecture 12: 5.1: Definition 5.2: Functions of Random Variables"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 09/23
+      content: "Discussion"
+    - date: Fri 09/24
+      content: "Lecture 13: 5.2: Functions of Random Variables cont. 5.3: Methods of Indicators"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 6
+    weekName: Path to Prediction
+    weekDuration: 09/27-10/01
+    basic:
+    - date: Mon 09/27
+      content: "Lecture 14: 2.1: 5.3: Methods of Indicators cont. 5.4: Unbiased Estimators"
+      assignments:
+      - name: 
+        url:
+      - name:
+        url: 
+    - date: Tues 09/28
+      content: "Discussion"
+    - date: Wed 09/29
+      content: "Lecture 15: 5.5: Conditional Expectation 5.6: Expectation by Conditioning"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 09/30
+      content: "Discussion"
+    - date: Fri 10/01
+      content: "Midterm Review"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 7
+    weekName: Midterm Week
+    weekDuration: 10/04-10/08
+    basic:
+    - date: Mon 10/04
       content: "Midterm"
       assignments:
-      - name: "20 spring midterm"
-        url: http://stat88.org/assets/midterm/sp20_midterm.pdf
-      - name: "20 spring midterm solution"
-        url: http://stat88.org/assets/midterm/sp20_midterm_solns.pdf
-      - name: "19 fall midterm"
-        url: http://stat88.org/assets/midterm/fa19_midterm.pdf
-      - name: "19 fall midterm solution"
-        url: http://stat88.org/assets/midterm/fa19_midterm_solns.pdf
-      - name: "more questions"
-        url: http://stat88.org/assets/midterm/midterm_prep_problems.pdf
-      - name: "more questions' solution"
-        url: http://stat88.org/assets/midterm/midterm_prep_problems_solns.pdf
-
-  - weekNum: 5
-    weekName: CLT and Inference
-    weekDuration: 07/19-07/23
-    basic:
-    - date: Mon 07/19
-      content: "Lecture 9: Variance of a sum (Sections 6.4, 7.1, 7.2, 7.3)"
+      - name: 
+        url:
+      - name:
+        url: 
+    - date: Tues 10/05
+      content: "Discussion"
+    - date: Wed 10/06
+      content: "Lecture 16: 6.1: Variance and Standard Deviation 6.2: Simplifying the Calculation"
       assignments:
-      - name: "HW 4 (Due Wed 07/28 at 11:59 PM PDT)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_4
-      - name: "Lecture 9 Video"
-        url: https://kaf.berkeley.edu/media/t/1_0wu14y8v/216799713
-      - name: "Lecture 9 Notes"
-        url: http://stat88.org/assets/notes/lecture9.pdf
-    - date: Tues 07/20
-      content: "Discussion 8"
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 10/07
+      content: "Discussion"
+    - date: Fri 10/08
+      content: "Lecture 17: 6.3: Markov’s Inequality 6.4: Chebyshev's Inequality"
       assignments:
-      - name: "Discussion 8 Video"
-        url: https://kaf.berkeley.edu/media/t/1_ehgwbct5/216799713
-    - date: Wed 07/21
-      content: "Lecture 10: The Central Limit Theorem (Sections 8.1, 8.2, 8.3, 8.4)"
-      assignments:
-      - name: "Lecture 10 Video"
-        url: https://kaf.berkeley.edu/media/t/1_px7j0sif/216799713
-      - name: "Lecture 10 Notes"
-        url: http://stat88.org/assets/notes/lecture10.pdf
-    - date: Thu 07/22
-      content: "Discussion 9"
-      assignments:
-      - name: "Discussion 9 Part 1 Video"
-        url: https://kaf.berkeley.edu/media/t/1_ge8o2ofz/216799713
-      - name: "Discussion 9 Part 2 Video"
-        url: https://kaf.berkeley.edu/media/t/1_js8qsf5d/216799713
-    - date: Fri 07/23
-      content: "Lecture 11: Inference (Sections 9.1, 9.2, 9.3)"
-      assignments:
-      - name: "Lecture 11 Video"
-        url: https://kaf.berkeley.edu/media/t/1_bjvqrs56/216799713
-      - name: "Lecture 11 Notes"
-        url: http://stat88.org/assets/notes/lecture11.pdf
-
-  - weekNum: 6
-    weekName: Continuous Random Variables
-    weekDuration: 07/26-07/30
-    basic:
-    - date: Mon 07/26
-      content: "Lecture 12: Density (Sections 9.4, 10.1, 10.2)"
-      assignments:
-      - name: "Homework 5 (Due Wed 08/04 at 11:59 PM PDT)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_5
-      - name: "Lecture 12 Video"
-        url: https://kaf.berkeley.edu/media/t/1_gz747y46/216799713
-      - name: "Lecture 12 Notes"
-        url: http://stat88.org/assets/notes/lecture12.pdf
-    - date: Tues 07/27
-      content: "Discussion 10"
-      assignments:
-      - name: "Discussion 10 Video"
-        url: https://kaf.berkeley.edu/media/t/1_hnti4bul/216799713
-    - date: Wed 07/28
-      content: "Lecture 13: Exponential and Normal (Sections 10.3, 10.4)"
-      assignments:
-      - name: "Lecture 13 Video"
-        url: https://kaf.berkeley.edu/media/t/1_6l59bvzm/216799713
-      - name: "Lecture 13 Notes"
-        url: http://stat88.org/assets/notes/lecture13.pdf
-    - date: Thu 07/29
-      content: "Discussion 11"
-      assignments:
-      - name: "Discussion 11 Video"
-        url: https://kaf.berkeley.edu/media/t/1_1syruii5/216799713
-    - date: Fri 07/30
-      content: "Lecture 14: Unbiased Estimation and Bias (Sections 5.4, 11.1, 11.2)"
-      assignments:
-      - name: "Lecture 14 Video"
-        url: https://kaf.berkeley.edu/media/t/1_a7m2nc4r/216799713
-      - name: "Lecture 14 Notes"
-        url: http://stat88.org/assets/notes/lecture14.pdf
-
-
-  - weekNum: 7
-    weekName: Least Square and Linear Regression
-    weekDuration: 08/02-08/06
-    basic:
-    - date: Mon 08/02
-      content: "Lecture 15: Sample Variance and Least Square (Sections 11.3)"
-      assignments:
-      - name: "Homework 6 (Due Wed 08/11 at 11:59 PM PDT)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su21&branch=master&subPath=Homework_6
-      - name: "Lecture 15 Video"
-        url: https://kaf.berkeley.edu/media/t/1_bbabl32y/216799713
-      - name: "Lecture 15 Notes"
-        url: http://stat88.org/assets/notes/lecture15.pdf
-    - date: Tues 08/03
-      content: "Discussion 12"
-      assignments:
-      - name: "Discussion 12 Video"
-        url: https://kaf.berkeley.edu/media/t/1_8u3m7myv/216799713
-    - date: Wed 08/04
-      content: "Lecture 16: Correlation, Error and Simple Linear Regression Model (Sec 11.4, 11.5, 12.1)"
-      assignments:
-      - name: "Lecture 16 Video"
-        url: https://kaf.berkeley.edu/media/t/1_lpjg1fva/216799713
-      - name: "Lecture 16 Notes"
-        url: http://stat88.org/assets/notes/lecture16.pdf
-    - date: Thu 08/05
-      content: "Discussion 13"
-      assignments:
-      - name: "Discussion 13 Video"
-        url: https://kaf.berkeley.edu/media/t/1_ebezwpsn/216799713
-    - date: Fri 08/06
-      content: "Lecture 17: Estimated Slope in Simple Linear Regression (Sections 12.2, 12.3)"
-      assignments:
-      - name: "Lecture 17 Video"
-        url: https://kaf.berkeley.edu/media/t/1_kqyb0cxz/216799713
-      - name: "Lecture 17 Notes"
-        url: http://stat88.org/assets/notes/lecture17.pdf
-
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
   - weekNum: 8
-    weekName: Final
-    weekDuration: 08/09-08/13
+    weekName: Variability
+    weekDuration: 10/11-10/15
     basic:
-    - date: Mon 08/09
-      content: Final Review
+    - date: Mon 10/11
+      content: "Lecture 18: 7.1: Sum of Independent Random Variables"
       assignments:
-      - name: "Final Review Video"
-        url: https://kaf.berkeley.edu/media/t/1_yhchqkig/216799713
-    - date: Tues 08/10
-      content: "Discussion 14"
-    - date: Wed 08/11
-      content: "Final Q&A"
-    - date: Thu 08/12
-      content: "Discussion 15"
-    - date: Fri 08/13
-      content: "Final"
+      - name: "Lecture 3 Notes"
+        url:
+      - name: "Lecture 3 Video"
+        url: 
+    - date: Tues 10/12
+      content: "Discussion"
+    - date: Wed 10/13
+      content: "Lecture 19: 7.2: Sampling without Replacement 7.3: Law of Averages"
       assignments:
-      - name: "20 fall final"
-        url: http://stat88.org/assets/exams/fa20_final.pdf
-      - name: "20 fall final solution"
-        url: http://stat88.org/assets/exams/fa20_final_sol.pdf
-      - name: "20 spring final"
-        url: http://stat88.org/assets/exams/sp20_final.pdf
-      - name: "20 spring final solution"
-        url: http://stat88.org/assets/exams/sp20_final_sol.pdf
-      - name: "19 fall final"
-        url: http://stat88.org/assets/exams/fa19_final.pdf
-      - name: "19 fall final solution"
-        url: http://stat88.org/assets/exams/fa19_final_sol.pdf
-      - name: "midterm solution"
-        url: http://stat88.org/assets/midterm/su21_midterm_solns.pdf
-
-
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 10/14
+      content: "Discussion"
+    - date: Fri 10/15
+      content: "Lecture 20: 8.1: Distribution of the Sample Sum (and the Sample Mean)"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 9
+    weekName: Large Random Samples
+    weekDuration: 10/18-10/22
+    basic:
+    - date: Mon 10/18
+      content: "Lecture 21: 8.2: Standard Normal Curve"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 10/19
+      content: "Discussion"
+    - date: Wed 10/20
+      content: "Lecture 22: 8.3: Normal Approximation 8.4: How Large is Large"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 10/21
+      content: "Discussion"
+    - date: Fri 10/22
+      content: "Lecture 23: 9.1: Testing Hypotheses"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 10
+    weekName: Fundamentals of Inference
+    weekDuration: 10/25-10/29
+    basic:
+    - date: Mon 10/25
+      content: "Lecture 24: 9.2: A/B Testing: Fisher's Exact Test"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 10/26
+      content: "Discussion"
+    - date: Wed 10/27
+      content: "Lecture 25: 9.3: Confidence Intervals: Method"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 10/28
+      content: "Discussion"
+    - date: Fri 10/29
+      content: "Lecture 26: 9.4: Confidence Intervals: Interpretation"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 11
+    weekName: Continuous Distributions
+    weekDuration: 11/01-11/05
+    basic:
+    - date: Mon 11/01
+      content: "Lecture 27: 10.1: Density 10.2: Expectation and Variance"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 11/02
+      content: "Discussion"
+    - date: Wed 11/03
+      content: "Lecture 28: 10.3: Exponential Distribution"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 11/04
+      content: "Discussion"
+    - date: Fri 11/05
+      content: "Lecture 29: 10.4: Normal Distribution"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 12
+    weekName: Bias and Variance
+    weekDuration: 11/08-11/12
+    basic:
+    - date: Mon 11/08
+      content: "Lecture 30: 11.1: Bias and Variance Section 11.2: The German Tank Problem"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 11/09
+      content: "Discussion"
+    - date: Wed 11/10
+      content: "Lecture 31: 11.3: Least Squares Regression"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 11/11
+      content: "Discussion"
+    - date: Fri 11/12
+      content: "Lecture 32: 11.4: Bounds on Correlation"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 13
+    weekName: Instroduction to Regression
+    weekDuration: 11/15-11/19
+    basic:
+    - date: Mon 11/15
+      content: "Lecture 33: 11.5: The Error in Regression"
+      assignments:
+      - name: 
+        url:
+      - name:
+        url: 
+    - date: Tues 11/16
+      content: "Discussion"
+    - date: Wed 11/17
+      content: "Lecture 34: 12.1: The Simple Linear Regression Model"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 11/18
+      content: "Discussion"
+    - date: Fri 11/19
+      content: "Lecture 35: 12.1: The Simple Linear Regression Model cont."
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 14
+    weekName: The Error in a Regression Estimate
+    weekDuration: 11/22-11/26
+    basic:
+    - date: Mon 11/22
+      content: "Lecture 36: 12.2: The Distribution of the Estimated Slope"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 11/23
+      content: "Discussion"
+    - date: Wed 11/24
+      content: "No School"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 11/25
+      content: "No School"
+    - date: Fri 11/26
+      content: "No School"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 15
+    weekName: Inference in Regression
+    weekDuration: 11/29-12/03
+    basic:
+    - date: Mon 11/29
+      content: "Lecture 37: 12.3: Towards Multiple Regression"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 11/30
+      content: "Discussion"
+    - date: Wed 12/01
+      content: "Lecture 38: Final Exam Review"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 12/02
+      content: "Discussion"
+    - date: Fri 12/03
+      content: "Lecture 39: Final Exam Review"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
