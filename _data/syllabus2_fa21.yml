@@ -11,10 +11,10 @@ weeks:
       content: "Lecture 1: Introduction and Syllabus, 1.1: Probabilities as Proportions"
       assignments:
       - name: "Lecture 1 Notes"
-        url:
+        url: stat88.org/assets/notes_fa21/lecture_01.pdf
       - name: "Lecture 1 Video"
         url: 
-      - name: "HW 1 (Due TBD)"
+      - name: "HW 1 (Due 9/1 11:59PM)"
         url: 
     - date: Thu 08/26
       content: "Discussion"
@@ -22,6 +22,478 @@ weeks:
       content: "Lecture 2: 1.2: Exact Calculation and Bounds 1.3: Fundamental Rules"
       assignments:
       - name: "Lecture 2 Notes"
-        url: 
+        url: stat88.org/assets/notes_fa21/lecture_02.pdf
       - name: "Lecture 2 Video"
         url: 
+        
+        
+        
+  - weekNum: 2
+    weekName: Conditioning
+    weekDuration: 08/30 - 09/03
+    basic:
+    - date: Mon 08/30
+      content: "Lecture 3: 2.1: The Chance of an Intersection"
+      assighnments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 08/31
+      content: "Discussion"
+    - date: Wed 09/01
+      content: "Lecture 4: 2.2: Symmetry in Simple Random Sampling 2.3: Bayes Rule"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 09/02
+      content: "Discussion"
+    - date: Fri 09/03
+      content: "Lecture 5: 2.4: Uses and Interpretations 2.5: Independence
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+        
+        
+        
+  - weekNum: 3
+    weekName: Random Variables
+    weekDuration: 09/06 - 09/10
+    basic:
+    - date: Mon 09/06
+      content: "No School"   
+    - date: Tues 09/07
+      content: "Discussion"
+    - date: Wed 09/08
+      content: "Lecture 6: 3.1: Success and Failure 3.2: Random Variables"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 09/09
+      content: "Discussion"
+    - date: Fri 09/10
+      content: "Lecture 7: 3.3: Binomial Distribution 3.2: Hypergeometric Distribution"
+      assignments: 
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 4
+    weekName: Random Variables and Expectation
+    weekDuration: 09/13-09/17
+    basic:
+    - date: Mon 09/13
+      content:  "Lecture 8: 3.4 Examples"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 09/14
+      content: "Discussion"
+    - date: Wed 09/15
+      content: "Lecture 9: 4.1 Cumulative Distribution Functions"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 09/16
+      content: "Discussion"
+    - date: Fri 09/17
+      content: "Lecture 10: 4.2: Waiting Times – Negative Binomial 4.3: Exponential Approximations"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 5
+    weekName: The Power of Additivity
+    weekDuration: 09/20-09/24
+    basic:
+    - date: Mon 09/20
+      content: "Lecture 11: 4.4: Poisson Distributions"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 09/21
+      content: "Discussion"
+    - date: Wed 09/22
+      content: "Lecture 12: 5.1: Definition 5.2: Functions of Random Variables"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 09/23
+      content: "Discussion"
+    - date: Fri 09/24
+      content: "Lecture 13: 5.2: Functions of Random Variables cont. 5.3: Methods of Indicators"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 6
+    weekName: Path to Prediction
+    weekDuration: 09/27-10/01
+    basic:
+    - date: Mon 09/27
+      content: "Lecture 14: 2.1: 5.3: Methods of Indicators cont. 5.4: Unbiased Estimators"
+      assignments:
+      - name: 
+        url:
+      - name:
+        url: 
+    - date: Tues 09/28
+      content: "Discussion"
+    - date: Wed 09/29
+      content: "Lecture 15: 5.5: Conditional Expectation 5.6: Expectation by Conditioning"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 09/30
+      content: "Discussion"
+    - date: Fri 10/01
+      content: "Midterm Review"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 7
+    weekName: Midterm Week
+    weekDuration: 10/04-10/08
+    basic:
+    - date: Mon 10/04
+      content: "Midterm"
+      assignments:
+      - name: 
+        url:
+      - name:
+        url: 
+    - date: Tues 10/05
+      content: "Discussion"
+    - date: Wed 10/06
+      content: "Lecture 16: 6.1: Variance and Standard Deviation 6.2: Simplifying the Calculation"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 10/07
+      content: "Discussion"
+    - date: Fri 10/08
+      content: "Lecture 17: 6.3: Markov’s Inequality 6.4: Chebyshev's Inequality"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 8
+    weekName: Variability
+    weekDuration: 10/11-10/15
+    basic:
+    - date: Mon 10/11
+      content: "Lecture 18: 7.1: Sum of Independent Random Variables"
+      assignments:
+      - name: "Lecture 3 Notes"
+        url:
+      - name: "Lecture 3 Video"
+        url: 
+    - date: Tues 10/12
+      content: "Discussion"
+    - date: Wed 10/13
+      content: "Lecture 19: 7.2: Sampling without Replacement 7.3: Law of Averages"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 10/14
+      content: "Discussion"
+    - date: Fri 10/15
+      content: "Lecture 20: 8.1: Distribution of the Sample Sum (and the Sample Mean)"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 9
+    weekName: Large Random Samples
+    weekDuration: 10/18-10/22
+    basic:
+    - date: Mon 10/18
+      content: "Lecture 21: 8.2: Standard Normal Curve"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 10/19
+      content: "Discussion"
+    - date: Wed 10/20
+      content: "Lecture 22: 8.3: Normal Approximation 8.4: How Large is Large"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 10/21
+      content: "Discussion"
+    - date: Fri 10/22
+      content: "Lecture 23: 9.1: Testing Hypotheses"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 10
+    weekName: Fundamentals of Inference
+    weekDuration: 10/25-10/29
+    basic:
+    - date: Mon 10/25
+      content: "Lecture 24: 9.2: A/B Testing: Fisher's Exact Test"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 10/26
+      content: "Discussion"
+    - date: Wed 10/27
+      content: "Lecture 25: 9.3: Confidence Intervals: Method"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 10/28
+      content: "Discussion"
+    - date: Fri 10/29
+      content: "Lecture 26: 9.4: Confidence Intervals: Interpretation"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 11
+    weekName: Continuous Distributions
+    weekDuration: 11/01-11/05
+    basic:
+    - date: Mon 11/01
+      content: "Lecture 27: 10.1: Density 10.2: Expectation and Variance"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 11/02
+      content: "Discussion"
+    - date: Wed 11/03
+      content: "Lecture 28: 10.3: Exponential Distribution"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 11/04
+      content: "Discussion"
+    - date: Fri 11/05
+      content: "Lecture 29: 10.4: Normal Distribution"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 12
+    weekName: Bias and Variance
+    weekDuration: 11/08-11/12
+    basic:
+    - date: Mon 11/08
+      content: "Lecture 30: 11.1: Bias and Variance Section 11.2: The German Tank Problem"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 11/09
+      content: "Discussion"
+    - date: Wed 11/10
+      content: "Lecture 31: 11.3: Least Squares Regression"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 11/11
+      content: "Discussion"
+    - date: Fri 11/12
+      content: "Lecture 32: 11.4: Bounds on Correlation"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 13
+    weekName: Instroduction to Regression
+    weekDuration: 11/15-11/19
+    basic:
+    - date: Mon 11/15
+      content: "Lecture 33: 11.5: The Error in Regression"
+      assignments:
+      - name: 
+        url:
+      - name:
+        url: 
+    - date: Tues 11/16
+      content: "Discussion"
+    - date: Wed 11/17
+      content: "Lecture 34: 12.1: The Simple Linear Regression Model"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 11/18
+      content: "Discussion"
+    - date: Fri 11/19
+      content: "Lecture 35: 12.1: The Simple Linear Regression Model cont."
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 14
+    weekName: The Error in a Regression Estimate
+    weekDuration: 11/22-11/26
+    basic:
+    - date: Mon 11/22
+      content: "Lecture 36: 12.2: The Distribution of the Estimated Slope"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 11/23
+      content: "Discussion"
+    - date: Wed 11/24
+      content: "No School"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 11/25
+      content: "No School"
+    - date: Fri 11/26
+      content: "No School"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+                
+        
+        
+  - weekNum: 15
+    weekName: Inference in Regression
+    weekDuration: 11/29-12/03
+    basic:
+    - date: Mon 11/29
+      content: "Lecture 37: 12.3: Towards Multiple Regression"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+    - date: Tues 11/30
+      content: "Discussion"
+    - date: Wed 12/01
+      content: "Final Exam Review"
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: Thu 12/02
+      content: "Discussion"
+    - date: Fri 12/03
+      content: "Final Exam Review"
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+        
