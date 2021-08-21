@@ -30,7 +30,7 @@ weeks:
         
   - weekNum: 2
     weekName: Conditioning
-    weekDuration: 08/30 - 09/03
+    weekDuration: 08/30-09/03
     basic:
     - date: Mon 08/30
       content: "Lecture 3: 2.1: The Chance of an Intersection"
@@ -64,7 +64,7 @@ weeks:
         
   - weekNum: 3
     weekName: Random Variables
-    weekDuration: 09/06 - 09/10
+    weekDuration: 09/06-09/10
     basic:
     - date: Mon 09/06
       content: "No School"   
