@@ -11,8 +11,8 @@ weeks:
       content: "Lecture 1: Introduction and Syllabus, 1.1: Probabilities as Proportions"
       assignments:
       - name: "Lecture 1 Notes"
-        url: stat88.org/assets/notes_fa21/lecture_01.pdf
-      - name: "Lecture 1 Video"
+        url: http://stat88.org/assets/notes_fa21/lecture_01.pdf
+      - name: 
         url: 
       - name: "HW 1 (Due 9/1 11:59PM)"
         url: 
@@ -22,8 +22,8 @@ weeks:
       content: "Lecture 2: 1.2: Exact Calculation and Bounds 1.3: Fundamental Rules"
       assignments:
       - name: "Lecture 2 Notes"
-        url: stat88.org/assets/notes_fa21/lecture_02.pdf
-      - name: "Lecture 2 Video"
+        url: http://stat88.org/assets/notes_fa21/lecture_02.pdf
+      - name: 
         url: 
         
         
