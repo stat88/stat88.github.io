@@ -479,7 +479,7 @@ weeks:
     - date: Tues 11/30
       content: "Discussion"
     - date: Wed 12/01
-      content: "Final Exam Review"
+      content: "Lecture 38: Final Exam Review"
       assignments:
       - name: 
         url: 
@@ -490,7 +490,7 @@ weeks:
     - date: Thu 12/02
       content: "Discussion"
     - date: Fri 12/03
-      content: "Final Exam Review"
+      content: "Lecture 39: Final Exam Review"
       assignments:
       - name: 
         url:
