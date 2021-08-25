@@ -15,7 +15,7 @@ weeks:
       - name: 
         url: 
       - name: "HW 1 (Due 9/1 11:59PM)"
-        url: 
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=master&subPath=Homework_1.ipynb
     - date: Thu 08/26
       content: "Discussion"
     - date: Fri 08/27
