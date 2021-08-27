@@ -35,8 +35,8 @@ weeks:
     - date: Mon 08/30
       content: "Lecture 3: 2.1: The Chance of an Intersection"
       assighnments:
-      - name: 
-        url:
+      - name: "Lecture 3 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_03.pdf
       - name: 
         url: 
     - date: Tues 08/31
@@ -44,7 +44,7 @@ weeks:
     - date: Wed 09/01
       content: "Lecture 4: 2.2: Symmetry in Simple Random Sampling 2.3: Bayes Rule"
       assignments:
-      - name: 
+      - name:
         url: 
       - name: 
         url: 
