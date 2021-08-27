@@ -35,8 +35,8 @@ weeks:
     - date: Mon 08/30
       content: "Lecture 3: 2.1: The Chance of an Intersection"
       assighnments:
-      - name: 
-        url:
+      - name: "Lecture 3 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_03.pdf
       - name: 
         url: 
     - date: Tues 08/31
