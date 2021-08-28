@@ -26,15 +26,13 @@ weeks:
       - name: "Lecture 2 Video"
         url: https://berkeley.zoom.us/rec/share/ncwIHG_duWYvWbhyPZ4O4CB9XVyxaPMeg_aasl_kwQOLX0G-6oH0Z8X4O_7u7kkJ.L6tkLBef9htMFytm
         
-        
-        
   - weekNum: 2
     weekName: Conditioning
     weekDuration: 08/30-09/03
     basic:
     - date: Mon 08/30
       content: "Lecture 3: 2.1: The Chance of an Intersection"
-      assighnments:
+      assignnments:
       - name: "Lecture 3 Notes"
         url: http://stat88.org/assets/notes_fa21/lecture_03.pdf
       - name: 
