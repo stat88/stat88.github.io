@@ -37,8 +37,8 @@ weeks:
       assignnments:
       - name: "Lecture 3 Notes"
         url: http://stat88.org/assets/notes_fa21/lecture_03.pdf
-      - name: 
-        url: 
+      - name: "Lecture 3 Video"
+        url: https://berkeley.zoom.us/rec/share/hk4Pvu-1_9TRauAMHg2dm2fl_DJNM64VTXMRViQcR_Tk67gcEI-seeVM3aWE_gCu.11KMvsA6_OnImIo2
     - date: Tues 08/31
       content: "Discussion"
     - date: Wed 09/01
@@ -46,8 +46,8 @@ weeks:
       assignments:
       - name: "Lecture 4 Notes"
         url: http://stat88.org/assets/notes_fa21/lecture_04.pdf
-      - name: "Lecture 4 Video"
-        url: https://berkeley.zoom.us/rec/share/hk4Pvu-1_9TRauAMHg2dm2fl_DJNM64VTXMRViQcR_Tk67gcEI-seeVM3aWE_gCu.11KMvsA6_OnImIo2
+      - name: 
+        url: 
       - name: 
         url: 
     - date: Thu 09/02
