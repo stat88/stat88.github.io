@@ -43,7 +43,7 @@ weeks:
       content: "Discussion"
       assignments:
       - name: "Discussion Worksheet"
-      - url: http://stat88.org/assets/notes_fa21/section8-31.pdf
+        url: http://stat88.org/assets/notes_fa21/section8-31.pdf
     - date: Wed 09/01
       content: "Lecture 4: 2.2: Symmetry in Simple Random Sampling 2.3: Bayes Rule"
       assignments:
