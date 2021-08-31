@@ -47,9 +47,9 @@ weeks:
       assignments:
       - name: "Lecture 4 Notes"
         url: http://stat88.org/assets/notes_fa21/lecture_04.pdf
-      - name: 
+      - name: "Lecture 4 Video"
         url: 
-      - name: "HW 2 (Due 9/8 11:59PM)
+      - name: "HW 2 (Due 9/8 11:59PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_2.ipynb
     - date: Thu 09/02
       content: "Discussion"
