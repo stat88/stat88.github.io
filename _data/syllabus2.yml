@@ -39,6 +39,9 @@ weeks:
         url: https://berkeley.zoom.us/rec/share/hk4Pvu-1_9TRauAMHg2dm2fl_DJNM64VTXMRViQcR_Tk67gcEI-seeVM3aWE_gCu.11KMvsA6_OnImIo2
     - date: Tues 08/31
       content: "Discussion"
+      assignments:
+      - name: "Discussion Worksheet"
+      - url: http://stat88.org/assets/notes_fa21/section8-31.pdf
     - date: Wed 09/01
       content: "Lecture 4: 2.2: Symmetry in Simple Random Sampling 2.3: Bayes Rule"
       assignments:
