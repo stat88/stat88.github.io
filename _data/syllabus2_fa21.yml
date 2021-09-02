@@ -55,6 +55,9 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_2.ipynb
     - date: Thu 09/02
       content: "Discussion"
+      assignments:
+      - name: "Discussion Worksheet"
+        url: http://stat88.org/assets/notes_fa21/section9-2.pdf
     - date: Fri 09/03
       content: "Lecture 5: 2.4: Uses and Interpretations 2.5: Independence"
       assignments:
