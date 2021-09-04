@@ -79,8 +79,8 @@ weeks:
     - date: Wed 09/08
       content: "Lecture 6: 3.1: Success and Failure 3.2: Random Variables"
       assignments:
-      - name: 
-        url: 
+      - name: "Lecture 6 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_06.pdf
       - name: 
         url: 
       - name: 
@@ -90,8 +90,8 @@ weeks:
     - date: Fri 09/10
       content: "Lecture 7: 3.3: Binomial Distribution 3.2: Hypergeometric Distribution"
       assignments: 
-      - name: 
-        url:
+      - name: "Lecture 7 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_07.pdf
       - name: 
         url: 
                 
