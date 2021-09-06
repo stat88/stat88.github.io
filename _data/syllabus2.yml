@@ -74,6 +74,9 @@ weeks:
       content: "No School"   
     - date: Tues 09/07
       content: "Discussion"
+      assignments:
+      - name: "Discussion Worksheet"
+        url: http://stat88.org/assets/notes_fa21/section9-7.pdf
     - date: Wed 09/08
       content: "Lecture 6: 3.1: Success and Failure 3.2: Random Variables"
       assignments:
