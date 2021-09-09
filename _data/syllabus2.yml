@@ -82,8 +82,8 @@ weeks:
       assignments:
       - name: "Lecture 6 Notes"
         url: http://stat88.org/assets/notes_fa21/lecture_06.pdf
-      - name: 
-        url: 
+      - name: "Lecture 6 Video"
+        url: https://berkeley.zoom.us/rec/share/WQPX38lev7qva33NfxovVZTWJGGMY2M_SJ8joF4S12cSjGTCq-ZgJVHouEzQEmQi.i8VEMRTLyXF1iu2T
       - name: "HW 3 (Due 9/15 11:59PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_3.ipynb
     - date: Thu 09/09
