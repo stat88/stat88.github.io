@@ -90,6 +90,8 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_3.ipynb
     - date: Thu 09/09
       content: "Discussion"
+      assignments:
+      -name: "Quiz 1 (On Gradescope)"
     - date: Fri 09/10
       content: "Lecture 7: 3.3: Binomial Distribution 3.2: Hypergeometric Distribution"
       assignments: 
@@ -158,6 +160,8 @@ weeks:
         url: 
     - date: Thu 09/23
       content: "Discussion"
+      assignments:
+      - name: "Quiz 2 (On Gradescope)"
     - date: Fri 09/24
       content: "Lecture 13: 5.2: Functions of Random Variables cont. 5.3: Methods of Indicators"
       assignments:
@@ -328,6 +332,8 @@ weeks:
         url: 
     - date: Thu 10/28
       content: "Discussion"
+      assignments:
+      - name: "Quiz 3 (On Gradescope)"
     - date: Fri 10/29
       content: "Lecture 26: 9.4: Confidence Intervals: Interpretation"
       assignments:
@@ -430,6 +436,8 @@ weeks:
         url: 
     - date: Thu 11/18
       content: "Discussion"
+      assignments: 
+      - name: "Quiz 4 (On Gradescope)"
     - date: Fri 11/19
       content: "Lecture 35: 12.1: The Simple Linear Regression Model cont."
       assignments:
