@@ -109,8 +109,8 @@ weeks:
     - date: Mon 09/13
       content:  "Lecture 8: 3.4 Examples"
       assignments:
-      - name: 
-        url:
+      - name: "Lecture 8 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_08.pdf
       - name: 
         url: 
     - date: Tues 09/14
@@ -118,8 +118,8 @@ weeks:
     - date: Wed 09/15
       content: "Lecture 9: 4.1 Cumulative Distribution Functions"
       assignments:
-      - name: 
-        url: 
+      - name: "Lecture 9 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_09.pdf
       - name: 
         url: 
       - name: 
@@ -129,8 +129,8 @@ weeks:
     - date: Fri 09/17
       content: "Lecture 10: 4.2: Waiting Times – Negative Binomial 4.3: Exponential Approximations"
       assignments:
-      - name: 
-        url:
+      - name: "Lecture 10 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_10.pdf
       - name: 
         url: 
                 
