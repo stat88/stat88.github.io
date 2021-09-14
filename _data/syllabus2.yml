@@ -117,7 +117,7 @@ weeks:
       content: "Discussion"
       assignments:
       - name: "Discussion Worksheet"
-      url: http://stat88.org/assets/notes_fa21/section9-14.pdf
+        url: http://stat88.org/assets/notes_fa21/section9-14.pdf
     - date: Wed 09/15
       content: "Lecture 9: 4.1 Cumulative Distribution Functions"
       assignments:
