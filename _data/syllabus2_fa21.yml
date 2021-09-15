@@ -125,8 +125,8 @@ weeks:
         url: http://stat88.org/assets/notes_fa21/lecture_09.pdf
       - name: "Lecture 9 Video"
         url: https://drive.google.com/file/d/1HTWQLlJPCe2FqQavG8CpDnd3meaEBqKq/view?usp=sharing
-      - name: 
-        url: 
+      - name: "HW 4 (Due 9/29 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_4.ipynb
     - date: Thu 09/16
       content: "Discussion"
     - date: Fri 09/17
