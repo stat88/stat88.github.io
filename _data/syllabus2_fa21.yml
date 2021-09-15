@@ -129,6 +129,9 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_4.ipynb
     - date: Thu 09/16
       content: "Discussion"
+      assignments:
+      - name:
+        url: 
     - date: Fri 09/17
       content: "Lecture 10: 4.2: Waiting Times – Negative Binomial 4.3: Exponential Approximations"
       assignments:
