@@ -149,10 +149,10 @@ weeks:
     - date: Mon 09/20
       content: "Lecture 11: 4.4: Poisson Distributions"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Lecture 11 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_11.pdf
+      - name: "Lecture 11 Video"
+        url: https://drive.google.com/file/d/1DX_Q8og47jyWAKtDb--XYXu3menSAAmo/view?usp=sharing
     - date: Tues 09/21
       content: "Discussion"
     - date: Wed 09/22
