@@ -157,6 +157,7 @@ weeks:
       content: "Discussion"
       assignments:
       - name: "Discussion Worksheet"
+        url: http://stat88.org/assets/notes_fa21/section9-21.pdf
     - date: Wed 09/22
       content: "Lecture 12: 5.1: Definition 5.2: Functions of Random Variables"
       assignments:
