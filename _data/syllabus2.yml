@@ -161,12 +161,12 @@ weeks:
     - date: Wed 09/22
       content: "Lecture 12: 5.1: Definition 5.2: Functions of Random Variables"
       assignments:
-      - name: 
-        url: 
-      - name: 
-        url: 
-      - name: 
-        url: 
+      - name: "Lecture 12 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_12.pdf
+      - name: "Lecture 12 Video"
+        url: https://drive.google.com/file/d/11Ts06y0wlElolFq8xyvFRA_4wUr3ICZQ/view?usp=sharing
+      - name: "HW 4 (Due 9/29 11:59PM)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_4.ipynb 
     - date: Thu 09/23
       content: "Discussion"
       assignments:
