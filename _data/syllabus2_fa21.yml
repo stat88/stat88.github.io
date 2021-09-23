@@ -172,7 +172,7 @@ weeks:
       assignments:
       - name: "Quiz 2 (On Gradescope)"
       - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section9-23.pdf
+        url: http://stat88.org/assets/notes_fa21/section9_23.pdf
     - date: Fri 09/24
       content: "Lecture 13: 5.2: Functions of Random Variables cont. 5.3: Methods of Indicators"
       assignments:
