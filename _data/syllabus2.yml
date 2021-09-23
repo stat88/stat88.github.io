@@ -169,6 +169,8 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_4.ipynb 
     - date: Thu 09/23
       content: "Discussion"
+      - name: "Discussion Worksheet"
+        url: http://stat88.org/assets/notes_fa21/section9-21.pdf
       assignments:
       - name: "Quiz 2 (On Gradescope)"
     - date: Fri 09/24
