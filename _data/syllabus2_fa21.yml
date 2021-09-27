@@ -210,10 +210,10 @@ weeks:
     - date: Fri 10/01
       content: "Midterm Review"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Midterm Review Notes"
+        url: http://stat88.org/assets/notes_fa21/midterm_review.pdf
+      - name: "Midterm Review Video"
+        url: https://drive.google.com/file/d/18qlQp9OYLvoZKnjY7pdM6sL4H19a8xrk/view?usp=sharing
                 
         
         
