@@ -13,7 +13,7 @@ weeks:
       - name: "Lecture 1 Notes"
         url: http://stat88.org/assets/notes_fa21/lecture_01.pdf
       - name: "Lecture 1 Video"
-        url: https://berkeley.zoom.us/rec/play/9ju9zE46_LXBQ7Cg8vavBDiMEEPX2SsmgBRwlwhQfpZJWDi_x1b2q8Kt3BU7BRQji2X5eSScCSo1eojK.1YtuZhFJh0o5BfAO?continueMode=true
+        url: https://drive.google.com/file/d/104PZYZLPcS-a4p7c7A8Go4i-xPolrKZA/view?usp=sharing
       - name: "HW 1 (Due 9/3 11:59PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_1.ipynb
     - date: Thu 08/26
@@ -24,7 +24,7 @@ weeks:
       - name: "Lecture 2 Notes"
         url: http://stat88.org/assets/notes_fa21/lecture_02.pdf
       - name: "Lecture 2 Video"
-        url: https://berkeley.zoom.us/rec/share/ncwIHG_duWYvWbhyPZ4O4CB9XVyxaPMeg_aasl_kwQOLX0G-6oH0Z8X4O_7u7kkJ.L6tkLBef9htMFytm
+        url: https://drive.google.com/file/d/106Qt0UjSK9e4lYf3a9cOlTEWkxrt4c7G/view?usp=sharing
         
         
         
@@ -38,7 +38,7 @@ weeks:
       - name: "Lecture 3 Notes"
         url: http://stat88.org/assets/notes_fa21/lecture_03.pdf
       - name: "Lecture 3 Video"
-        url: https://berkeley.zoom.us/rec/share/hk4Pvu-1_9TRauAMHg2dm2fl_DJNM64VTXMRViQcR_Tk67gcEI-seeVM3aWE_gCu.11KMvsA6_OnImIo2
+        url: https://drive.google.com/file/d/10Cfw5pxPIHvePhQdxjjNbEoZRonkAxPP/view?usp=sharing
     - date: Tues 08/31
       content: "Discussion"
       assignments:
@@ -50,7 +50,7 @@ weeks:
       - name: "Lecture 4 Notes"
         url: http://stat88.org/assets/notes_fa21/lecture_04.pdf
       - name: "Lecture 4 Video"
-        url: https://berkeley.zoom.us/rec/share/lRQUuD43tVLYKBe74hkUYu6SyzeY0kF-xM9j78r_5EegLrsZPQ6V0U_bxzEUT8k5.pNzMVPzeUqdUVKLT
+        url: https://drive.google.com/file/d/10EMP2twlhn7tPrj3pce7--LrTLUKbyjP/view?usp=sharing
       - name: "HW 2 (Due 9/8 11:59PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_2.ipynb
     - date: Thu 09/02
@@ -64,7 +64,7 @@ weeks:
       - name: "Lecture 5 Notes"
         url: http://stat88.org/assets/notes_fa21/lecture_05.pdf
       - name: "Lecture 5 Video"
-        url: https://berkeley.zoom.us/rec/share/Rp4xGqdFkCEcl-8aEIZcR3GDjM7ktnlNDjv4AJvn0_U6A1-weU_sRO2AkAOgoC3Z.HcVPur0sHJhDfDfs
+        url: https://drive.google.com/file/d/10FrJgbHuUOgT2JyrBNI7f4AXK66t1rgn/view?usp=sharing
         
         
         
@@ -85,7 +85,7 @@ weeks:
       - name: "Lecture 6 Notes"
         url: http://stat88.org/assets/notes_fa21/lecture_06.pdf
       - name: "Lecture 6 Video"
-        url: https://berkeley.zoom.us/rec/share/WQPX38lev7qva33NfxovVZTWJGGMY2M_SJ8joF4S12cSjGTCq-ZgJVHouEzQEmQi.i8VEMRTLyXF1iu2T
+        url: https://drive.google.com/file/d/10KZTN_mAIlmUHgGROD3Jsldx-ukQfvNE/view?usp=sharing
       - name: "HW 3 (Due 9/15 11:59PM)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_3.ipynb
     - date: Thu 09/09
