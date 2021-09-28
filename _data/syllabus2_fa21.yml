@@ -196,9 +196,9 @@ weeks:
         url: https://drive.google.com/file/d/1hfzI1Fck1I1OIJvGI5o-2aiSWFlZf5PL/view?usp=sharing
     - date: Tues 09/28
       content: "Discussion"
-      assignmnets:
-        - name: "Discussion Worksheet"
-          url: http://stat88.org/assets/notes_fa21/section9-28.pdf      
+      assignments:
+      - name: "Discussion Worksheet"
+        url: http://stat88.org/assets/notes_fa21/section9-28.pdf      
     - date: Wed 09/29
       content: "Lecture 15: 5.5: Conditional Expectation 5.6: Expectation by Conditioning"
       assignments:
