@@ -206,7 +206,7 @@ weeks:
         url: http://stat88.org/assets/notes_fa21/lecture_15.pdf
       - name: "Lecture 15 Video"
         url: https://drive.google.com/file/d/1i9p1a5lew5ODQHHcN26z-zFD-Q9KCHhm/view?usp=sharing
-      - name: "Homework 5 (Due 10/6)"
+      - name: "Homework 5 (Due 10/8)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_5.ipynb
     - date: Thu 09/30
       content: "Discussion"
