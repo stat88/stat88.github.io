@@ -236,12 +236,12 @@ weeks:
     - date: Wed 10/06
       content: "Lecture 16: 6.1: Variance and Standard Deviation 6.2: Simplifying the Calculation"
       assignments:
-      - name: 
-        url: 
-      - name: 
-        url: 
-      - name: 
-        url: 
+      - name: "Lecture 16 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_16.pdf
+      - name: "Lecture 16 Video"
+        url: https://drive.google.com/file/d/10LkNjmUxqX0R-Sg2fdfsEumgysgYYbXU/view?usp=sharing
+      - name: "Homework 6 (Due 10/13)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_6.ipynb
     - date: Thu 10/07
       content: "Discussion"
     - date: Fri 10/08
