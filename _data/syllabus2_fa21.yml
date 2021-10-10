@@ -375,7 +375,7 @@ weeks:
     - date: Tues 11/02
       content: "Discussion"
     - date: Wed 11/03
-      content: "Lecture 28: 10.3: Exponential Distribution"
+      content: "Lecture 28: 8.1 - 9.4: Review of Statistical Inference  "
       assignments:
       - name: 
         url: 
@@ -400,7 +400,7 @@ weeks:
     weekDuration: 11/08-11/12
     basic:
     - date: Mon 11/08
-      content: "Lecture 30: 11.1: Bias and Variance Section 11.2: The German Tank Problem"
+      content: "Lecture 30: 11.1: Bias and Variance"
       assignments:
       - name: 
         url:
@@ -420,7 +420,7 @@ weeks:
     - date: Thu 11/11
       content: "Discussion"
     - date: Fri 11/12
-      content: "Lecture 32: 11.4: Bounds on Correlation"
+      content: "Lecture 32: 11.5: The Error in Regression"
       assignments:
       - name: 
         url:
@@ -434,7 +434,7 @@ weeks:
     weekDuration: 11/15-11/19
     basic:
     - date: Mon 11/15
-      content: "Lecture 33: 11.5: The Error in Regression"
+      content: "Lecture 33: 12.1: The Simple Linear Regression Model"
       assignments:
       - name: 
         url:
@@ -443,7 +443,7 @@ weeks:
     - date: Tues 11/16
       content: "Discussion"
     - date: Wed 11/17
-      content: "Lecture 34: 12.1: The Simple Linear Regression Model"
+      content: "Lecture 34: 12.1: The Simple Linear Regression Model cont."
       assignments:
       - name: 
         url: 
@@ -456,7 +456,7 @@ weeks:
       assignments: 
       - name: "Quiz 4 (On Gradescope)"
     - date: Fri 11/19
-      content: "Lecture 35: 12.1: The Simple Linear Regression Model cont."
+      content: "Lecture 35: 12.2: The Distribution of the Estimated Slope"
       assignments:
       - name: 
         url:
@@ -470,7 +470,7 @@ weeks:
     weekDuration: 11/22-11/26
     basic:
     - date: Mon 11/22
-      content: "Lecture 36: 12.2: The Distribution of the Estimated Slope"
+      content: "Lecture 36: 12.3: Towards Multiple Regression"
       assignments:
       - name: 
         url:
@@ -504,7 +504,7 @@ weeks:
     weekDuration: 11/29-12/03
     basic:
     - date: Mon 11/29
-      content: "Lecture 37: 12.3: Towards Multiple Regression"
+      content: "Lecture 37: 12.3: Towards Multiple Regression cont."
       assignments:
       - name: 
         url:
