@@ -264,10 +264,10 @@ weeks:
     - date: Mon 10/11
       content: "Lecture 18: 7.1: Sum of Independent Random Variables"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Lecture 18 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_18.pdf
+      - name: "Lecture 18 Video"
+        url: https://drive.google.com/file/d/10XAY6khc1X259YPBrQrIqSEuQW7qIa_M/view?usp=sharing
     - date: Tues 10/12
       content: "Discussion"
     - date: Wed 10/13
