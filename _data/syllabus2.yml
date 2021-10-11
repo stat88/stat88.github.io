@@ -270,10 +270,10 @@ weeks:
         url: https://drive.google.com/file/d/10XAY6khc1X259YPBrQrIqSEuQW7qIa_M/view?usp=sharing
     - date: Tues 10/12
       content: "Discussion"
-    - date: Wed 10/13
       assignments:
       - name: "Discussion Worksheet"
         url: http://stat88.org/assets/notes_fa21/section10-12.pdf
+    - date: Wed 10/13
       content: "Lecture 19: 7.2: Sampling without Replacement 7.3: Law of Averages"
       assignments:
       - name: "Lecture 19 Notes"
