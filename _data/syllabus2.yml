@@ -273,10 +273,10 @@ weeks:
     - date: Wed 10/13
       content: "Lecture 19: 7.2: Sampling without Replacement 7.3: Law of Averages"
       assignments:
-      - name: 
-        url: 
-      - name: 
-        url: 
+      - name: "Lecture 19 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_19.pdf
+      - name: "Lecture 19 Video"
+        url: https://drive.google.com/file/d/10Z5lgEAPZ57VxilB7cJ7DloXCv4Jz5E4/view?usp=sharing
       - name: 
         url: 
     - date: Thu 10/14
