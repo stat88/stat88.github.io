@@ -270,27 +270,23 @@ weeks:
         url: https://drive.google.com/file/d/10XAY6khc1X259YPBrQrIqSEuQW7qIa_M/view?usp=sharing
     - date: Tues 10/12
       content: "Discussion"
-    - date: Wed 10/13
-      assignments:
+      assignments: 
       - name: "Discussion Worksheet"
         url: http://stat88.org/assets/notes_fa21/section10-12.pdf
+    - date: Wed 10/13
       content: "Lecture 19: 7.2: Sampling without Replacement 7.3: Law of Averages"
       assignments:
       - name: "Lecture 19 Notes"
         url: http://stat88.org/assets/notes_fa21/lecture_19.pdf
       - name: "Lecture 19 Video"
         url: https://drive.google.com/file/d/10Z5lgEAPZ57VxilB7cJ7DloXCv4Jz5E4/view?usp=sharing
-      - name: 
-        url: 
+      - name: "Homework 7 (Due 10/20)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_7.ipynb
     - date: Thu 10/14
       content: "Discussion"
-    - date: Fri 10/15
-      content: "Lecture 20: 8.1: Distribution of the Sample Sum (and the Sample Mean)"
       assignments:
-      - name:
-        url: 
-      - name: 
-        url: 
+      - name: "Discussion Worksheet"
+        url: http://stat88.org/assets/notes_fa21/section10-14.pdf
                 
         
         
