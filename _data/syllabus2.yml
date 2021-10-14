@@ -280,10 +280,13 @@ weeks:
         url: http://stat88.org/assets/notes_fa21/lecture_19.pdf
       - name: "Lecture 19 Video"
         url: https://drive.google.com/file/d/10Z5lgEAPZ57VxilB7cJ7DloXCv4Jz5E4/view?usp=sharing
-      - name: 
-        url: 
+      - name: "Homework 7 (Due 10/20)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_7.ipynb
     - date: Thu 10/14
       content: "Discussion"
+      assignments:
+      - name: "Discussion Worksheet"
+        url: http://stat88.org/assets/notes_fa21/section10-14.pdf
     - date: Fri 10/15
       content: "Lecture 20: 8.1: Distribution of the Sample Sum (and the Sample Mean)"
       assignments:
