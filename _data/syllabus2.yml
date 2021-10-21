@@ -324,6 +324,9 @@ weeks:
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_8.ipynb
     - date: Thu 10/21
       content: "Discussion"
+      assignments:
+      - name: "Discussion Worksheet"
+        url: http://stat88.org/assets/notes_fa21/section10-21.pdf
     - date: Fri 10/22
       content: "Lecture 23: 9.1: Testing Hypotheses"
       assignments:
