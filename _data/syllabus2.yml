@@ -366,13 +366,15 @@ weeks:
       content: "Discussion"
       assignments:
       - name: "Quiz 3 (On Gradescope)"
+      - name: "Discussion Worksheet"
+        url: http://stat88.org/assets/notes_fa21/section10-28.pdf
     - date: Fri 10/29
       content: "Lecture 26: 9.4: Confidence Intervals: Interpretation"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Lecture 26 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_26.pdf
+      - name: "Lecture 26 Video
+        url: https://drive.google.com/file/d/10rGNDZiMvqKfqUcBKrIby7WnziqRCfND/view?usp=sharing
                 
         
         
