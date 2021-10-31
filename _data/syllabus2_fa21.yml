@@ -375,7 +375,7 @@ weeks:
     weekName: Continuous Distributions
     weekDuration: 11/01-11/05
     basic:
-     - date: Mon 11/01
+    - date: Mon 11/01
       content: "Lecture 27: 10.1: Density 10.2: Expectation and Variance"
       assignments:
       - name: "Lecture 27 Notes"
