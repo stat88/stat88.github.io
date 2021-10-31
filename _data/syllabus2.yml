@@ -385,19 +385,19 @@ weeks:
     - date: Mon 11/01
       content: "Lecture 27: 10.1: Density 10.2: Expectation and Variance"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Lecture 27 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_27.pdf
+      - name: "Lecture 27 Video" 
+        url: https://drive.google.com/file/d/10wcgMPUWp7JDL-27mgxXuNOA2LNr2Rpl/view?usp=sharing
     - date: Tues 11/02
       content: "Discussion"
     - date: Wed 11/03
       content: "Lecture 28: 8.1 - 9.4: Review of Statistical Inference  "
       assignments:
-      - name: 
-        url: 
-      - name: 
-        url: 
+      - name: "Lecture 28 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_28.pdf
+      - name: "Lecture 28 Video"
+        url: https://drive.google.com/file/d/11-voUYD9paGkQ5lk_n1gx9qZ3jkuU_62/view?usp=sharing
       - name: 
         url: 
     - date: Thu 11/04
