@@ -391,6 +391,9 @@ weeks:
         url: https://drive.google.com/file/d/10wcgMPUWp7JDL-27mgxXuNOA2LNr2Rpl/view?usp=sharing
     - date: Tues 11/02
       content: "Discussion"
+      assignments:
+      - name: "Discussion Worksheet"
+        url: http://stat88.org/assets/notes_fa21/section11-2.pdf
     - date: Wed 11/03
       content: "Lecture 28: 8.1 - 9.4: Review of Statistical Inference  "
       assignments:
