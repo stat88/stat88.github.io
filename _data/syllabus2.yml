@@ -401,8 +401,8 @@ weeks:
         url: http://stat88.org/assets/notes_fa21/lecture_28.pdf
       - name: "Lecture 28 Video"
         url: https://drive.google.com/file/d/11-voUYD9paGkQ5lk_n1gx9qZ3jkuU_62/view?usp=sharing
-      - name: 
-        url: 
+      - name: "Homework 10 Due (11/10)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_10.ipynb
     - date: Thu 11/04
       content: "Discussion"
       assignments:
