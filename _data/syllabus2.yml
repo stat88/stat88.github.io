@@ -442,7 +442,7 @@ weeks:
       - name: "Lecture 31 Video"
         url: https://drive.google.com/file/d/11FLZlsG2pQVdnz8XD8aWGSkF6vb-gVxj/view?usp=sharing
       - name: "Homework 11 (Due 11/17)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_10.ipynb
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_11.ipynb
     - date: Thu 11/11
       content: "No School"
     - date: Fri 11/12
