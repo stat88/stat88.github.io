@@ -448,10 +448,10 @@ weeks:
     - date: Fri 11/12
       content: "Lecture 32: 11.5: The Error in Regression"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Lecture 32 Notes"
+        url:http://stat88.org/assets/notes_fa21/lecture_32.pdf
+      - name: "Lecture 32 Video"
+        url: https://drive.google.com/file/d/11Ha4h6NffRZULssV-qmCtY0lytgNIw0m/view?usp=sharing
                 
         
         
