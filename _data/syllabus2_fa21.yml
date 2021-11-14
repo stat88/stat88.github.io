@@ -454,12 +454,15 @@ weeks:
     - date: Mon 11/15
       content: "Lecture 33: 12.1: The Simple Linear Regression Model"
       assignments:
-      - name: 
-        url:
-      - name:
-        url: 
+      - name: "Lecture 33 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_33.pdf
+      - name: "Lecture 33 Video"
+        url: https://drive.google.com/file/d/11ITpHhnZVhc0K9gE0BsPxaf_x_iS1nAy/view?usp=sharing
     - date: Tues 11/16
       content: "Discussion"
+      assignments:
+      - name: 
+        url: 
     - date: Wed 11/17
       content: "Lecture 34: 12.1: The Simple Linear Regression Model cont."
       assignments:
