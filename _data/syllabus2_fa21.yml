@@ -461,8 +461,8 @@ weeks:
     - date: Tues 11/16
       content: "Discussion"
       assignments:
-      - name: 
-        url: 
+      - name: "Discussion Worksheet"
+        url: http://stat88.org/assets/notes_fa21/section11-16.pdf
     - date: Wed 11/17
       content: "Lecture 34: 12.1: The Simple Linear Regression Model cont."
       assignments:
