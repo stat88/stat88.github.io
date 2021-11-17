@@ -466,23 +466,25 @@ weeks:
     - date: Wed 11/17
       content: "Lecture 34: 12.1: The Simple Linear Regression Model cont."
       assignments:
-      - name: 
-        url: 
-      - name: 
-        url: 
+      - name: "Lecture 34 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_34.pdf
+      - name: "Lecture 34 Video"
+        url: https://drive.google.com/file/d/11Li0fDkqV20UuqkEpjlrYzpbZJtV4C-_/view?usp=sharing
       - name: 
         url: 
     - date: Thu 11/18
       content: "Discussion"
       assignments: 
       - name: "Quiz 4 (On Gradescope)"
+      - name: 
+        url:
     - date: Fri 11/19
       content: "Lecture 35: 12.2: The Distribution of the Estimated Slope"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Lecture 35 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_35.pdf
+      - name: "Lecture 35 Video"
+        url: https://drive.google.com/file/d/11Pll3VRzOXmL50V6OaPug614QwW6LELQ/view?usp=sharing
                 
         
         
