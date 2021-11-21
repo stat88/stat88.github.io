@@ -490,7 +490,7 @@ weeks:
       content: "Lecture 35: 12.2: The Distribution of the Estimated Slope"
       assignments:
       - name: "Lecture 35 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_35.pdf
+        url: http://stat88.org/assets/notes_fa21/lecture_36.pdf
       - name: "Lecture 35 Video"
         url: https://drive.google.com/file/d/11Pll3VRzOXmL50V6OaPug614QwW6LELQ/view?usp=sharing
                 
@@ -503,10 +503,10 @@ weeks:
     - date: Mon 11/22
       content: "Lecture 36: 12.3: Towards Multiple Regression"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Lecture 36 Notes"
+        url: https://stat88.org/assets/notes_fa21/lecture_36.pdf
+      - name: "Lecture 36 Video"
+        url: https://drive.google.com/file/d/11PtkIWYUhacbmQ9ghumA8XToP4aezXQZ/view?usp=sharing
     - date: Tues 11/23
       content: "Discussion"
     - date: Wed 11/24
