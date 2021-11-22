@@ -496,7 +496,7 @@ weeks:
       content: "Lecture 36: 12.3: Towards Multiple Regression"
       assignments:
       - name: "Lecture 36 Notes"
-        url: https://stat88.org/assets/notes_fa21/lecture_36.pdf
+        url: http://stat88.org/assets/notes_fa21/lecture_36.pdf
       - name: "Lecture 36 Video"
         url: https://drive.google.com/file/d/11PtkIWYUhacbmQ9ghumA8XToP4aezXQZ/view?usp=sharing
     - date: Tues 11/23
