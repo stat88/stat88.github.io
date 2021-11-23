@@ -478,7 +478,7 @@ weeks:
         url: http://stat88.org/assets/notes_fa21/lecture_34.pdf
       - name: "Lecture 34 Video"
         url: https://drive.google.com/file/d/11Li0fDkqV20UuqkEpjlrYzpbZJtV4C-_/view?usp=sharing
-      - name: "Homework 12 (Due Tuesday 11/23)"
+      - name: "Homework 12 (Due Wednesday 11/24)"
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_12.ipynb
     - date: Thu 11/18
       content: "Discussion"
