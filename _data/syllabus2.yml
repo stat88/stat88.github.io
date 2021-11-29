@@ -538,30 +538,26 @@ weeks:
     weekDuration: 11/29-12/03
     basic:
     - date: Mon 11/29
-      content: "Lecture 37: 12.3: Towards Multiple Regression cont."
+      content: "Lecture 37: 12.3: Towards Multiple Regression cont. (Will not be on final)"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Lecture 37 Notes"
+        url: http://stat88.org/assets/notes_fa21/lecture_37.pdf
+      - name: "Lecture 37 Video"
+        url: https://drive.google.com/file/d/11PuX95qxXQhTS6W_HVG5p6WSXAhpu75U/view?usp=sharing
+      - name: "Homework 13 (Due Fri 12/03)"
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_13.ipynb
     - date: Tues 11/30
       content: "Discussion"
     - date: Wed 12/01
-      content: "Lecture 38: Integrity in Research: Limitations of Hypothesis Testing"
+      content: "Lecture 38: Integrity in Research: Limitations of Hypothesis Testing (Review)"
       assignments:
-      - name: 
-        url: 
-      - name: 
-        url: 
-      - name: 
-        url: 
+      - name: "Lecture 38 Video"
+        url: https://drive.google.com/file/d/11SrBpE6iPoFLN9oJTPrqMv7Xk3N-Z8G1/view?usp=sharing
     - date: Thu 12/02
       content: "Discussion"
     - date: Fri 12/03
       content: "Lecture 39: Final Exam Review"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Lecture 39 Video"
+        url: https://drive.google.com/file/d/11ThRziLJ68rO63mTCUbUgZDOqxzZkXTU/view?usp=sharing
         
