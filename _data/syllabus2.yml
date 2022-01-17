@@ -1,519 +1,203 @@
 weeks:
   - weekNum: 1
     weekName: Getting Started
-    weekDuration: 08/23-08/27
+    weekDuration: 1/17-1/21
     basic:
-    - date: Mon 08/23
-      content: "No school"
-    - date: Tues 08/24
-      content: "No school"
-    - date: Wed 08/25
-      content: "Lecture 1: Introduction and Syllabus, 1.1: Probabilities as Proportions"
+    - date: 1/17
+      content: "No School"
+    - date: 1/18
+      content: 
+    - date: 1/19
+      content: 
       assignments:
-      - name: "Lecture 1 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_01.pdf
-      - name: "Lecture 1 Video"
-        url: https://drive.google.com/file/d/104PZYZLPcS-a4p7c7A8Go4i-xPolrKZA/view?usp=sharing
-      - name: "HW 1 (Due 9/3 11:59PM)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_1.ipynb
-    - date: Thu 08/26
-      content: "Discussion"
-    - date: Fri 08/27
-      content: "Lecture 2: 1.2: Exact Calculation and Bounds 1.3: Fundamental Rules"
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 1/20
+      content: 
+    - date: 1/21
       assignments:
-      - name: "Lecture 2 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_02.pdf
-      - name: "Lecture 2 Video"
-        url: https://drive.google.com/file/d/106Qt0UjSK9e4lYf3a9cOlTEWkxrt4c7G/view?usp=sharing
-        
+      - name: 
+        url:
+      - name: 
+        url: 
         
         
   - weekNum: 2
     weekName: Conditioning
-    weekDuration: 08/30-09/03
+    weekDuration: 1/24-1/28
     basic:
-    - date: Mon 08/30
-      content: "Lecture 3: 2.1: The Chance of an Intersection"
+    - date: 1/24
+      content: 
+    - date: 1/25
+      content: 
+    - date: 1/26
+      content: 
       assignments:
-      - name: "Lecture 3 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_03.pdf
-      - name: "Lecture 3 Video"
-        url: https://drive.google.com/file/d/10Cfw5pxPIHvePhQdxjjNbEoZRonkAxPP/view?usp=sharing
-    - date: Tues 08/31
-      content: "Discussion"
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 1/27
+      content: 
+    - date: 1/28
       assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section8-31.pdf
-    - date: Wed 09/01
-      content: "Lecture 4: 2.2: Symmetry in Simple Random Sampling 2.3: Bayes Rule"
-      assignments:
-      - name: "Lecture 4 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_04.pdf
-      - name: "Lecture 4 Video"
-        url: https://drive.google.com/file/d/10EMP2twlhn7tPrj3pce7--LrTLUKbyjP/view?usp=sharing
-      - name: "HW 2 (Due 9/8 11:59PM)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_2.ipynb
-    - date: Thu 09/02
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section9-2.pdf
-    - date: Fri 09/03
-      content: "Lecture 5: 2.4: Uses and Interpretations 2.5: Independence"
-      assignments:
-      - name: "Lecture 5 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_05.pdf
-      - name: "Lecture 5 Video"
-        url: https://drive.google.com/file/d/10FrJgbHuUOgT2JyrBNI7f4AXK66t1rgn/view?usp=sharing
-        
+      - name: 
+        url:
+      - name: 
+        url: 
         
         
   - weekNum: 3
-    weekName: Random Variables
-    weekDuration: 09/06-09/10
+    weekName: Distributions
+    weekDuration: 1/31-2/4
     basic:
-    - date: Mon 09/06
-      content: "No School"   
-    - date: Tues 09/07
-      content: "Discussion"
+    - date: 1/31
+      content: 
+    - date: 2/1
+      content: 
+    - date: 2/2
+      content: 
       assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section9-7.pdf
-    - date: Wed 09/08
-      content: "Lecture 6: 3.1: Success and Failure 3.2: Random Variables"
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 2/3
+      content: 
+    - date: 2/4
       assignments:
-      - name: "Lecture 6 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_06.pdf
-      - name: "Lecture 6 Video"
-        url: https://drive.google.com/file/d/10KZTN_mAIlmUHgGROD3Jsldx-ukQfvNE/view?usp=sharing
-      - name: "HW 3 (Due 9/15 11:59PM)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_3.ipynb
-    - date: Thu 09/09
-      content: "Discussion"
-      assignments:
-      -name: "Quiz 1 (On Gradescope)"
-    - date: Fri 09/10
-      content: "Lecture 7: 3.3: Binomial Distribution 3.2: Hypergeometric Distribution"
-      assignments: 
-      - name: "Lecture 7 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_07.pdf
-      - name: "Lecture 7 Video"
-        url: https://drive.google.com/file/d/1C3QhkZgSNuGb5boGBo0nbLRSpIRSXs0h/view?usp=sharing
-                
+      - name: 
+        url:
+      - name: 
+        url: 
         
         
   - weekNum: 4
     weekName: Random Variables and Expectation
-    weekDuration: 09/13-09/17
+    weekDuration: 2/7-2/11
     basic:
-    - date: Mon 09/13
-      content:  "Lecture 8: 3.4 Examples"
+    - date: 2/7
+      content: 
+    - date: 2/8
+      content: 
+    - date: 2/9
+      content: 
       assignments:
-      - name: "Lecture 8 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_08.pdf
-      - name: "Lecture 8 Video"
-        url: https://drive.google.com/file/d/1FT4WzDr5Eb-o_hvgBJdOGYD8PmDUlC4G/view?usp=sharing
-    - date: Tues 09/14
-      content: "Discussion"
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 2/10
+      content: 
+    - date: 2/11
       assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section9-14.pdf
-    - date: Wed 09/15
-      content: "Lecture 9: 4.1 Cumulative Distribution Functions"
-      assignments:
-      - name: "Lecture 9 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_09.pdf
-      - name: "Lecture 9 Video"
-        url: https://drive.google.com/file/d/1HTWQLlJPCe2FqQavG8CpDnd3meaEBqKq/view?usp=sharing
-      - name: "HW 4 (Due 9/29 11:59PM)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_4.ipynb 
-    - date: Thu 09/16
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section9-16.pdf
-    - date: Fri 09/17
-      content: "Lecture 10: 4.2: Waiting Times – Negative Binomial 4.3: Exponential Approximations"
-      assignments:
-      - name: "Lecture 10 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_10.pdf
-      - name: "Lecture 10 Video"
-        url: https://drive.google.com/file/d/1myiVDhnEJBsFvzwOdHOBT0d7FVQ6zD-4/view?usp=sharing
-                
+      - name: 
+        url:
+      - name: 
+        url: 
         
         
   - weekNum: 5
-    weekName: The Power of Additivity
-    weekDuration: 09/20-09/24
+    weekName: Expectation and Variance
+    weekDuration: 2/14-2/18
     basic:
-    - date: Mon 09/20
-      content: "Lecture 11: 4.4: Poisson Distributions"
+    - date: 2/14
+      content: 
+    - date: 2/15
+      content: 
+    - date: 2/16
+      content: 
       assignments:
-      - name: "Lecture 11 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_11.pdf
-      - name: "Lecture 11 Video"
-        url: https://drive.google.com/file/d/1DX_Q8og47jyWAKtDb--XYXu3menSAAmo/view?usp=sharing
-    - date: Tues 09/21
-      content: "Discussion"
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 2/17
+      content: 
+    - date: 2/18
       assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section9-21.pdf
-    - date: Wed 09/22
-      content: "Lecture 12: 5.1: Definition 5.2: Functions of Random Variables"
-      assignments:
-      - name: "Lecture 12 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_12.pdf
-      - name: "Lecture 12 Video"
-        url: https://drive.google.com/file/d/11Ts06y0wlElolFq8xyvFRA_4wUr3ICZQ/view?usp=sharing
-      - name: "HW 4 (Due 9/29 11:59PM)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_4.ipynb 
-    - date: Thu 09/23
-      content: "Discussion"
-      assignments:
-      - name: "Quiz 2 (On Gradescope)"
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section9_23.pdf
-    - date: Fri 09/24
-      content: "Lecture 13: 5.2: Functions of Random Variables cont. 5.3: Methods of Indicators"
-      assignments:
-      - name: "Lecture 13 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_13.pdf
-      - name: "Lecture 13 Video"
-        url: https://drive.google.com/file/d/1xWFpyzyc29bSNT7mGJgIuPcx20YgcoSc/view?usp=drivesdk
-                
+      - name: 
+        url:
+      - name: 
+        url: 
         
         
   - weekNum: 6
-    weekName: Path to Prediction
-    weekDuration: 09/27-10/01
+    weekName: Bounding and Overflow
+    weekDuration: 2/21-2/25
     basic:
-    - date: Mon 09/27
-      content: "Lecture 14: 2.1: 5.3: Methods of Indicators cont. 5.4: Unbiased Estimators"
+    - date: 2/21
+      content: 
+    - date: 2/22
+      content: 
+    - date: 2/23
+      content: 
       assignments:
-      - name: "Lecture 14 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_14.pdf
-      - name: "Lecture 14 Video"
-        url: https://drive.google.com/file/d/1hfzI1Fck1I1OIJvGI5o-2aiSWFlZf5PL/view?usp=sharing
-    - date: Tues 09/28
-      content: "Discussion"
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 2/24
+      content: 
+    - date: 2/25
       assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section9-28.pdf
-    - date: Wed 09/29
-      content: "Lecture 15: 5.5: Conditional Expectation 5.6: Expectation by Conditioning"
-      assignments:
-      - name: "Lecture 15 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_15.pdf
-      - name: "Lecture 15 Video"
-        url: https://drive.google.com/file/d/1i9p1a5lew5ODQHHcN26z-zFD-Q9KCHhm/view?usp=sharing
-      - name: "Homework 5 (Due 10/8)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_5.ipynb
-    - date: Thu 09/30
-      content: "Discussion"
-    - date: Fri 10/01
-      content: "Midterm Review"
-      assignments:
-      - name: "Midterm Review Notes"
-        url: http://stat88.org/assets/notes_fa21/midterm_review.pdf
-      - name: "Midterm Review Video"
-        url: https://drive.google.com/file/d/18qlQp9OYLvoZKnjY7pdM6sL4H19a8xrk/view?usp=sharing
-                
+      - name: 
+        url:
+      - name: 
+        url: 
         
         
   - weekNum: 7
     weekName: Midterm Week
-    weekDuration: 10/04-10/08
+    weekDuration: 2/28-3/4
     basic:
-    - date: Mon 10/04
-      content: "Midterm"
+    - date: 2/28
+      content: 
+    - date: 3/1
+      content: 
+    - date: 3/2
+      content: 
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 3/3
+      content: 
+    - date: 3/4
       assignments:
       - name: 
         url:
-      - name:
+      - name: 
         url: 
-    - date: Tues 10/05
-      content: "Discussion"
-    - date: Wed 10/06
-      content: "Lecture 16: 6.1: Variance and Standard Deviation 6.2: Simplifying the Calculation"
-      assignments:
-      - name: "Lecture 16 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_16.pdf
-      - name: "Lecture 16 Video"
-        url: https://drive.google.com/file/d/10LkNjmUxqX0R-Sg2fdfsEumgysgYYbXU/view?usp=sharing
-      - name: "Homework 6 (Due 10/13)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_6.ipynb
-    - date: Thu 10/07
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section10-7.pdf
-    - date: Fri 10/08
-      content: "Lecture 17: 6.3: Markov’s Inequality 6.4: Chebyshev's Inequality"
-      assignments:
-      - name: "Lecture 17 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_17.pdf
-      - name: "Lecture 17 Video"
-        url: https://drive.google.com/file/d/10UYqks9EDheAsLWPsGk-FNDjPzDoLT6F/view?usp=sharing
-                
         
         
   - weekNum: 8
-    weekName: Variability
-    weekDuration: 10/11-10/15
+    weekName: Variance of a Sum
+    weekDuration: 3/7-3/11
     basic:
-    - date: Mon 10/11
-      content: "Lecture 18: 7.1: Sum of Independent Random Variables"
-      assignments:
-      - name: "Lecture 18 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_18.pdf
-      - name: "Lecture 18 Video"
-        url: https://drive.google.com/file/d/10XAY6khc1X259YPBrQrIqSEuQW7qIa_M/view?usp=sharing
-    - date: Tues 10/12
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section10-12.pdf
-    - date: Wed 10/13
-      content: "Lecture 19: 7.2: Sampling without Replacement 7.3: Law of Averages"
-      assignments:
-      - name: "Lecture 19 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_19.pdf
-      - name: "Lecture 19 Video"
-        url: https://drive.google.com/file/d/10Z5lgEAPZ57VxilB7cJ7DloXCv4Jz5E4/view?usp=sharing
-      - name: "Homework 7 (Due 10/20)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_7.ipynb
-    - date: Thu 10/14
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section10-14.pdf
-    - date: Fri 10/15
-      content: "Lecture 20: 8.1: Distribution of the Sample Sum (and the Sample Mean)"
-      assignments:
-      - name: "Lecture 20 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_20.pdf
-      - name: "Lecture 20 Video"
-        url: https://drive.google.com/file/d/10aK1dmdL0mBhoerXLuemyhX7nTU8GFwN/view?usp=sharing
-                
-        
-        
-  - weekNum: 9
-    weekName: Large Random Samples
-    weekDuration: 10/18-10/22
-    basic:
-    - date: Mon 10/18
-      content: "Lecture 21: 8.2: Standard Normal Curve"
-      assignments:
-      - name: "Lecture 21 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_21.pdf
-      - name: "Lecture 21 Video"
-        url: https://drive.google.com/file/d/10elu_ikdE15OvTGCpyN6RxxVZnI07XGW/view?usp=sharing
-    - date: Tues 10/19
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section10-19.pdf
-    - date: Wed 10/20
-      content: "Lecture 22: 8.3: Normal Approximation 8.4: How Large is Large"
-      assignments:
-      - name: "Lecture 22 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_22.pdf
-      - name: "Lecture 22 Video"
-        url: https://drive.google.com/file/d/10iHQ_5bMTqwRVN-rZ2OYM3ykJE2a_agK/view?usp=sharing
-      - name: "Homework 8 (Due 10/27)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_8.ipynb
-    - date: Thu 10/21
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section10-21.pdf
-    - date: Fri 10/22
-      content: "Lecture 23: 9.1: Testing Hypotheses"
-      assignments:
-      - name: "Lecture 23 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_23.pdf
-      - name: "Lecture 23 Video"
-        url: https://drive.google.com/file/d/10m1MeDxVB6PcQHRIKPQUbTt8QRMWw-xN/view?usp=sharing
-                
-        
-        
-  - weekNum: 10
-    weekName: Fundamentals of Inference
-    weekDuration: 10/25-10/29
-    basic:
-    - date: Mon 10/25
-      content: "Lecture 24: 9.2: A/B Testing: Fisher's Exact Test"
-      assignments:
-      - name: "Lecture 24 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_24.pdf
-      - name: "Lecture 24 Video"
-        url: https://drive.google.com/file/d/10qmPPTAFWnT9LUauoj4gYoZYWmWkBXNA/view?usp=sharing
-    - date: Tues 10/26
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section10-25.pdf
-    - date: Wed 10/27
-      content: "Lecture 25: 9.3: Confidence Intervals: Method"
-      assignments:
-      - name: "Lecture 25 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_25.pdf
-      - name: "Lecture 25 Video"
-        url: https://drive.google.com/file/d/10r44Q3-IjKFkrCEQmoRffAKJA6oMFrvA/view?usp=sharing
-      - name: "Homework 9 (Due 11/3)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_9.ipynb
-    - date: Thu 10/28
-      content: "Discussion"
-      assignments:
-      - name: "Quiz 3 (On Gradescope)"
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section10-28.pdf
-    - date: Fri 10/29
-      content: "Lecture 26: 9.4: Confidence Intervals: Interpretation"
-      assignments:
-      - name: "Lecture 26 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_26.pdf
-      - name: "Lecture 26 Video"
-        url: https://drive.google.com/file/d/10rGNDZiMvqKfqUcBKrIby7WnziqRCfND/view?usp=sharing
-                
-        
-        
-  - weekNum: 11
-    weekName: Continuous Distributions
-    weekDuration: 11/01-11/05
-    basic:
-    - date: Mon 11/01
-      content: "Lecture 27: 10.1: Density 10.2: Expectation and Variance"
-      assignments:
-      - name: "Lecture 27 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_27.pdf
-      - name: "Lecture 27 Video" 
-        url: https://drive.google.com/file/d/10wcgMPUWp7JDL-27mgxXuNOA2LNr2Rpl/view?usp=sharing
-    - date: Tues 11/02
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section11-2.pdf
-    - date: Wed 11/03
-      content: "Lecture 28: 8.1 - 9.4: Review of Statistical Inference  "
-      assignments:
-      - name: "Lecture 28 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_28.pdf
-      - name: "Lecture 28 Video"
-        url: https://drive.google.com/file/d/11-voUYD9paGkQ5lk_n1gx9qZ3jkuU_62/view?usp=sharing
-      - name: "Homework 10 Due (11/10)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_10.ipynb
-    - date: Thu 11/04
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section11-4.pdf
-    - date: Fri 11/05
-      content: "Lecture 29: 10.4: Normal Distribution"
-      assignments:
-      - name: "Lecture 29 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_29.pdf
-      - name: "Lecture 29 Video"
-        url: https://drive.google.com/file/d/115BkthmFw3YE5IryLHMcGrUJMkiQwKtK/view?usp=sharing
-                
-        
-        
-  - weekNum: 12
-    weekName: Bias and Variance
-    weekDuration: 11/08-11/12
-    basic:
-    - date: Mon 11/08
-      content: "Lecture 30: 11.1: Bias and Variance"
-      assignments:
-      - name: "Lecture 30 Notes"
-        url:  http://stat88.org/assets/notes_fa21/lecture_30.pdf
-      - name: "Lecture 30 Video"
-        url: https://drive.google.com/file/d/11EmGOMmtArS8DOfBEQtTEuPjxSKFse7d/view?usp=sharing
-    - date: Tues 11/09
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section11-9.pdf
-    - date: Wed 11/10
-      content: "Lecture 31: 11.3: Least Squares Regression"
-      assignments:
-      - name: "Lecture 31 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_31.pdf
-      - name: "Lecture 31 Video"
-        url: https://drive.google.com/file/d/11FLZlsG2pQVdnz8XD8aWGSkF6vb-gVxj/view?usp=sharing
-      - name: "Homework 11 (Due 11/17)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_11.ipynb
-    - date: Thu 11/11
-      content: "No School"
-    - date: Fri 11/12
-      content: "Lecture 32: 11.5: The Error in Regression"
-      assignments:
-      - name: "Lecture 32 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_32.pdf
-      - name: "Lecture 32 Video"
-        url: https://drive.google.com/file/d/11Ha4h6NffRZULssV-qmCtY0lytgNIw0m/view?usp=sharing
-                
-        
-        
-  - weekNum: 13
-    weekName: Instroduction to Regression
-    weekDuration: 11/15-11/19
-    basic:
-    - date: Mon 11/15
-      content: "Lecture 33: 12.1: The Simple Linear Regression Model"
-      assignments:
-      - name: "Lecture 33 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_33.pdf
-      - name: "Lecture 33 Video"
-        url: https://drive.google.com/file/d/11ITpHhnZVhc0K9gE0BsPxaf_x_iS1nAy/view?usp=sharing
-    - date: Tues 11/16
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section11-16.pdf
-    - date: Wed 11/17
-      content: "Lecture 34: 12.1: The Simple Linear Regression Model cont."
-      assignments:
-      - name: "Lecture 34 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_34.pdf
-      - name: "Lecture 34 Video"
-        url: https://drive.google.com/file/d/11Li0fDkqV20UuqkEpjlrYzpbZJtV4C-_/view?usp=sharing
-      - name: "Homework 12 (Due Wednesday 11/24)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_12.ipynb
-    - date: Thu 11/18
-      content: "Discussion"
-      assignments: 
-      - name: "Quiz 4 (On Gradescope)"
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section11-18.pdf
-    - date: Fri 11/19
-      content: "Lecture 35: 12.2: The Distribution of the Estimated Slope"
-      assignments:
-      - name: "Lecture 35 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_35.pdf
-      - name: "Lecture 35 Video"
-        url: https://drive.google.com/file/d/11Pll3VRzOXmL50V6OaPug614QwW6LELQ/view?usp=sharing
-                
-        
-        
-  - weekNum: 14
-    weekName: The Error in a Regression Estimate
-    weekDuration: 11/22-11/26
-    basic:
-    - date: Mon 11/22
-      content: "Lecture 36: 12.3: Towards Multiple Regression"
-      assignments:
-      - name: "Lecture 36 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_36.pdf
-      - name: "Lecture 36 Video"
-        url: https://drive.google.com/file/d/11PtkIWYUhacbmQ9ghumA8XToP4aezXQZ/view?usp=sharing
-    - date: Tues 11/23
-      content: "Discussion"
-      assignments:
-      - name: "Discussion Worksheet"
-        url: http://stat88.org/assets/notes_fa21/section11-23.pdf
-    - date: Wed 11/24
-      content: "No School"
+    - date: 3/7
+      content: 
+    - date: 3/8
+      content: 
+    - date: 3/9
+      content: 
       assignments:
       - name: 
         url: 
@@ -521,43 +205,204 @@ weeks:
         url: 
       - name: 
         url: 
-    - date: Thu 11/25
-      content: "No School"
-    - date: Fri 11/26
-      content: "No School"
+    - date: 3/10
+      content: 
+    - date: 3/11
       assignments:
       - name: 
         url:
       - name: 
         url: 
-                
+        
+  - weekNum: 9
+    weekName: Central Limit Theorem
+    weekDuration: 3/14-3/18
+    basic:
+    - date: 3/14
+      content: 
+    - date: 3/15
+      content: 
+    - date: 3/16
+      content: 
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 3/17
+      content: 
+    - date: 3/18
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+        
+        
+  - weekNum: 10
+    weekName: Spring Break
+    weekDuration: 3/21-3/25
+    basic:
+    - date: 3/21
+      content: 
+    - date: 3/22
+      content: 
+    - date: 3/23
+      content: 
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 3/24
+      content: 
+    - date: 3/25
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+        
+        
+  - weekNum: 11
+    weekName: Inference
+    weekDuration: 3/28-4/1
+    basic:
+    - date: 3/28
+      content: 
+    - date: 3/29
+      content: 
+    - date: 3/30
+      content: 
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 3/31
+      content: 
+    - date: 4/1
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+        
+        
+  - weekNum: 12
+    weekName: Continous Random Variables
+    weekDuration: 4/4-4/8
+    basic:
+    - date: 4/4
+      content: 
+    - date: 4/5
+      content: 
+    - date: 4/6
+      content: 
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 4/7
+      content: 
+    - date: 4/8
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+        
+        
+  - weekNum: 13
+    weekName: Bias, Variance, and Least Squares
+    weekDuration: 4/11-4/15
+    basic:
+    - date: 4/11
+      content: 
+    - date: 4/12
+      content: 
+    - date: 4/13
+      content: 
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 4/14
+      content: 
+    - date: 4/15
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
+        
+        
+  - weekNum: 14
+    weekName: Inference in Regression
+    weekDuration: 4/18-4/22
+    basic:
+    - date: 4/18
+      content: 
+    - date: 4/19
+      content: 
+    - date: 4/20
+      content: 
+      assignments:
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 4/21
+      content: 
+    - date: 4/22
+      assignments:
+      - name: 
+        url:
+      - name: 
+        url: 
         
         
   - weekNum: 15
-    weekName: Inference in Regression
-    weekDuration: 11/29-12/03
+    weekName: Overflow and Review
+    weekDuration: 4/25-4/29
     basic:
-    - date: Mon 11/29
-      content: "Lecture 37: 12.3: Towards Multiple Regression cont. (Not in textbook, examinable for final)"
+    - date: 4/25
+      content: 
+    - date: 4/26
+      content: 
+    - date: 4/27
+      content: 
       assignments:
-      - name: "Lecture 37 Notes"
-        url: http://stat88.org/assets/notes_fa21/lecture_37.pdf
-      - name: "Lecture 37 Video"
-        url: https://drive.google.com/file/d/11PuX95qxXQhTS6W_HVG5p6WSXAhpu75U/view?usp=sharing
-      - name: "Homework 13 (Due Fri 12/03)"
-        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa21&branch=main&subPath=Homework_13.ipynb
-    - date: Tues 11/30
-      content: "Discussion"
-    - date: Wed 12/01
-      content: "Lecture 38: Integrity in Research: Limitations of Hypothesis Testing (Review)"
+      - name: 
+        url: 
+      - name: 
+        url: 
+      - name: 
+        url: 
+    - date: 4/28
+      content: 
+    - date: 4/29
       assignments:
-      - name: "Lecture 38 Video"
-        url: https://drive.google.com/file/d/11SrBpE6iPoFLN9oJTPrqMv7Xk3N-Z8G1/view?usp=sharing
-    - date: Thu 12/02
-      content: "Discussion"
-    - date: Fri 12/03
-      content: "Lecture 39: Final Exam Review"
-      assignments:
-      - name: "Lecture 39 Video"
-        url: https://drive.google.com/file/d/11ThRziLJ68rO63mTCUbUgZDOqxzZkXTU/view?usp=sharing
+      - name: 
+        url:
+      - name: 
+        url: 
+        
+
+        
+        
         
