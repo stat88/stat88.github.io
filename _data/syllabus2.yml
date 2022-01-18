@@ -111,7 +111,7 @@ weeks:
         
         
   - weekNum: 5
-    weekName: Expectation & the Power os Additivity
+    weekName: Expectation & the Power of Additivity
     weekDuration: 2/14-2/18
     basic:
     - date: 2/14
@@ -165,7 +165,7 @@ weeks:
         
         
   - weekNum: 7
-    weekName: A path to prediction
+    weekName: A Path to Prediction
     weekDuration: 2/28-3/4
     basic:
     - date: 2/28
