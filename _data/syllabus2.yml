@@ -100,7 +100,7 @@ weeks:
       - name: 
         url: 
     - date: 2/10
-      content: "Exponential Approximations, Proisson RVs, Sums"
+      content: "Exponential Approximations, Poisson RVs, Sums"
     - date: 2/11
       content: "Weekly Quiz 3 (2.4, 3.1-3.5)"
       assignments:
@@ -115,11 +115,11 @@ weeks:
     weekDuration: 2/14-2/18
     basic:
     - date: 2/14
-      content: 
+      content: "Discussion"
     - date: 2/15
-      content: 
+      content: "Expectations of RVS, Functions of RVs, Indicators"
     - date: 2/16
-      content: 
+      content: "Discussion"
       assignments:
       - name: 
         url: 
@@ -128,8 +128,9 @@ weeks:
       - name: 
         url: 
     - date: 2/17
-      content: 
+      content: "Unbiased Estimators, Conditional Expectations, Computing Expectations Using Conditioning"
     - date: 2/18
+      content:
       assignments:
       - name: 
         url:
