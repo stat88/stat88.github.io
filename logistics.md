@@ -3,8 +3,8 @@ layout: page
 title: Stat 88 Course Information, Spring 2022
 ---
 
-<!-- #### A. Adhikari #### -->
-**All aspects of the course are subject to change, because of the changing scenarios this semester.”**
+<!-- #### S. Stoyanov #### -->
+**All aspects of the course are subject to change, because of the changing scenarios this semester.**
 
 ### About This Course ###
 
