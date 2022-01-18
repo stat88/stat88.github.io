@@ -6,7 +6,7 @@ weeks:
     - date: 1/17
       content: "No School"
     - date: 1/18
-      content: "Intro, Basics"
+      content: "1.1, 1.2: Intro, Basics"
     - date: 1/19
       content: "Discussion"
       assignments:
@@ -17,7 +17,7 @@ weeks:
       - name: 
         url: 
     - date: 1/20
-      content: "Axioms, Intersections"
+      content: "1.3, 2.1: Axioms, Intersections"
     - date: 1/21
       assignments:
       - name: 
@@ -33,7 +33,7 @@ weeks:
     - date: 1/24
       content: "Disucussion"
     - date: 1/25
-      content: "Symmetries in Sampling, Intro Bayes' Rule"
+      content: "2.2, 2.3: Symmetries in Sampling, Intro Bayes' Rule"
     - date: 1/26
       content: "Discussion"
       assignments:
@@ -44,7 +44,7 @@ weeks:
       - name: 
         url: 
     - date: 1/27
-      content: "Continuing Bayes' rule, Independence"
+      content: "2.4, 2.5: Continuing Bayes' rule, Independence"
     - date: 1/28
       content: "Weekly Quiz 1 (1, 2.1)"
       assignments:
@@ -61,7 +61,7 @@ weeks:
     - date: 1/31
       content: "Discussion"
     - date: 2/1
-      content: "Random Variables and Their Distributions" 
+      content: "3.1, 3.2: Random Variables and Their Distributions" 
     - date: 2/2
       content: "Discussion"
       assignments:
@@ -72,9 +72,9 @@ weeks:
       - name: 
         url: 
     - date: 2/3
-      content: "Special Distributions (Binomial, Hypegeom)"
+      content: "3.2, 3.4, 3.5: Special Distributions (Binomial, Hypegeom)"
     - date: 2/4
-      content: "Weekly Quiz 2 (2.2 - 2.4)"
+      content: "Weekly Quiz 2 (2.2-2.4)"
       assignments:
       - name: 
         url:
@@ -89,7 +89,7 @@ weeks:
     - date: 2/7
       content: "Discussion"
     - date: 2/8
-      content: "CDFs, Waiting Times, RVs w/ infinitely many values"
+      content: "4.1, 4.2: CDFs, Waiting Times, RVs w/ infinitely many values"
     - date: 2/9
       content: "Discussion"
       assignments:
@@ -100,7 +100,7 @@ weeks:
       - name: 
         url: 
     - date: 2/10
-      content: "Exponential Approximations, Proisson RVs, Sums"
+      content: "4.3, 4.4: Exponential Approximations, Poisson RVs, Sums"
     - date: 2/11
       content: "Weekly Quiz 3 (2.4, 3.1-3.5)"
       assignments:
@@ -115,11 +115,11 @@ weeks:
     weekDuration: 2/14-2/18
     basic:
     - date: 2/14
-      content: 
+      content: "Discussion"
     - date: 2/15
-      content: 
+      content: "5.1, 5.2, 5.3: Expectations of RVS, Functions of RVs, Indicators"
     - date: 2/16
-      content: 
+      content: "Discussion"
       assignments:
       - name: 
         url: 
@@ -128,8 +128,9 @@ weeks:
       - name: 
         url: 
     - date: 2/17
-      content: 
+      content: "5.4, 5.5, 5.6: Unbiased Estimators, Conditional Expectations, Computing Expectations Using Conditioning"
     - date: 2/18
+      content: "Weekly Quiz 4"
       assignments:
       - name: 
         url:
@@ -144,9 +145,9 @@ weeks:
     - date: 2/21
       content: "Holiday"
     - date: 2/22
-      content: 
+      content: "6.1, 6.2: Measuring Variability"
     - date: 2/23
-      content: 
+      content: "Discussion"
       assignments:
       - name: 
         url: 
@@ -155,8 +156,9 @@ weeks:
       - name: 
         url: 
     - date: 2/24
-      content: 
+      content: "6.3, 6.4: Markov's and Chebushev's Inequalities"
     - date: 2/25
+      content: "Weekly Quiz 5"
       assignments:
       - name: 
         url:
@@ -165,15 +167,15 @@ weeks:
         
         
   - weekNum: 7
-    weekName: A path to prediction
+    weekName: A Path to Prediction
     weekDuration: 2/28-3/4
     basic:
     - date: 2/28
-      content: 
+      content: "Discussion"
     - date: 3/1
-      content: 
+      content: "7.1,7.2: Sums of Independent RVs, Sampling w/o Replacement"
     - date: 3/2
-      content: 
+      content: "Discussion"
       assignments:
       - name: 
         url: 
@@ -182,8 +184,9 @@ weeks:
       - name: 
         url: 
     - date: 3/3
-      content: 
+      content: "7.3: The Law of Averages"
     - date: 3/4
+      content: "Weekly Quiz 6"
       assignments:
       - name: 
         url:
@@ -196,11 +199,11 @@ weeks:
     weekDuration: 3/7-3/11
     basic:
     - date: 3/7
-      content: 
+      content: "Discussion"
     - date: 3/8
-      content: 
+      content: "Midterm Review"
     - date: 3/9
-      content: 
+      content: "Discussion"
       assignments:
       - name: 
         url: 
@@ -209,7 +212,7 @@ weeks:
       - name: 
         url: 
     - date: 3/10
-      content: 
+      content: "Midterm (1.1-7.3)"
     - date: 3/11
       assignments:
       - name: 
@@ -222,11 +225,11 @@ weeks:
     weekDuration: 3/14-3/18
     basic:
     - date: 3/14
-      content: 
+      content: "Discussion"
     - date: 3/15
-      content: 
+      content: "8.1, 8.2: The Normal Distribution, Sample Sums"
     - date: 3/16
-      content: 
+      content: "Discussion"
       assignments:
       - name: 
         url: 
@@ -235,7 +238,7 @@ weeks:
       - name: 
         url: 
     - date: 3/17
-      content: 
+      content: "8.3, 8.4: Central Limit Theorem"
     - date: 3/18
       assignments:
       - name: 
@@ -249,11 +252,11 @@ weeks:
     weekDuration: 3/21-3/25
     basic:
     - date: 3/21
-      content: 
+      content: "Spring Break"
     - date: 3/22
-      content: 
+      content: "Spring Break"
     - date: 3/23
-      content: 
+      content: "Spring Break"
       assignments:
       - name: 
         url: 
@@ -262,8 +265,9 @@ weeks:
       - name: 
         url: 
     - date: 3/24
-      content: 
+      content: "Spring Break"
     - date: 3/25
+      content: "Spring Break"
       assignments:
       - name: 
         url:
@@ -276,11 +280,11 @@ weeks:
     weekDuration: 3/28-4/1
     basic:
     - date: 3/28
-      content: 
+      content: "Discussion"
     - date: 3/29
-      content: 
+      content: "9.1, 9.2: Hypothesis Tests"
     - date: 3/30
-      content: 
+      content: "Discussion"
       assignments:
       - name: 
         url: 
@@ -289,8 +293,9 @@ weeks:
       - name: 
         url: 
     - date: 3/31
-      content: 
+      content: "9.3, 9.4: Confidence Intervals"
     - date: 4/1
+      content: "Weekly Quiz 7 (8.1-8.4)"
       assignments:
       - name: 
         url:
@@ -303,11 +308,11 @@ weeks:
     weekDuration: 4/4-4/8
     basic:
     - date: 4/4
-      content: 
+      content: "Discussion"
     - date: 4/5
-      content: 
+      content: "10.1, 10.2: Continuous RV, Distributions, Expectations and Variance"
     - date: 4/6
-      content: 
+      content: "Discussion"
       assignments:
       - name: 
         url: 
@@ -316,8 +321,9 @@ weeks:
       - name: 
         url: 
     - date: 4/7
-      content: 
+      content: "10.3, 10.4: Two Special Continous Distributions"
     - date: 4/8
+      content: "Weekly Quiz 8"
       assignments:
       - name: 
         url:
@@ -332,9 +338,9 @@ weeks:
     - date: 4/11
       content: 
     - date: 4/12
-      content: 
+      content: "11.1, 11.2: The Bias Variance Tradeoff"
     - date: 4/13
-      content: 
+      content: "Discussion"
       assignments:
       - name: 
         url: 
@@ -343,8 +349,9 @@ weeks:
       - name: 
         url: 
     - date: 4/14
-      content: 
+      content: "11.3, 11.4: Correlation, Regression Estimates, The Regression Effect, and Regression Fallacy"
     - date: 4/15
+      content: "Weekly Quiz 9"
       assignments:
       - name: 
         url:
@@ -357,11 +364,11 @@ weeks:
     weekDuration: 4/18-4/22
     basic:
     - date: 4/18
-      content: 
+      content: "Discussion"
     - date: 4/19
-      content: 
+      content: "11.5, 12.1 Errors in Regression, The Regression Model for Data"
     - date: 4/20
-      content: 
+      content: "Discussion"
       assignments:
       - name: 
         url: 
@@ -370,7 +377,7 @@ weeks:
       - name: 
         url: 
     - date: 4/21
-      content: 
+      content: "12.2, 12.3: Inference for the True Slope in the Regression Model"
     - date: 4/22
       assignments:
       - name: 
@@ -384,11 +391,11 @@ weeks:
     weekDuration: 4/25-4/29
     basic:
     - date: 4/25
-      content: 
+      content: "Discussion"
     - date: 4/26
-      content: 
+      content: "Finish up Regression"
     - date: 4/27
-      content: 
+      content: "Discussion"
       assignments:
       - name: 
         url: 
@@ -397,7 +404,7 @@ weeks:
       - name: 
         url: 
     - date: 4/28
-      content: 
+      content: "Review"
     - date: 4/29
       assignments:
       - name: 
