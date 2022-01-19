@@ -10,6 +10,10 @@ weeks:
       assignments:
       - name: "Pre-Lecture Notes"
         url: http://stat88.org/assets/notes_sp22/Lec01-pre-lec.pdf
+      - name: 
+        url:
+      - name: "Gradescope How-To"
+        url: https://www.gradescope.com/get_started#student-submission
     - date: 1/19
       content: "Discussion"
       assignments:
