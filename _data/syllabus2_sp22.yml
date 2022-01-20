@@ -18,7 +18,7 @@ weeks:
       content: "Discussion"
       assignments:
       - name: "HW 1 (Due 1/26)"
-        url: https://github.com/stat88/content-fa21&branch=main&subPath=hw1-psets.pdf
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp22&branch=main&subPath=hw1-psets.pdf
       - name: 
         url: 
       - name: 
