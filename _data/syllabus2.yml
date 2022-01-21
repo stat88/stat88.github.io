@@ -14,6 +14,8 @@ weeks:
         url: http://stat88.org/assets/notes_sp22/Lec01.pdf
       - name: "Gradescope How-To"
         url: https://www.gradescope.com/get_started#student-submission
+      - name: "Lecture Questions" 
+        url: https://docs.google.com/document/d/1xM8gH-LJEhOrmUgLGSGRQ8Zsx2T7oHT8x-eOE0I30n0/edit?usp=sharing
     - date: 1/19
       content: "Discussion"
       assignments:
