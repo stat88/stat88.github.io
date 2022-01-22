@@ -18,7 +18,7 @@ You must enroll in the lecture and in a discussion section that meets twice week
 C8)
 
 ### Textbook ###
-The course textbook will be available on the course website. Lectures and the textbook will be closely related in content and sequence, though examples done in lecture might be different from those in the text. Solutions to the practice problems can be found [here](https://drive.google.com/drive/u/0/folders/1X3OQpW-AdxukeMD--uziseQuozbJCSzc). 
+The course textbook will be available on the course website. Lectures and the textbook will be closely related in content and sequence, though examples done in lecture might be different from those in the text. Solutions to the practice problems can be found [here](https://drive.google.com/drive/u/0/folders/1VC_XL2LmlQiUcYq4jZOFYo8VWDyNKOF0). 
 
 ### Attendance ###
 The current campus plan is for remote instruction until January 28. Accordingly, for the first two weeks, lecture and sections will be via Zoom. Note that these sessions will be **synchronous**, so lecture will be on Tuesdays and Thursday from 6:30 - 8:00 PM. All the zoom links can be found on the Piazza site for the course (more information below). The lectures will be recorded and posted for students who are unable to join the synchronous lecture. **Note that there may be a delay in posting the lectures**. GSI-led live discussion sessions will meet on Mondays and Wednesdays at various times. While we will not take attendance during lecture and section, we highly encourage you to attend because they are amazing opportunities for you to develop problem-solving skills and ask clarification questions. 
