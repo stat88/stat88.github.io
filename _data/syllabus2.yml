@@ -44,6 +44,9 @@ weeks:
     basic:
     - date: 1/24
       content: "Disucussion"
+      assignments:
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1ib-y1yf7MEw7vSx4M8DA4TNs2Bm08O6J/view?usp=sharing
     - date: 1/25
       content: "2.1, 2.2, 2.3: Symmetries in Sampling, Intro Bayes' Rule"
     - date: 1/26
