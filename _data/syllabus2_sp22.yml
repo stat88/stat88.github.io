@@ -64,7 +64,7 @@ weeks:
       - name: 
         url: 
     - date: 1/27
-      content: "2.3, 2.4, 2.5: Continuing Bayes' rule, Independence"
+      content: "2.2, 2.3, 2.4, 2.5: Continuing Bayes' rule, Independence"
     - date: 1/28
       content: "Weekly Quiz 1 (1, 2.1)"
       assignments:
