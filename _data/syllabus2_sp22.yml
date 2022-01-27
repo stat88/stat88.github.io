@@ -47,6 +47,8 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1ib-y1yf7MEw7vSx4M8DA4TNs2Bm08O6J/view?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1TYa0y9Sokq0v6Y05urzAWYAm6kZfHrdy/view?usp=sharing
     - date: 1/25
       content: "2.1, 2.2, 2.3: Symmetries in Sampling, Intro Bayes' Rule"
       assignments:
@@ -59,12 +61,15 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1F5jXPbDPYqjI24DamK1M1RNk-36hGTIX/view?usp=sharing
-      - name: 
-        url: 
-      - name: 
-        url: 
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1Qu90_gnmIO_RJaX-7QEfhyWHRhs8Cbzt/view?usp=sharing
+      - name: "HW 2 (Due 2/2)"
+        url: https://drive.google.com/file/d/1Hf1ckgFLnjrJzUBnSZ4EVcOsBh80qGoh/view?usp=sharing
     - date: 1/27
-      content: "2.2, 2.3, 2.4, 2.5: Continuing Bayes' rule, Independence"
+      content: "2.2, 2.3, 2.4, 2.5: Continuing Bayes' Rule, Independence"
+      assignments:
+      - name: "Pre-Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec03-pre-lec.pdf
     - date: 1/28
       content: "Weekly Quiz 1 (1, 2.1)"
       assignments:
