@@ -32,7 +32,7 @@ weeks:
         url: http://stat88.org/assets/notes_sp22/Lec02.pdf
     - date: 1/21
       assignments:
-      - name: "Exam Prep Worksheet"
+      - name: "Exam Prep 01"
         url: https://drive.google.com/file/d/1g_VvqhWT2CynkSWxm0c4cbOvaG-hTq5h/view
       - name: "Solutions"
         url: https://drive.google.com/file/d/1Ao5CcpHMm5Xr_fSUsRJkRl_qsmqTTEZe/view?usp=sharing
@@ -75,7 +75,7 @@ weeks:
     - date: 1/28
       content: "Weekly Quiz 1 (1, 2.1)"
       assignments:
-      - name: 
+      - name: "Exam Prep 02"
         url:
       - name: 
         url: 
