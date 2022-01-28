@@ -69,7 +69,7 @@ weeks:
       content: "2.2, 2.3, 2.4, 2.5: Continuing Bayes' Rule, Independence"
       assignments:
       - name: "Pre-Lecture Slides"
-        url: http://stat88.org/assets/notes_sp22/Lec03-pre-lec.pdf
+        url: http://stat88.org/assets/notes_sp22/Lec04-pre-lec.pdf
     - date: 1/28
       content: "Weekly Quiz 1 (1, 2.1)"
       assignments:
