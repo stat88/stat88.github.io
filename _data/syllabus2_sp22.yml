@@ -32,7 +32,7 @@ weeks:
         url: http://stat88.org/assets/notes_sp22/Lec02.pdf
     - date: 1/21
       assignments:
-      - name: "Exam Prep Worksheet"
+      - name: "Exam Prep 01"
         url: https://drive.google.com/file/d/1g_VvqhWT2CynkSWxm0c4cbOvaG-hTq5h/view
       - name: "Solutions"
         url: https://drive.google.com/file/d/1Ao5CcpHMm5Xr_fSUsRJkRl_qsmqTTEZe/view?usp=sharing
@@ -65,6 +65,8 @@ weeks:
         url: https://drive.google.com/file/d/1Qu90_gnmIO_RJaX-7QEfhyWHRhs8Cbzt/view?usp=sharing
       - name: "HW 2 (Due 2/2)"
         url: https://drive.google.com/file/d/1Hf1ckgFLnjrJzUBnSZ4EVcOsBh80qGoh/view?usp=sharing
+      - name: "HW 1 Solutions"
+        url: https://drive.google.com/file/d/14Pkno_fe_8uzwEYGM56Ik9CO1jvRXp66/view?usp=sharing
     - date: 1/27
       content: "2.2, 2.3, 2.4, 2.5: Multiplication Rule, Symmetries in Sampling, Bayes' Rule"
       assignments:
@@ -75,10 +77,10 @@ weeks:
     - date: 1/28
       content: "Weekly Quiz 1 (1, 2.1)"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Exam Prep 02"
+        url: https://drive.google.com/file/d/1x0wnwCpYfHYVOBa7Zg3XjRvrjUr6VVeu/view?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1kNfVzNaqZDCi6Hji-fVGF_o_BsaHYL6z/view?usp=sharing
         
         
   - weekNum: 3
