@@ -81,6 +81,8 @@ weeks:
         url: https://drive.google.com/file/d/1x0wnwCpYfHYVOBa7Zg3XjRvrjUr6VVeu/view?usp=sharing
       - name: "Solutions"
         url: https://drive.google.com/file/d/1kNfVzNaqZDCi6Hji-fVGF_o_BsaHYL6z/view?usp=sharing
+      - name: "Quiz 1 Solutions"
+        url: https://docs.google.com/document/d/173jdNqOy41L57MgXlasnkNWtw4tpJp8QEZhK7oqsZAI/edit?usp=sharing
         
         
   - weekNum: 3
@@ -94,8 +96,8 @@ weeks:
     - date: 2/2
       content: "Discussion"
       assignments:
-      - name: 
-        url: 
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1LaFF6yuMMg4vfbPoyJkwaDmrET4-kvfj/view?usp=sharing
       - name: 
         url: 
       - name: 
