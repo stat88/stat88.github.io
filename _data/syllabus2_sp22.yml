@@ -96,7 +96,7 @@ weeks:
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec05-pre-lec.pdf
-      - name: "Annoted Slides"
+      - name: "Annotated Slides"
         url: http://stat88.org/assets/notes_sp22/Lec05.pdf
     - date: 2/2
       content: "Discussion"
@@ -119,7 +119,7 @@ weeks:
         
         
   - weekNum: 4
-    weekName: More about Random Variables
+    weekName: More About Random Variables
     weekDuration: 2/7-2/11
     basic:
     - date: 2/7
