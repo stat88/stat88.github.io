@@ -96,11 +96,13 @@ weeks:
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec05-pre-lec.pdf
+      - name: "Annoted Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec05.pdf
     - date: 2/2
       content: "Discussion"
       assignments:
       - name: "Worksheet"
-        url: https://drive.google.com/file/d/1LaFF6yuMMg4vfbPoyJkwaDmrET4-kvfj/view?usp=sharing
+        url: https://drive.google.com/file/d/1Cp_2uPdaQgOdfsthJZ7t2PC-U7q1t3bL/view?usp=sharing
       - name: 
         url: 
       - name: 
