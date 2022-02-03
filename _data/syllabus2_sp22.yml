@@ -103,12 +103,15 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1Cp_2uPdaQgOdfsthJZ7t2PC-U7q1t3bL/view?usp=sharing
-      - name: 
-        url: 
+      - name: "HW 3 (Due 2/9)"
+        url: https://drive.google.com/file/d/1hz9A0vgjD0F7DPpErra8C_BZ9GZco2Gt/view?usp=sharing
       - name: 
         url: 
     - date: 2/3
       content: "3.2, 3.3, 3.4, 3.5: Random Variables and Their Distributions"
+      assignments:
+      - name: "Pre-Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec06-pre-lec.pdf
     - date: 2/4
       content: "Weekly Quiz 2 (2.2-2.4)"
       assignments:
