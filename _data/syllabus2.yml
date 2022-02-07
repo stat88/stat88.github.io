@@ -129,6 +129,9 @@ weeks:
     basic:
     - date: 2/7
       content: "Discussion"
+      assignments:
+      - name: "Worksheet"
+      - url: https://drive.google.com/file/d/1ckKvApZIbYIrfFE-Rwy_Q1MItxgLD3Cp/view?usp=sharing
     - date: 2/8
       content: "4.1, 4.2: Special Distributions (Binomial, Hypergeom)"
     - date: 2/9
