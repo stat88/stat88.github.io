@@ -130,8 +130,8 @@ weeks:
     - date: 2/7
       content: "Discussion"
       assignments:
-      - name: "Worksheet"
-      - url: https://drive.google.com/file/d/1wBaKHQo3zq88T1pOIYhzO3Tm1NCk2C4k/view?usp=sharing
+      - name: 
+      - url: 
     - date: 2/8
       content: "4.1, 4.2: Special Distributions (Binomial, Hypergeom)"
     - date: 2/9
