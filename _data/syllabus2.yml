@@ -134,6 +134,9 @@ weeks:
         url: https://drive.google.com/file/d/1wBaKHQo3zq88T1pOIYhzO3Tm1NCk2C4k/view?usp=sharing
     - date: 2/8
       content: "4.1, 4.2: Special Distributions (Binomial, Hypergeom)"
+      assignments: 
+      - name: "Pre-Lecture Slides" 
+        url: http://stat88.org/assets/notes_sp22/Lec07-pre-lec.pdf
     - date: 2/9
       content: "Discussion"
       assignments:
