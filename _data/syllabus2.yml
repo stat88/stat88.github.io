@@ -147,7 +147,7 @@ weeks:
       - name: "HW 4 (Due 2/16)"
         url: https://drive.google.com/file/d/1d6Upcd4XyYm2LXpGBCwLcuQ3l16d7MN6/view?usp=sharing
       - name: "HW 3 Solutions" 
-        url: https://drive.google.com/file/d/15OlY2Atbrfu0fwMzwPRlstsQM4CMG5sD/view?usp=sharing
+        url: 
     - date: 2/10
       content: "3.5, 4.1, 4.2: CDFs, Waiting times, RVs w/ Infinitely Many Values"
       assignments:
