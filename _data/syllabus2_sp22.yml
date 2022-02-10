@@ -108,7 +108,7 @@ weeks:
       - name: "HW 2 Solutions"
         url: https://drive.google.com/file/d/1Opi7r3L1bqV_F4UaJQct96a_BxOs8VdO/view?usp=sharing
     - date: 2/3
-      content: "3.2, 3.3, 3.4, 3.5: Random Variables and Their Distributions"
+      content: "3.2, 3.3: Random Variables and Their Distributions"
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec06-pre-lec.pdf
@@ -133,12 +133,12 @@ weeks:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1wBaKHQo3zq88T1pOIYhzO3Tm1NCk2C4k/view?usp=sharing
     - date: 2/8
-      content: "4.1, 4.2: Special Distributions (Binomial, Hypergeom)"
+      content: "3.3, 3.4: Special Distributions (Binomial, Hypergeom)"
       assignments: 
       - name: "Pre-Lecture Slides" 
         url: http://stat88.org/assets/notes_sp22/Lec07-pre-lec.pdf
       - name: "Annotated Slides"
-        url: http://stat88.org/assets/notes_sp22/Lec06.pdf
+        url: http://stat88.org/assets/notes_sp22/Lec07.pdf
     - date: 2/9
       content: "Discussion"
       assignments:
@@ -146,10 +146,13 @@ weeks:
         url: https://drive.google.com/file/d/1VQtZ4QHWmGqBSHxVC0A75U_7tsFJh8C5/view?usp=sharing
       - name: "HW 4 (Due 2/16)"
         url: https://drive.google.com/file/d/1d6Upcd4XyYm2LXpGBCwLcuQ3l16d7MN6/view?usp=sharing
-      - name: 
-        url: 
+      - name: "HW 3 Solutions" 
+        url: https://drive.google.com/file/d/15OlY2Atbrfu0fwMzwPRlstsQM4CMG5sD/view?usp=sharing
     - date: 2/10
-      content: "4.3, 4.4: CDFs, Waiting times, RVs w/ Infinitely Many Values"
+      content: "3.5, 4.1, 4.2: CDFs, Waiting times, RVs w/ Infinitely Many Values"
+      assignments:
+      - name: "Pre-Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec08-pre-lec.pdf
     - date: 2/11
       content: "Weekly Quiz 3 (2.4, 3.1-3.5)"
       assignments:
@@ -166,7 +169,7 @@ weeks:
     - date: 2/14
       content: "Discussion"
     - date: 2/15
-      content: "5.1, 5.2, 5.3: Exponential Approximations, Poisson RVs, Sums"
+      content: "4.3, 4.4 : Exponential Approximations, Poisson RVs, Sums"
     - date: 2/16
       content: "Discussion"
       assignments:
@@ -177,7 +180,7 @@ weeks:
       - name: 
         url: 
     - date: 2/17
-      content: "5.4, 5.5, 5.6: Expectations of RVs, Functions of RVS, Indicators"
+      content: "5.1, 5.2, 5.3: Expectations of RVs, Functions of RVS, Indicators"
     - date: 2/18
       content: "Weekly Quiz 4"
       assignments:
@@ -194,7 +197,7 @@ weeks:
     - date: 2/21
       content: "Holiday"
     - date: 2/22
-      content: "6.1, 6.2: Unbiased Estimators, Conditional Expectation, Computing Expectation Using Conditioning."
+      content: "5.4, 5.5, 5.6: Unbiased Estimators, Conditional Expectation, Computing Expectation Using Conditioning."
     - date: 2/23
       content: "Discussion"
       assignments:
@@ -205,7 +208,7 @@ weeks:
       - name: 
         url: 
     - date: 2/24
-      content: "6.3, 6.4: Measuring Variability"
+      content: "6.1, 6.2, 6.3, 6.4: Measuring Variability, Markov's and Chebyshev's inequalities"
     - date: 2/25
       content: "Weekly Quiz 5"
       assignments:
@@ -222,7 +225,7 @@ weeks:
     - date: 2/28
       content: "Discussion"
     - date: 3/1
-      content: "7.1,7.2: Markov's and Chebyshev's Inequalities"
+      content: "7.1, 7.2: Sums of Independent RVs, Sampling w/o Replacement"
     - date: 3/2
       content: "Discussion"
       assignments:
@@ -233,7 +236,7 @@ weeks:
       - name: 
         url: 
     - date: 3/3
-      content: "7.3: Sums of Independent RVs, Sampling w/o Replacement"
+      content: "7.3: The Law of Averages"
     - date: 3/4
       content: "Weekly Quiz 6"
       assignments:
@@ -250,7 +253,7 @@ weeks:
     - date: 3/7
       content: "Discussion"
     - date: 3/8
-      content: "The Law of Averages/Midterm Review"
+      content: "Midterm Review"
     - date: 3/9
       content: "Discussion"
       assignments:
