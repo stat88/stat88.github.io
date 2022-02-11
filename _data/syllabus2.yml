@@ -104,6 +104,8 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1Cp_2uPdaQgOdfsthJZ7t2PC-U7q1t3bL/view?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1NXjNDXTrccff4w7xbAZwxxICY0nFU2h3/view?usp=sharing
       - name: "HW 3 (Due 2/9)"
         url: https://drive.google.com/file/d/1c-4SXOzNVfb62mhh0YYd-RU64Xb27sTT/view?usp=sharing
       - name: "HW 2 Solutions"
@@ -135,6 +137,8 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1wBaKHQo3zq88T1pOIYhzO3Tm1NCk2C4k/view?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1b0fcHmROgHhY7yGhw7I7d2xYfjDf98Kg/view?usp=sharing
     - date: 2/8
       content: "3.3, 3.4: Special Distributions (Binomial, Hypergeom)"
       assignments: 
