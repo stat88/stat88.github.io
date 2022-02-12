@@ -162,13 +162,15 @@ weeks:
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec08-pre-lec.pdf
+      - name: "Annotated Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec08.pdf
     - date: 2/11
       content: "Weekly Quiz 3 (2.4, 3.1-3.5)"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Exam Prep 04"
+        url: https://drive.google.com/file/d/1P5qJEEzVkdjg_W8-wAiazgKdRx5k-tYq/view?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1o4OTqfxDv5wfNdB7x-Hxha5guVR4PuSg/view?usp=sharing
         
         
   - weekNum: 5
