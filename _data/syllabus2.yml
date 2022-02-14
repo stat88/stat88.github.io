@@ -171,6 +171,8 @@ weeks:
         url: https://drive.google.com/file/d/1P5qJEEzVkdjg_W8-wAiazgKdRx5k-tYq/view?usp=sharing
       - name: "Solutions"
         url: https://drive.google.com/file/d/1o4OTqfxDv5wfNdB7x-Hxha5guVR4PuSg/view?usp=sharing
+      - name: "Quiz 3 Solutions"
+        url: https://docs.google.com/document/d/1EEwa7lfMbMcKLXRb9yXjQmCHhoL8cHZUObS_S3eq0NI/edit?usp=sharing
         
         
   - weekNum: 5
@@ -179,6 +181,9 @@ weeks:
     basic:
     - date: 2/14
       content: "Discussion"
+      assignments:
+      - name: "Worksheet" 
+        url: https://drive.google.com/file/d/17MISyoYU-igNOBShg9TVl3UoP5CnNPRp/view?usp=sharing
     - date: 2/15
       content: "4.3, 4.4 : Exponential Approximations, Poisson RVs, Sums"
     - date: 2/16
