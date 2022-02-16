@@ -82,8 +82,6 @@ weeks:
         url: https://drive.google.com/file/d/1x0wnwCpYfHYVOBa7Zg3XjRvrjUr6VVeu/view?usp=sharing
       - name: "Solutions"
         url: https://drive.google.com/file/d/1kNfVzNaqZDCi6Hji-fVGF_o_BsaHYL6z/view?usp=sharing
-      - name: "Quiz 1 Solutions"
-        url: https://docs.google.com/document/d/173jdNqOy41L57MgXlasnkNWtw4tpJp8QEZhK7oqsZAI/edit?usp=sharing
         
         
   - weekNum: 3
@@ -124,8 +122,6 @@ weeks:
         url: https://drive.google.com/file/d/1dAckCawF8JOWEGXZK4SzYrnvCXrFdPz8/view?usp=sharing
       - name: "Solutions"
         url: https://drive.google.com/file/d/1IlYVUAPdo_AkpWT-Qrn4FznMGoJ5GqKZ/view?usp=sharing
-      - name: "Quiz 2 Solutions"
-        url: https://docs.google.com/document/d/10QEZ_TGRo2TzDgUOyWNYQuEg4bvPqfKQ4M0Cqmtw1kw/edit?usp=sharing
         
         
   - weekNum: 4
@@ -179,8 +175,14 @@ weeks:
     basic:
     - date: 2/14
       content: "Discussion"
+      assignments:
+      - name: "Worksheet" 
+        url: https://drive.google.com/file/d/17MISyoYU-igNOBShg9TVl3UoP5CnNPRp/view?usp=sharing
     - date: 2/15
       content: "4.3, 4.4 : Exponential Approximations, Poisson RVs, Sums"
+      assignments:
+      - name: "Pre-Lecture Slides" 
+        url: http://stat88.org/assets/notes_sp22/Lec09-pre-lec.pdf
     - date: 2/16
       content: "Discussion"
       assignments:
