@@ -180,6 +180,9 @@ weeks:
         url: https://drive.google.com/file/d/17MISyoYU-igNOBShg9TVl3UoP5CnNPRp/view?usp=sharing
     - date: 2/15
       content: "4.3, 4.4 : Exponential Approximations, Poisson RVs, Sums"
+      assignments:
+      - name: "Pre-Lecture Slides" 
+        url: http://stat88.org/assets/notes_sp22/Lec09-pre-lec.pdf
     - date: 2/16
       content: "Discussion"
       assignments:
