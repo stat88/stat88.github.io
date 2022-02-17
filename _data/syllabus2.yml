@@ -181,7 +181,7 @@ weeks:
       - name: "Solutions"
         url: https://drive.google.com/file/d/1rPlBvM1VS1RuGIlm0Y8X-ckJLdq4Ti_1/view?usp=sharing
     - date: 2/15
-      content: "4.3, 4.4 : Exponential Approximations, Poisson RVs, Sums"
+      content: "4.1, 4.2: CDFs, Waiting Times"
       assignments:
       - name: "Pre-Lecture Slides" 
         url: http://stat88.org/assets/notes_sp22/Lec09-pre-lec.pdf
@@ -197,7 +197,7 @@ weeks:
       - name: "HW 5 (Due 2/23)"
         url: https://drive.google.com/file/d/18eEchTsBG_0PKktbxDVME-SrOU2Ba0zv/view?usp=sharing
     - date: 2/17
-      content: "5.1, 5.2, 5.3: Expectations of RVs, Functions of RVS, Indicators"
+      content: "4.3, 4.4, 5.1: Exponential Approximations, Poisson RVs, Sums, Expectation"
       assignments:
       - name: "Pre-Lecture Notes"
         url: http://stat88.org/assets/notes_sp22/Lec10-pre-lec.pdf
@@ -217,7 +217,7 @@ weeks:
     - date: 2/21
       content: "Holiday"
     - date: 2/22
-      content: "5.4, 5.5, 5.6: Unbiased Estimators, Conditional Expectation, Computing Expectation Using Conditioning."
+      content: "5.2, 5.3, 5.4: Expectation, Functions of RVS, Indicators, Unbiased Estimators."
     - date: 2/23
       content: "Discussion"
       assignments:
@@ -228,7 +228,7 @@ weeks:
       - name: 
         url: 
     - date: 2/24
-      content: "6.1, 6.2, 6.3, 6.4: Measuring Variability, Markov's and Chebyshev's inequalities"
+      content: "5.5, 5.6, 6.1: Conditional Expectation, Computing Expectation Using Conditioning, Variances"
     - date: 2/25
       content: "Weekly Quiz 5"
       assignments:
@@ -245,7 +245,7 @@ weeks:
     - date: 2/28
       content: "Discussion"
     - date: 3/1
-      content: "7.1, 7.2: Sums of Independent RVs, Sampling w/o Replacement"
+      content: "6.2, 6.3, 6.4: Measuring variability, Markov's and Chebyshev's Inequalities"
     - date: 3/2
       content: "Discussion"
       assignments:
@@ -256,7 +256,7 @@ weeks:
       - name: 
         url: 
     - date: 3/3
-      content: "7.3: The Law of Averages"
+      content: "7.1,7.2, 7.3: Sums of independent RVs, Sampling w/o Replacement, Law of Averages"
     - date: 3/4
       content: "Weekly Quiz 6"
       assignments:
@@ -273,7 +273,7 @@ weeks:
     - date: 3/7
       content: "Discussion"
     - date: 3/8
-      content: "Midterm Review"
+      content: "Finishing Up, Midterm Review"
     - date: 3/9
       content: "Discussion"
       assignments:
