@@ -178,6 +178,8 @@ weeks:
       assignments:
       - name: "Worksheet" 
         url: https://drive.google.com/file/d/17MISyoYU-igNOBShg9TVl3UoP5CnNPRp/view?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1rPlBvM1VS1RuGIlm0Y8X-ckJLdq4Ti_1/view?usp=sharing
     - date: 2/15
       content: "4.3, 4.4 : Exponential Approximations, Poisson RVs, Sums"
       assignments:
@@ -190,10 +192,10 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1IyTNWhsPD7T3AWCi51WXH2zwwDR1ImVC/view?usp=sharing
-      - name: 
-        url: 
-      - name: 
-        url: 
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1t_Xb_7OHQAkHRlZ94GGWjlLyroDB-e7E/view?usp=sharing
+      - name: "HW 5 (Due 2/23)"
+        url: https://drive.google.com/file/d/18eEchTsBG_0PKktbxDVME-SrOU2Ba0zv/view?usp=sharing
     - date: 2/17
       content: "5.1, 5.2, 5.3: Expectations of RVs, Functions of RVS, Indicators"
       assignments:
