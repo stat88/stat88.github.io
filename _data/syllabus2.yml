@@ -201,6 +201,8 @@ weeks:
       assignments:
       - name: "Pre-Lecture Notes"
         url: http://stat88.org/assets/notes_sp22/Lec10-pre-lec.pdf
+      - name: "Annotated Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec10.pdf
     - date: 2/18
       content: "Weekly Quiz 4"
       assignments:
