@@ -196,6 +196,8 @@ weeks:
         url: https://drive.google.com/file/d/1t_Xb_7OHQAkHRlZ94GGWjlLyroDB-e7E/view?usp=sharing
       - name: "HW 5 (Due 2/23)"
         url: https://drive.google.com/file/d/18eEchTsBG_0PKktbxDVME-SrOU2Ba0zv/view?usp=sharing
+      - name: "HW 4 Solutions"
+        url: https://drive.google.com/file/d/1PUF-7QogoaJzY7YbHaJIKZDQmQBzimM_/view?usp=sharing
     - date: 2/17
       content: "4.3, 4.4, 5.1: Exponential Approximations, Poisson RVs, Sums, Expectation"
       assignments:
@@ -206,10 +208,10 @@ weeks:
     - date: 2/18
       content: "Weekly Quiz 4"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Exam Prep 05"
+        url: https://docs.google.com/document/d/1btklIBrLrziwWOeNa2RkuZ3iZEyA6TEOXc1F2lyjoiQ/edit?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1HD_u07txrnEGrC2HZv5m1WXeJYLxN5AA/view?usp=sharing
         
         
   - weekNum: 6
