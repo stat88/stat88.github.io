@@ -222,6 +222,9 @@ weeks:
       content: "Holiday"
     - date: 2/22
       content: "5.2, 5.3, 5.4: Expectation, Functions of RVS, Indicators, Unbiased Estimators."
+      assignments:
+      - name: "Pre-Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec11-pre-lec.pdf
     - date: 2/23
       content: "Discussion"
       assignments:
