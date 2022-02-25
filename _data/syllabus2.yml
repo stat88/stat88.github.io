@@ -238,13 +238,19 @@ weeks:
         url: 
     - date: 2/24
       content: "5.5, 5.6, 6.1: Conditional Expectation, Computing Expectation Using Conditioning, Variances"
-    - date: 2/25
-      content: "Weekly Quiz 5"
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec12-pre-lec.pdf
+      - name: "Annotated Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec12.pdf
+    - date: 2/25
+      content: "Weekly Quiz 5"
+      assignments:
       - name: 
         url: 
+      - name: 
+        url: 
+     
         
         
   - weekNum: 7
