@@ -263,7 +263,7 @@ weeks:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1lw8uydROSmzPrh-BuSepVANaTt2E6nLb/view?usp=sharing
     - date: 3/1
-      content: "6.1, 6.2, 6.3, 6.4: Unbiased Estimators, Conditional Expectation, Computing Expectation Using Conditioning, Cariance, Measuring Cariability, Markov's and Chebyshev's Inequalitiess"
+      content: "6.1, 6.2, 6.3, 6.4: Unbiased Estimators, Conditional Expectation, Computing Expectation Using Conditioning, Covariance, Measuring Variability, Markov's and Chebyshev's Inequalitiess"
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec13-pre-lec.pdf
