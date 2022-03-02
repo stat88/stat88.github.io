@@ -48,8 +48,6 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1ib-y1yf7MEw7vSx4M8DA4TNs2Bm08O6J/view?usp=sharing
-      - name: "Solutions"
-        url: https://drive.google.com/file/d/1TYa0y9Sokq0v6Y05urzAWYAm6kZfHrdy/view?usp=sharing
     - date: 1/25
       content: "2.1, 2.2, 2.3, 2.5: Bounds, Axioms, Independence"
       assignments:
@@ -62,8 +60,6 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1F5jXPbDPYqjI24DamK1M1RNk-36hGTIX/view?usp=sharing
-      - name: "Solutions"
-        url: https://drive.google.com/file/d/1Qu90_gnmIO_RJaX-7QEfhyWHRhs8Cbzt/view?usp=sharing
       - name: "HW 2 (Due 2/2)"
         url: https://drive.google.com/file/d/1Hf1ckgFLnjrJzUBnSZ4EVcOsBh80qGoh/view?usp=sharing
       - name: "HW 1 Solutions"
@@ -102,8 +98,6 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1Cp_2uPdaQgOdfsthJZ7t2PC-U7q1t3bL/view?usp=sharing
-      - name: "Solutions"
-        url: https://drive.google.com/file/d/1NXjNDXTrccff4w7xbAZwxxICY0nFU2h3/view?usp=sharing
       - name: "HW 3 (Due 2/9)"
         url: https://drive.google.com/file/d/1c-4SXOzNVfb62mhh0YYd-RU64Xb27sTT/view?usp=sharing
       - name: "HW 2 Solutions"
@@ -133,8 +127,6 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1wBaKHQo3zq88T1pOIYhzO3Tm1NCk2C4k/view?usp=sharing
-      - name: "Solutions"
-        url: https://drive.google.com/file/d/1b0fcHmROgHhY7yGhw7I7d2xYfjDf98Kg/view?usp=sharing
     - date: 2/8
       content: "3.3, 3.4: Special Distributions (Binomial, Hypergeom)"
       assignments: 
@@ -147,8 +139,6 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1VQtZ4QHWmGqBSHxVC0A75U_7tsFJh8C5/view?usp=sharing
-      - name: "Solutions"
-        url: https://drive.google.com/file/d/1UnyeTKdbTtSwS3_JJZ3vkvXKat11FakS/view?usp=sharing
       - name: "HW 4 (Due 2/16)"
         url: https://drive.google.com/file/d/1d6Upcd4XyYm2LXpGBCwLcuQ3l16d7MN6/view?usp=sharing
       - name: "HW 3 Solutions" 
@@ -178,8 +168,6 @@ weeks:
       assignments:
       - name: "Worksheet" 
         url: https://drive.google.com/file/d/17MISyoYU-igNOBShg9TVl3UoP5CnNPRp/view?usp=sharing
-      - name: "Solutions"
-        url: https://drive.google.com/file/d/1rPlBvM1VS1RuGIlm0Y8X-ckJLdq4Ti_1/view?usp=sharing
     - date: 2/15
       content: "4.1, 4.2: CDFs, Waiting Times"
       assignments:
@@ -192,8 +180,6 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1IyTNWhsPD7T3AWCi51WXH2zwwDR1ImVC/view?usp=sharing
-      - name: "Solutions"
-        url: https://drive.google.com/file/d/1t_Xb_7OHQAkHRlZ94GGWjlLyroDB-e7E/view?usp=sharing
       - name: "HW 5 (Due 2/23)"
         url: https://drive.google.com/file/d/18eEchTsBG_0PKktbxDVME-SrOU2Ba0zv/view?usp=sharing
       - name: "HW 4 Solutions"
@@ -270,8 +256,8 @@ weeks:
     - date: 3/2
       content: "Discussion"
       assignments:
-      - name: 
-        url: 
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1UBLS5txDpg3HyOowl69MUHANTdIwk0KM/view?usp=sharing
       - name: 
         url: 
       - name: 
