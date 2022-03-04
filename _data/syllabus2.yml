@@ -269,6 +269,8 @@ weeks:
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec14-pre-lec.pdf
+      - name: "Annotated Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec14.pdf
     - date: 3/4
       content: "Weekly Quiz 6"
       assignments:
