@@ -274,10 +274,10 @@ weeks:
     - date: 3/4
       content: "Weekly Quiz 6"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Exam Prep 07"
+        url: https://docs.google.com/document/d/1epQmcocx8SYzR7axHXWbpozzbxiIDYgjCJOlOJxN0TY/edit?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1IjLNMPhiQCXRCc6Fv6KQE6-gQoHUpRkw/view?usp=sharing
         
         
   - weekNum: 8
