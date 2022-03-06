@@ -260,22 +260,24 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1UBLS5txDpg3HyOowl69MUHANTdIwk0KM/view?usp=sharing
-      - name: "HW 7 (Due 3/9)"
-        url: 
-      - name: 
-        url: 
+      - name: "HW 7 (Due 3/16)"
+        url: https://drive.google.com/file/d/1X3DXzFRoNukujd3JCtPDmoifr1jnMpDO/view?usp=sharing
+      - name: "HW 6 Solutions"
+        url: https://drive.google.com/file/d/1Cr9aKpkVeU6zFz3zPWfJBnmIVSSl-yIH/view?usp=sharing
     - date: 3/3
       content: "7.1, 7.2, 7.3: Sums of independent RVs, sampling w/o replacement, the law of averages"
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec14-pre-lec.pdf
+      - name: "Annotated Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec14.pdf
     - date: 3/4
       content: "Weekly Quiz 6"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Exam Prep 07"
+        url: https://docs.google.com/document/d/1epQmcocx8SYzR7axHXWbpozzbxiIDYgjCJOlOJxN0TY/edit?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1IjLNMPhiQCXRCc6Fv6KQE6-gQoHUpRkw/view?usp=sharing
         
         
   - weekNum: 8
