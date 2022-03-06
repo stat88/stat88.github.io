@@ -223,7 +223,7 @@ weeks:
       - name: "HW 5 Solutions"
         url: https://drive.google.com/file/d/172mtvxOMhXFlTG7jg1R-T3HRUcwWeIcW/view?usp=sharing
     - date: 2/24
-      content: "5.3, 5.4, 5.5, 5.6: Indicators"
+      content: "5.2, 5.3: finished up joint distributions, indicators"
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec12-pre-lec.pdf
@@ -249,7 +249,7 @@ weeks:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1lw8uydROSmzPrh-BuSepVANaTt2E6nLb/view?usp=sharing
     - date: 3/1
-      content: "6.1, 6.2, 6.3, 6.4: Unbiased Estimators, Conditional Expectation, Computing Expectation Using Conditioning, Covariance, Measuring Variability, Markov's and Chebyshev's Inequalitiess"
+      content: "5.3, 5.4: Finished up indicators, with problems, unbiased estimators, German tank problem"
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec13-pre-lec.pdf
@@ -265,7 +265,7 @@ weeks:
       - name: "HW 6 Solutions"
         url: https://drive.google.com/file/d/1Cr9aKpkVeU6zFz3zPWfJBnmIVSSl-yIH/view?usp=sharing
     - date: 3/3
-      content: "7.1, 7.2, 7.3: Sums of independent RVs, sampling w/o replacement, the law of averages"
+      content: "5.5, 5.6: conditional expectation, computing expectation using conditioning"
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec14-pre-lec.pdf
@@ -298,7 +298,7 @@ weeks:
       - name: 
         url: 
     - date: 3/10
-      content: "Midterm (1.1-7.3)"
+      content: "Midterm (1.1-5.6)"
     - date: 3/11
       assignments:
       - name: 
@@ -313,7 +313,7 @@ weeks:
     - date: 3/14
       content: "Discussion"
     - date: 3/15
-      content: "8.1, 8.2: The Normal Distribution, Sample Sums"
+      content: "6.1, 6.2, 6.3, 6.4: definition of variance, Measuring variability, Markov's and Chebyshev's inequalities"
     - date: 3/16
       content: "Discussion"
       assignments:
@@ -324,7 +324,7 @@ weeks:
       - name: 
         url: 
     - date: 3/17
-      content: "8.3, 8.4: Central Limit Theorem"
+      content: "7.1, 7.2, 7.3 : sums of independent RVs, sampling w/o replacement, the law of averages"
     - date: 3/18
       assignments:
       - name: 
@@ -368,7 +368,7 @@ weeks:
     - date: 3/28
       content: "Discussion"
     - date: 3/29
-      content: "9.1, 9.2: Hypothesis Tests"
+      content: "8.1, 8.2, 8.3, 8.4: The normal distribution, and sample sums, the Central Limit Theorem "
     - date: 3/30
       content: "Discussion"
       assignments:
@@ -379,7 +379,7 @@ weeks:
       - name: 
         url: 
     - date: 3/31
-      content: "9.3, 9.4: Confidence Intervals"
+      content: "9.1, 9.2, 9.3, 9.4: Hypothesis tests, Confidence intervals"
     - date: 4/1
       content: "Weekly Quiz 7 (8.1-8.4)"
       assignments:
