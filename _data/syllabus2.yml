@@ -286,6 +286,9 @@ weeks:
     basic:
     - date: 3/7
       content: "Discussion"
+      assignments:
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1c5TC2L1Dl7i5JkiJQwgpBbVCi7GG6-z-/view?usp=sharing
     - date: 3/8
       content: "Finishing Up, Midterm Review"
     - date: 3/9
