@@ -323,9 +323,9 @@ weeks:
     - date: 3/15
       content: "6.1, 6.2, 6.3, 6.4: definition of variance, Measuring variability, Markov's and Chebyshev's inequalities"
       assignments:
-      - name: "Pre-Lecture Notes (6.1-6.2)"
+      - name: "Pre-Lecture Slides (6.1-6.2)"
         url: http://stat88.org/assets/notes_sp22/Lec16a-pre-lec.pdf
-      - name: "Pre-Lecture Notes (6.3-6.4)"
+      - name: "Pre-Lecture Slides (6.3-6.4)"
         url: http://stat88.org/assets/notes_sp22/Lec16b-pre-lec.pdf
       - name: "Annotated Slides"
         url: http://stat88.org/assets/notes_sp22/Lec16.pdf
@@ -340,6 +340,8 @@ weeks:
         url: 
     - date: 3/17
       content: "7.1, 7.2, 7.3 : sums of independent RVs, sampling w/o replacement, the law of averages"
+      - name: "Pre-Lecture Slides"
+      - url: http://stat88.org/assets/notes_sp22/Lec17-pre-lec.pdf
     - date: 3/18
       assignments:
       - name: 
