@@ -342,7 +342,7 @@ weeks:
       content: "7.1, 7.2, 7.3 : sums of independent RVs, sampling w/o replacement, the law of averages"
       assignments:
       - name: "Pre-Lecture Slides"
-      - url: http://stat88.org/assets/notes_sp22/Lec17-pre-lec.pdf
+        url: http://stat88.org/assets/notes_sp22/Lec17-pre-lec.pdf
     - date: 3/18
       assignments:
       - name: 
