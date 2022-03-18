@@ -343,6 +343,8 @@ weeks:
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec17-pre-lec.pdf
+      - name: "Annotated Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec17.pdf
     - date: 3/18
       assignments:
       - name: 
