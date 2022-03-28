@@ -260,8 +260,8 @@ weeks:
       assignments:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1UBLS5txDpg3HyOowl69MUHANTdIwk0KM/view?usp=sharing
-      - name: "HW 7 (Due 3/16)"
-        url: https://drive.google.com/file/d/1X3DXzFRoNukujd3JCtPDmoifr1jnMpDO/view?usp=sharing
+      - name: "HW 7 (Due 3/18)"
+        url: https://drive.google.com/file/d/1wwog0vMoLWZx9CkFoCX0fIpHbgWrJfhV/view?usp=sharing
       - name: "HW 6 Solutions"
         url: https://drive.google.com/file/d/1Cr9aKpkVeU6zFz3zPWfJBnmIVSSl-yIH/view?usp=sharing
     - date: 3/3
@@ -286,8 +286,16 @@ weeks:
     basic:
     - date: 3/7
       content: "Discussion"
+      assignments:
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1vz8m6nPFtyrwxDbRsEJ6MLhimj_nYm1h/view?usp=sharing
     - date: 3/8
       content: "Finishing Up, Midterm Review"
+      assignments: 
+      - name: "Pre-Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec15-pre-lec.pdf
+      - name: "Annotated Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec15.pdf
     - date: 3/9
       content: "Discussion"
       assignments:
@@ -311,20 +319,32 @@ weeks:
     weekDuration: 3/14-3/18
     basic:
     - date: 3/14
-      content: "Discussion"
+      content: "No Discussion"
     - date: 3/15
       content: "6.1, 6.2, 6.3, 6.4: definition of variance, Measuring variability, Markov's and Chebyshev's inequalities"
+      assignments:
+      - name: "Pre-Lecture Slides (6.1-6.2)"
+        url: http://stat88.org/assets/notes_sp22/Lec16a-pre-lec.pdf
+      - name: "Pre-Lecture Slides (6.3-6.4)"
+        url: http://stat88.org/assets/notes_sp22/Lec16b-pre-lec.pdf
+      - name: "Annotated Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec16.pdf
     - date: 3/16
       content: "Discussion"
       assignments:
-      - name: 
-        url: 
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/10QjqKExLBHc91FdhVwh01QM8xK4T9xow/view?usp=sharing
       - name: 
         url: 
       - name: 
         url: 
     - date: 3/17
       content: "7.1, 7.2, 7.3 : sums of independent RVs, sampling w/o replacement, the law of averages"
+      assignments:
+      - name: "Pre-Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec17-pre-lec.pdf
+      - name: "Annotated Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec17.pdf
     - date: 3/18
       assignments:
       - name: 
@@ -348,8 +368,6 @@ weeks:
         url: 
       - name: 
         url: 
-      - name: 
-        url: 
     - date: 3/24
       content: "Spring Break"
     - date: 3/25
@@ -367,6 +385,9 @@ weeks:
     basic:
     - date: 3/28
       content: "Discussion"
+      assignments:
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1nTLkANqZss9TEklU9TLWdkB9JhntrctK/view?usp=sharing
     - date: 3/29
       content: "8.1, 8.2, 8.3, 8.4: The normal distribution, and sample sums, the Central Limit Theorem "
     - date: 3/30
@@ -374,10 +395,10 @@ weeks:
       assignments:
       - name: 
         url: 
-      - name: 
-        url: 
-      - name: 
-        url: 
+      - name: "HW 8 (Due 4/06)"
+        url: https://drive.google.com/file/d/1DY_DGnNbT3L8JyemFDrz-XHKtw_CkD2E/view?usp=sharing
+      - name: "HW 7 Solutions"
+        url: https://drive.google.com/file/d/1-G2l5q1Mi1EC91A7gyVynjpxyoIYHsBE/view?usp=sharing
     - date: 3/31
       content: "9.1, 9.2, 9.3, 9.4: Hypothesis tests, Confidence intervals"
     - date: 4/1
