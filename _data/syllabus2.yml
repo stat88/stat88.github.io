@@ -368,8 +368,6 @@ weeks:
         url: 
       - name: 
         url: 
-      - name: 
-        url: 
     - date: 3/24
       content: "Spring Break"
     - date: 3/25
@@ -387,6 +385,9 @@ weeks:
     basic:
     - date: 3/28
       content: "Discussion"
+      assignments:
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1nTLkANqZss9TEklU9TLWdkB9JhntrctK/view?usp=sharing
     - date: 3/29
       content: "8.1, 8.2, 8.3, 8.4: The normal distribution, and sample sums, the Central Limit Theorem "
     - date: 3/30
@@ -394,10 +395,10 @@ weeks:
       assignments:
       - name: 
         url: 
-      - name: 
-        url: 
-      - name: 
-        url: 
+      - name: "HW 8 (Due 4/06)"
+        url: https://drive.google.com/file/d/1DY_DGnNbT3L8JyemFDrz-XHKtw_CkD2E/view?usp=sharing
+      - name: "HW 7 Solutions"
+        url: https://drive.google.com/file/d/1-G2l5q1Mi1EC91A7gyVynjpxyoIYHsBE/view?usp=sharing
     - date: 3/31
       content: "9.1, 9.2, 9.3, 9.4: Hypothesis tests, Confidence intervals"
     - date: 4/1
