@@ -402,7 +402,7 @@ weeks:
     - date: 3/31
       content: "9.1, 9.2, 9.3, 9.4: Hypothesis tests, Confidence intervals"
     - date: 4/1
-      content: "Weekly Quiz 7 (8.1-8.4)"
+      content: 
       assignments:
       - name: 
         url:
@@ -430,7 +430,7 @@ weeks:
     - date: 4/7
       content: "10.3, 10.4: Two Special Continous Distributions"
     - date: 4/8
-      content: "Weekly Quiz 8"
+      content: "Weekly Quiz 7 (Chapters 6,7)"
       assignments:
       - name: 
         url:
@@ -458,7 +458,7 @@ weeks:
     - date: 4/14
       content: "11.3, 11.4: Correlation, Regression Estimates, The Regression Effect, and Regression Fallacy"
     - date: 4/15
-      content: "Weekly Quiz 9"
+      content: "Weekly Quiz 8 (Chapters 8,9)"
       assignments:
       - name: 
         url:
@@ -486,6 +486,7 @@ weeks:
     - date: 4/21
       content: "12.2, 12.3: Inference for the True Slope in the Regression Model"
     - date: 4/22
+      content: "Weekly Quiz 9 (Chapter 10)"
       assignments:
       - name: 
         url:
@@ -513,6 +514,7 @@ weeks:
     - date: 4/28
       content: "Review"
     - date: 4/29
+      content: "Weekly Quiz 10 (Chapter 11)"
       assignments:
       - name: 
         url:
