@@ -398,8 +398,8 @@ weeks:
     - date: 3/30
       content: "Discussion"
       assignments:
-      - name: 
-        url: 
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1G5OjU5haEQhrTmPNRfHmlDQKW0SrTLM0/view?usp=sharing
       - name: "HW 8 (Due 4/06)"
         url: https://drive.google.com/file/d/1DY_DGnNbT3L8JyemFDrz-XHKtw_CkD2E/view?usp=sharing
       - name: "HW 7 Solutions"
