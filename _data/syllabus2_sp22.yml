@@ -389,7 +389,12 @@ weeks:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1nTLkANqZss9TEklU9TLWdkB9JhntrctK/view?usp=sharing
     - date: 3/29
-      content: "8.1, 8.2, 8.3, 8.4: The normal distribution, and sample sums, the Central Limit Theorem "
+      content: "8.1, 8.2, 8.3, 8.4: The normal distribution, and sample sums, the Central Limit Theorem"
+      assignments: 
+      - name: "Pre-Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec18-pre-lec.pdf
+      - name: "Annotated Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec18.pdf
     - date: 3/30
       content: "Discussion"
       assignments:
@@ -402,7 +407,7 @@ weeks:
     - date: 3/31
       content: "9.1, 9.2, 9.3, 9.4: Hypothesis tests, Confidence intervals"
     - date: 4/1
-      content: "Weekly Quiz 7 (8.1-8.4)"
+      content: 
       assignments:
       - name: 
         url:
@@ -430,7 +435,7 @@ weeks:
     - date: 4/7
       content: "10.3, 10.4: Two Special Continous Distributions"
     - date: 4/8
-      content: "Weekly Quiz 8"
+      content: "Weekly Quiz 7 (Chapters 6,7)"
       assignments:
       - name: 
         url:
@@ -458,7 +463,7 @@ weeks:
     - date: 4/14
       content: "11.3, 11.4: Correlation, Regression Estimates, The Regression Effect, and Regression Fallacy"
     - date: 4/15
-      content: "Weekly Quiz 9"
+      content: "Weekly Quiz 8 (Chapters 8,9)"
       assignments:
       - name: 
         url:
@@ -486,6 +491,7 @@ weeks:
     - date: 4/21
       content: "12.2, 12.3: Inference for the True Slope in the Regression Model"
     - date: 4/22
+      content: "Weekly Quiz 9 (Chapter 10)"
       assignments:
       - name: 
         url:
@@ -513,6 +519,7 @@ weeks:
     - date: 4/28
       content: "Review"
     - date: 4/29
+      content: "Weekly Quiz 10 (Chapter 11)"
       assignments:
       - name: 
         url:
