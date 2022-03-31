@@ -398,14 +398,19 @@ weeks:
     - date: 3/30
       content: "Discussion"
       assignments:
-      - name: 
-        url: 
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1G5OjU5haEQhrTmPNRfHmlDQKW0SrTLM0/view?usp=sharing
       - name: "HW 8 (Due 4/06)"
         url: https://drive.google.com/file/d/1DY_DGnNbT3L8JyemFDrz-XHKtw_CkD2E/view?usp=sharing
       - name: "HW 7 Solutions"
         url: https://drive.google.com/file/d/1-G2l5q1Mi1EC91A7gyVynjpxyoIYHsBE/view?usp=sharing
     - date: 3/31
       content: "9.1, 9.2, 9.3, 9.4: Hypothesis tests, Confidence intervals"
+      assignments:
+      - name: "Pre-Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec19-pre-lec.pdf
+      - name: 
+        url:
     - date: 4/1
       content: 
       assignments:
