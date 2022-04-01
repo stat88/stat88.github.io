@@ -409,8 +409,8 @@ weeks:
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec19-pre-lec.pdf
-      - name: 
-        url:
+      - name: "Annotated Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec19.pdf
     - date: 4/1
       content: 
       assignments:
