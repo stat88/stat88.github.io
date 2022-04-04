@@ -423,6 +423,9 @@ weeks:
     basic:
     - date: 4/4
       content: "Discussion"
+      assignments:
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1hAwPIx4JudNP8YHlLRSv7kPxcToJwnkZ/view?usp=sharing
     - date: 4/5
       content: "10.1, 10.2: Continuous RV, Distributions, Expectations and Variance"
     - date: 4/6
