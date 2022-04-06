@@ -431,6 +431,8 @@ weeks:
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec20-pre-lec.pdf
+      - name: "Anton Bobrov"
+        url: http://stat88.org/assets/notes_sp22/Lec20.pdf
     - date: 4/6
       content: "Discussion"
       assignments:
