@@ -347,10 +347,10 @@ weeks:
         url: http://stat88.org/assets/notes_sp22/Lec17.pdf
     - date: 3/18
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Exam Prep 08"
+        url: https://drive.google.com/file/d/1PXSb9UNxL8NJIej2_SzsVmrPc06SQ2N_/view?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/146bemmLI0uela8adA5sIC6s3HhNPlkJd/view?usp=sharing
         
         
   - weekNum: 10
@@ -373,10 +373,7 @@ weeks:
     - date: 3/25
       content: "Spring Break"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+
         
         
   - weekNum: 11
@@ -414,10 +411,10 @@ weeks:
     - date: 4/1
       content: 
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Exam Prep 09"
+        url: https://drive.google.com/file/d/1UyFzmWotdFYUNj5JN-unURrKGIaofdCu/view?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1VJbKg3hLBtD7372zTR7zxhxqZMS2Ci2x/view?usp=sharing
         
         
   - weekNum: 12
@@ -426,8 +423,16 @@ weeks:
     basic:
     - date: 4/4
       content: "Discussion"
+      assignments:
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1hAwPIx4JudNP8YHlLRSv7kPxcToJwnkZ/view?usp=sharing
     - date: 4/5
       content: "10.1, 10.2: Continuous RV, Distributions, Expectations and Variance"
+      assignments:
+      - name: "Pre-Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec20-pre-lec.pdf
+      - name: "Annotated Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec20.pdf
     - date: 4/6
       content: "Discussion"
       assignments:
