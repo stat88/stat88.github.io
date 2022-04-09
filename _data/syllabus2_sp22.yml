@@ -436,14 +436,19 @@ weeks:
     - date: 4/6
       content: "Discussion"
       assignments:
-      - name: 
-        url: 
-      - name: 
-        url: 
-      - name: 
-        url: 
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1eVexwIWk1ZlF-5jWuDhzFxyhNCf3GWU4/view?usp=sharing
+      - name: "HW 9 (Due 4/13)"
+        url: https://drive.google.com/file/d/10QjRF7goK_b3aw3BAgbV2Wg-sbKNXWqO/view?usp=sharing
+      - name: "HW 8 Solutions"
+        url: https://drive.google.com/file/d/1eTOgsX6hvwjEUMOnChbDqhrm6lurw75Z/view?usp=sharing
     - date: 4/7
       content: "10.3, 10.4: Two Special Continous Distributions"
+      assignments:
+      - name: "Pre-Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec21-pre-lec.pdf
+      - name: "Annotated Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec20.pdf
     - date: 4/8
       content: "Weekly Quiz 7 (Chapters 6,7)"
       assignments:
