@@ -448,7 +448,7 @@ weeks:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec21-pre-lec.pdf
       - name: "Annotated Slides"
-        url: http://stat88.org/assets/notes_sp22/Lec20.pdf
+        url: http://stat88.org/assets/notes_sp22/Lec21.pdf
     - date: 4/8
       content: "Weekly Quiz 7 (Chapters 6,7)"
       assignments:
