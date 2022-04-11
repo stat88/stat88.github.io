@@ -463,7 +463,10 @@ weeks:
     weekDuration: 4/11-4/15
     basic:
     - date: 4/11
-      content: 
+      content: "Discussion"
+      assignments:
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1DXaJOf2YFkIvA4XOrE7VEOQ4lymVI6Vz/view?usp=sharing
     - date: 4/12
       content: "11.1, 11.2: The Bias Variance Tradeoff"
     - date: 4/13
