@@ -321,7 +321,7 @@ weeks:
     - date: 3/14
       content: "No Discussion"
     - date: 3/15
-      content: "6.1, 6.2, 6.3, 6.4: definition of variance, Measuring variability, Markov's and Chebyshev's inequalities"
+      content: "6.1, 6.2: definition of variance, Measuring variability, Markov's and Chebyshev's inequalities"
       assignments:
       - name: "Pre-Lecture Slides (6.1-6.2)"
         url: http://stat88.org/assets/notes_sp22/Lec16a-pre-lec.pdf
@@ -339,7 +339,7 @@ weeks:
       - name: 
         url: 
     - date: 3/17
-      content: "7.1, 7.2, 7.3 : sums of independent RVs, sampling w/o replacement, the law of averages"
+      content: "6.3, 6.4, 7.1: sums of independent RVs"
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec17-pre-lec.pdf
@@ -386,7 +386,7 @@ weeks:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1nTLkANqZss9TEklU9TLWdkB9JhntrctK/view?usp=sharing
     - date: 3/29
-      content: "8.1, 8.2, 8.3, 8.4: The normal distribution, and sample sums, the Central Limit Theorem"
+      content: "7.2, 7.3, 8.1: Reviewed inequalities, sampling w/o replacement, the law of averages"
       assignments: 
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec18-pre-lec.pdf
@@ -402,7 +402,7 @@ weeks:
       - name: "HW 7 Solutions"
         url: https://drive.google.com/file/d/1-G2l5q1Mi1EC91A7gyVynjpxyoIYHsBE/view?usp=sharing
     - date: 3/31
-      content: "9.1, 9.2, 9.3, 9.4: Hypothesis tests, Confidence intervals"
+      content: "7.3,8.1, 8.2, 8.3, 8.4: finish up the law of averages, Dsn of a sample sum, the normal distribution, and sample sums, the Central Limit Theorem "
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec19-pre-lec.pdf
@@ -427,7 +427,7 @@ weeks:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1hAwPIx4JudNP8YHlLRSv7kPxcToJwnkZ/view?usp=sharing
     - date: 4/5
-      content: "10.1, 10.2: Continuous RV, Distributions, Expectations and Variance"
+      content: "8.4, 9.1: finish CLT & intro to hypothesis tests"
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec20-pre-lec.pdf
@@ -443,7 +443,7 @@ weeks:
       - name: "HW 8 Solutions"
         url: https://drive.google.com/file/d/1eTOgsX6hvwjEUMOnChbDqhrm6lurw75Z/view?usp=sharing
     - date: 4/7
-      content: "10.3, 10.4: Two Special Continous Distributions"
+      content: "9.2, 9.3, 9.4: p-values discussion, A/B testing"
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec21-pre-lec.pdf
@@ -468,7 +468,10 @@ weeks:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1DXaJOf2YFkIvA4XOrE7VEOQ4lymVI6Vz/view?usp=sharing
     - date: 4/12
-      content: "11.1, 11.2: The Bias Variance Tradeoff"
+      content: "9.4, 10.1, 10.2: confidence intervals. Continuous rvs, pdf, cdf, E(X)"
+      assignments:
+      - name: "Pre-Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec22-pre-lec.pdf
     - date: 4/13
       content: "Discussion"
       assignments:
@@ -479,7 +482,7 @@ weeks:
       - name: 
         url: 
     - date: 4/14
-      content: "11.3, 11.4: Correlation, Regression Estimates, The Regression Effect, and Regression Fallacy"
+      content: "10.3, 10.4, 11.1, 11.2: finishing up chapter 10, bias & variance, correlation"
     - date: 4/15
       content: "Weekly Quiz 8 (Chapters 8,9)"
       assignments:
@@ -496,7 +499,7 @@ weeks:
     - date: 4/18
       content: "Discussion"
     - date: 4/19
-      content: "11.5, 12.1 Errors in Regression, The Regression Model for Data"
+      content: "11.3,11.4, 11.5: Errors in Regression, The Regression Model for Data"
     - date: 4/20
       content: "Discussion"
       assignments:
@@ -507,7 +510,7 @@ weeks:
       - name: 
         url: 
     - date: 4/21
-      content: "12.2, 12.3: Inference for the True Slope in the Regression Model"
+      content: "12.2, 12.3: regression estimates, the regression effect, and the regression fallacy"
     - date: 4/22
       content: "Weekly Quiz 9 (Chapter 10)"
       assignments:
@@ -524,7 +527,7 @@ weeks:
     - date: 4/25
       content: "Discussion"
     - date: 4/26
-      content: "Finish up Regression"
+      content: "Inference for the true slope in the regression model"
     - date: 4/27
       content: "Discussion"
       assignments:
@@ -535,7 +538,7 @@ weeks:
       - name: 
         url: 
     - date: 4/28
-      content: "Review"
+      content: "Finish up regression"
     - date: 4/29
       content: "Weekly Quiz 10 (Chapter 11)"
       assignments:
