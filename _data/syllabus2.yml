@@ -481,10 +481,13 @@ weeks:
         url: https://drive.google.com/file/d/1OjX3bLN0A_Gc4F9lmtV6PiAgfUdCZZyw/view?usp=sharing
       - name: "HW 10 (Due 4/20)" 
         url: https://drive.google.com/file/d/1R-weiTGt8RYQnADPg0AYgdzMgUNECdwX/view?usp=sharing
-      - name: 
-        url: 
+      - name: "HW 9 Solutions"
+        url: https://drive.google.com/file/d/1-kZe619wwDTOVLw39Z-XfTCAd5P4lohi/view?usp=sharing
     - date: 4/14
       content: "10.3, 10.4, 11.1, 11.2: finishing up chapter 10, bias & variance, correlation"
+      assignments:
+      - name: "Annotated Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec23.pdf
     - date: 4/15
       content: "Weekly Quiz 8 (Chapters 8,9)"
       assignments:
