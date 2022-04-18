@@ -491,10 +491,10 @@ weeks:
     - date: 4/15
       content: "Weekly Quiz 8 (Chapters 8,9)"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Exam Prep 10"
+        url: https://drive.google.com/file/d/1jawj9SI2Dg2t8G7vCd98czO7KdMS58VK/view?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/198X5QJDHV6nF363JjCwG8DQ9gYkNB46R/view?usp=sharing
         
         
   - weekNum: 14
