@@ -520,7 +520,7 @@ weeks:
     - date: 4/21
       content: "10.4, 11.1, 11.2: finish chapter 10, introduce bias-variance and revisit the German Tank problem"
     - date: 4/22
-      content: "Weekly Quiz 9 (Chapter 10)"
+      content: "Weekly Quiz 9 (9.3, 9.4)"
       assignments:
       - name: 
         url:
