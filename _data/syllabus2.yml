@@ -468,7 +468,7 @@ weeks:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/1DXaJOf2YFkIvA4XOrE7VEOQ4lymVI6Vz/view?usp=sharing
     - date: 4/12
-      content: "9.4, 10.1, 10.2: confidence intervals. Continuous rvs, pdf, cdf, E(X)"
+      content: "9.3: Confidence intervals"
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec22-pre-lec.pdf
@@ -484,7 +484,7 @@ weeks:
       - name: "HW 9 Solutions"
         url: https://drive.google.com/file/d/1-kZe619wwDTOVLw39Z-XfTCAd5P4lohi/view?usp=sharing
     - date: 4/14
-      content: "10.3, 10.4, 11.1, 11.2: finishing up chapter 10, bias & variance, correlation"
+      content: "9.4: Further discussion of confidence intervals"
       assignments:
       - name: "Annotated Slides"
         url: http://stat88.org/assets/notes_sp22/Lec23.pdf
@@ -507,7 +507,7 @@ weeks:
       - name: "Worksheet"
         url: https://drive.google.com/file/d/17EYLNb6bNu4nFAColiqKP6cvInIg4Fp1/view?usp=sharing
     - date: 4/19
-      content: "11.3,11.4, 11.5: Errors in Regression, The Regression Model for Data"
+      content: "10.1, 10.2, 10.3: Continuous rvs, pdf, cdf, expected value and variance, special distributions"
     - date: 4/20
       content: "Discussion"
       assignments:
@@ -518,7 +518,7 @@ weeks:
       - name: 
         url: 
     - date: 4/21
-      content: "12.2, 12.3: regression estimates, the regression effect, and the regression fallacy"
+      content: "10.4, 11.1, 11.2: finish chapter 10, introduce bias-variance and revisit the German Tank problem"
     - date: 4/22
       content: "Weekly Quiz 9 (Chapter 10)"
       assignments:
@@ -535,7 +535,7 @@ weeks:
     - date: 4/25
       content: "Discussion"
     - date: 4/26
-      content: "Inference for the true slope in the regression model"
+      content: "11.3, 11.4, 11.5: Least squares regression, correlation, regression errors"
     - date: 4/27
       content: "Discussion"
       assignments:
@@ -546,7 +546,7 @@ weeks:
       - name: 
         url: 
     - date: 4/28
-      content: "Finish up regression"
+      content: "12.1, 12.2: simple linear regression model, inference on the slope estimate."
     - date: 4/29
       content: "Weekly Quiz 10 (Chapter 11)"
       assignments:
