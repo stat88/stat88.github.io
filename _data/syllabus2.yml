@@ -508,6 +508,8 @@ weeks:
         url: https://drive.google.com/file/d/17EYLNb6bNu4nFAColiqKP6cvInIg4Fp1/view?usp=sharing
     - date: 4/19
       content: "10.1, 10.2, 10.3: Continuous rvs, pdf, cdf, expected value and variance, special distributions"
+      - name: "Annotated Slides" 
+        url: http://stat88.org/assets/notes_sp22/Lec24.pdf
     - date: 4/20
       content: "Discussion"
       assignments:
