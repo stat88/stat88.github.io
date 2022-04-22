@@ -518,8 +518,8 @@ weeks:
         url: https://drive.google.com/file/d/1L32Kv2ufrhmQzs3w3cqflauOrInBFURr/view?usp=sharing
       - name: "Homework 11 (Due 4/27)"
         url: https://drive.google.com/file/d/1La4Q6ORxInfm06kFnQyJMcwq2fD_ES8a/view?usp=sharing
-      - name: 
-        url: 
+      - name: "HW 10 Solutions"
+        url: https://drive.google.com/file/d/16I38yW7UyaEcGZ68Elxh7Q0e15XkuciI/view?usp=sharing
     - date: 4/21
       content: "10.4, 11.1, 11.2: finish chapter 10, introduce bias-variance and revisit the German Tank problem"
       assignments:
@@ -528,10 +528,10 @@ weeks:
     - date: 4/22
       content: "Weekly Quiz 9 (9.3, 9.4)"
       assignments:
-      - name: 
-        url:
-      - name: 
-        url: 
+      - name: "Exam Prep 11"
+        url: https://drive.google.com/file/d/1CF-GhRvZKthZJEtFBs39jHsj9QWo-jq_/view?usp=sharing
+      - name: "Solutions"
+        url: https://drive.google.com/file/d/1Mk0Majc1CXDWubx1F-MeaqEIY20DhSzO/view?usp=sharing
         
         
   - weekNum: 15
