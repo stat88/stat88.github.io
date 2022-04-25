@@ -540,6 +540,9 @@ weeks:
     basic:
     - date: 4/25
       content: "Discussion"
+      assignments:
+      - name: "Worksheet"
+        url: https://drive.google.com/file/d/1E_oxatYJR6JRU9fkrJSFOjUZPJ_DCqjD/view?usp=sharing
     - date: 4/26
       content: "11.3, 11.4, 11.5: Least squares regression, correlation, regression errors"
     - date: 4/27
