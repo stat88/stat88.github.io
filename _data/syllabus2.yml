@@ -545,6 +545,11 @@ weeks:
         url: https://drive.google.com/file/d/1E_oxatYJR6JRU9fkrJSFOjUZPJ_DCqjD/view?usp=sharing
     - date: 4/26
       content: "11.3, 11.4, 11.5: Least squares regression, correlation, regression errors"
+      assignments:
+      - name: "Pre-Lecture Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec26-pre-lec.pdf
+      - name:
+        url:
     - date: 4/27
       content: "Discussion"
       assignments:
