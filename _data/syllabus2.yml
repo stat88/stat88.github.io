@@ -564,6 +564,8 @@ weeks:
       assignments:
       - name: "Pre-Lecture Slides"
         url: http://stat88.org/assets/notes_sp22/Lec27-pre-lec.pdf
+      - name: "Annotated Slides"
+        url: http://stat88.org/assets/notes_sp22/Lec27.pdf
     - date: 4/29
       content: "Weekly Quiz 10 (Chapter 11)"
       assignments:
