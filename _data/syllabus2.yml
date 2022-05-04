@@ -573,7 +573,10 @@ weeks:
         url:
       - name: 
         url: 
-        
+    - date: 5/04
+      assignments:
+      - name: "RRR Week Review"
+        url: http://stat88.org/assets/notes_sp22/final_review_rrr.pdf
 
         
         
