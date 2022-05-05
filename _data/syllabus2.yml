@@ -557,8 +557,8 @@ weeks:
         url: https://drive.google.com/file/d/1OeXcAOnkhUaL2Z9CbHEyAah3q-2B02Se/view?usp=sharing
       - name: "HW 12 (Due 5/04)"
         url: https://drive.google.com/file/d/1FTwGBVpe9BEBoZYAT5suJizpz2oNx4L0/view?usp=sharing
-      - name: 
-        url: 
+      - name: "HW 11 Solutions"
+        url: https://drive.google.com/file/d/1SJUeHYB9TvCce8U6n1biHoD79NVgICCg/view?usp=sharing
     - date: 4/28
       content: "12.1, 12.2: simple linear regression model, inference on the slope estimate."
       assignments:
