@@ -14,7 +14,7 @@ Stat 88 will prepare students well for the probability and theoretical statistic
 ### What requirements does Stat 88 satisfy? ###
 
 - Along with Data 8, Stat 88 satisfies the Statistics requirement for the Economics and Business Administration majors.
-- Stat 88 is expected to satisfy a probability requirement of the upcoming minor in Data Science, but the minor and its requirements have not yet been approved by the university.
+- Stat 88 satisfies the probability requirement of the minor in Data Science.
 
 ### Who can take Stat 88? ###
 Stat 88 is restricted to students who:
@@ -31,7 +31,7 @@ All of the requirements are enforced because the course has been designed specif
 - Read the textbook or your lecture notes, and go over the problems done in section, _before_ attempting the homework. Yes, really. You should not expect to simply remember everything from lecture and section, especially after the first couple of weeks. If you have time, do the remaining problems in the textbook.
 - Make a serious attempt at exercises by yourself before you seek help. Yes, really. The only way to become an independent problem solver (and, incidentally, to succeed in exams) is to try to solve problems independently. Your goal should be to increase the fraction of work you do by yourself, as the semester progresses.
 - Study concepts, not formulas. Don’t scroll fast through the words in the textbook and only stop when you spot a formula. Yes, really. Learn how ideas fit together; don’t memorize solutions to exercises. Problems in exams (and in your next class or research or job) won’t fit neatly into boxes that you have seen before.
-- Use Piazza, go to office hours, make friends with whom you can study. But if you have friends who always seem to know how to do the problems while you don’t, thank them nicely and then ask them to go away. Yes, really. Staff will be happy to help you figure out the best way for you to begin to take charge of the material.
+- Use Ed, go to office hours, make friends with whom you can study. But if you have friends who always seem to know how to do the problems while you don’t, thank them nicely and then ask them to go away. Yes, really. Staff will be happy to help you figure out the best way for you to begin to take charge of the material.
 
 
 
