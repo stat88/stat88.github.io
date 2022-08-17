@@ -7,9 +7,13 @@ title: Data 88S Course Information, Fall 2022
 
 Welcome to Data 88S! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](http://stat88.org/about/) the class.
 
-Enrolled and waitlisted students have been added to our **Ed** forum. 
+Please check your email about **section time preferences** and turn in the form by the deadline. 
 
-Please check your email for a **section time preferences** form, and be sure to turn in the form by the deadline. The form and related information will also be posted on Ed.
+Enrolled and waitlisted students have been added to our **Ed** forum. Section assignment information has been posted on Ed along with other start-of-term information.
+
+## Community Standards ##
+Data 140 is an academic community; Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf).
+
 
 
 ## Textbook ##
