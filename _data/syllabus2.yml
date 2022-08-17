@@ -12,7 +12,7 @@ weeks:
   - weekNum: 2
     weekDuration: 9/5-9/9
     basic:
-    - content: "<b> Qui 1 on 9/7 </b> <br>
+    - content: "<b> Quiz 1 on 9/7 </b> <br>
                 Random variables <br>
                 Random counts: binomial"
   - weekNum: 3
@@ -23,7 +23,7 @@ weeks:
   - weekNum: 4
     weekDuration: 9/19-9/23
     basic:
-    - content: "<b> Qui 2 on 9/21 </b> <br>
+    - content: "<b> Quiz 2 on 9/21 </b> <br>
                 Law of small numbers: Poisson <br>
                 Expectation and additivity"
   - weekNum: 5
@@ -59,7 +59,7 @@ weeks:
   - weekNum: 11
     weekDuration: 11/7-11/11
     basic:
-    - content: "<b> Qui 3 on 11/9 </b> <br>
+    - content: "<b> Quiz 3 on 11/9 </b> <br>
                 The normal distribution <br>
                 Estimation: bias and variance"
   - weekNum: 12
