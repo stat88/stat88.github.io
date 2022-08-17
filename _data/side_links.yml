@@ -9,8 +9,8 @@ links:
           url: /logistics
         - name: Textbook
           url: /textbook
-        - name: Resources
-          url: /references
+        # - name: Resources
+        #   url: /references
         - name: Weekly Schedule
           url: /weekly
         - name: Acknowledgments
