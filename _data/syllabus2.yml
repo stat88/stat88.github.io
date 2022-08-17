@@ -12,8 +12,8 @@ weeks:
   - weekNum: 2
     weekDuration: 9/5-9/9
     basic:
-    - content: "<b> Quiz 1 on 9/7 </b> <br>
-                Random variables <br>
+    - content: "Random variables <br>
+                <b> Quiz 1 on Wed 9/7 </b> <br>
                 Random counts: binomial"
   - weekNum: 3
     weekDuration: 9/12-9/16
@@ -23,8 +23,8 @@ weeks:
   - weekNum: 4
     weekDuration: 9/19-9/23
     basic:
-    - content: "<b> Quiz 2 on 9/21 </b> <br>
-                Law of small numbers: Poisson <br>
+    - content: "Law of small numbers: Poisson <br>
+                <b> Quiz 2 on Wed 9/21 </b> <br>
                 Expectation and additivity"
   - weekNum: 5
     weekDuration: 9/26-9/30
@@ -39,7 +39,7 @@ weeks:
   - weekNum: 7
     weekDuration: 10/10-10/14
     basic:
-    - content: "<b> Midterm on 10/11 </b> <br>
+    - content: "<b> Midterm on Tue 10/11 </b> <br>
                 Large samples: law of large numbers"
   - weekNum: 8
     weekDuration: 10/17-10/21
@@ -59,8 +59,8 @@ weeks:
   - weekNum: 11
     weekDuration: 11/7-11/11
     basic:
-    - content: "<b> Quiz 3 on 11/9 </b> <br>
-                The normal distribution <br>
+    - content: "The normal distribution <br>
+                <b> Quiz 3 on Wed 11/9 </b> <br>
                 Estimation: bias and variance"
   - weekNum: 12
     weekDuration: 11/14-11/18
