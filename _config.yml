@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            'Stat 88'
+title:            'Data 88S'
 tagline:          'Probability and Mathematical Statistics for Data Science'
 description:      'Probability and Mathematical Statistics for Data Science <br /> Ani Adhikari <br />'
 url:              http://prob140.org
