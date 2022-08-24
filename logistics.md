@@ -65,6 +65,11 @@ There will be **no alternate quizzes or exams** except as required by campus rul
 
 
 ### Grades ###
+We strongly recommended that you turn in all assignments even if you can only complete some of them partially. However, to give you some leeway in case of illness and emergencies, we will drop the following in the calculation of your overall score:
+
+- your two lowest homework scores
+- your lowest quiz score
+
 Course grades will be assigned using the following weights: 
 
 - 25% Homework
