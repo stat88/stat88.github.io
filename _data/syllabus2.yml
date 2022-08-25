@@ -1,10 +1,11 @@
 weeks:
   - weekNum: 0
-    weekName: Getting Started
+    weekName: Course Introduction and Chapter 1
     weekDuration: 8/24-8/26
     basic:
     - content: "Course introduction; fundamentals, exact calculations, and bounds"
   - weekNum: 1
+    weekName: 
     weekDuration: 8/29-9/2
     basic:
     - content: "The rules; intersections and conditioning <br>
