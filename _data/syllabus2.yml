@@ -1,5 +1,5 @@
 weeks:
-  - weekNum: 0
+  - weekNum: 1
     weekName: Course Introduction and Chapter 1
     weekDuration: 8/24-8/26
     basic:
@@ -10,7 +10,7 @@ weeks:
     links:
       - name: Homework 1 (Due 8/30 at 4pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_01.ipynb
-  - weekNum: 1
+  - weekNum: 2
     weekName: 
     weekDuration: 8/29-9/2
     basic:
@@ -22,69 +22,69 @@ weeks:
     links:
       - name: Homework 2 (Due 9/6 at 4pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_02.ipynb
-  - weekNum: 2
+  - weekNum: 3
     weekDuration: 9/5-9/9
     basic:
     - content: "Random variables <br>
                 <b> Quiz 1 on Wed 9/7 </b> <br>
                 Random counts: binomial"
-  - weekNum: 3
+  - weekNum: 4
     weekDuration: 9/12-9/16
     basic:
     - content: "Random counts: hypergeometric <br>
                 Exponential approximations; geometric"
-  - weekNum: 4
+  - weekNum: 5
     weekDuration: 9/19-9/23
     basic:
     - content: "Law of small numbers: Poisson <br>
                 <b> Quiz 2 on Wed 9/21 </b> <br>
                 Expectation and additivity"
-  - weekNum: 5
+  - weekNum: 6
     weekDuration: 9/26-9/30
     basic:
     - content: "Unbiased estimators <br>
                 Expectation by conditioning"
-  - weekNum: 6
+  - weekNum: 7
     weekDuration: 10/3-10/7
     basic:
     - content: "Standard deviation; tail bounds <br>
                 Variance and additivity: binomial and hypergeometric"
-  - weekNum: 7
+  - weekNum: 8
     weekDuration: 10/10-10/14
     basic:
     - content: "<b> Midterm on Tue 10/11 </b> <br>
                 Large samples: law of large numbers"
-  - weekNum: 8
+  - weekNum: 9
     weekDuration: 10/17-10/21
     basic:
     - content: "Central Limit Theorem <br>
                 CLT and confidence intervals"
-  - weekNum: 9
+  - weekNum: 10
     weekDuration: 10/24-10/29
     basic:
     - content: "Testing hypotheses <br>
                 Probability density"
-  - weekNum: 10
+  - weekNum: 11
     weekDuration: 10/31-11/4
     basic:
     - content: "Expectation and variance revisited <br>
                 The exponential distribution"
-  - weekNum: 11
+  - weekNum: 12
     weekDuration: 11/7-11/11
     basic:
     - content: "The normal distribution <br>
                 <b> Quiz 3 on Wed 11/9 </b> <br>
                 Estimation: bias and variance"
-  - weekNum: 12
+  - weekNum: 13
     weekDuration: 11/14-11/18
     basic:
     - content: "Correlation and the regression line <br>
                 Regression effect and regression fallacy"
-  - weekNum: 13
+  - weekNum: 14
     weekDuration: 11/21-11/25
     basic:
     - content: "Error in regression <br>"
-  - weekNum: 14
+  - weekNum: 15
     weekDuration: 11/28-12/2
     basic:
     - content: "Inference in regression <br>
