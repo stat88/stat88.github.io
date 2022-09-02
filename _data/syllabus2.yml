@@ -11,7 +11,7 @@ weeks:
       - name: Homework 1 (Due 8/30 at 4pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_01.ipynb
   - weekNum: 2
-    weekName: 
+    weekName: Intersections and Conditioning
     weekDuration: 8/29-9/2
     basic:
     - content: "The rules; intersections and conditioning <br>
@@ -23,6 +23,7 @@ weeks:
       - name: Homework 2 (Due 9/6 at 4pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_02.ipynb
   - weekNum: 3
+    weekName: Random Variables
     weekDuration: 9/5-9/9
     basic:
     - content: "Random variables <br>
