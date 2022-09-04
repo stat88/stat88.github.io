@@ -3,7 +3,8 @@ weeks:
     weekName: Course Introduction and Chapter 1
     weekDuration: 8/24-8/26
     basic:
-    - content: "Course introduction; fundamentals, exact calculations, and bounds"
+    - content: "Course introduction; fundamentals, exact calculations, and bounds <br>
+                Friday discussion problems: Ch. 1 Ex. 1"
       assignments:
         - name: Homework 1 (Due 8/30 at 4pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_01.ipynb
@@ -15,7 +16,9 @@ weeks:
     weekDuration: 8/29-9/2
     basic:
     - content: "The rules; intersections and conditioning <br>
-                Updating chances; independence"
+                Updating chances; independence <br>
+                Wednesday discussion problems: Ch. 1 Ex. 2; Ch. 2 Ex. 5, 10, 12 <br>
+                Friday discussion problems: Ch. 2 Ex. 4, 11, 7, 6"
       assignments:
         - name: Homework 2 (Due 9/6 at 4pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_02.ipynb
