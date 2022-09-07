@@ -32,6 +32,12 @@ weeks:
     - content: "Random variables <br>
                 <b> Quiz 1 on Wed 9/7 </b> <br>
                 Random counts: binomial"
+      assignments:
+        - name: Homework 3 (Due 9/13 at 4pm)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_03.ipynb
+    links:
+      - name: Homework 3 (Due 9/13 at 4pm)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_03.ipynb
   - weekNum: 4
     weekDuration: 9/12-9/16
     basic:
