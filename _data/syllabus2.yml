@@ -39,10 +39,17 @@ weeks:
       - name: Homework 3 (Due 9/13 at 4pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_03.ipynb
   - weekNum: 4
+    weekName: Random Counts, Exponential Approximations, and the (Hyper)geometric Distributions
     weekDuration: 9/12-9/16
     basic:
     - content: "Random counts: hypergeometric <br>
                 Exponential approximations; geometric"
+      assignments:
+        - name: Homework 4 (Due 9/20 at 4pm)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_04.ipynb
+    links:
+      - name: Homework 4 (Due 9/20 at 4pm)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_04.ipynb
   - weekNum: 5
     weekDuration: 9/19-9/23
     basic:
