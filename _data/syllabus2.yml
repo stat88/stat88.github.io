@@ -32,7 +32,7 @@ weeks:
     - content: "Random variables <br>
                 <b> Quiz 1 on Wed 9/7 </b> <br>
                 Random counts: binomial <br>
-                Friday discussion problems: Ch 3. Ex. 1, 2, 3cd"
+                Friday discussion problems: Ch. 3 Ex. 1, 2, 3cd"
       assignments:
         - name: Homework 3 (Due 9/13 at 4pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_03.ipynb
@@ -44,7 +44,9 @@ weeks:
     weekDuration: 9/12-9/16
     basic:
     - content: "Random counts: hypergeometric <br>
-                Exponential approximations; geometric"
+                Exponential approximations; geometric <br>
+                Wednesday discussion problems: Ch. 3 Ex. 6, 9, 10; Ch. 4 Ex. 2 <br>
+                Friday discussion problems: Ch. 4 Ex. 4, 5, 6"
       assignments:
         - name: Homework 4 (Due 9/20 at 4pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_04.ipynb
