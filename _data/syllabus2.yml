@@ -59,7 +59,8 @@ weeks:
     basic:
     - content: "Law of small numbers: Poisson <br>
                 <b> Quiz 2 on Wed 9/21 </b> <br>
-                Expectation and additivity"
+                Expectation and additivity <br>
+                Friday discussion problems: Ch. 5 Ex. 1, 4, 7"
       assignments:
         - name: Homework 5 (due 9/27 at 4pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_05.ipynb
