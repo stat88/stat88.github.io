@@ -68,10 +68,17 @@ weeks:
       - name: Homework 5 (due 9/27 at 4pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_05.ipynb
   - weekNum: 6
+    weekName: Unbiased Estimators, Expectation by Conditioning
     weekDuration: 9/26-9/30
     basic:
     - content: "Unbiased estimators <br>
                 Expectation by conditioning"
+      assignments:
+        - name: Homework 6 (due 10/4 at 4pm)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_06.ipynb
+    links:
+      - name: Homework 6 (due 10/4 at 4pm)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_06.ipynb
   - weekNum: 7
     weekDuration: 10/3-10/7
     basic:
