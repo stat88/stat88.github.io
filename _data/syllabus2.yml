@@ -72,7 +72,9 @@ weeks:
     weekDuration: 9/26-9/30
     basic:
     - content: "Unbiased estimators <br>
-                Expectation by conditioning"
+                Expectation by conditioning <br>
+                Wednesday discussion problems: Ch. 5 Ex. 6cd, 8, 9, 11 <br>
+                Friday discussion problems: Ch. 5 Ex. 13, 14, 15"
       assignments:
         - name: Homework 6 (due 10/4 at 4pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_06.ipynb
@@ -84,7 +86,8 @@ weeks:
     weekDuration: 10/3-10/7
     basic:
     - content: "Standard deviation; tail bounds <br>
-                Variance and additivity: binomial and hypergeometric"
+                Variance and additivity: binomial and hypergeometric <br>
+                Wednesday discussion problems: Ch. 6 Ex. 1, 2, 7, 5"
       assignments:
         - name: Homework 7 (due 10/10 at 5pm (note that this is MONDAY))
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_07.ipynb
