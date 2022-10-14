@@ -87,7 +87,8 @@ weeks:
     basic:
     - content: "Standard deviation; tail bounds <br>
                 Variance and additivity: binomial and hypergeometric <br>
-                Wednesday discussion problems: Ch. 6 Ex. 1, 2, 7, 5"
+                Wednesday discussion problems: Ch. 6 Ex. 1, 2, 7, 5
+                Friday discussion problems: Ch. 7 Ex. 3, misc Quiz Review problems"
       assignments:
         - name: Homework 7 (due 10/10 at 5pm (note that this is MONDAY))
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_07.ipynb
@@ -99,6 +100,10 @@ weeks:
     basic:
     - content: "<b> Midterm on Tue 10/11 </b> <br>
                 Large samples: law of large numbers"
+      assignments:
+        - name: No Homework
+    links:
+      - name: No Homework
   - weekNum: 9
     weekDuration: 10/17-10/21
     basic:
