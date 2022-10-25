@@ -87,7 +87,7 @@ weeks:
     basic:
     - content: "Standard deviation; tail bounds <br>
                 Variance and additivity: binomial and hypergeometric <br>
-                Wednesday discussion problems: Ch. 6 Ex. 1, 2, 7, 5
+                Wednesday discussion problems: Ch. 6 Ex. 1, 2, 7, 5 <br>
                 Friday discussion problems: Ch. 7 Ex. 3, misc Quiz Review problems"
       assignments:
         - name: Homework 7 (due 10/10 at 5pm (note that this is MONDAY))
@@ -108,7 +108,9 @@ weeks:
     weekDuration: 10/17-10/21
     basic:
     - content: "Central Limit Theorem <br>
-                CLT and confidence intervals"
+                CLT and confidence intervals <br>
+                Wednesday discussion problems: Ch. 8 Ex. 1, 2, 3, 4 <br>
+                Friday discussion problems: Ch. 8 Ex. 4; Ch. 9 Ex. 1, 2, 4"
       assignments:
         - name: Homework 8 (due 10/25 at 4pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_08.ipynb
@@ -134,12 +136,12 @@ weeks:
   - weekNum: 13
     weekDuration: 11/14-11/18
     basic:
-    - content: "Correlation and the regression line <br>
-                Regression effect and regression fallacy"
+    - content: "Correlation and the regression line, regression effect <br>
+                Error in regression"
   - weekNum: 14
     weekDuration: 11/21-11/25
     basic:
-    - content: "Error in regression <br>"
+    - content: "No lecture (Thanksgiving week) <br>"
   - weekNum: 15
     weekDuration: 11/28-12/2
     basic:
