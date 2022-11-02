@@ -121,7 +121,9 @@ weeks:
     weekDuration: 10/24-10/29
     basic:
     - content: "Testing hypotheses <br>
-                Probability density"
+                Probability density <br>
+                Wednesday discussion problems: Ch. 9 Ex. 5, 9, 7, 8 <br>
+                Friday discussion problems: Ch. 9 Ex. 11; Ch. 10 Ex. 1ab; Ch. 9 Ex. 10"
       assignments:
         - name: Homework 9 (due 11/1 at 4pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_09.ipynb
@@ -133,6 +135,12 @@ weeks:
     basic:
     - content: "Expectation and variance revisited <br>
                 The exponential distribution"
+      assignments:
+        - name: Homework 10 (due 11/8 at 4pm)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_10.ipynb
+    links:
+      - name: Homework 10 (due 11/8 at 4pm)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_10.ipynb
   - weekNum: 12
     weekDuration: 11/7-11/11
     basic:
