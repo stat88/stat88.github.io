@@ -134,7 +134,9 @@ weeks:
     weekDuration: 10/31-11/4
     basic:
     - content: "Expectation and variance revisited <br>
-                The exponential distribution"
+                The exponential distribution <br>
+                Wednesday discussion problems: Ch. 10 Ex. 1cde, 2, 10ab <br>
+                Friday discussion problems: Ch. 10 Ex. 10c, 3, 4"
       assignments:
         - name: Homework 10 (due 11/8 at 4pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-fa22&branch=master&subPath=hw/Homework_10.ipynb
