@@ -160,6 +160,10 @@ weeks:
     basic:
     - content: "Correlation and the regression line, regression effect <br>
                 Error in regression"
+      assignments:
+        - name: Homework 12 (on Gradescope; due 11/22 at 4pm)
+    links:
+      - name: Homework 12 (on Gradescope; due 11/22 at 4pm)
   - weekNum: 14
     weekDuration: 11/21-11/25
     basic:
