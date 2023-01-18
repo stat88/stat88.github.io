@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Data 88S Course Information, Spring 2023
+title: Data 88S Course Information, Fall 2022
 ---
 
-**Shobhana Stoyanov**
+**Ani Adhikari and Shahzar Rizvi**
 
 Welcome to Data 88S! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](http://stat88.org/about/) the class.
 
-Enrolled and waitlisted students have been added to our **Ed** forum. Some start-of-term information has been posted on Ed.
+Please check your email about **section time preferences** and turn in the form by the deadline. 
+
+Enrolled and waitlisted students have been added to our **Ed** forum. Section assignment information has been posted on Ed along with other start-of-term information.
 
 ## Community Standards ##
 Data 88S is an academic community; Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf).
@@ -23,7 +25,7 @@ All sessions are in person and start at Berkeley time, that is, 10 minutes after
 
 The class does not allow time conflicts. **You are expected to attend all the sessions below.** Each session will assume that you have attended the previous ones.
 
-- Lecture meets MWF 1PM to 2PM in Valley Life Sciences Building (VLSB) 2050.
+- Lecture meets TuTh 5PM to 6:30PM in Lewis 100.
 - Discussion sections meet two times a week, on Wednesdays and Fridays. 
 - There will be numerous office hours held by the instructors and course staff; days and times TBA.
 
@@ -37,7 +39,7 @@ We will use our Ed forum extensively for communication, posting documents and in
 
 ### Homework ###
 
-Homework will be assigned each Monday after lecture and will be due the following **Monday at 11:59 pm**. In some weeks there may be deviations from this due to exams or holidays; we will let you know. 
+Homework will be assigned each Tuesday after lecture and will be due the following **Tuesday at 4 pm**, one hour before that day's lecture. In some weeks there may be deviations from this due to exams or holidays; we will let you know. 
 
 Data 88S is essentially a math class. Homework will consist of math and interpretation, not code.
 
@@ -53,11 +55,11 @@ Please keep in mind that **homework assigned each week is based on the material 
 ### Quizzes and Exams ###
 
 - **Quizzes** will be held three times during the term in section. You must take your quizzes **in the discussion section to which you are assigned.** 
-    - Quiz 1: date TBA
-    - Quiz 2: date TBA
-    - Quiz 3: date TBA
-- **Midterm** date TBA, will be held during the normal lecture time.
-- **Final Exam** room TBA. It is your responsibility to make sure that you are not enrolled in a class that has a conflicting final exam. You **must take the final in order to pass the class**.
+    - Quiz 1: Wednesday 9/7
+    - Quiz 2: Wednesday 9/21
+    - Quiz 3: Wednesday 11/9
+- **Midterm** on Tuesday October 11 in lecture
+- **Final Exam** on Thursday, December 15, 11:30 AM to 2:30 PM, Exam Group 14, room TBA. It is your responsibility to make sure that you are not enrolled in a class that has a conflicting final exam. 
 
 There will be **no alternate quizzes or exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled tests. This is particularly important for the midterm and the final. Also, please make sure we receive your official DSP accommodation letter at least one week before the first test for which you need the accommodations, so we can make the necessary arrangements.
 
@@ -70,13 +72,15 @@ We strongly recommended that you turn in all assignments even if you can only co
 
 Course grades will be assigned using the following weights: 
 
-- 20% Homework
+- 25% Homework
 - 20% Quizzes
 - 20% Midterm
-- 30% Final 
-- 10% max(midterm, final)
+- 35% Final 
 
-Grades will be based on a combination of absolute cutoffs and the distribution of overall scores.
+Grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, I will make three guarantees: "An overall score of at least *x* will result in a grade of at least C-; at least *y* will result in at least B-; at least *z* will result in at least A-". The thresholds *x*, *y*, and *z* will depend on class performance up to that time.
+
+This sometimes results in distributions with weird shapes. See for example the peak at A in [Berkeleytime's summary](https://berkeleytime.com/grades/0-9405-fall-2019-adhikari,-a-_-1) of the grades from the last time Prof. Adhikari taught this class.
+
 
 ## Collaboration and Integrity ##
 You are encouraged to discuss practice problems and homework with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, you must write up all your assignments **on your own**. 
