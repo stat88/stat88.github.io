@@ -6,12 +6,12 @@ weeks:
     - content: "Wednesday: Course introduction; fundamentals (1.1) <br>
                 Friday: Exact calculations; bounds (1.2)"
       assignments:
-        - name: Friday Discussion
+        - name: Friday Discussion (1/20)
           url: https://drive.google.com/file/d/105p5aGEkgsXTPh8UORBh_e7INQpTM0np/view?usp=sharing
-        - name: Homework 1 (Due 11/24 at 11:59pm)
+        - name: Homework 1 (Due 1/24 at 11:59pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_01.ipynb
     links:
-      - name: Homework 1 (Due 11/24 at 11:59pm)
+      - name: Homework 1 (Due 1/24 at 11:59pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_01.ipynb
   - weekNum: 2
     weekName: Intersections and Conditioning
