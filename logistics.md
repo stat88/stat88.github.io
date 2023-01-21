@@ -37,7 +37,7 @@ We will use our Ed forum extensively for communication, posting documents and in
 
 ### Homework ###
 
-Homework will be assigned each Monday after lecture and will be due the following **Monday at 11:59 pm**. In some weeks there may be deviations from this due to exams or holidays; we will let you know. 
+Homework will be assigned each Wednesday and will be due the following **Tuesday at 11:59 pm**. In some weeks there may be deviations from this due to exams or holidays; we will let you know. 
 
 Data 88S is essentially a math class. Homework will consist of math and interpretation, not code.
 
@@ -53,9 +53,9 @@ Please keep in mind that **homework assigned each week is based on the material 
 ### Quizzes and Exams ###
 
 - **Quizzes** will be held three times during the term in section. You must take your quizzes **in the discussion section to which you are assigned.** 
-    - Quiz 1: date TBA
-    - Quiz 2: date TBA
-    - Quiz 3: date TBA
+    - Quiz 1: Wednesday 2/1
+    - Quiz 2: Wednesday 3/22
+    - Quiz 3: Wednesday 4/12
 - **Midterm** date TBA, will be held during the normal lecture time.
 - **Final Exam** Tuesday 5/9 from 8am-11am (Exam Group 5). It is your responsibility to make sure that you are not enrolled in a class that has a conflicting final exam. You **must take the final in order to pass the class**.
 
