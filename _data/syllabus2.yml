@@ -18,7 +18,8 @@ weeks:
     weekName: Intersections and Conditioning
     weekDuration: 1/23-1/27
     basic:
-    - content: "Monday: The rules (1.3) <br>
+    - date: 1/23-1/27
+      content: "Monday: The rules (1.3) <br>
                 Wednesday: Conditioning and updating (2.1 - 2.3) <br>
                 Friday: Independence (2.4, 2.5)"
       assignments:
@@ -31,7 +32,8 @@ weeks:
     weekName: Random Variables
     weekDuration: 1/30-2/3
     basic:
-    - content: "Monday: Random variables; equality (3.1, 3.2) <br>
+    - date: 1/30-2/3
+      content: "Monday: Random variables; equality (3.1, 3.2) <br>
                 Wednesday: Basic counting; random counts: binomial <br>
                 Friday: Binomial, continued"
       assignments:
@@ -44,7 +46,8 @@ weeks:
     weekName: Random Counts, Exponential Approximations, and the (Hyper)geometric Distributions
     weekDuration: 2/6-2/10
     basic:
-    - content: "Monday: Random counts: hypergeometric <br>
+    - date: 2/6-2/10
+      content: "Monday: Random counts: hypergeometric <br>
                 Wednesday: The CDF; random counts: geometric <br>
                 Friday: Exponential approximations <br>"
       assignments:
@@ -57,7 +60,8 @@ weeks:
     weekName: Poisson, Expectation, and Additivity
     weekDuration: 2/13-2/17
     basic:
-    - content: "Monday: Law of small numbers: Poisson <br>
+    - date: 2/13-2/17
+      content: "Monday: Law of small numbers: Poisson <br>
                 Wednesday: Expectation <br>
                 Friday: Additivity; method of indicators"
       assignments:
@@ -70,7 +74,8 @@ weeks:
     weekName: Unbiased Estimators, Expectation by Conditioning
     weekDuration: 2/20-2/24
     basic:
-    - content: "Monday: President's Day, no class <br>
+    - date: 2/20-2/24
+      content: "Monday: President's Day, no class <br>
                 Wednesday: Unbiased estimators <br>
                 Friday: Expectation by conditioning"
       assignments:
@@ -83,7 +88,8 @@ weeks:
     weekName: Review, Midterm
     weekDuration: 2/27-3/3
     basic:
-    - content: "Monday: overflow material <br>
+    - date: 2/27-3/3
+      content: "Monday: overflow material <br>
                 Wednesday: Review <br>
                 Friday: Midterm (in class) on chapters 1-5"
       assignments:
@@ -96,7 +102,8 @@ weeks:
     weekName: Standard Deviation, Variance
     weekDuration: 3/6-3/10
     basic:
-    - content: "Monday: Standard deviation, tail bounds; additivity <br>
+    - date: 3/6-3/10
+      content: "Monday: Standard deviation, tail bounds; additivity <br>
                 Wednesday: Variance of binomial and hypergeometric <br>
                 Friday: Large samples: law of large numbers"
       assignments:
@@ -106,7 +113,8 @@ weeks:
   - weekNum: 9
     weekDuration: 3/13-3/17
     basic:
-    - content: "Monday: Central Limit Theorem <br>
+    - date: 3/13-3/17
+      content: "Monday: Central Limit Theorem <br>
                 Wednesday: CLT continued <br>
                 Friday: Confidence intervals"
       assignments:
@@ -118,7 +126,8 @@ weeks:
   - weekNum: 10
     weekDuration: 3/20-3/24
     basic:
-    - content: "Monday: Testing hypotheses <br>
+    - date: 3/20-3/24
+      content: "Monday: Testing hypotheses <br>
                 Wednesday: Probability density <br>
                 Friday: Expectation and variance revisited"
       assignments:
@@ -130,7 +139,8 @@ weeks:
   - weekNum: 11
     weekDuration: 4/3-4/7
     basic:
-    - content: "Monday: The exponential distribution <br>
+    - date: 4/3-4/7
+      content: "Monday: The exponential distribution <br>
                 Wednesday: Exponential, continued <br>
                 Friday: The normal distribution"
       assignments:
@@ -142,7 +152,8 @@ weeks:
   - weekNum: 12
     weekDuration: 4/10-4/14
     basic:
-    - content: "Monday: Comparing two samples <br>
+    - date: 4/10-4/14
+      content: "Monday: Comparing two samples <br>
                 Wednesday: Estimation: bias and variance <br>
                 Friday: More on bias and variance"
       assignments:
@@ -154,7 +165,8 @@ weeks:
   - weekNum: 13
     weekDuration: 4/17-4/21
     basic:
-    - content: "Monday: Correlation and the regression line <br>
+    - date: 4/17-4/21
+      content: "Monday: Correlation and the regression line <br>
                 Wednesday: Regression effect; residuals <br>
                 Friday: Properties of residuals"
       assignments:
@@ -164,7 +176,8 @@ weeks:
   - weekNum: 14
     weekDuration: 4/24-4/28
     basic:
-    - content: "Monday: Inference in regression <br>
+    - date: 4/24-4/28
+      content: "Monday: Inference in regression <br>
                 Wednesday: Inference in regression <br>
                 Friday: Conclusion"
 
