@@ -56,7 +56,7 @@ Please keep in mind that **homework assigned each week is based on the material 
     - Quiz 1: Wednesday 2/1
     - Quiz 2: Wednesday 3/22
     - Quiz 3: Wednesday 4/12
-- **Midterm** date TBA, will be held during the normal lecture time.
+- **Midterm** Friday March 3rd, will be held during the normal lecture time.
 - **Final Exam** Tuesday 5/9 from 8am-11am (Exam Group 5). It is your responsibility to make sure that you are not enrolled in a class that has a conflicting final exam. You **must take the final in order to pass the class**.
 
 There will be **no alternate quizzes or exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled tests. This is particularly important for the midterm and the final. Also, please make sure we receive your official DSP accommodation letter at least one week before the first test for which you need the accommodations, so we can make the necessary arrangements.
