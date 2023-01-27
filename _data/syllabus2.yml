@@ -28,14 +28,14 @@ weeks:
                 Wednesday Discussion: Ch. 1 Ex 2, 3, 4, 5 <br>
                 Friday: Independence (2.4, 2.5)"
       assignments:
-        - name: Homework 2 (Due 1/31 at 11:59pm)
+        - name: Homework 2 (Due 1/31 at 8:00pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_02.ipynb
         - name: Monday Recap (Finished Ch. 1)
           url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5561478
         - name: Wednesday Recap (Finished 1.3, 2.1.1-2.1.3)
           url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5598593
     links:
-      - name: Homework 2 (Due 1/31 at 11:59pm)
+      - name: Homework 2 (Due 1/31 at 8:00pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_02.ipynb
   - weekNum: 3
     weekName: Random Variables
