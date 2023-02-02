@@ -34,6 +34,8 @@ weeks:
           url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5561478
         - name: Wednesday Recap (Finished 1.3, 2.1.1-2.1.3)
           url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5598593
+        - name: Friday Recap
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5723317
         - name: Friday Discussion (1/27)
           url: https://drive.google.com/file/d/1gvhGHgo-SM_suDp9s-I5n8RR-H7v3avy/view?usp=sharing
     links:
@@ -45,11 +47,13 @@ weeks:
     basic:
     - date: 1/30-2/3
       content: "Monday: Random variables; equality (3.1, 3.2) <br>
-                Wednesday: <b> Quiz 1 </b>; Basic counting; random counts: binomial <br>
-                Friday: Binomial, continued"
+                Wednesday: <b> Quiz 1 </b>; Basic counting; random counts <br>
+                Friday: Finish 3.2, binomial and hypergeometric (3.3, 3.4)"
       assignments:
-        - name: 
-          url: 
+        - name: Monday Recap
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5723489
+        - name: Wednesday Recap
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5723594
     links:
       - name: 
         url: 
@@ -58,7 +62,7 @@ weeks:
     weekDuration: 2/6-2/10
     basic:
     - date: 2/6-2/10
-      content: "Monday: Random counts: hypergeometric <br>
+      content: "Monday: Binomial/hypergeometric examples (3.5), CDF (4.1) <br>
                 Wednesday: The CDF; random counts: geometric <br>
                 Friday: Exponential approximations <br>"
       assignments:
