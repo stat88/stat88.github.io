@@ -50,13 +50,15 @@ weeks:
                 Wednesday: <b> Quiz 1 </b>; Basic counting; random counts <br>
                 Friday: Finish 3.2, binomial and hypergeometric (3.3, 3.4)"
       assignments:
+        - name: Homework 3 (Due 2/7 at 11:59pm)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_03.ipynb
         - name: Monday Recap
           url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5723489
         - name: Wednesday Recap
           url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5723594
     links:
-      - name: 
-        url: 
+      - name: Homework 3 (Due 2/7 at 11:59pm)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_03.ipynb
   - weekNum: 4
     weekName: Random Counts, Exponential Approximations, and the (Hyper)geometric Distributions
     weekDuration: 2/6-2/10
