@@ -71,13 +71,15 @@ weeks:
                 Wednesday: The CDF; random counts: geometric <br>
                 Friday: Exponential approximations <br>"
       assignments:
+        - name: Homework 4 (Due 2/14 at 11:59pm)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_04.ipynb
         - name: Monday Recap
           url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5803789
         - name: Wednesday Discussion (1/8)
           url: https://drive.google.com/file/d/1PMx35TNrkAPgE6IJtwu_S-kZ9n9r2n-_/view?usp=sharing
     links:
-      - name: 
-        url:
+      - name: Homework 4 (Due 2/14 at 11:59pm)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_04.ipynb
   - weekNum: 5
     weekName: Poisson, Expectation, and Additivity
     weekDuration: 2/13-2/17
