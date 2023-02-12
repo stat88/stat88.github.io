@@ -10,7 +10,7 @@ Welcome to Data 88S! This page contains the nitty-gritty details of the class. P
 Enrolled and waitlisted students have been added to our **Ed** forum. Some start-of-term information has been posted on Ed.
 
 ## Community Standards ##
-Data 88S is an academic community; Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf).
+Data 88S is an academic community; Ed (see below) is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf).
 
 
 
@@ -86,3 +86,11 @@ Copying assignments from other sources is not only dishonest, it also doesn’t 
 Stat 88 and Data 88S materials including exams and solutions are the intellectual property of the course developers. From the campus statement on Academic Integrity: “... students may not circulate or post materials (handouts, exams, syllabi, i.e. any class materials) from their classes without the written permission of the instructor.” 
 
 We are tough with dishonest students and we hope that we will not be put in that situation in Data 88S. I expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
+
+## Device Lending Options ##
+Students can access device lending options through the [Student Technology Equity Program](https://studenttech.berkeley.edu/devicelending)
+
+## Data Science Student Climate ##
+
+[Data Science Undergraduate Studies](https://data.berkeley.edu/academics/undergraduate-programs) faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://data.berkeley.edu/equity-inclusion). We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at cpteller@berkeley.edu or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform).
+
