@@ -92,10 +92,10 @@ weeks:
                 Friday: Additivity; method of indicators <br>
                 Friday Discussion: Ch. 4 Ex. 7, 8, 12, 11 "
       assignments:
-        - name: Homework 5 (Due 2/21 at 11:59pm)
+        - name: Homework 5 (Due 2/22 at 11:59pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_05.ipynb
     links:
-      - name: Homework 5 (Due 2/21 at 11:59pm)
+      - name: Homework 5 (Due 2/22 at 11:59pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_05.ipynb
   - weekNum: 6
     weekName: Unbiased Estimators, Expectation by Conditioning
