@@ -68,16 +68,20 @@ weeks:
     basic:
     - date: 2/6-2/10
       content: "Monday: Binomial/hypergeometric examples (3.5), CDF (4.1) <br>
-                Wednesday: The CDF; random counts: geometric <br>
-                Friday: Exponential approximations <br>
+                Wednesday: Finish Binomial/hypergeom examples; the CDF <br>
+                Friday: Random counts: geometric <br>
                 Friday Discussion: Ch. 3 Ex. 9, 4 and Ch. 4 Ex. 2, 4"
       assignments:
         - name: Homework 4 (Due 2/14 at 11:59pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_04.ipynb
         - name: Monday Recap
           url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5803789
+        - name: Wednesday Recap 
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5975010
         - name: Wednesday Discussion (2/8)
           url: https://drive.google.com/file/d/1PMx35TNrkAPgE6IJtwu_S-kZ9n9r2n-_/view?usp=sharing
+        - name: Friday Discussion
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5975054
     links:
       - name: Homework 4 (Due 2/14 at 11:59pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_04.ipynb
@@ -86,14 +90,20 @@ weeks:
     weekDuration: 2/13-2/17
     basic:
     - date: 2/13-2/17
-      content: "Monday: Law of small numbers: Poisson <br>
-                Wednesday: Expectation <br>
+      content: "Monday: Exponential approximations <br>
+                Wednesday: Law of small numbers: Poisson <br>
                 Wednesday Discussion: Ch. 4 Ex. 5, 10, 6 <br>
-                Friday: Additivity; method of indicators <br>
+                Friday: Expectation <br>
                 Friday Discussion: Ch. 4 Ex. 7, 8, 12, 11 "
       assignments:
         - name: Homework 5 (Due 2/22 at 11:59pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_05.ipynb
+        - name: Monday Recap 
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5975143
+        - name: Wednesday Recap
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=5975213
+        - name: Friday Recap
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6034175
     links:
       - name: Homework 5 (Due 2/22 at 11:59pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_05.ipynb
@@ -103,8 +113,9 @@ weeks:
     basic:
     - date: 2/20-2/24
       content: "Monday: President's Day, no class <br>
-                Wednesday: Unbiased estimators <br>
-                Friday: Expectation by conditioning"
+                Wednesday: Additivity; method of indicators <br>
+                Wednesday Discussion: Ch. 5 Ex. 2, 3, 1 <br>
+                Friday: Unbiased estimators "
       assignments:
         - name:
           url:
@@ -116,7 +127,7 @@ weeks:
     weekDuration: 2/27-3/3
     basic:
     - date: 2/27-3/3
-      content: "Monday: overflow material <br>
+      content: "Monday: Expectation by conditioning <br>
                 Wednesday: Review <br>
                 Friday: <b> Midterm (in class) on chapters 1-5 </b>"
       assignments:
