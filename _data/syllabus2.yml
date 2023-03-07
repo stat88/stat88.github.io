@@ -148,8 +148,9 @@ weeks:
       content: "Monday: Standard deviation, tail bounds; additivity <br>
                 Wednesday: Variance of binomial and hypergeometric <br>
                 Friday: Large samples: law of large numbers"
-      assignments: Homework 6 (Due 3/14 at 11:59pm)
-        - name: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_06.ipynb
+      assignments: 
+        - name: Homework 6 (Due 3/14 at 11:59pm)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_06.ipynb
     links:
       - name: Homework 6 (Due 3/14 at 11:59pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_06.ipynb
