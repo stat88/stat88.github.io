@@ -162,9 +162,10 @@ weeks:
     - date: 3/13-3/17
       content: "Monday: Central Limit Theorem <br>
                 Wednesday: CLT continued <br>
-                Friday: Confidence intervals"
+                Friday: Confidence intervals <br>
+                Friday Discussion: Ch. 6 2, 4, 7, 5"
       assignments:
-        - name:
+        - name: 
           url:
     links:
       - name:
@@ -177,11 +178,11 @@ weeks:
                 Wednesday: <b> Quiz 2 </b>; Probability density <br>
                 Friday: Expectation and variance revisited"
       assignments:
-        - name:
-          url:
+        - name: Homework 7 (Due 4/4 at 11:59pm)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_07.ipynb
     links:
-      - name:
-        url:
+      - name: Homework 7 (Due 4/4 at 11:59pm)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_07.ipynb
   - weekNum: 11
     weekDuration: 4/3-4/7
     basic:
