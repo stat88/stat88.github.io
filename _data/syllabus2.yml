@@ -108,14 +108,14 @@ weeks:
       - name: Homework 5 (Due 2/22 at 11:59pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_05.ipynb
   - weekNum: 6
-    weekName: Unbiased Estimators, Expectation by Conditioning
+    weekName: More expectation, Method of Indicators, Joint Distributions
     weekDuration: 2/20-2/24
     basic:
     - date: 2/20-2/24
       content: "Monday: President's Day, no class <br>
-                Wednesday: Additivity; method of indicators <br>
+                Wednesday: Additivity; Joint and marginal distributions <br>
                 Wednesday Discussion: Ch. 5 Ex. 2, 3, 1 <br>
-                Friday: Unbiased estimators "
+                Friday: Method of indicators "
       assignments:
         - name: Friday Discussion (2/24)
           url: https://drive.google.com/file/d/1MC36K01_L4letZd5W79emdQWHGcc8tid/view?usp=sharing
@@ -131,12 +131,14 @@ weeks:
     weekDuration: 2/27-3/3
     basic:
     - date: 2/27-3/3
-      content: "Monday: Expectation by conditioning <br>
+      content: "Monday: Method of indicator examples <br>
                 Wednesday: Review <br>
                 Friday: <b> Midterm (in class) on chapters 1-5 </b>"
       assignments:
-        - name: 
-          url: 
+        - name: Monday Recap 
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6442721
+        - name: Wednesday Recap 
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6442763
     links:
       - name:
         url:
@@ -145,10 +147,10 @@ weeks:
     weekDuration: 3/6-3/10
     basic:
     - date: 3/6-3/10
-      content: "Monday: Standard deviation, tail bounds; additivity <br>
-                Wednesday: Variance of binomial and hypergeometric <br>
+      content: "Monday: Unbiased estimators <br>
+                Wednesday: Conditional distributions and expectation <br>
                 Wednesday Discussion: Ch. 5 Ex. 8, 9, 11 <br>
-                Friday: Large samples: law of large numbers <br>
+                Friday: Expectation by conditioning (5.6) <br>
                 Friday Discussion: Ch. 5 12, 14, 13"
       assignments: 
         - name: Homework 6 (Due 3/14 at 11:59pm)
@@ -156,17 +158,26 @@ weeks:
     links:
       - name: Homework 6 (Due 3/14 at 11:59pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_06.ipynb
+      - name: Monday Recap
+        url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6443133
+      - name: Wednesday Recap
+        url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6443403
   - weekNum: 9
     weekDuration: 3/13-3/17
     basic:
     - date: 3/13-3/17
-      content: "Monday: Central Limit Theorem <br>
-                Wednesday: CLT continued <br>
-                Friday: Confidence intervals <br>
+      content: "Monday: Variance <br>
+                Wednesday: Tail probabilities and bounds <br>
+                Wednesdasy Discussion: Midterm Retake <br>
+                Friday: Markov's and Chebyshev's inequalities <br>
                 Friday Discussion: Ch. 6 2, 4, 7, 5"
       assignments:
-        - name: 
-          url:
+        - name: Monday Recap
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6457032
+        - name: Wednesday Recap
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6457095
+        - name: Friday Recap
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6457148
     links:
       - name:
         url: 
@@ -174,22 +185,27 @@ weeks:
     weekDuration: 3/20-3/24
     basic:
     - date: 3/20-3/24
-      content: "Monday: Testing hypotheses <br>
-                Wednesday: <b> Quiz 2 </b>; Probability density <br>
-                Friday: Expectation and variance revisited"
+      content: "Monday: Variance of the sample sum and sample mean <br>
+                Wednesday: Variance of famous distributions <br>
+                Wednesday Discussion: Quiz 2 <br>
+                Friday: Large samples: law of large numbers "
       assignments:
         - name: Homework 7 (Due 4/4 at 11:59pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_07.ipynb
     links:
       - name: Homework 7 (Due 4/4 at 11:59pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_07.ipynb
+      - name: Monday Recap
+        url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6457264
+      - name: Wednesday Recap
+        url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6481106
   - weekNum: 11
     weekDuration: 4/3-4/7
     basic:
     - date: 4/3-4/7
-      content: "Monday: The exponential distribution <br>
-                Wednesday: Exponential, continued <br>
-                Friday: The normal distribution"
+      content: "Monday: Large samples: law of large numbers <br>
+                Wednesday: Central Limit Theorem <br>
+                Friday:  Confidence intervals "
       assignments:
         - name:
           url:
@@ -200,9 +216,9 @@ weeks:
     weekDuration: 4/10-4/14
     basic:
     - date: 4/10-4/14
-      content: "Monday: Comparing two samples <br>
-                Wednesday: <b> Quiz 3 </b>; Estimation: bias and variance <br>
-                Friday: More on bias and variance"
+      content: "Monday: Testing hypotheses <br>
+                Wednesday: <b> Quiz 3 </b>; Expectation and variance revisited <br>
+                Friday: The exponential distribution "
       assignments:
         - name:
           url:
@@ -213,9 +229,9 @@ weeks:
     weekDuration: 4/17-4/21
     basic:
     - date: 4/17-4/21
-      content: "Monday: Correlation and the regression line <br>
-                Wednesday: Regression effect; residuals <br>
-                Friday: Properties of residuals"
+      content: "Monday: The normal distribution <br>
+                Wednesday: Comparing two samples <br>
+                Friday: Estimation: bias and variance "
       assignments:
         - name:
     links:
@@ -224,8 +240,8 @@ weeks:
     weekDuration: 4/24-4/28
     basic:
     - date: 4/24-4/28
-      content: "Monday: Inference in regression <br>
-                Wednesday: Inference in regression <br>
-                Friday: Conclusion"
+      content: "Monday: Correlation and the regression line <br>
+                Wednesday: Regression effect; residuals <br>
+                Friday: Inference in regression; Conclusion"
 
   
