@@ -200,6 +200,8 @@ weeks:
         url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6457264
       - name: Wednesday Recap
         url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6481106
+      - name: Friday Recap
+        url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6593529
   - weekNum: 11
     weekDuration: 4/3-4/7
     basic:
@@ -214,6 +216,10 @@ weeks:
     links:
       - name: Homework 8 (Due 4/11 at 8:00pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_08.ipynb
+      - name: Monday Recap
+        url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6595471
+      - name: Wednesday Recap
+        url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6624893
   - weekNum: 12
     weekDuration: 4/10-4/14
     basic:
