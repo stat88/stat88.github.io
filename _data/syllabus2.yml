@@ -188,7 +188,8 @@ weeks:
       content: "Monday: Variance of the sample sum and sample mean <br>
                 Wednesday: Variance of famous distributions <br>
                 Wednesday Discussion: Quiz 2 <br>
-                Friday: Large samples: law of large numbers "
+                Friday: Large samples: law of large numbers <br>
+                Friday Discussion: Ch. 7 4b, MT 2b, Quiz 2 Review"
       assignments:
         - name: Homework 7 (Due 4/4 at 11:59pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_07.ipynb
@@ -205,13 +206,14 @@ weeks:
     - date: 4/3-4/7
       content: "Monday: Large samples: law of large numbers <br>
                 Wednesday: Central Limit Theorem <br>
+                Wednesday Discussion: Ch. 7 9, 11, 12 <br>
                 Friday:  Confidence intervals "
-      assignments:
-        - name:
-          url:
+      assignments: 
+        - name: Homework 8 (Due 4/11 at 8:00pm)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_08.ipynb
     links:
-      - name:
-        url:
+      - name: Homework 8 (Due 4/11 at 8:00pm)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_08.ipynb
   - weekNum: 12
     weekDuration: 4/10-4/14
     basic:
