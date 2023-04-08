@@ -155,13 +155,15 @@ weeks:
       assignments: 
         - name: Homework 6 (Due 3/14 at 11:59pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_06.ipynb
+        - name: Monday Recap
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6443133
+        - name: Wednesday Recap
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6443403
+        - name: Friday Recap
+          url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6456889
     links:
       - name: Homework 6 (Due 3/14 at 11:59pm)
         url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_06.ipynb
-      - name: Monday Recap
-        url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6443133
-      - name: Wednesday Recap
-        url: https://edstem.org/us/courses/35065/discussion/2423195?comment=6443403
   - weekNum: 9
     weekDuration: 3/13-3/17
     basic:
