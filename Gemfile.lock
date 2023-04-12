@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/jekyll/jekyll-sitemap.git
-  revision: cf585a99ce4337884fa64f12f5b0fef6b07e349f
+  remote: https://github.com/jekyll/jekyll-sitemap.git
+  revision: 99148a2255a2b3a8d2b31ba8216945262981b12c
   branch: master
   specs:
     jekyll-sitemap (1.4.0)
@@ -203,21 +203,23 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    mini_portile2 (2.4.0)
+    mini_portile2 (2.8.1)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.0)
     multipart-post (2.1.1)
-    nokogiri (1.10.7)
-      mini_portile2 (~> 2.4.0)
+    nokogiri (1.14.3)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
     octokit (4.15.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
+    racc (1.6.2)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
