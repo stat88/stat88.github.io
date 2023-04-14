@@ -232,11 +232,11 @@ weeks:
                 Wednesday: <b> Quiz 3 </b>; Expectation and variance revisited <br>
                 Friday: The exponential distribution "
       assignments:
-        - name:
-          url:
+        - name: Homework 9 (Due 4/18 at 11:59pm)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_09.ipynb
     links:
-      - name:
-        url:
+      - name: Homework 9 (Due 4/18 at 11:59pm)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_09.ipynb
   - weekNum: 13
     weekDuration: 4/17-4/21
     basic:
