@@ -244,9 +244,10 @@ weeks:
       content: "Monday: The normal distribution <br>
                 Wednesday: Comparing two samples <br>
                 Friday: Estimation: bias and variance "
-      assignments:
-        - name:
-    links:
+      assignments: 
+        - name: Wednesday Discussion (4/19)
+          url: https://drive.google.com/file/d/1FMR_ge3aodmDyCzYW5_NqBo6_uqCGdwI/view?usp=sharing
+    links: 
       - name:
   - weekNum: 14
     weekDuration: 4/24-4/28
