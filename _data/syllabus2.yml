@@ -245,6 +245,8 @@ weeks:
                 Wednesday: Comparing two samples <br>
                 Friday: Estimation: bias and variance "
       assignments: 
+        - name: Homework 10 (Due 4/25 at 11:59pm)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_10.ipynb
         - name: Wednesday Discussion (4/19)
           url: https://drive.google.com/file/d/1FMR_ge3aodmDyCzYW5_NqBo6_uqCGdwI/view?usp=sharing
     links: 
