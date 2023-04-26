@@ -259,5 +259,12 @@ weeks:
       content: "Monday: Correlation and the regression line <br>
                 Wednesday: Regression effect; residuals <br>
                 Friday: Inference in regression; Conclusion"
+      assignments: 
+        - name: Homework 11 (Due 5/2 at 11:59pm)
+          url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_11.ipynb
+    links: 
+      - name: Homework 11 (Due 5/2 at 11:59pm)
+        url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_11.ipynb
+
 
   
