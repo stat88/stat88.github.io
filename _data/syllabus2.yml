@@ -243,7 +243,8 @@ weeks:
     - date: 4/17-4/21
       content: "Monday: The normal distribution <br>
                 Wednesday: Comparing two samples <br>
-                Friday: Estimation: bias and variance "
+                Friday: Estimation: bias and variance <br>
+                Friday Discussion: Ch. 9 Ex. 9, 10, 11"
       assignments: 
         - name: Homework 10 (Due 4/25 at 11:59pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_10.ipynb
@@ -258,6 +259,7 @@ weeks:
     - date: 4/24-4/28
       content: "Monday: Correlation and the regression line <br>
                 Wednesday: Regression effect; residuals <br>
+                Wednesday Discussion: Ch. 10 Ex. 1abcd, 2, 3 <br>
                 Friday: Inference in regression; Conclusion"
       assignments: 
         - name: Homework 11 (Due 5/2 at 11:59pm)
