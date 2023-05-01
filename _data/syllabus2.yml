@@ -230,7 +230,8 @@ weeks:
     - date: 4/10-4/14
       content: "Monday: Testing hypotheses <br>
                 Wednesday: <b> Quiz 3 </b>; Expectation and variance revisited <br>
-                Friday: The exponential distribution "
+                Friday: The exponential distribution <br>
+                Friday Discussion: Ch. 9 Ex. 1, 2, 4 "
       assignments:
         - name: Homework 9 (Due 4/18 at 11:59pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_09.ipynb
@@ -260,7 +261,8 @@ weeks:
       content: "Monday: Correlation and the regression line <br>
                 Wednesday: Regression effect; residuals <br>
                 Wednesday Discussion: Ch. 10 Ex. 1abcd, 2, 3 <br>
-                Friday: Inference in regression; Conclusion"
+                Friday: Inference in regression; Conclusion <br>
+                Friday Discussion: Ch. 10 Ex. 4"
       assignments: 
         - name: Homework 11 (Due 5/2 at 11:59pm)
           url: http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp23&branch=master&subPath=Homework_11.ipynb
