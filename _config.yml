@@ -86,3 +86,8 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+nav_external_links:
+  - title: Textbook
+    url: stat88.org/textbook
+    hide_icon: false # set to true to hide the external link icon - defaults to false
