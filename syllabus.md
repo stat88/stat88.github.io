@@ -12,8 +12,7 @@ Welcome to Data 88S! This page contains the nitty-gritty details of the class. P
 Enrolled and waitlisted students have been added to our **Ed** forum. Some start-of-term information has been posted on Ed.
 
 ## Community Standards ##
-Data 88S is an academic community; Ed (see below) is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf).
-
+Data 88S is an academic community; Ed (see below) is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/wp-content/uploads/2021/02/Code-of-Conduct_January-2016.pdf).
 
 
 ## Textbook ##
@@ -26,13 +25,14 @@ All sessions are in person and start at Berkeley time, that is, 10 minutes after
 The class does not allow time conflicts. **You are expected to attend all the sessions below.** Each session will assume that you have attended the previous ones.
 
 - Lecture meets Mondays, Tuesdays, Wednesdays, and Thursdays, 10:30 AM to 12:00 PM in McCone 141.
-- Discussion meets Tuesdays and Thursdays, 2:00 PM - 4:00 PM. 
+- Section meets Tuesdays and Thursdays, 2:00 PM - 4:00 PM. 
 - There will be numerous office hours held by the instructors and course staff; please see the [schedule](http://stat88.org/schedule).
 
 Student participation and informal conversation will be encouraged during all lectures and sections. You are expected not only to attend but also to participate. We will not take attendance. Rather, we'll make sure that participating in the sessions is an effective and efficient way to learn. 
 
+
 ## Ed Forum ##
-We will use our Ed forum extensively for communication, posting documents and information, and discussions with students. Please check Ed regularly, and please read the Forum Policies post carefully before posting.
+We will use our Ed forum extensively for communication, posting documents and information, and discussions with students. Please check Ed regularly, and please read the [Forum Policies](https://edstem.org/us/courses/40833/discussion/3212606) post carefully before posting. The forum is intended for discussion of course content, and not for discussion of personal circumstances or sensitive matters. For such concerns, please use the course email data88s@berkeley.edu.
 
 
 ## The Required Components of Your Work ##
@@ -43,9 +43,13 @@ Homework will be assigned at the start of each week and will be due the followin
 
 Data 88S is essentially a math class. Homework will largely consist of math and interpretation, with little to no code.
 
-[UPDATE THIS WITH EXTENSION POLICY] **Late assignments will not be accepted**. But if you have DSP accommodations for extended time on assignments, please make sure we receive your DSP accommodation letter by the second week of classes. We will contact you about arrangements. 
+If you are ever unable to finish the homework or feel that you need additional time, please reach out to us at data88s@berkeley.edu and we will gladly work with you to figure out a solution which ensures that are not only completing the assigned materials but also properly learning from them. Please keep in mind that if you are granted an extension, you will need to balance that with working on the next homework, which will have already been assigned.
 
-Homework must be submitted on Gradescope. Please **follow all submission instructions**. Not doing so will result in no credit and no regrade request allowed for the work. It is your responsibility to make sure your submission is complete.
+While we are happy to accommodate you to ensure that you are completing and submitting the homeworks, if we find that you are routinely reaching out to us with such concerns, we may have to sit down with you and have a conversation about how we can find a more permanent solution for supporting you.
+
+If you have DSP accommodations for extended time on assignments, please make sure we receive your DSP accommodation letter by the second week of classes. We will contact you about arrangements. 
+
+Homework must be submitted on Gradescope. Please **follow all submission instructions**. Failure to do so will result in up to a 40% penalty on that homework. It is your responsibility to make sure your submission is complete.
 
 **Homework will be graded based on correctness**. We encourage you to use the plentiful support available from the instructors and course staff, and to get started as early as possible. Turning in work that you understand well and know to be correct is by far the most efficient way to succeed in the class.
 
@@ -54,22 +58,23 @@ Please keep in mind that **homework assigned each week is based on the material 
 
 ### Quizzes and Exams ###
 
-- **Quizzes** will be held [WHEN]. [MORE INFO ABOUT QUIZZES]
+- **Quizzes** will be held at the start of section every Thursday except the first and last week of the class. There will be six quizzes total. For each quiz, you will get 12 minutes to complete the quiz individually, after which you will get 8 minutes to re-do the quiz in a randomly-assigned group. Each quiz score will be the average of your individual and group quiz scores.
 - The **Final** exam will be held on Thursday, August 10th from 10:30 AM - 1:30 PM. It is your responsibility to make sure that you are not enrolled in a class that has a conflicting final exam. You **must take the final in order to pass the class**.
 
-There will be **no alternate quizzes or exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled tests. This is particularly important for the final. Also, please make sure we receive your official DSP accommodation letter at least one week before the first test for which you need the accommodations, so we can make the necessary arrangements.
+There will be **no alternate quizzes or exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the time of the final exam. Also, please make sure we receive your official DSP accommodation letter at least one week before the first test for which you need the accommodations, so we can make the necessary arrangements.
 
 
 ### Grades ###
-We strongly recommended that you turn in all assignments even if you can only complete some of them partially. However, to give you some leeway in case of illness and emergencies, we will drop the following in the calculation of your overall score:
-
-- [DROPS]
+To give you some leeway in case of illness and emergencies, we will drop your lowest quiz score in the calculation of your overall score. **There will be no homework drops**; instead, please reach out to us at data88s@berkeley.edu if you are in need of additional time or support in completing your homework.
 
 Course grades will be assigned using the following weights: 
 
-- [WEIGHTS]
+- 20% homeworks
+- 40% quizzes
+- 30% final
+- 10% `max(`final, quizzes`)`
 
-Grades will be based on a combination of absolute cutoffs and the distribution of overall scores.
+Grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, we will make three guarantees: "An overall score of at least *x* will result in a grade of at least C-; at least *y* will result in at least B-; at least *z* will result in at least A-".
 
 ## Collaboration and Integrity ##
 You are encouraged to discuss practice problems and homework with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, you must write up all your assignments **on your own**. 
@@ -81,8 +86,8 @@ Stat 88 and Data 88S materials including exams and solutions are the intellectua
 We are tough with dishonest students and we hope that we will not be put in that situation in Data 88S. I expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
 
 ## Device Lending Options ##
-Students can access device lending options through the [Student Technology Equity Program](https://studenttech.berkeley.edu/devicelending)
+Students can access device lending options through the [Student Technology Equity Program](https://studenttech.berkeley.edu/devicelending). Additionally, laptops are [available to loan](https://www.lib.berkeley.edu/about/device-lending-policy) from the libraries.
 
 ## Data Science Student Climate ##
 
-[Data Science Undergraduate Studies](https://data.berkeley.edu/academics/undergraduate-programs) faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://data.berkeley.edu/equity-inclusion). We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at cpteller@berkeley.edu or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform).
+[Data Science Undergraduate Studies](https://data.berkeley.edu/academics/undergraduate-programs) faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://data.berkeley.edu/equity-inclusion). We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to us, but you are also welcome to contact Executive Director Christina Teller at cpteller@berkeley.edu or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform).
