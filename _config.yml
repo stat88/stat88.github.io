@@ -1,23 +1,87 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Permalinks
-permalink:        pretty
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Data 88S
+tagline: Probability and Mathematical Statistics for Data Science
+description: The course website for UC Berkeley's Data C88S course.
+author: Shahzar
+#baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
+url: 'https://stat88.org' # the base hostname & protocol for your site, e.g. http://example.com
+logo: 'assets/logo.png'
 
-# Setup
-title:            'Data 88S'
-tagline:          'Probability and Mathematical Statistics for Data Science'
-description:      'Probability and Mathematical Statistics for Data Science <br /> Ani Adhikari <br />'
-url:              http://prob140.org
-baseurl:          /
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - any_additional_item # any user-specific listing goes at the end
 
-author:
-  name:           'Francie McQuarrie, Rohan Narain, Ashley Chien'
-  url:            http://prob140.org
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.5.2
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+aux_links:
+  Textbook:
+    - 'stat88.org/textbook'
+  Ed:
+    - 'https://edstem.org'
+  Gradescope:
+    - 'https://gradescope.com'
+footer_content:
 
-paginate:         5
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  schedules:
+  announcements:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      height: 300
+      subpath: '/assets/images/'
+      width: 300
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
 
-
-github:
-  repo:           https://github.com/poole/hyde
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
