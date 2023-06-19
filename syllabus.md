@@ -17,7 +17,7 @@ Data 88S is an academic community; Ed (see below) is a formal, academic space. W
 
 
 ## Textbook ##
-The [textbook](http://stat88.org/textbook/content/intro.html) is on the course website. Lectures and the textbook will be closely related in content and sequence, though the exposition and examples in lecture might be different from those in the text. 
+The [textbook](http://stat88.org/textbook/) is on the course website. Lectures and the textbook will be closely related in content and sequence, though the exposition and examples in lecture might be different from those in the text. 
 
 
 ## Weekly Sessions and Attendance ##
