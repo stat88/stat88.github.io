@@ -13,7 +13,7 @@ UC Berkeley, Summer 2023
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
-{{ staffer }}
+{{ simple-staffer }}
 {% endfor %}
 
 {: .highlight }

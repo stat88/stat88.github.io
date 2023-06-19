@@ -4,7 +4,7 @@ title: Week 4
 
 Jul 10
 : **Lecture 11**{: .label .label-lecture } Expectation by conditioning
-: [**Homework 3**{: .label .label-hw } (due Jul 17 at 11:59 PM)]
+: **Homework 3**{: .label .label-hw } (due Jul 17 at 11:59 PM)
 : **Section 7**{: .label .label-disc }
 
 Jul 11

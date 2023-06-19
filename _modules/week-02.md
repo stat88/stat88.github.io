@@ -4,7 +4,7 @@ title: Week 2
 
 Jun 26
 : **Lecture 4**{: .label .label-lecture } Random variables
-: [**Homework 2**{: .label .label-hw } (due Jul 26 at 11:59 PM)]
+: **Homework 2**{: .label .label-hw } (due Jul 26 at 11:59 PM)
 : **Section 3**{: .label .label-disc }
 
 Jun 27
