@@ -15,4 +15,4 @@ Aug 9
 : **Section 14**{: .label .label-disc }
 
 Aug 10
-: **Lecture 26**{: .label .label-exam } Final Exam 10:30am-1:30pm
+: **Final Exam**{: .label .label-exam } From 10:30am-1:30pm
