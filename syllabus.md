@@ -58,7 +58,7 @@ Please keep in mind that **homework assigned each week is based on the material 
 
 ### Quizzes and Exams ###
 
-- **Quizzes** will be held at the start of section every Thursday except the first and last week of the class. There will be six quizzes total. For each quiz, you will get 12 minutes to complete the quiz individually, after which you will get 8 minutes to re-do the quiz in a randomly-assigned group. Each quiz score will be the average of your individual and group quiz scores.
+- **Quizzes** will be held at the start of section every Thursday except the first and last week of the class. There will be six quizzes total. For each quiz, you will get 12 minutes to complete the quiz individually, after which you will get 8 minutes to re-do the quiz in a randomly assigned group. Each quiz score will be the average of your individual and group quiz scores.
 - The **Final** exam will be held on Thursday, August 10th from 10:30 AM - 1:30 PM. It is your responsibility to make sure that you are not enrolled in a class that has a conflicting final exam. You **must take the final in order to pass the class**.
 
 There will be **no alternate quizzes or final exam** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the time of the final exam. Also, please make sure we receive your official DSP accommodation letter at least one week before the first test for which you need the accommodations, so we can make the necessary arrangements.
