@@ -18,7 +18,6 @@ UC Berkeley, Summer 2023
 
 # Calendar
 
-[**Jump to current week**](week-1)
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}

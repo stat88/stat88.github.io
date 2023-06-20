@@ -1,6 +1,8 @@
 ---
-title: 'Week 1: The Fundamentals' <div id="week-1"></div>
+title: 'Week 1: The Fundamentals'
 ---
+
+# Week 1
 
 Jun 19
 : *Juneteenth Holiday*
