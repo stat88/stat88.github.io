@@ -1,4 +1,6 @@
-### Week 1: The Fundamentals
+---
+title: 'Week 1: The Fundamentals'
+---
 
 Jun 19
 : *Juneteenth Holiday*
