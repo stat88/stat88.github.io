@@ -39,7 +39,7 @@ We will use our Ed forum extensively for communication, posting documents and in
 
 ### Homework ###
 
-Homework will be assigned at the start of each week and will be due the following **Monday at 11:59 pm**. In some weeks there may be deviations from this due to exams or holidays; we will let you know. 
+Homework will be assigned at the start of each week and will be due the following **Monday at 11:59 PM**. In some weeks there may be deviations from this due to exams or holidays; we will let you know. 
 
 Data 88S is essentially a math class. Homework will largely consist of math and interpretation, with little to no code.
 
@@ -61,11 +61,11 @@ Please keep in mind that **homework assigned each week is based on the material 
 - **Quizzes** will be held at the start of section every Thursday except the first and last week of the class. There will be six quizzes total. For each quiz, you will get 12 minutes to complete the quiz individually, after which you will get 8 minutes to re-do the quiz in a randomly-assigned group. Each quiz score will be the average of your individual and group quiz scores.
 - The **Final** exam will be held on Thursday, August 10th from 10:30 AM - 1:30 PM. It is your responsibility to make sure that you are not enrolled in a class that has a conflicting final exam. You **must take the final in order to pass the class**.
 
-There will be **no alternate quizzes or exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the time of the final exam. Also, please make sure we receive your official DSP accommodation letter at least one week before the first test for which you need the accommodations, so we can make the necessary arrangements.
+There will be **no alternate quizzes or final exam** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the time of the final exam. Also, please make sure we receive your official DSP accommodation letter at least one week before the first test for which you need the accommodations, so we can make the necessary arrangements.
 
 
 ### Grades ###
-To give you some leeway in case of illness and emergencies, we will drop your lowest quiz score in the calculation of your overall score. **There will be no homework drops**; instead, please reach out to us at data88s@berkeley.edu if you are in need of additional time or support in completing your homework.
+To give you some leeway in case of illness and emergencies, we will drop your lowest quiz score in the calculation of your overall score. **There will be no homework drops**; instead, please reach out to us at [data88s@berkeley.edu](mail-to:data88s@berkeley.edu) if you are in need of additional time or support in completing your homework.
 
 Course grades will be assigned using the following weights: 
 
