@@ -9,7 +9,7 @@ Jul 3
 : **Section 5**{: .label .label-disc }
 
 Jul 4
-: *Fourth of July Holiday*
+: *Independence Day Holiday*
 
 
 Jul 5
