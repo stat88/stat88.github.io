@@ -1,5 +1,5 @@
 ---
-title: Week 8: Review and Final Exam
+title: 'Week 8: Review and Final Exam'
 ---
 
 Aug 7
@@ -15,4 +15,4 @@ Aug 9
 : **Section 14**{: .label .label-disc }
 
 Aug 10
-: **Final Exam**{: .label .label-exam } From 10:30am-1:30pm
+: **Final Exam**{: .label .label-exam } From 10:30 AM - 1:30 PM
