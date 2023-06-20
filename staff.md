@@ -7,7 +7,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Append `@berkeley.edu` to all email addresses. **For questions, concerns, personal circumstances, or sensitive matterse,** please use the staff email address data88s@berkeley.edu, which is monitored only by the instructors. 
+Append `@berkeley.edu` to all email addresses. **For questions, concerns, personal circumstances, or sensitive matterse,** please use the staff email address **data88s@berkeley.edu**, which is monitored only by the instructors. 
 
 ## Instructors
 
