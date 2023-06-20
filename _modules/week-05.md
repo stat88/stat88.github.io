@@ -1,5 +1,5 @@
 ---
-title: Week 5
+title: Week 5: The Central Limit Theorem, Hypothesis Testing, and Densities
 ---
 
 Jul 17

@@ -1,5 +1,5 @@
 ---
-title: Week 8
+title: Week 8: Review and Final Exam
 ---
 
 Aug 7

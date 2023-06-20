@@ -1,5 +1,5 @@
 ---
-title: Week 4
+title: Week 4: Expectation and Variance
 ---
 
 Jul 10

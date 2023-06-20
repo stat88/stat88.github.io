@@ -1,5 +1,5 @@
 ---
-title: Week 2
+title: Week 2: Random Variables and Random Counts
 ---
 
 Jun 26
