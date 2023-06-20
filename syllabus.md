@@ -32,7 +32,7 @@ Student participation and informal conversation will be encouraged during all le
 
 
 ## Ed Forum ##
-We will use our Ed forum extensively for communication, posting documents and information, and discussions with students. Please check Ed regularly, and please read the [Forum Policies](https://edstem.org/us/courses/40833/discussion/3212606) post carefully before posting. The forum is intended for discussion of course content, and not for discussion of personal circumstances or sensitive matters. For such concerns, please use the course email data88s@berkeley.edu.
+We will use our Ed forum extensively for communication, posting documents and information, and discussions with students. Please check Ed regularly, and please read the [Forum Policies](https://edstem.org/us/courses/40833/discussion/3212606) post carefully before posting. The forum is intended for discussion of course content, and not for discussion of personal circumstances or sensitive matters. For such concerns, please use the course email [data88s@berkeley.edu](mailto:data88s@berkeley.edu).
 
 
 ## The Required Components of Your Work ##
@@ -43,7 +43,7 @@ Homework will be assigned at the start of each week and will be due the followin
 
 Data 88S is essentially a math class. Homework will largely consist of math and interpretation, with little to no code.
 
-If you are ever unable to finish the homework or feel that you need additional time, please reach out to us at data88s@berkeley.edu and we will gladly work with you to figure out a solution which ensures that are not only completing the assigned materials but also properly learning from them. Please keep in mind that if you are granted an extension, you will need to balance that with working on the next homework, which will have already been assigned.
+If you are ever unable to finish the homework or feel that you need additional time, please reach out to us at [data88s@berkeley.edu](mailto:data88s@berkeley.edu) and we will gladly work with you to figure out a solution which ensures that are not only completing the assigned materials but also properly learning from them. Please keep in mind that if you are granted an extension, you will need to balance that with working on the next homework, which will have already been assigned.
 
 While we are happy to accommodate you to ensure that you are completing and submitting the homeworks, if we find that you are routinely reaching out to us with such concerns, we may have to sit down with you and have a conversation about how we can find a more permanent solution for supporting you.
 
@@ -65,14 +65,14 @@ There will be **no alternate quizzes or final exam** except as required by campu
 
 
 ### Grades ###
-To give you some leeway in case of illness and emergencies, we will drop your lowest quiz score in the calculation of your overall score. **There will be no homework drops**; instead, please reach out to us at [data88s@berkeley.edu](mail-to:data88s@berkeley.edu) if you are in need of additional time or support in completing your homework.
+To give you some leeway in case of illness and emergencies, we will drop your lowest quiz score in the calculation of your overall score. **There will be no homework drops**; instead, please reach out to us at [data88s@berkeley.edu](mailto:data88s@berkeley.edu) if you are in need of additional time or support in completing your homework.
 
 Course grades will be assigned using the following weights: 
 
 - 20% homeworks
 - 40% quizzes
 - 30% final
-- 10% `max(`final, quizzes`)`
+- 10% `max`(final, quizzes)
 
 Grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, we will make three guarantees: "An overall score of at least *x* will result in a grade of at least C-; at least *y* will result in at least B-; at least *z* will result in at least A-".
 
