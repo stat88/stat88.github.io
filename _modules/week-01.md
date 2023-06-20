@@ -1,5 +1,5 @@
 ---
-title: Week 1: The Fundamentals
+title: 'Week 1: The Fundamentals'
 ---
 
 Jun 19
@@ -13,11 +13,11 @@ Jun 20
     : Ch 1 [Ex 1, 3, 5](http://stat88.org/textbook/content/Chapter_01/04_Exercises.html)
 
 Jun 21
-: **Lecture 2**{: .label .label-lecture } : The rules; intersections and conditioning 
+: **Lecture 2**{: .label .label-lecture } The rules; intersections and conditioning 
     : Ch [1.3](http://stat88.org/textbook/content/Chapter_01/03_Fundamental_Rules.html), [2.1 - 2.2](http://stat88.org/textbook/content/Chapter_02/00_Intersections_and_Conditioning.html)
 
 
 Jun 22
-: **Lecture 3**{: .label .label-lecture } : Updating chances; independence 
+: **Lecture 3**{: .label .label-lecture } Updating chances; independence 
     : Ch [2.3 - 2.5](http://stat88.org/textbook/content/Chapter_02/03_Bayes_Rule.html)
 : **Section 2**{: .label .label-disc }
