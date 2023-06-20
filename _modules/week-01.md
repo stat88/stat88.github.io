@@ -8,7 +8,7 @@ Jun 19
 Jun 20
 : **Lecture 1**{: .label .label-lecture } 1.1-1.2: Fundamentals, exact calculations, and bounds
 : **Homework 1**{: .label .label-hw } (due Jun 26 at 11:59 PM)
-: **Section 1**{: .label .label-disc }
+: **Section 1**{: .label .label-disc } Chapter 1 Exercises 1, 3, 5
 
 Jun 21
 : **Lecture 2**{: .label .label-lecture } 1.3, 2.1-2.2: The rules; intersections and conditioning
