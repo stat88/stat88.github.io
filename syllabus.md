@@ -7,7 +7,7 @@ description: The course syllabus.
 
 # Syllabus
 
-Welcome to Data 88S! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](http://stat88.org/about/) the class.
+Welcome to Data 88S! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](about) the class.
 
 Enrolled and waitlisted students have been added to our **Ed** forum. Some start-of-term information has been posted on Ed.
 
@@ -16,7 +16,7 @@ Data 88S is an academic community; Ed (see below) is a formal, academic space. W
 
 
 ## Textbook ##
-The [textbook](http://stat88.org/textbook/) is on the course website. Lectures and the textbook will be closely related in content and sequence, though the exposition and examples in lecture might be different from those in the text. 
+The [textbook](textbook) is on the course website. Lectures and the textbook will be closely related in content and sequence, though the exposition and examples in lecture might be different from those in the text. 
 
 
 ## Weekly Sessions and Attendance ##
@@ -26,7 +26,7 @@ The class does not allow time conflicts. **You are expected to attend all the se
 
 - Lecture meets Mondays, Tuesdays, Wednesdays, and Thursdays, 10:30 AM to 12:00 PM in McCone 141.
 - Section meets Tuesdays and Thursdays, 2:00 PM - 4:00 PM. 
-- There will be numerous office hours held by the instructors and course staff; please see the [schedule](http://stat88.org/schedule).
+- There will be numerous office hours held by the instructors and course staff; please see the [schedule](schedule).
 
 Student participation and informal conversation will be encouraged during all lectures and sections. You are expected not only to attend but also to participate. We will not take attendance. Rather, we'll make sure that participating in the sessions is an effective and efficient way to learn. 
 

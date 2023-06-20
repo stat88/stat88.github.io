@@ -7,7 +7,7 @@ Jun 19
 
 Jun 20
 : **Lecture 1**{: .label .label-lecture } Fundamentals, exact calculations, and bounds 
-    : Ch [1.1 - 1.2](http://stat88.org/textbook/content/Chapter_01/00_The_Basics.html)
+    : [Syllabus](syllabus), Ch [1.1 - 1.2](http://stat88.org/textbook/content/Chapter_01/00_The_Basics.html)
 : **Homework 1**{: .label .label-hw } (due Jun 26 at 11:59 PM)
 : **Section 1**{: .label .label-disc } 
     : Ch 1 [Ex 1, 3, 5](http://stat88.org/textbook/content/Chapter_01/04_Exercises.html)
