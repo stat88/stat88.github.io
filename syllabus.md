@@ -69,10 +69,10 @@ To give you some leeway in case of illness and emergencies, we will drop your lo
 
 Course grades will be assigned using the following weights: 
 
-- 20% homeworks
-- 40% quizzes
-- 30% final
-- 10% `max`(final, quizzes)
+- 20% homeworks,
+- 40% quizzes,
+- 30% final,
+- 10% final score or quizzes average, whichever is greater.
 
 Grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, we will make three guarantees: "An overall score of at least *x* will result in a grade of at least C-; at least *y* will result in at least B-; at least *z* will result in at least A-".
 
