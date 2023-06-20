@@ -40,7 +40,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Textbook:
-    - 'http://stat88.org/textbook'
+    - 'http://stat88.org/textbook/'
   Ed:
     - 'https://edstem.org/us/courses/40833/'
   Gradescope:
