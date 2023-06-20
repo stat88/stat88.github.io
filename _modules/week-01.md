@@ -1,3 +1,6 @@
+---
+---
+
 ### Week 1: The Fundamentals
 
 Jun 19
