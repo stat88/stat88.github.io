@@ -10,7 +10,7 @@ Jul 17
 : **Section 9**{: .label .label-disc }
 
 Jul 18
-: **Lecture 16**{: .label .label-lecture } CLT and confidence intervals
+: **Lecture 16**{: .label .label-lecture } Confidence intervals
     : Ch [9.1 - 9.2](http://stat88.org/textbook/content/Chapter_09/00_Inference.html)
 
 
