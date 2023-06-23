@@ -16,6 +16,11 @@ UC Berkeley, Summer 2023
 >
 > Please carefully read through the [syllabus](syllabus), which contains a detailed explanation of how the course will work this summer.
 
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
+{% endfor %}
+
 # Calendar
 [**Jump to current week**](#week-1-the-fundamentals)
 
