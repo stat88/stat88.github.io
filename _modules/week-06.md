@@ -5,7 +5,8 @@ title: 'Week 6: Densities and Estimation'
 Jul 24
 : **Lecture 19**{: .label .label-lecture } Expectation and variance revisited
     : Ch [10.2](http://stat88.org/textbook/content/Chapter_10/02_Expectation_and_Variance.html)
-: **Homework 6**{: .label .label-hw } (due Jul 31 at 11:59 PM)
+: **Homework 6**{: .label .label-hw }
+    : Due Jul 31 at 11:59 PM
 : **Section 11**{: .label .label-disc }
 
 Jul 25

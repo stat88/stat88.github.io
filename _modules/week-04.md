@@ -5,7 +5,8 @@ title: 'Week 4: Conditioning and Variance'
 Jul 10
 : **Lecture 11**{: .label .label-lecture } Expectation by conditioning
     : Ch [5.5 - 5.6](http://stat88.org/textbook/content/Chapter_05/05_Conditional_Expectation.html)
-: **Homework 4**{: .label .label-hw } (due Jul 17 at 11:59 PM)
+: **Homework 4**{: .label .label-hw }
+    : Due Jul 17 at 11:59 PM
 : **Section 7**{: .label .label-disc }
 
 Jul 11

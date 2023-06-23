@@ -5,7 +5,8 @@ title: 'Week 3: The Poisson Distribution and Expectation'
 Jul 3
 : **Lecture 8**{: .label .label-lecture } Law of small numbers; Poisson
     : Ch [4.4](http://stat88.org/textbook/content/Chapter_04/04_The_Poisson_Distribution.html)
-: **Homework 3**{: .label .label-hw } (due Jul 10 at 11:59 PM)
+: **Homework 3**{: .label .label-hw }
+    : Due Jul 10 at 11:59 PM
 : **Section 5**{: .label .label-disc }
 
 Jul 4
