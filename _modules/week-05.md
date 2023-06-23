@@ -20,5 +20,5 @@ Jul 19
 : **Section 10**{: .label .label-disc } **Quiz 4**{: .label .label-quiz }
 
 Jul 20
-: **Lecture 18**{: .label .label-lecture } 10.1: Probability density
+: **Lecture 18**{: .label .label-lecture } Probability density
     : Ch [10.1](http://stat88.org/textbook/content/Chapter_10/00_Probability_Density.html)

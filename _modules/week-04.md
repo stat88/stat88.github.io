@@ -15,10 +15,10 @@ Jul 11
 
 
 Jul 12
-: **Lecture 13**{: .label .label-lecture } 7.1-7.2: Variance and additivity: binomial and hypergeometric
+: **Lecture 13**{: .label .label-lecture } Variance and additivity: binomial and hypergeometric
     : Ch [7.1 - 7.2](http://stat88.org/textbook/content/Chapter_07/00_The_Variance_of_a_Sum.html)
 : **Section 8**{: .label .label-disc } **Quiz 3**{: .label .label-quiz }
 
 Jul 13
-: **Lecture 14**{: .label .label-lecture } 7.2-7.3: Large samples: law of large numbers
+: **Lecture 14**{: .label .label-lecture } Large samples: law of large numbers
     : Ch [7.3](http://stat88.org/textbook/content/Chapter_07/03_The_Law_of_Averages.html)
