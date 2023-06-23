@@ -22,15 +22,15 @@ url: 'https://stat88.org' # the base hostname & protocol for your site, e.g. htt
 logo: 'assets/brand/logo.png'
 #favicon_ico: 'assets/brand/favicon.ico'
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - any_additional_item # any user-specific listing goes at the end
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
+#  - node_modules
+#  - vendor/bundle/
+#  - vendor/cache/
+#  - vendor/gems/
+#  - vendor/ruby/
+#  - any_additional_item # any user-specific listing goes at the end
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.2
