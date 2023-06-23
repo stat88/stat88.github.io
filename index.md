@@ -11,7 +11,7 @@ description: A week-to-week description of the content covered in the course.
 UC Berkeley, Summer 2023
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-{% assign announcements = site.announcements | reverse %}
+{% assign announcements = site.announcements | last %}
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
