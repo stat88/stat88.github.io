@@ -5,7 +5,7 @@ title: 'Week 5: The Central Limit Theorem, Hypothesis Testing, and Densities'
 Jul 17
 : **Lecture 15**{: .label .label-lecture } Central Limit Theorem
     : Ch [8.1 - 8.4](http://stat88.org/textbook/content/Chapter_08/00_Central_Limit_Theorem.html)
-: **Homework 4**{: .label .label-hw } (due Jul 24 at 11:59 PM)
+: **Homework 5**{: .label .label-hw } (due Jul 24 at 11:59 PM)
 : **Section 9**{: .label .label-disc }
 
 Jul 18
