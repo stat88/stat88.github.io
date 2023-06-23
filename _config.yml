@@ -20,7 +20,7 @@ author: Shahzar
 #baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
 url: 'https://stat88.org' # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'assets/brand/logo.png'
-favicon_ico: 'assets/brand/favicon.ico'
+#favicon_ico: 'assets/brand/favicon.ico'
 
 exclude:
   - Gemfile
@@ -36,7 +36,7 @@ exclude:
 remote_theme: just-the-docs/just-the-docs@v0.5.2
 color_scheme: dark
 search_enabled: true
-heading_anchors: true
+heading_anchors: false
 permalink: pretty
 aux_links:
   Textbook:
@@ -46,6 +46,7 @@ aux_links:
   Gradescope:
     - 'https://www.gradescope.com/courses/552084'
 footer_content:
+color_scheme: wider
 
 # Collections for website data
 collections:
