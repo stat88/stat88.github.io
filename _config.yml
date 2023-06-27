@@ -18,11 +18,9 @@ tagline: Probability and Mathematical Statistics for Data Science
 description: The course website for UC Berkeley's Data C88S course.
 author: Shahzar
 #baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'http://stat88.org' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://shahzarrizvi.github.io/website-test' # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'assets/brand/logo.png'
-#favicon_ico: 'assets/brand/favicon.ico'
-
-# If getting weird Jekyll errors when pushing to GitHub, uncomment these lines.
+favicon_ico: 'assets/brand/favicon.ico'
 #exclude:
 #  - Gemfile
 #  - Gemfile.lock
@@ -35,10 +33,11 @@ logo: 'assets/brand/logo.png'
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.2
-color_scheme: dark
+color_scheme: wider
 search_enabled: true
-heading_anchors: false
 permalink: pretty
+heading_anchors: false
+
 aux_links:
   Textbook:
     - 'http://stat88.org/textbook/'
@@ -46,8 +45,11 @@ aux_links:
     - 'https://edstem.org/us/courses/40833/'
   Gradescope:
     - 'https://www.gradescope.com/courses/552084'
-footer_content:
-color_scheme: wider
+
+nav_external_links:
+  - title: Textbook
+    url: textbook
+    hide_icon: false # set to true to hide the external link icon - defaults to false
 
 # Collections for website data
 collections:
@@ -88,8 +90,3 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-
-nav_external_links:
-  - title: Textbook
-    url: textbook
-    hide_icon: false # set to true to hide the external link icon - defaults to false
