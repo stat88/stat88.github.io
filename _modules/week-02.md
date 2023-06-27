@@ -5,8 +5,8 @@ title: 'Week 2: Random Variables and Random Counts'
 Jun 26
 : **Lecture 4**{: .label .label-lecture } Random variables
     : Ch [3.1 - 3.2](http://stat88.org/textbook/content/Chapter_03/00_Random_Counts.html)
-: **Homework 2**{: .label .label-hw }
-    : Due Jul 3 at 11:59 PM
+: [**Homework 2**{: .label .label-hw }](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_02.ipynb)
+    : [Due Jul 3 at 11:59 PM](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_02.ipynb)
 
 Jun 27
 : **Lecture 5**{: .label .label-lecture } Random counts: binomial
