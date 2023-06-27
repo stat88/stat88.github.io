@@ -21,6 +21,6 @@ Jul 12
 Jul 13
 : **Lecture 14**{: .label .label-lecture } Large samples: law of large numbers
     : Ch [7.3](http://stat88.org/textbook/content/Chapter_07/03_The_Law_of_Averages.html)
-: **Section 8**{: .label .label-disc } 
 : **Quiz 3**{: .label .label-quiz }
     : Ch [4.4](http://stat88.org/textbook/content/Chapter_04/04_The_Poisson_Distribution.html) and [5.1 - 5.4](http://stat88.org/textbook/content/Chapter_05/00_Expectation.html)
+: **Section 8**{: .label .label-disc } 

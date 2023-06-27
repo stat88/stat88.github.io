@@ -21,7 +21,6 @@ Jul 19
 Jul 20
 : **Lecture 18**{: .label .label-lecture } Probability density
     : Ch [10.1](http://stat88.org/textbook/content/Chapter_10/00_Probability_Density.html)
-: **Section 10**{: .label .label-disc } 
 : **Quiz 4**{: .label .label-quiz }
     : Ch [5.5 - 5.6](http://stat88.org/textbook/content/Chapter_05/05_Conditional_Expectation.html), [6](http://stat88.org/textbook/content/Chapter_06/00_Measuring_Variability.html), and [7](http://stat88.org/textbook/content/Chapter_07/00_The_Variance_of_a_Sum.html)
-
+: **Section 10**{: .label .label-disc } 

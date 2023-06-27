@@ -20,6 +20,6 @@ Aug 2
 
 Aug 3
 : **Lecture 26**{: .label .label-lecture } Conclusion
-: **Section 14**{: .label .label-disc } 
 : **Quiz 6**{: .label .label-quiz }
     : Ch [10.2 - 10.4](http://stat88.org/textbook/content/Chapter_10/02_Expectation_and_Variance.html) and [11.1 - 11.2](http://stat88.org/textbook/content/Chapter_11/00_Bias_Variance_and_Least_Squares.html)
+: **Section 14**{: .label .label-disc } 

@@ -23,7 +23,7 @@ Jun 28
 Jun 29
 : **Lecture 7**{: .label .label-lecture } Exponential approximations; geometric
     : Ch [4.1 - 4.3](http://stat88.org/textbook/content/Chapter_04/00_Infinitely_Many_Values.html)
-: **Section 4**{: .label .label-disc } 
-    : Ch [3.5, 3.4, 3.6, 3.10](http://stat88.org/textbook/content/Chapter_03/06_Exercises.html)
 : **Quiz 1**{: .label .label-quiz }
     : Ch [1](http://stat88.org/textbook/content/Chapter_01/00_The_Basics.html) and [2](http://stat88.org/textbook/content/Chapter_02/00_Intersections_and_Conditioning.html)
+: **Section 4**{: .label .label-disc } 
+    : Ch [3.5, 3.4, 3.6, 3.10](http://stat88.org/textbook/content/Chapter_03/06_Exercises.html)
