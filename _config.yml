@@ -18,7 +18,7 @@ tagline: Probability and Mathematical Statistics for Data Science
 description: The course website for UC Berkeley's Data C88S course.
 author: Shahzar
 #baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://shahzarrizvi.github.io/website-test' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'http://stat88.org' # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'assets/brand/logo.png'
 favicon_ico: 'assets/brand/favicon.ico'
 #exclude:
