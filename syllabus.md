@@ -74,7 +74,7 @@ Course grades will be assigned using the following weights:
 - 30% final,
 - 10% final score or quizzes average, whichever is greater.
 
-Grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, we will make three guarantees: "An overall score of at least *x* will result in a grade of at least C-; at least *y* will result in at least B-; at least *z* will result in at least A-".
+Grades will be based on a combination of absolute cutoffs and the distribution of overall scores. The cutoffs will be no higher than the standard American grade cutoffs for high school: at least a 90% for an A, at least an 80% for a B, and at least a 70% for a C.
 
 ## Collaboration and Integrity ##
 You are encouraged to discuss practice problems and homework with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, you must write up all your assignments **on your own**. 
