@@ -11,7 +11,7 @@ Jun 20
 : [**Homework 1**{: .label .label-hw }](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_01.ipynb) 
     : [Due Jun 26 at 11:59 PM](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_01.ipynb)
 : **Section 1**{: .label .label-disc } 
-    : Ch 1 [Ex 1, 3, 5, 2, 4](http://stat88.org/textbook/content/Chapter_01/04_Exercises.html)
+    : Ch [1 Ex 1, 3, 5, 2, 4](http://stat88.org/textbook/content/Chapter_01/04_Exercises.html)
 
 Jun 21
 : **Lecture 2**{: .label .label-lecture } The rules; intersections and conditioning 
@@ -22,4 +22,4 @@ Jun 22
 : **Lecture 3**{: .label .label-lecture } Updating chances; independence 
     : Ch [2.3 - 2.5](http://stat88.org/textbook/content/Chapter_02/03_Bayes_Rule.html)
 : **Section 2**{: .label .label-disc }
-    : Ch 2 [Ex 7, 5, 10, 4, 11, 6](http://stat88.org/textbook/content/Chapter_02/06_Exercises.html)
+    : Ch [2 Ex 7, 5, 10, 4, 11, 6](http://stat88.org/textbook/content/Chapter_02/06_Exercises.html)
