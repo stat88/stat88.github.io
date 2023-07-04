@@ -5,8 +5,8 @@ title: 'Week 3: The Poisson Distribution and Expectation'
 Jul 3
 : **Lecture 8**{: .label .label-lecture } Law of small numbers; Poisson
     : Ch [4.4](http://stat88.org/textbook/content/Chapter_04/04_The_Poisson_Distribution.html)
-: **Homework 3**{: .label .label-hw }
-    : Due Jul 10 at 11:59 PM
+: [**Homework 3**{: .label .label-hw }](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_03.ipynb)
+    : [Due Jul 10 at 11:59 PM](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_03.ipynb)
 
 Jul 4
 : *Independence Day Holiday*
