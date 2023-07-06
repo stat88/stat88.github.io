@@ -26,4 +26,4 @@ Jun 29
 : **Quiz 1**{: .label .label-quiz }
     : Ch [1](http://stat88.org/textbook/content/Chapter_01/00_The_Basics.html) and [2](http://stat88.org/textbook/content/Chapter_02/00_Intersections_and_Conditioning.html)
 : **Section 4**{: .label .label-disc } 
-    : Ch [3 Ex 6, 10](http://stat88.org/textbook/content/Chapter_03/06_Exercises.html), Ch [4, Ex 4, 6, 5](http://stat88.org/textbook/content/Chapter_04/05_Exercises.html)
+    : Ch [3 Ex 6, 10](http://stat88.org/textbook/content/Chapter_03/06_Exercises.html); Ch [4, Ex 4, 6, 5](http://stat88.org/textbook/content/Chapter_04/05_Exercises.html)

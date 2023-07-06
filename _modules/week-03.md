@@ -21,4 +21,5 @@ Jul 6
     : Ch [5.4](http://stat88.org/textbook/content/Chapter_05/04_Unbiased_Estimators.html)
 : **Quiz 2**{: .label .label-quiz }
     : Ch [3](http://stat88.org/textbook/content/Chapter_03/00_Random_Counts.html) and [4.1 - 4.3](http://stat88.org/textbook/content/Chapter_04/00_Infinitely_Many_Values.html)
-: **Section 6**{: .label .label-disc } 
+: **Section 6**{: .label .label-disc }
+    : Ch [4, Ex 7c, 6](http://stat88.org/textbook/content/Chapter_04/05_Exercises.html); Ch [5, Ex 4, 6, 9, 11, 7](http://stat88.org/textbook/content/Chapter_05/07_Exercises.html)
