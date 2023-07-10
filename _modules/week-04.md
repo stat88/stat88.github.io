@@ -5,8 +5,8 @@ title: 'Week 4: Conditioning and Variance'
 Jul 10
 : **Lecture 11**{: .label .label-lecture } Expectation by conditioning
     : Ch [5.5 - 5.6](http://stat88.org/textbook/content/Chapter_05/05_Conditional_Expectation.html)
-: **Homework 4**{: .label .label-hw }
-    : Due Jul 17 at 11:59 PM
+: [**Homework 4**{: .label .label-hw }] (http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_04.ipynb)
+    : [Due Jul 17 at 11:59 PM] (http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_04.ipynb)
 
 Jul 11
 : **Lecture 12**{: .label .label-lecture } Standard deviation; tail bounds
