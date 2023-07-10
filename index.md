@@ -13,7 +13,7 @@ UC Berkeley, Summer 2023
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-3-the-poisson-distribution-and-expectation){: .btn }
+[**Jump to current week**](#week-4-conditioning-and-variance){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
