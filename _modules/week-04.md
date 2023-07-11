@@ -12,6 +12,7 @@ Jul 11
 : **Lecture 12**{: .label .label-lecture } Standard deviation; tail bounds
     : Ch [6.1 - 6.4](http://stat88.org/textbook/content/Chapter_06/00_Measuring_Variability.html)
 : **Section 7**{: .label .label-disc }
+    : Ch [5, Ex 13, 14, 15](http://stat88.org/textbook/content/Chapter_05/07_Exercises.html); Ch [6, Ex 2, 4, 7, 5](http://stat88.org/textbook/content/Chapter_06/05_Exercises.html)
 
 
 Jul 12
