@@ -24,4 +24,5 @@ Jul 13
     : Ch [7.3](http://stat88.org/textbook/content/Chapter_07/03_The_Law_of_Averages.html)
 : **Quiz 3**{: .label .label-quiz }
     : Ch [4.4](http://stat88.org/textbook/content/Chapter_04/04_The_Poisson_Distribution.html) and [5.1 - 5.4](http://stat88.org/textbook/content/Chapter_05/00_Expectation.html)
-: **Section 8**{: .label .label-disc } 
+: **Section 8**{: .label .label-disc }
+    : Ch [7, Ex 1, 3, 9, 4, 8](http://stat88.org/textbook/content/Chapter_07/04_Exercises.html); Law of Averages Question (not in textbook)
