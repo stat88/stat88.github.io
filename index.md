@@ -13,7 +13,7 @@ UC Berkeley, Summer 2023
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-4-conditioning-and-variance){: .btn }
+[**Jump to current week**](#week-5-the-central-limit-theorem-hypothesis-testing-and-densities){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
