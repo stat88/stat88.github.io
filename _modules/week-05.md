@@ -12,6 +12,7 @@ Jul 18
 : **Lecture 16**{: .label .label-lecture } Confidence intervals
     : Ch [9.1 - 9.2](http://stat88.org/textbook/content/Chapter_09/00_Inference.html)
 : **Section 9**{: .label .label-disc }
+    : Ch [8, Ex 1, 2, 3, 4](http://stat88.org/textbook/content/Chapter_08/05_Exercises.html); Ch [9, Ex 1, 2, 4](http://stat88.org/textbook/content/Chapter_09/05_Exercises.html)
 
 
 Jul 19
