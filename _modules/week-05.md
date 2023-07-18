@@ -5,8 +5,8 @@ title: 'Week 5: The Central Limit Theorem, Hypothesis Testing, and Densities'
 Jul 17
 : **Lecture 15**{: .label .label-lecture } Central Limit Theorem
     : Ch [8.1 - 8.4](http://stat88.org/textbook/content/Chapter_08/00_Central_Limit_Theorem.html)
-: **Homework 5**{: .label .label-hw }
-    : Due Jul 24 at 11:59 PM
+: [**Homework 5**{: .label .label-hw }](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_05.ipynb)
+    : [Due Jul 24 at 11:59 PM](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_05.ipynb)
 
 Jul 18
 : **Lecture 16**{: .label .label-lecture } Confidence intervals
