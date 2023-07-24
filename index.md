@@ -13,7 +13,7 @@ UC Berkeley, Summer 2023
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-5-the-central-limit-theorem-hypothesis-testing-and-densities){: .btn } 
+[**Jump to current week**](#week-6-densities-and-estimation){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
