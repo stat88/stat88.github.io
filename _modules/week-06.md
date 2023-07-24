@@ -22,5 +22,5 @@ Jul 27
 : **Lecture 22**{: .label .label-lecture } Estimation: bias and variance
     : Ch [11.1 - 11.2](http://stat88.org/textbook/content/Chapter_11/00_Bias_Variance_and_Least_Squares.html)
 : **Quiz 5**{: .label .label-quiz }
-    : Ch [8](http://stat88.org/textbook/content/Chapter_08/00_Central_Limit_Theorem.html), [9](http://stat88.org/textbook/content/Chapter_09/00_Inference.html), and [10.1](http://stat88.org/textbook/content/Chapter_10/00_Probability_Density.html)
+    : Ch [8](http://stat88.org/textbook/content/Chapter_08/00_Central_Limit_Theorem.html) and [9.1-9.2](http://stat88.org/textbook/content/Chapter_09/00_Inference.html)
 : **Section 12**{: .label .label-disc } 
