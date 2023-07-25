@@ -12,7 +12,7 @@ Jul 25
 : **Lecture 20**{: .label .label-lecture } The exponential distribution
     : Ch [10.3](http://stat88.org/textbook/content/Chapter_10/03_The_Exponential_Distribution.html)
 : **Section 10**{: .label .label-disc }
-
+    : Ch [10, Ex 1, 2, 10, 3, 4](http://stat88.org/textbook/content/Chapter_10/05_Exercises.html)
 
 Jul 26
 : **Lecture 21**{: .label .label-lecture } The normal distribution
