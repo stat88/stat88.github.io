@@ -11,7 +11,7 @@ Jul 31
 Aug 1
 : **Lecture 24**{: .label .label-lecture } Error in regression
     : Ch [11.5](http://stat88.org/textbook/content/Chapter_11/05_The_Error_in_Regression.html)
-: **Section 13**{: .label .label-disc }
+: **Section 12**{: .label .label-disc }
 
 
 Aug 2
@@ -22,4 +22,4 @@ Aug 3
 : **Lecture 26**{: .label .label-lecture } Conclusion
 : **Quiz 6**{: .label .label-quiz }
     : Ch [10.2 - 10.4](http://stat88.org/textbook/content/Chapter_10/02_Expectation_and_Variance.html) and [11.1 - 11.2](http://stat88.org/textbook/content/Chapter_11/00_Bias_Variance_and_Least_Squares.html)
-: **Section 14**{: .label .label-disc } 
+: **Section 13**{: .label .label-disc } 

@@ -7,7 +7,7 @@ Aug 7
 
 Aug 8
 : **Lecture 28**{: .label .label-lecture } Buffer/Review
-: **Section 13**{: .label .label-disc }
+: **Section 14**{: .label .label-disc }
 
 
 Aug 9
