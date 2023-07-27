@@ -23,4 +23,5 @@ Jul 27
     : Ch [11.1 - 11.2](http://stat88.org/textbook/content/Chapter_11/00_Bias_Variance_and_Least_Squares.html)
 : **Quiz 5**{: .label .label-quiz }
     : Ch [8](http://stat88.org/textbook/content/Chapter_08/00_Central_Limit_Theorem.html) and [9.1-9.2](http://stat88.org/textbook/content/Chapter_09/00_Inference.html)
-: **Section 11**{: .label .label-disc } 
+: **Section 11**{: .label .label-disc }
+    : Ch [10, Ex 7, 8, 5, 9](http://stat88.org/textbook/content/Chapter_10/05_Exercises.html), Ch [11, Ex 1, 2](http://stat88.org/textbook/content/Chapter_11/06_Exercises.html)
