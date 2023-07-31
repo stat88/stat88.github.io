@@ -5,8 +5,8 @@ title: 'Week 7: Regression'
 Jul 31
 : **Lecture 23**{: .label .label-lecture } Correlation and the regression line; the regression effect
     : Ch [11.3 - 11.4](http://stat88.org/textbook/content/Chapter_11/03_Least_Squares_Linear_Regression.html)
-: **Homework 7**{: .label .label-hw }
-    : Due Aug 7 at 11:59 PM
+: [**Homework 7**{: .label .label-hw }](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_07.ipynb)
+    : [Due Aug 7 at 11:59 PM](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_07.ipynb)
 
 Aug 1
 : **Lecture 24**{: .label .label-lecture } Error in regression
