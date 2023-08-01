@@ -12,6 +12,7 @@ Aug 1
 : **Lecture 24**{: .label .label-lecture } Error in regression
     : Ch [11.5](http://stat88.org/textbook/content/Chapter_11/05_The_Error_in_Regression.html)
 : **Section 12**{: .label .label-disc }
+    : Ch [11, Ex 3, 4, 9, 11, 10, 7](http://stat88.org/textbook/content/Chapter_11/06_Exercises.html)
 
 
 Aug 2
