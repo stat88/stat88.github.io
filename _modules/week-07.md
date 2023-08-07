@@ -23,4 +23,5 @@ Aug 3
 : **Lecture 26**{: .label .label-lecture } Conclusion
 : **Quiz 6**{: .label .label-quiz }
     : Ch [10](http://stat88.org/textbook/content/Chapter_10/02_Expectation_and_Variance.html) 
-: **Section 13**{: .label .label-disc } 
+: **Section 13**{: .label .label-disc }
+    : Ch [12, Ex 3, 4](http://stat88.org/textbook/content/Chapter_12/04_Exercises.html)
