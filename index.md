@@ -13,7 +13,7 @@ UC Berkeley, Summer 2023
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-7-regression){: .btn } 
+[**Jump to current week**](#week-8-review-and-final-exam){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
