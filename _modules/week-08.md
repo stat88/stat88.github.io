@@ -8,7 +8,7 @@ Aug 7
 Aug 8
 : **Lecture 28**{: .label .label-lecture } Buffer/Review
 : **Section 14**{: .label .label-disc }
-    : Practice Problems [10, 21, 22, 25, 18, 14, 13]
+    : Practice Problems [10, 21, 22, 25, 18, 14, 13](https://drive.google.com/file/d/18k7U14ZdlonTMAtgYngz5KcDmyXH2Mwn/view?usp=sharing)
 
 
 Aug 9
