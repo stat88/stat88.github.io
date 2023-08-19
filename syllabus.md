@@ -6,6 +6,15 @@ description: The course syllabus.
 ---
 
 # Syllabus
+{:.no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 Welcome to Data 88S! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](about) the class.
 
