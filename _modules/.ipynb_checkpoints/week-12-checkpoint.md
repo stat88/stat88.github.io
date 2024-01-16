@@ -1,5 +1,5 @@
 ---
-title: 'Week 12: Expectation and variance revisited, the exponential and normal distributions'
+title: 'The exponential and normal distributions'
 ---
 
 Apr 1

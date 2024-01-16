@@ -5,7 +5,7 @@ title: 'Week 15: Inference and Conclusion'
 Apr 22
 : **Lecture**{: .label .label-lecture } Inference in regression
     : Ch [12.2.1 - 12.2.6](http://stat88.org/textbook/content/Chapter_12/01_The_Simple_Linear_Regression_Model.html)
-: **Homework**{: .label .label-hw } Homework 12
+: **Homework**{: .label .label-hw } Homework 13
     : Due Apr 29 at 4PM
 
 Apr 24
