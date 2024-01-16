@@ -31,13 +31,13 @@ The [textbook](textbook) is on the course website. Lectures and the textbook wil
 ## Weekly Sessions and Attendance ##
 All sessions are in person and start at Berkeley time, that is, 10 minutes after the stated start time.
 
-The class does not allow time conflicts. **You are expected to attend all the sessions below.** Each session will assume that you have attended the previous ones.
+The class does not allow time conflicts. **You are expected to attend all the lectures and sections.** Each session will assume that you have attended the previous ones.
 
-- Lecture meets Mondays, Tuesdays, Wednesdays, and Thursdays, 10:30 AM to 12:00 PM in McCone 141.
-- Section meets Tuesdays and Thursdays, 2:00 PM - 4:00 PM. 
+- Lecture meets Mondays, Wednesdays, and Fridays, 4 to 5 PM in Dwinelle Hall, Room 155.
+- Sections, led by TAs, will meet at various times on Wednesdays and Fridays. 
 - There will be numerous office hours held by the instructors and course staff; please see the [schedule](schedule).
 
-Student participation and informal conversation will be encouraged during all lectures and sections. You are expected not only to attend but also to participate. We will not take attendance. Rather, we'll make sure that participating in the sessions is an effective and efficient way to learn. 
+Student participation and informal conversation will be encouraged during all lectures and sections. You are expected not only to attend but also to participate. While we will not take attendance during lecture and section, we highly encourage you to attend because they provide opportunities for you to develop problem-solving skills and ask clarification questions. In addition, we will have you submit section worksheets each day that you have section. See below for details.
 
 
 ## Ed Forum ##
@@ -46,44 +46,58 @@ We will use our Ed forum extensively for communication, posting documents and in
 
 ## The Required Components of Your Work ##
 
+### Section Worksheets ###
+
+You will complete a worksheet each section period. These are **due at 11:59 PM** the same day, that is, worksheets handed out during Wednesday section will be due 11:59 PM Wednesday night, and similarly for Fridays. These will be graded on completeness.
+
+
 ### Homework ###
 
-Homework will be assigned at the start of each week and will be due the following **Monday at 11:59 PM**. In some weeks there may be deviations from this due to exams or holidays; we will let you know. 
+Homework will be released every Monday after lecture, and will be due the following **Monday at 4 PM sharp**, before lecture. In some weeks there may be deviations from this due to exams or holidays; these will be listed on the schedule.
 
 Data 88S is essentially a math class. Homework will largely consist of math and interpretation, with little to no code.
 
-If you are ever unable to finish the homework or feel that you need additional time, please reach out to us at [data88s@berkeley.edu](mailto:data88s@berkeley.edu) and we will gladly work with you to figure out a solution which ensures that are not only completing the assigned materials but also properly learning from them. Please keep in mind that if you are granted an extension, you will need to balance that with working on the next homework, which will have already been assigned.
+Homework must be submitted on Gradescope. Please **follow all submission instructions**. Failure to do so will result in your submission not being graded. It is your responsibility to make sure your submission is complete and on time. 
 
-While we are happy to accommodate you to ensure that you are completing and submitting the homeworks, if we find that you are routinely reaching out to us with such concerns, we may have to sit down with you and have a conversation about how we can find a more permanent solution for supporting you.
+**Late submission of homework will not be accepted under any circumstances**, unless you have relevant university accommodations. If you have such accommodations, please provide the formal notification to your GSI before the end of the second week of classes. There will be no alternate due dates for assignments missed due to illness, other commitments, and so on. The  drops are intended to cover those situations. 
+
+There are 13 homework assignments and we will drop the **lowest three** scores.
 
 If you have DSP accommodations for extended time on assignments, please make sure we receive your DSP accommodation letter by the second week of classes. We will contact you about arrangements. 
 
-Homework must be submitted on Gradescope. Please **follow all submission instructions**. Failure to do so will result in up to a 40% penalty on that homework. It is your responsibility to make sure your submission is complete.
-
 **Homework will be graded based on correctness**. We encourage you to use the plentiful support available from the instructors and course staff, and to get started as early as possible. Turning in work that you understand well and know to be correct is by far the most efficient way to succeed in the class.
 
-Please keep in mind that **homework assigned each week is based on the material covered in the same week, not in the previous week.** The problems in the homework will follow the order of the lectures that week. So you will be able to start homework as soon as it is assigned, though many students prefer to wait till after section on Tuesday.
+Please keep in mind that **homework assigned each week is based on the material covered in the same week, not in the previous week.** The problems in the homework will follow the order of the lectures that week.
 
 
 ### Quizzes and Exams ###
 
-- **Quizzes** will be held at the start of section every Thursday except the first and last week of the class. There will be six quizzes total. For each quiz, you will get 12 minutes to complete the quiz individually, after which you will get 8 minutes to re-do the quiz in a randomly assigned group. Each quiz score will be the average of your individual and group quiz scores.
-- The **Final** exam will be held on Thursday, August 10th from 10:30 AM - 1:30 PM. It is your responsibility to make sure that you are not enrolled in a class that has a conflicting final exam. You **must take the final in order to pass the class**.
+- We will have **four quizzes** during the semester, on the following Fridays: February 2, February 16, March 22, and April 12. For each quiz, you will get 30 minutes to complete the quiz individually, after which you will get 15 minutes to re-do the quiz in a group of two or three. Each quiz score will be the average of your individual and group quiz scores, and the **lowest average score** will be dropped.
 
-There will be **no alternate quizzes or final exam** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the time of the final exam. Also, please make sure we receive your official DSP accommodation letter at least one week before the first test for which you need the accommodations, so we can make the necessary arrangements.
+- There will be an in-person **midterm** held during lecture on **Friday, March 8** covering the material in chapters 1 through 6 of the textbook.
+
+- The **final exam** will be held on Friday, May 10, from 8 to 11 AM. It is your responsibility to make sure that you are not enrolled in a class that has a conflicting final exam. You **must take the final in order to pass the class**. The final exam will be comprehensive and can clobber your midterm score.
+
+- There will be **no alternate quizzes or final exam** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the time of the final exam. Also, please make sure we receive your official DSP accommodation letter at least one week before the first test for which you need the accommodations, so we can make the necessary arrangements.
 
 
 ### Grades ###
-To give you some leeway in case of illness and emergencies, we will drop your lowest quiz score in the calculation of your overall score. **There will be no homework drops**; instead, please reach out to us at [data88s@berkeley.edu](mailto:data88s@berkeley.edu) if you are in need of additional time or support in completing your homework.
+To give you some leeway in case of illness and emergencies, and to allow for mathematical growth, we will, while calculating your overall score.
+
+- drop your lowest (average) quiz score, and 
+- drop your three lowest homework scores, and 
+- allow your final to clobber your midterm (that is, we will use the higher of your final and your midterm for your midterm score)
 
 Course grades will be assigned using the following weights: 
 
-- 20% homeworks,
-- 40% quizzes,
-- 30% final,
-- 10% final score or quizzes average, whichever is greater.
+- 5% section worksheets
+- 15% homeworks
+- 25% quizzes
+- 25% midterm
+- 30% final
 
-Grades will be based on a combination of absolute cutoffs and the distribution of overall scores. The cutoffs will be no higher than the standard American grade cutoffs for high school: at least a 90% for an A, at least an 80% for a B, and at least a 70% for a C.
+
+Grades will be based on a combination of absolute cutoffs and the distribution of overall scores. The cutoffs will be no higher than the standard American grade cutoffs for high school: at least a 90% for an A, at least an 80% for a B, and at least a 70% for a C etc.
 
 ## Collaboration and Integrity ##
 You are encouraged to discuss practice problems and homework with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, you must write up all your assignments **on your own**. 
@@ -92,10 +106,11 @@ Copying assignments from other sources is not only dishonest, it also doesn’t 
 
 Stat 88 and Data 88S materials including exams and solutions are the intellectual property of the course developers. From the campus statement on Academic Integrity: “... students may not circulate or post materials (handouts, exams, syllabi, i.e. any class materials) from their classes without the written permission of the instructor.” 
 
-We are tough with dishonest students and we hope that we will not be put in that situation in Data 88S. I expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
+We are tough with dishonest students and we hope that we will not be put in that situation in Data 88S. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
 
 ## Device Lending Options ##
 Students can access device lending options through the [Student Technology Equity Program](https://studenttech.berkeley.edu/devicelending). Additionally, laptops are [available to loan](https://www.lib.berkeley.edu/about/device-lending-policy) from the libraries.
+
 
 ## Data Science Student Climate ##
 

@@ -11,4 +11,4 @@ Mar 6
 : **Section**{: .label .label-disc }
 
 Mar 8
-: **Midterm** {: .label .label-exam }
+: **Midterm**{: .label .label-exam }
