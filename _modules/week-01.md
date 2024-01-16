@@ -2,24 +2,16 @@
 title: 'Week 1: The Fundamentals'
 ---
 
-Jun 19
-: *Juneteenth Holiday*
+Jan 15
+: *Martin Luther King Jr. Holiday*
 
-Jun 20
-: **Lecture 1**{: .label .label-lecture } Fundamentals, exact calculations, and bounds 
-    : [Syllabus](syllabus), Ch [1.1 - 1.2](http://stat88.org/textbook/content/Chapter_01/00_The_Basics.html)
-: [**Homework 1**{: .label .label-hw }](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_01.ipynb) 
-    : [Due Jun 26 at 11:59 PM](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-su23&branch=main&subPath=hw/Homework_01.ipynb)
-: **Section 1**{: .label .label-disc } 
-    : Ch [1 Ex 1, 3, 5, 2, 4](http://stat88.org/textbook/content/Chapter_01/04_Exercises.html)
+Jan 17
+: **Lecture**{: .label .label-lecture } Probabilities as Proportions
+    : [Syllabus](syllabus), Ch [1.1.1 - 1.1.5](http://stat88.org/textbook/content/Chapter_01/01_Probabilities_as_Proportions.html)
+: **Homework**{: .label .label-hw } Homework 1
+    : Due Jan 22 at 4PM
 
-Jun 21
-: **Lecture 2**{: .label .label-lecture } The rules; intersections and conditioning 
-    : Ch [1.3](http://stat88.org/textbook/content/Chapter_01/03_Fundamental_Rules.html), [2.1 - 2.2](http://stat88.org/textbook/content/Chapter_02/00_Intersections_and_Conditioning.html)
-
-
-Jun 22
-: **Lecture 3**{: .label .label-lecture } Updating chances; independence 
-    : Ch [2.3 - 2.5](http://stat88.org/textbook/content/Chapter_02/03_Bayes_Rule.html)
-: **Section 2**{: .label .label-disc }
-    : Ch [2 Ex 7, 5, 10, 4, 11, 6](http://stat88.org/textbook/content/Chapter_02/06_Exercises.html)
+Jan 19
+: **Lecture**{: .label .label-lecture } Complements, conditioning, bounds, exact calculations
+    : Ch [1.1.6, 1.1.7, 1.2](http://stat88.org/textbook/content/Chapter_01/01_Probabilities_as_Proportions.html)
+: **Section**{: .label .label-disc }
