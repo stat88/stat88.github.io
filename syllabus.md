@@ -16,7 +16,7 @@ description: The course syllabus.
 
 ---
 
-Welcome to Data 88S! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](about) the class.
+Welcome to Data 88S! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](/about) the class.
 
 Enrolled and waitlisted students have been added to our **Ed** forum. Some start-of-term information has been posted on Ed.
 
@@ -25,7 +25,7 @@ Data 88S is an academic community; Ed (see below) is a formal, academic space. W
 
 
 ## Textbook ##
-The [textbook](textbook) is on the course website. Lectures and the textbook will be closely related in content and sequence, though the exposition and examples in lecture might be different from those in the text. 
+The [textbook](/textbook) is on the course website. Lectures and the textbook will be closely related in content and sequence, though the exposition and examples in lecture might be different from those in the text. 
 
 
 ## Weekly Sessions and Attendance ##
@@ -35,13 +35,13 @@ The class does not allow time conflicts. **You are expected to attend all the le
 
 - Lecture meets Mondays, Wednesdays, and Fridays, 4 to 5 PM in Dwinelle Hall, Room 155.
 - Sections, led by TAs, will meet at various times on Wednesdays and Fridays. 
-- There will be numerous office hours held by the instructors and course staff; please see the [schedule](schedule).
+- There will be numerous office hours held by the instructors and course staff; please see the [schedule](/schedule).
 
 Student participation and informal conversation will be encouraged during all lectures and sections. You are expected not only to attend but also to participate. While we will not take attendance during lecture and section, we highly encourage you to attend because they provide opportunities for you to develop problem-solving skills and ask clarification questions. In addition, we will have you submit section worksheets each day that you have section. See below for details.
 
 
 ## Ed Forum ##
-We will use our Ed forum extensively for communication, posting documents and information, and discussions with students. Please check Ed regularly, and please read the [Forum Policies](https://edstem.org/us/courses/40833/discussion/3212606) post carefully before posting. The forum is intended for discussion of course content, and not for discussion of personal circumstances or sensitive matters. For such concerns, please use the course email [data88s@berkeley.edu](mailto:data88s@berkeley.edu).
+We will use our Ed forum extensively for communication, posting documents and information, and discussions with students. Please check Ed regularly, and please read the [Forum Policies](https://edstem.org/us/courses/53099/discussion/4126571) post carefully before posting. The forum is intended for discussion of course content, and not for discussion of personal circumstances or sensitive matters. For such concerns, please use the course email [data88s@berkeley.edu](mailto:data88s@berkeley.edu).
 
 
 ## The Required Components of Your Work ##
