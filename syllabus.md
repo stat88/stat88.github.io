@@ -48,7 +48,7 @@ We will use our Ed forum extensively for communication, posting documents and in
 
 ### Section Worksheets ###
 
-You will complete a worksheet each section period. These are **due at 11:59 PM** the same day, that is, worksheets handed out during Wednesday section will be due 11:59 PM Wednesday night, and similarly for Fridays. These will be graded on completeness.
+You will complete a worksheet each section period. These are **due at 11:59 PM** the same day, that is, worksheets handed out during Wednesday section will be due 11:59 PM Wednesday night, and similarly for Fridays. These will be graded on completeness. We will drop the **lowest four** section worksheet scores.
 
 
 ### Homework ###
