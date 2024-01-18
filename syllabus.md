@@ -48,7 +48,7 @@ We will use our Ed forum extensively for communication, posting documents and in
 
 ### Section Worksheets ###
 
-You will complete a worksheet each section period. These are **due at 11:59 PM** on Gradescope the same day, that is, worksheets handed out during Wednesday section will be due 11:59 PM Wednesday night, and similarly for Fridays. You are required to attend the section you are officially enrolled in, which will be enforced by receiving a secret word from your TA that will be part of your Gradescope worksheet submission. These will be graded on completeness. We will drop the **lowest four** section worksheet scores.
+You will complete a worksheet each section period. These are **due at 11:59 PM** on Gradescope the same day, that is, worksheets handed out during Wednesday section will be due 11:59 PM Wednesday night, and similarly for Fridays. You are required to attend the section you are officially enrolled in, which will be enforced by receiving a secret word from your TA that will be part of your Gradescope worksheet submission. These will be graded on completeness. The worksheet will be available on the course website at 5PM on the day of section so you can still complete and turn in the worksheet by 11:59PM. Worksheets not completed in section will still be expected to be fully complete upon submission in order to receive credit. We will drop the **lowest four** section worksheet scores.
 
 
 ### Homework ###
