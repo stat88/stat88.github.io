@@ -8,7 +8,7 @@ Jan 15
 Jan 17
 : **Lecture**{: .label .label-lecture } Probabilities as Proportions, [Pre-Lecture Slides](/assets/slides/pre-lec-1.pdf)
     : [Syllabus](syllabus), Ch [1.1.1 - 1.1.5](http://stat88.org/textbook/content/Chapter_01/01_Probabilities_as_Proportions.html)
-: **Homework**{: .label .label-hw } Homework 1
+: **Homework**{: .label .label-hw } [Homework 1]((http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp24&branch=main&subPath=hw/Homework_01.ipynb))
     : Due Jan 22 at 4PM
 
 Jan 19
