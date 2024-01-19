@@ -12,6 +12,6 @@ Jan 17
     : Due Jan 22 at 4PM
 
 Jan 19
-: **Lecture**{: .label .label-lecture } Complements, conditioning, bounds, exact calculations
+: **Lecture**{: .label .label-lecture } Complements, conditioning, bounds, exact calculations ([Blank Slides](/assets/slides/lec-2-pre-lec.pdf))
     : Ch [1.1.6, 1.1.7, 1.2](http://stat88.org/textbook/content/Chapter_01/01_Probabilities_as_Proportions.html)
 : **Section**{: .label .label-disc }
