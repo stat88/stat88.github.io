@@ -14,4 +14,4 @@ Jan 17
 Jan 19
 : **Lecture**{: .label .label-lecture } Complements, conditioning, bounds, exact calculations ([Blank Slides](/assets/slides/lec-2-pre-lec.pdf))
     : Ch [1.1.6, 1.1.7, 1.2](http://stat88.org/textbook/content/Chapter_01/01_Probabilities_as_Proportions.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/01_19.pdf)
