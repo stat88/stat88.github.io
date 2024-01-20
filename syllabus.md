@@ -85,7 +85,8 @@ Please keep in mind that **homework assigned each week is based on the material 
 To give you some leeway in case of illness and emergencies, and to allow for mathematical growth, we will, while calculating your overall score.
 
 - drop your lowest (average) quiz score, and 
-- drop your three lowest homework scores, and 
+- drop your three lowest homework scores, and
+- drop your four lowest section worksheet scores, and 
 - allow your final to clobber your midterm (that is, we will use the higher of your final and your midterm for your midterm score)
 
 Course grades will be assigned using the following weights: 
