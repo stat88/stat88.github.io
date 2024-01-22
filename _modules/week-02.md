@@ -3,7 +3,7 @@ title: 'Week 2: Conditioning, Bayes Rule, Independence'
 ---
 
 Jan 22
-: **Lecture**{: .label .label-lecture } The axioms of probability
+: **Lecture**{: .label .label-lecture } The axioms of probability ([Blank Slides](/assets/slides/lec-3-pre-lec.pdf))
     : Ch [1.3](http://stat88.org/textbook/content/Chapter_01/03_Fundamental_Rules.html)
 : **Homework**{: .label .label-hw } Homework 2
     : Due Jan 29 at 4PM
