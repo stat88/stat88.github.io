@@ -3,9 +3,9 @@ title: 'Week 2: Conditioning, Bayes Rule, Independence'
 ---
 
 Jan 22
-: **Lecture**{: .label .label-lecture } The axioms of probability ([Blank Slides](/assets/slides/lec-3-pre-lec.pdf))
+: **Lecture**{: .label .label-lecture } [The axioms of probability](/assets/slides/annotated-lec-3.pdf) ([Blank Slides](/assets/slides/lec-3-pre-lec.pdf))
     : Ch [1.3](http://stat88.org/textbook/content/Chapter_01/03_Fundamental_Rules.html)
-: **Homework**{: .label .label-hw } Homework 2
+: **Homework**{: .label .label-hw } [Homework 2](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp24&branch=main&subPath=hw/Homework_02.ipynb)
     : Due Jan 29 at 4PM
 
 Jan 24

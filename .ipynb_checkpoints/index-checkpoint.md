@@ -13,7 +13,7 @@ UC Berkeley, Spring 2024
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-1-the-fundamentals){: .btn } 
+[**Jump to current week**](#week-2-conditioning-bayes-rule-and-independence){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
