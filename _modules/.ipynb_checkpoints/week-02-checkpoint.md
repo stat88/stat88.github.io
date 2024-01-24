@@ -9,7 +9,7 @@ Jan 22
     : Due Jan 29 at 4PM
 
 Jan 24
-: **Lecture**{: .label .label-lecture } Conditioning, updating
+: **Lecture**{: .label .label-lecture } Conditioning, updating ([Blank Slides](/assets/slides/lec-4-pre-lec.pdf))
     : Ch [2.1 - 2.3](http://stat88.org/textbook/content/Chapter_02/01_The_Chance_of_an_Intersection.html)
 : **Section**{: .label .label-disc }
 
