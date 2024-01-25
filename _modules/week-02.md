@@ -11,7 +11,7 @@ Jan 22
 Jan 24
 : **Lecture**{: .label .label-lecture } Conditioning, updating ([Blank Slides](/assets/slides/lec-4-pre-lec.pdf))
     : Ch [2.1 - 2.3](http://stat88.org/textbook/content/Chapter_02/01_The_Chance_of_an_Intersection.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/01_24.pdf)
 
 Jan 26
 : **Lecture**{: .label .label-lecture } Bayes' examples, Independence
