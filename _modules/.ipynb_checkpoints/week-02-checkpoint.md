@@ -16,4 +16,4 @@ Jan 24
 Jan 26
 : **Lecture**{: .label .label-lecture } Bayes' examples, Independence ([Blank Slides](/assets/slides/lec-5-pre-lec.pdf))
     : Ch [2.4, 2.5](http://stat88.org/textbook/content/Chapter_02/04_Use_and_Interpretation.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/01_26.pdf)
