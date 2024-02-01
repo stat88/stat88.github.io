@@ -9,7 +9,7 @@ Jan 29
     : Due Feb 5 at 4PM
 
 Jan 31
-: **Lecture**{: .label .label-lecture } Random variables, equality, basic counting
+: **Lecture**{: .label .label-lecture } Random variables, equality, basic counting ([Blank Slides](/assets/slides/lec-7-pre-lec.pdf))
     : Ch [3.2.5, 3.3.1 - 3.3.3](http://stat88.org/textbook/content/Chapter_03/02_Random_Variables.html)
 : **Section**{: .label .label-disc }
 
