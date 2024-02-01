@@ -11,7 +11,7 @@ Jan 29
 Jan 31
 : **Lecture**{: .label .label-lecture } Random variables, equality, basic counting ([Blank Slides](/assets/slides/lec-7-pre-lec.pdf))
     : Ch [3.2.5, 3.3.1 - 3.3.3](http://stat88.org/textbook/content/Chapter_03/02_Random_Variables.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/01_31.pdf)
 
 Feb 2
 : **Lecture**{: .label .label-lecture } Random counts, binomial
