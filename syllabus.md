@@ -72,7 +72,7 @@ Please keep in mind that **homework assigned each week is based on the material 
 
 ### Quizzes and Exams ###
 
-- We will have **four quizzes** during the semester, on the following Fridays: February 2, February 16, March 22, and April 12. For each quiz, you will get 30 minutes to complete the quiz individually, after which you will get 15 minutes to re-do the quiz in a group of two or three. Each quiz score will be the average of your individual and group quiz scores, and the **lowest average score** will be dropped.
+- We will have **four quizzes** during the semester, on the following Fridays: February 2, February 16, March 22, and April 12. For each quiz, you will get 25 minutes to complete the quiz individually, after which you will get 15 minutes to re-do the quiz in a group of two or three. Each quiz score will be the average of your individual and group quiz scores, and the **lowest average score** will be dropped.
 
 - There will be an in-person **midterm** held during lecture on **Friday, March 8** covering the material in chapters 1 through 6 of the textbook.
 
