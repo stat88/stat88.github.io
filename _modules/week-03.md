@@ -14,6 +14,6 @@ Jan 31
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/01_31.pdf)
 
 Feb 2
-: **Lecture**{: .label .label-lecture } Random counts, binomial ([Blank Slides](/assets/slides/lec-8-pre-lec.pdf))
+: **Lecture**{: .label .label-lecture } [Random counts, binomial](/assets/slides/annotated-lec-8.pdf) ([Blank Slides](/assets/slides/lec-8-pre-lec.pdf))
     : Ch [3.3.4 - 3.3.6](http://stat88.org/textbook/content/Chapter_02/04_Use_and_Interpretation.html)
 : **Quiz 1**{: .label .label-quiz }
