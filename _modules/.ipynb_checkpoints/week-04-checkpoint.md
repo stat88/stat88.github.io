@@ -9,7 +9,7 @@ Feb 5
     : Due Feb 12 at 4PM
 
 Feb 7
-: **Lecture**{: .label .label-lecture } The binomial and geometric distributions ([Blank Slides](/assets/slides/lec10-pre-lec.pdf))
+: **Lecture**{: .label .label-lecture } The binomial and geometric distributions ([Blank Slides](/assets/slides/lec-10-pre-lec.pdf))
     : Ch [4.1, 4.2](http://stat88.org/textbook/content/Chapter_04/01_Cumulative_Distribution_Function.html)
 : **Section**{: .label .label-disc }
 
