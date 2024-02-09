@@ -9,11 +9,11 @@ Feb 5
     : Due Feb 12 at 4PM
 
 Feb 7
-: **Lecture**{: .label .label-lecture } [The binomial and geometric distributions](/assets/slides/annotated-lec-10.pdf) ([Blank Slides](/assets/slides/lec-10-pre-lec.pdf))
+: **Lecture**{: .label .label-lecture } [The binomial and hypergeometric distributions](/assets/slides/annotated-lec-10.pdf) ([Blank Slides](/assets/slides/lec-10-pre-lec.pdf))
     : Ch [4.1, 4.2](http://stat88.org/textbook/content/Chapter_04/01_Cumulative_Distribution_Function.html)
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/02_07.pdf)
 
 Feb 9
-: **Lecture**{: .label .label-lecture } Exponential approximations
+: **Lecture**{: .label .label-lecture } Exponential approximations ([Blank Slides](/assets/slides/lec-11-pre-lec.pdf))
     : Ch [4.3.1 - 4.3.4](http://stat88.org/textbook/content/Chapter_04/03_Exponential_Approximations.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/02_09.pdf)
