@@ -3,7 +3,7 @@ title: 'Week 5: The Poisson Distribution and Expectation'
 ---
 
 Feb 12
-: **Lecture**{: .label .label-lecture } Law of small numbers: Poisson
+: **Lecture**{: .label .label-lecture } Examples, CDF, Waiting Time ([Blank Slides](/assets/slides/lec-12-pre-lec.pdf))
     : Ch [4.3.4, 4.4](http://stat88.org/textbook/content/Chapter_04/03_Exponential_Approximations.html)
 : **Homework**{: .label .label-hw } Homework 5
     : Due Feb 20 at 4PM

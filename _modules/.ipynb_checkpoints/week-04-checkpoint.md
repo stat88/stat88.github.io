@@ -14,6 +14,6 @@ Feb 7
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/02_07.pdf)
 
 Feb 9
-: **Lecture**{: .label .label-lecture } Exponential approximations ([Blank Slides](/assets/slides/lec-11-pre-lec.pdf))
+: **Lecture**{: .label .label-lecture } [Exponential approximations](/assets/slides/annotated-lec-11.pdf) ([Blank Slides](/assets/slides/lec-11-pre-lec.pdf))
     : Ch [4.3.1 - 4.3.4](http://stat88.org/textbook/content/Chapter_04/03_Exponential_Approximations.html)
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/02_09.pdf)
