@@ -11,7 +11,7 @@ Feb 12
 Feb 14
 : **Lecture**{: .label .label-lecture } Waiting Times ([Blank Slides](/assets/slides/lec-13-pre-lec.pdf))
     : Ch [5.1, 5.2.1 - 5.2.4](http://stat88.org/textbook/content/Chapter_05/01_Definition.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/02_14.pdf)
 
 Feb 16
 : **Lecture**{: .label .label-lecture } Additivity; method of indicators
