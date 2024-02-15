@@ -1,5 +1,5 @@
 ---
-title: 'Week 5: The Poisson Distribution and Expectation'
+title: 'Week 5: CDF continued'
 ---
 
 Feb 12
@@ -9,7 +9,7 @@ Feb 12
     : Due Feb 20 at 11:59PM
 
 Feb 14
-: **Lecture**{: .label .label-lecture } Waiting Times ([Blank Slides](/assets/slides/lec-13-pre-lec.pdf))
+: **Lecture**{: .label .label-lecture } [Waiting Times](/assets/slides/annotated-lec-13.pdf) ([Blank Slides](/assets/slides/lec-13-pre-lec.pdf))
     : Ch [5.1, 5.2.1 - 5.2.4](http://stat88.org/textbook/content/Chapter_05/01_Definition.html)
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/02_14.pdf)
 
