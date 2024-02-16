@@ -11,9 +11,8 @@ Mar 18
 Mar 20
 : **Lecture**{: .label .label-lecture } Testing hypotheses
     : Ch [9.3, 9.4](http://stat88.org/textbook/content/Chapter_07/03_The_Law_of_Averages.html)
-: **Section**{: .label .label-disc }
+: **Quiz 3**{: .label .label-disc }
 
 Mar 22
 : **Lecture**{: .label .label-lecture } Probability density 
     : Ch [10.1.1 - 10.1.6](http://stat88.org/textbook/content/Chapter_10/01_Density.html)
-: **Quiz 3**{: .label .label-quiz }
