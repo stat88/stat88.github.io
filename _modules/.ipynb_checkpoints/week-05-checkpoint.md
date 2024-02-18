@@ -14,6 +14,6 @@ Feb 14
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/02_14.pdf)
 
 Feb 16
-: **Lecture**{: .label .label-lecture } Additivity; method of indicators ([Blank Slides](/assets/slides/lec-14-pre-lec.pdf))
+: **Lecture**{: .label .label-lecture } [Exponential Approximations](/assets/slides/annotated-lec-14.pdf) ([Blank Slides](/assets/slides/lec-14-pre-lec.pdf))
     : Ch [5.2.5 - 5.3](http://stat88.org/textbook/content/Chapter_05/02_Functions_of_Random_Variables.html)
 : **Quiz 2**{: .label .label-quiz }
