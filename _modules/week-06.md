@@ -1,12 +1,12 @@
 ---
-title: 'Week 6: Unbiased Estimators and Conditional Expectation'
+title: 'Week 6: The Poisson Distribution'
 ---
 
 Feb 19
 : *President's Day Holiday*
 
 Feb 21
-: **Lecture**{: .label .label-lecture } Unbiased estimators
+: **Lecture**{: .label .label-lecture } Poisson Distribution ([Blank Slides](/assets/slides/lec-15-pre-lec.pdf))
     : Ch [5.4.1 - 5.4.7](http://stat88.org/textbook/content/Chapter_05/04_Unbiased_Estimators.html)
 : **Section**{: .label .label-disc }
 : **Homework**{: .label .label-hw } Homework 6
