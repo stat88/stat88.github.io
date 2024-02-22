@@ -13,7 +13,7 @@ UC Berkeley, Spring 2024
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-4-random-counts){: .btn } 
+[**Jump to current week**](#week-6-the-poisson-distribution){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
