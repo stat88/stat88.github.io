@@ -13,6 +13,6 @@ Feb 21
     : Due Feb 27 at 11:59PM
 
 Feb 23
-: **Lecture**{: .label .label-lecture } Conditional expectation
+: **Lecture**{: .label .label-lecture } Expectation
     : Ch [5.5.1, 5.5.2, 5.5.3](http://stat88.org/textbook/content/Chapter_05/05_Conditional_Expectation.html)
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/02_23.pdf)
