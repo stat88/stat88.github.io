@@ -11,7 +11,7 @@ Feb 26
 Feb 28
 : **Lecture**{: .label .label-lecture } Conditional expectation, expectation by conditioning
     : Ch [6.1.1 - 6.1.4, 6.2.1, 6.2.2](http://stat88.org/textbook/content/Chapter_06/01_Variance_and_Standard_Deviation.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/02_28.pdf)
 
 Mar 1
 : **Lecture**{: .label .label-lecture } Variace, standard deviation
