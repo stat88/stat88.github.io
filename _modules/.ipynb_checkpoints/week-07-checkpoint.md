@@ -14,6 +14,6 @@ Feb 28
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/02_28.pdf)
 
 Mar 1
-: **Lecture**{: .label .label-lecture } Variace, standard deviation
+: **Lecture**{: .label .label-lecture } Variance, standard deviation
     : Ch [6.3, 6.4](http://stat88.org/textbook/content/Chapter_06/03_Markovs_Inequality.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/03_01.pdf)
