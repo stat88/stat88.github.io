@@ -1,10 +1,10 @@
 ---
-title: 'Week 9: Law of Large Numbers and Central Limit Theorem'
+title: 'Week 9: Conditional Expectation'
 ---
 
 Mar 11
-: **Lecture**{: .label .label-lecture } Sampling without replacement, large samples
-    : Ch [7.1.5 - 7.1.7, 7.2.1 - 7.2.4](http://stat88.org/textbook/content/Chapter_07/01_Sums_of_Independent_Random_Variables.html)
+: **Lecture**{: .label .label-lecture } Conditional expectation, Expectation by conditioning, Variance ([Blank Slides](/assets/slides/lec-22-pre-lec.pdf))
+    : Ch [5.5, 5.6, 6.1, 6.2](http://stat88.org/textbook/content/Chapter_05/05_Conditional_Expectation.html)
 : **Homework**{: .label .label-hw } Homework 8
     : Due Mar 18 at 4PM
 
