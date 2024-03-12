@@ -3,10 +3,10 @@ title: 'Week 9: Conditional Expectation'
 ---
 
 Mar 11
-: **Lecture**{: .label .label-lecture } Conditional expectation, Expectation by conditioning, Variance ([Blank Slides](/assets/slides/lec-22-pre-lec.pdf))
+: **Lecture**{: .label .label-lecture } [Conditional expectation, Expectation by conditioning, Variance](assets/slides/annotated-lec-22.pdf) ([Blank Slides](/assets/slides/lec-22-pre-lec.pdf))
     : Ch [5.5, 5.6, 6.1, 6.2](http://stat88.org/textbook/content/Chapter_05/05_Conditional_Expectation.html)
 : **Homework**{: .label .label-hw } Homework 8
-    : Due Mar 18 at 4PM
+    : Due Mar 19 at 11:59PM
 
 Mar 13
 : **Lecture**{: .label .label-lecture } Law of large numbers
