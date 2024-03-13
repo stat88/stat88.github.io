@@ -5,7 +5,7 @@ title: 'Week 9: Conditional Expectation'
 Mar 11
 : **Lecture**{: .label .label-lecture } [Conditional expectation, Expectation by conditioning, Variance](assets/slides/annotated-lec-22.pdf) ([Blank Slides](/assets/slides/lec-22-pre-lec.pdf))
     : Ch [5.5, 5.6, 6.1, 6.2](http://stat88.org/textbook/content/Chapter_05/05_Conditional_Expectation.html)
-: **Homework**{: .label .label-hw } Homework 8
+: **Homework**{: .label .label-hw } [Homework 8](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp24&branch=main&subPath=hw/Homework_08.ipynb)
     : Due Mar 19 at 11:59PM
 
 Mar 13
