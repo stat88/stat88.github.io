@@ -9,11 +9,11 @@ Mar 11
     : Due Mar 19 at 11:59PM
 
 Mar 13
-: **Lecture**{: .label .label-lecture } More conditional expectation
+: **Lecture**{: .label .label-lecture } Variance + Standard deviation
     : Ch [7.3.1 - 7.3.6](http://stat88.org/textbook/content/Chapter_07/03_The_Law_of_Averages.html)
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/03_13.pdf)
 
 Mar 15
-: **Lecture**{: .label .label-lecture } Central Limit Theorem
+: **Lecture**{: .label .label-lecture } Markov's inequality
     : Ch [8.1 - 8.4](http://stat88.org/textbook/content/Chapter_08/01_Distribution_of_a_Sample_Sum.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/03_15.pdf)
