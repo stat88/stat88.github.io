@@ -5,8 +5,7 @@ title: 'Week 10: Confidence intervals, hypothesis testing, and density'
 Mar 18
 : **Lecture**{: .label .label-lecture } Confidence Intervals
     : Ch [9.1, 9.2](http://stat88.org/textbook/content/Chapter_09/01_Confidence_Intervals_Method.html)
-: **Homework**{: .label .label-hw } Homework 9
-    : Due Apr 1 at 4PM
+: **Homework**{: .label .label-hw } 
 
 Mar 20
 : **Lecture**{: .label .label-lecture } Testing hypotheses

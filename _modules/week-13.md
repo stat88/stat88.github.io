@@ -5,8 +5,8 @@ title: 'Week 13: Bias and variance'
 Apr 8
 : **Lecture**{: .label .label-lecture } Comparing two samples
     : Ch [10.4.2 -10.4.5](http://stat88.org/textbook/content/Chapter_10/04_The_Normal_Distribution.html)
-: **Homework**{: .label .label-hw } Homework 11
-    : Due Apr 15 at 4PM
+: **Homework**{: .label .label-hw } Homework 10
+    : Due Apr 16 at 11:59PM
 
 Apr 10
 : **Lecture**{: .label .label-lecture } Estimation: bias and variance

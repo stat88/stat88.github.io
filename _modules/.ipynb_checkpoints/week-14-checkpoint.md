@@ -5,8 +5,8 @@ title: 'Week 14: Regression'
 Apr 15
 : **Lecture**{: .label .label-lecture } Correlation and the regression model
     : Ch [12.1.1, 12.1.2](http://stat88.org/textbook/content/Chapter_12/01_The_Simple_Linear_Regression_Model.html)
-: **Homework**{: .label .label-hw } Homework 12
-    : Due Apr 22 at 4PM
+: **Homework**{: .label .label-hw } Homework 11
+    : Due Apr 23 at 11:59PM
 
 Apr 17
 : **Lecture**{: .label .label-lecture } Regression effect; residuals
