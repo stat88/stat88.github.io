@@ -3,15 +3,15 @@ title: 'The exponential and normal distributions'
 ---
 
 Apr 1
-: **Lecture**{: .label .label-lecture } Expectation and variance revisited
-    : Ch [10.1, 10.2](http://stat88.org/textbook/content/Chapter_10/01_Density.html)
+: **Lecture**{: .label .label-lecture } [The law of averages, distribution of a sample sum](/assets/slides/annotated-lec-28.pdf)
+    : Ch [7.3-8.2](http://stat88.org/textbook/content/Chapter_07/03_The_Law_of_Averages.html)
 : **Homework**{: .label .label-hw } Homework 9
     : Due Apr 9 at 11:59PM
 
 Apr 3
 : **Lecture**{: .label .label-lecture } The exponential distribution
     : Ch [10.3.1 - 10.3.6](http://stat88.org/textbook/content/Chapter_10/03_The_Exponential_Distribution.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/04_03.pdf)
 
 Apr 5
 : **Lecture**{: .label .label-lecture } The normal distribution
