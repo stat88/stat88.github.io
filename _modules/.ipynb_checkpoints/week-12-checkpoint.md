@@ -10,10 +10,10 @@ Apr 1
 
 Apr 3
 : **Lecture**{: .label .label-lecture } [The law of averages, distribution of a sample sum](/assets/slides/annotated-lec-29.pdf)
-    : Ch [7.3-8.2](http://stat88.org/textbook/content/Chapter_07/03_The_Law_of_Averages.html)(http://stat88.org/textbook/content/Chapter_10/03_The_Exponential_Distribution.html)
+    : Ch [7.3-8.2](http://stat88.org/textbook/content/Chapter_07/03_The_Law_of_Averages.html)
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/04_03.pdf)
 
 Apr 5
-: **Lecture**{: .label .label-lecture } The normal distribution
-    : Ch [10.3.5, 10.3.6, 10.4.1](http://stat88.org/textbook/content/Chapter_10/03_The_Exponential_Distribution.html)
-: **Section**{: .label .label-disc }
+: **Lecture**{: .label .label-lecture } The central limit theorem
+    : Ch [8.3](http://stat88.org/textbook/content/Chapter_08/01_Distribution_of_a_Sample_Sum.html)
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/04_05.pdf)
