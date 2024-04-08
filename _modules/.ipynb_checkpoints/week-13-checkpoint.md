@@ -3,7 +3,7 @@ title: 'Week 13: Confidence Intervals'
 ---
 
 Apr 8
-: **Lecture**{: .label .label-lecture } Confidence Intervals
+: **Lecture**{: .label .label-lecture } [Confidence Intervals](/assets/slides/lec-30-pre-lec.pdf)
     : Ch [9.1-9.2](http://stat88.org/textbook/content/Chapter_09/01_Confidence_Intervals_Method.html)
 : **Homework**{: .label .label-hw } Homework 10
     : Due Apr 16 at 11:59PM
