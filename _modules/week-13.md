@@ -3,15 +3,15 @@ title: 'Week 13: Confidence Intervals'
 ---
 
 Apr 8
-: **Lecture**{: .label .label-lecture } [Confidence Intervals](/assets/slides/lec-30-pre-lec.pdf)
+: **Lecture**{: .label .label-lecture } [Confidence Intervals](/assets/slides/annotated-lec-30.pdf) ([Blank Slides](/assets/slides/lec-30-pre-lec.pdf))
     : Ch [9.1-9.2](http://stat88.org/textbook/content/Chapter_09/01_Confidence_Intervals_Method.html)
 : **Homework**{: .label .label-hw } Homework 10
     : Due Apr 16 at 11:59PM
 
 Apr 10
-: **Lecture**{: .label .label-lecture } Hypothesis Testing
-    : Ch [9.3-9.4](http://stat88.org/textbook/content/Chapter_09/03_Testing_Hypotheses.html)
-: **Section**{: .label .label-disc }
+: **Lecture**{: .label .label-lecture } Confidence Intervals ([Blank Slides](/assets/slides/lec-31-pre-lec.pdf))
+    : Ch [9.1-9.2](http://stat88.org/textbook/content/Chapter_09/01_Confidence_Intervals_Method.html)
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/04_10.pdf)
 
 Apr 12
 : **Lecture**{: .label .label-lecture } Prob density, expectation, variance 
