@@ -11,7 +11,7 @@ Apr 15
 Apr 17
 : **Lecture**{: .label .label-lecture } The normal distribution and comparing two samples 
     : Ch [10.4](http://stat88.org/textbook/content/Chapter_10/04_The_Normal_Distribution.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/04_17.pdf)
 
 Apr 19
 : **Lecture**{: .label .label-lecture } Bias and Variance
