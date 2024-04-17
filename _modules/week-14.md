@@ -5,7 +5,7 @@ title: 'Week 14: Exponential Distribution'
 Apr 15
 : **Lecture**{: .label .label-lecture } The exponential distribution 
     : Ch [10.3](http://stat88.org/textbook/content/Chapter_10/03_The_Exponential_Distribution.html)
-: **Homework**{: .label .label-hw } Homework 11
+: **Homework**{: .label .label-hw } [Homework 11](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp24&branch=main&subPath=hw/Homework_11.ipynb)
     : Due Apr 23 at 11:59PM
 
 Apr 17
