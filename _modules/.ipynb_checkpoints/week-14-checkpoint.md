@@ -1,5 +1,5 @@
 ---
-title: 'Week 14: Exponential Distribution'
+title: 'Week 14: Density'
 ---
 
 Apr 15
@@ -9,8 +9,8 @@ Apr 15
     : Due Apr 23 at 11:59PM
 
 Apr 17
-: **Lecture**{: .label .label-lecture } The normal distribution and comparing two samples 
-    : Ch [10.4](http://stat88.org/textbook/content/Chapter_10/04_The_Normal_Distribution.html)
+: **Lecture**{: .label .label-lecture } Probability density 
+    : Ch [10.4](http://stat88.org/textbook/content/Chapter_10/01_Density.html)
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/04_17.pdf)
 
 Apr 19
