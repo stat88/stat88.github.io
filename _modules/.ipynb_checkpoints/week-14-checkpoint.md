@@ -16,4 +16,4 @@ Apr 17
 Apr 19
 : **Lecture**{: .label .label-lecture } Bias and Variance
     : Ch [11.1, 11.2](http://stat88.org/textbook/content/Chapter_11/01_Bias_and_Variance.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/04_19.pdf)
