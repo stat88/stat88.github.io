@@ -14,6 +14,6 @@ Apr 17
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/04_17.pdf)
 
 Apr 19
-: **Lecture**{: .label .label-lecture } Bias and Variance
-    : Ch [11.1, 11.2](http://stat88.org/textbook/content/Chapter_11/01_Bias_and_Variance.html)
+: **Lecture**{: .label .label-lecture } [Probability density](/assets/slides/annotated-lec-33.pdf)
+    : Ch [10.4](http://stat88.org/textbook/content/Chapter_10/01_Density.html)
 : **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/04_19.pdf)
