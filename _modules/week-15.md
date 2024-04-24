@@ -11,7 +11,7 @@ Apr 22
 Apr 24
 : **Lecture**{: .label .label-lecture } Residuals, SLR
     : Ch [11.5, 12.1](http://stat88.org/textbook/content/Chapter_11/05_The_Error_in_Regression.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/04_24.pdf)
 
 Apr 19
 : **Lecture**{: .label .label-lecture } Finishing up regression and correlation
