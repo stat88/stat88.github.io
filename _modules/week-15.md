@@ -3,9 +3,9 @@ title: 'Week 15: Inference and Conclusion'
 ---
 
 Apr 22
-: **Lecture**{: .label .label-lecture } MSE and the regression equation
+: **Lecture**{: .label .label-lecture } [Bias and Variance](/assets/slides/annotated-lec-35.pdf)
     : Ch [11.3, 11.4, 11.5](http://stat88.org/textbook/content/Chapter_11/03_Least_Squares_Linear_Regression.html)
-: **Homework**{: .label .label-hw } Homework 12
+: **Homework**{: .label .label-hw } [Homework 12](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp24&branch=main&subPath=hw/Homework_12.ipynb)
     : Due Apr 30 at 11:59PM
 
 Apr 24
