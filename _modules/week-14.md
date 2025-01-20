@@ -1,19 +1,17 @@
 ---
-title: 'Week 14: Density'
+title: 'Week 14: Density; Estimation'
 ---
 
-Apr 15
-: **Lecture**{: .label .label-lecture } [A/B Testing](/assets/slides/annotated-lec-33.pdf) 
-    : Ch [9.3-9.4](http://stat88.org/textbook/content/Chapter_09/03_Testing_Hypotheses.html)
-: **Homework**{: .label .label-hw } [Homework 11](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp24&branch=main&subPath=hw/Homework_11.ipynb)
-    : Due Apr 23 at 11:59PM
+Apr 21
+: **Lecture**{: .label .label-lecture } [The exponential distribution]
+    : Ch [10.3](http://stat88.org/textbook/content/Chapter_10/03_The_Exponential_Distribution.html)
 
-Apr 17
-: **Lecture**{: .label .label-lecture } Probability density 
-    : Ch [10.4](http://stat88.org/textbook/content/Chapter_10/01_Density.html)
-: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/04_17.pdf)
+Apr 23
+: **Lecture**{: .label .label-lecture } [Some properties of the normal distribution]
+    : Ch [10.4](http://stat88.org/textbook/content/Chapter_10/04_The_Normal_Distribution.html)
+: **Section**{: .label .label-disc }
 
-Apr 19
-: **Lecture**{: .label .label-lecture } [Probability density](/assets/slides/annotated-lec-33.pdf)
-    : Ch [10.4](http://stat88.org/textbook/content/Chapter_10/01_Density.html)
-: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/04_19.pdf)
+Apr 25
+: **Lecture**{: .label .label-lecture } [Estimator: bias and variance]
+    : Ch [11.1](http://stat88.org/textbook/content/Chapter_11/01_Bias_and_Variance.html)
+: **Section**{: .label .label-disc }

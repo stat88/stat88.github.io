@@ -2,6 +2,6 @@
 title: 'Week 17: Finals Week'
 ---
 
-May 10
+May 14
 : **Final Exam**{: .label .label-exam } 
-    : 8-11AM
+    : 3PM - 6PM

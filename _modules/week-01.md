@@ -1,17 +1,18 @@
 ---
-title: 'Week 1: The Fundamentals'
+title: 'Week 1: Fundamentals'
 ---
 
-Jan 15
+Jan 20
 : *Martin Luther King Jr. Holiday*
 
-Jan 17
-: **Lecture**{: .label .label-lecture } [Probabilities as Proportions](/assets/slides/annotated-lec-1.pdf) ([Blank Slides](/assets/slides/pre-lec-1.pdf))
-    : [Syllabus](syllabus), Ch [1.1.1 - 1.1.5](http://stat88.org/textbook/content/Chapter_01/01_Probabilities_as_Proportions.html)
-: **Homework**{: .label .label-hw } [Homework 1](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp24&branch=main&subPath=hw/Homework_01.ipynb)
-    : Due Jan 22 at 4PM
+Jan 22
+: **Lecture**{: .label .label-lecture } [Course introduction; fundamentals]
+    : [Syllabus](syllabus), Ch [1.1](http://stat88.org/textbook/content/Chapter_01/01_Probabilities_as_Proportions.html)
+: **Section**{: .label .label-disc } [**No Section**]
+# : **Homework**{: .label .label-hw } [Homework 1](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp24&branch=main&subPath=hw/Homework_01.ipynb)
+#    : Due Jan 22 at 4PM
 
-Jan 19
-: **Lecture**{: .label .label-lecture } [Complements, conditioning, bounds, exact calculations](/assets/slides/annotated-lec-2.pdf) ([Blank Slides](/assets/slides/lec-2-pre-lec.pdf))
-    : Ch [1.1.6, 1.1.7, 1.2](http://stat88.org/textbook/content/Chapter_01/01_Probabilities_as_Proportions.html)
-: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/01_19.pdf)
+Jan 24
+: **Lecture**{: .label .label-lecture } [Exact calculations, and bounds]
+    : Ch [1.2-1.3](http://stat88.org/textbook/content/Chapter_01/02_Exact_Calculation_or_Bound.html)
+: **Section**{: .label .label-disc }

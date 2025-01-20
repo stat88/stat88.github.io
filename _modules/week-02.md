@@ -2,18 +2,16 @@
 title: 'Week 2: Conditioning, Bayes Rule, Independence'
 ---
 
-Jan 22
-: **Lecture**{: .label .label-lecture } [The axioms of probability](/assets/slides/annotated-lec-3.pdf) ([Blank Slides](/assets/slides/lec-3-pre-lec.pdf))
-    : Ch [1.3](http://stat88.org/textbook/content/Chapter_01/03_Fundamental_Rules.html)
-: **Homework**{: .label .label-hw } [Homework 2](http://prob140.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/stat88/content-sp24&branch=main&subPath=hw/Homework_02.ipynb)
-    : Due Jan 29 at 4PM
+Jan 27
+: **Lecture**{: .label .label-lecture } [Intersections of several events]
+    : Ch [2.1-2.2](http://stat88.org/textbook/content/Chapter_02/01_The_Chance_of_an_Intersection.html)
 
-Jan 24
-: **Lecture**{: .label .label-lecture } [Conditioning, updating](assets/slides/annotated-lec-4.pdf) ([Blank Slides](/assets/slides/lec-4-pre-lec.pdf))
-    : Ch [2.1 - 2.3](http://stat88.org/textbook/content/Chapter_02/01_The_Chance_of_an_Intersection.html)
-: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/01_24.pdf)
+Jan 29
+: **Lecture**{: .label .label-lecture } [Updating chances: Bayes' rule]
+    : Ch [2.3-2.4](http://stat88.org/textbook/content/Chapter_02/03_Bayes_Rule.html)
+: **Section**{: .label .label-disc }
 
-Jan 26
-: **Lecture**{: .label .label-lecture } [Bayes' examples, Independence](assets/slides/annotated-lec-5.pdf) ([Blank Slides](/assets/slides/lec-5-pre-lec.pdf))
-    : Ch [2.4, 2.5](http://stat88.org/textbook/content/Chapter_02/04_Use_and_Interpretation.html)
-: **Section**{: .label .label-disc } [Worksheet](/assets/worksheets/01_26.pdf)
+Jan 31
+: **Lecture**{: .label .label-lecture } [Bayes' rule examples, independence]
+    : Ch [2.4-2.5](http://stat88.org/textbook/content/Chapter_02/04_Use_and_Interpretation.html)
+: **Section**{: .label .label-disc }

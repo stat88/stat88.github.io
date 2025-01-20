@@ -1,14 +1,17 @@
 ---
-title: 'Week 8: Additivity and Midterm'
+title: 'Week 8: Variance & SD'
 ---
 
-Mar 4
-: **Lecture**{: .label .label-lecture } Tail Bounds
-    : Ch [7.1.1 - 7.1.4](http://stat88.org/textbook/content/Chapter_07/01_Sums_of_Independent_Random_Variables.html)
+Mar 10
+: **Lecture**{: .label .label-lecture } [Expectation by conditioning]
+    : Ch [5.6](http://stat88.org/textbook/content/Chapter_05/06_Expectation_by_Conditioning.html)
 
-Mar 6
-: **Lecture**{: .label .label-lecture } Additivity, Review (go over practice midterm)
+Mar 12
+: **Lecture**{: .label .label-lecture } [Measuring variability]
+    : Ch [6.1-6.2](http://stat88.org/textbook/content/Chapter_06/01_Variance_and_Standard_Deviation.html)
 : **Section**{: .label .label-disc }
 
-Mar 8
-: **Midterm**{: .label .label-exam }
+Mar 14
+: **Lecture**{: .label .label-lecture } [Tails of distributions]
+    : Ch [6.3-6.4](http://stat88.org/textbook/content/Chapter_06/03_Markovs_Inequality.html)
+: **Section**{: .label .label-disc }
