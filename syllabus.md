@@ -6,99 +6,84 @@ description: The course syllabus.
 ---
 
 # Syllabus
+#### Michael Xiao ####
 {:.no_toc}
 
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
----
+Welcome to Data 88S! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](http://stat88.org/about/) the class.
 
-Welcome to Data 88S! This page contains the nitty-gritty details of the class. Please read it carefully, and also read the companion page [about](/about) the class.
-
-Enrolled and waitlisted students have been added to our **Ed** forum. Some start-of-term information has been posted on Ed.
+Enrolled and waitlisted students will be added to our **Ed** forum.
 
 ## Community Standards ##
-Data 88S is an academic community; Ed (see below) is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/wp-content/uploads/2021/02/Code-of-Conduct_January-2016.pdf).
+Data 88S is an academic community; Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley's Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf).
+
 
 
 ## Textbook ##
-The [textbook](/textbook) is on the course website. Lectures and the textbook will be closely related in content and sequence, though the exposition and examples in lecture might be different from those in the text. 
+The [textbook](http://stat88.org/textbook/content/intro.html) is on the course website. Lectures and the textbook will be closely related in content and sequence, though the exposition and examples in lecture might be different from those in the text. 
 
 
 ## Weekly Sessions and Attendance ##
 All sessions are in person and start at Berkeley time, that is, 10 minutes after the stated start time.
 
-The class does not allow time conflicts. **You are expected to attend all the lectures and sections.** Each session will assume that you have attended the previous ones.
+The class does not allow time conflicts. **You are expected to attend all the sessions below.** Each session will assume that you have attended the previous ones.
 
-- Lecture meets Mondays, Wednesdays, and Fridays, 4 to 5 PM in Dwinelle Hall, Room 155.
-- Sections, led by TAs, will meet at various times on Wednesdays and Fridays. 
-- There will be numerous office hours held by the instructors and course staff; please see the [schedule](/schedule).
+- Lecture meets Mondays, Wednesdays, Fridays 12:00 noon to 1:00 PM in Dwinelle 155.
+- Discussion sections meet two times a week, on Wednesdays and Fridays. 
+- There will be numerous office hours held by the instructor and course staff; days and times TBA.
 
-Student participation and informal conversation will be encouraged during all lectures and sections. You are expected not only to attend but also to participate. While we will not take attendance during lecture and section, we highly encourage you to attend because they provide opportunities for you to develop problem-solving skills and ask clarification questions. In addition, we will have you submit section worksheets each day that you have section. See below for details.
-
+Student participation and informal conversation will be encouraged during all lectures and sections. You are expected not only to attend but also to participate. We will not take attendance. Rather, we'll make sure that participating in the sessions is an effective and efficient way to learn. 
 
 ## Ed Forum ##
-We will use our Ed forum extensively for communication, posting documents and information, and discussions with students. Please check Ed regularly, and please read the [Forum Policies](https://edstem.org/us/courses/53099/discussion/4126571) post carefully before posting. The forum is intended for discussion of course content, and not for discussion of personal circumstances or sensitive matters. For such concerns, please use the course email [data88s@berkeley.edu](mailto:data88s@berkeley.edu).
+We will use our Ed forum extensively for communication, posting documents and information, and discussions with students. Please check Ed regularly, and please read the Forum Policies post carefully before posting.
 
 
 ## The Required Components of Your Work ##
 
-### Section Worksheets ###
-
-You will complete a worksheet each section period. These are **due at 11:59 PM** on Gradescope the same day, that is, worksheets handed out during Wednesday section will be due 11:59 PM Wednesday night, and similarly for Fridays. You are required to attend the section you are officially enrolled in, which will be enforced by receiving a secret word from your TA that will be part of your Gradescope worksheet submission. These will be graded on completeness. The worksheet will be available on the course website at 5PM on the day of section so you can still complete and turn in the worksheet by 11:59PM. Worksheets not completed in section will still be expected to be fully complete upon submission in order to receive credit. We will drop the **lowest four** section worksheet scores.
-
-
 ### Homework ###
 
-Homework will be released every Monday after lecture, and will be due the following **Monday at 4 PM sharp**, before lecture. In some weeks there may be deviations from this due to exams or holidays; these will be listed on the schedule.
+Homework will be assigned each Monday after lecture and will be due the following **Tuesday at 5 pm**. In some weeks there may be deviations from this due to exams or holidays; we will let you know. 
 
-Data 88S is essentially a math class. Homework will largely consist of math and interpretation, with little to no code.
+Data 88S is essentially a math class. Homework will consist of math and interpretation. Your main tools for working will be paper-and-pencil or a tablet equivalent. Occationally, there will be code cells to help you obtain numerical values.
 
-Homework must be submitted on Gradescope. Please **follow all submission instructions**. Failure to do so will result in your submission not being graded. It is your responsibility to make sure your submission is complete and on time. 
+**Late assignments will not be accepted**. But if you have DSP accommodations for extended time on assignments, please make sure we receive your DSP accommodation letter by the second week of classes. We will contact you about arrangements. 
 
-**Late submission of homework will not be accepted under any circumstances**, unless you have relevant university accommodations. If you have such accommodations, please provide the formal notification to your GSI before the end of the second week of classes. There will be no alternate due dates for assignments missed due to illness, other commitments, and so on. The  drops are intended to cover those situations. 
-
-There are 13 homework assignments and we will drop the **lowest three** scores.
-
-If you have DSP accommodations for extended time on assignments, please make sure we receive your DSP accommodation letter by the second week of classes. We will contact you about arrangements. 
+Homework must be submitted on Gradescope. Please **follow all submission instructions**. Not doing so will result in no credit and no regrade request allowed for the work. It is your responsibility to make sure your submission is complete.
 
 **Homework will be graded based on correctness**. We encourage you to use the plentiful support available from the instructors and course staff, and to get started as early as possible. Turning in work that you understand well and know to be correct is by far the most efficient way to succeed in the class.
 
-Please keep in mind that **homework assigned each week is based on the material covered in the same week, not in the previous week.** The problems in the homework will follow the order of the lectures that week.
+Please keep in mind that **homework assigned each week is based on the material covered in the same week, not in the previous week.** The first one or two exercises (and possibly more) of each week's homework will be based on material covered on Monday. So you will be able to start homework as soon as it is assigned, though many students prefer to wait till after section on Wednesday.
 
 
-### Quizzes and Exams ###
+### Exams ###
 
-- We will have **four quizzes** during the semester, on the following Fridays: February 2, February 16, March 22, and April 12. For each quiz, you will get 25 minutes to complete the quiz individually, after which you will get 15 minutes to re-do the quiz in a group of two or three. Each quiz score will be the average of your individual and group quiz scores, and the **lowest average score** will be dropped.
+All of these will be in person and proctored. 
 
-- There will be an in-person **midterm** held during lecture on **Friday, March 8** covering the material in chapters 1 through 6 of the textbook.
+- **Midterm 1** on Wednesday February 26, during lecture (12:00 noon to 1:00 PM in Dwinelle 155).
+- **Midterm 2** on Wednesday April 9, during lecture (12:00 noon to 1:00 PM in Dwinelle 155).
+- **Final Exam** on Wednesday May 14, 3:00 PM to 6:00 PM, Exam Group 11, rooms TBA. It is your responsibility to make sure you are not enrolled in another class that has a conflicting final exam. 
 
-- The **final exam** will be held on Friday, May 10, from 8 to 11 AM. It is your responsibility to make sure that you are not enrolled in a class that has a conflicting final exam. You **must take the final in order to pass the class**. The final exam will be comprehensive and can clobber your midterm score.
-
-- There will be **no alternate quizzes or final exam** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the time of the final exam. Also, please make sure we receive your official DSP accommodation letter at least one week before the first test for which you need the accommodations, so we can make the necessary arrangements.
-
+There will be **no alternate exams** except as required by campus rules. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled exams.
 
 ### Grades ###
-To give you some leeway in case of illness and emergencies, and to allow for mathematical growth, we will, while calculating your overall score.
+We strongly recommended that you turn in all assignments even if you can only complete some of them partially. However, to give you some leeway in case of illness and emergencies, we will drop your two lowest homework scores in the calculation of your overall score.
 
-- drop your lowest (average) quiz score, and 
-- drop your three lowest homework scores, and
-- drop your four lowest section worksheet scores, and 
-- allow your final to clobber your midterm (that is, we will use the higher of your final and your midterm for your midterm score)
+Letter grades for the course will be based on your overall score in the class, calculated using the following weights:
 
-Course grades will be assigned using the following weights: 
+- Homework 25%
+- Midterm 1 20%
+- Midterm 2 20%
+- Final 35%
 
-- 5% section worksheets
-- 15% homeworks
-- 25% quizzes
-- 25% midterm
-- 30% final
+**Clobber policy:** If your final exam percentage score is greater than either of your midterm percentage scores then it will replace the lower of your two midterm percentage scores (only your Midterm 1 score will be replaced if both your midterm scores are equal). Here “percentage score” on an exam means your score on the exam as a percent of the total points on the exam.
 
+Letter grades will be based on a combination of absolute cutoffs and the distribution of overall scores.
 
-Grades will be based on a combination of absolute cutoffs and the distribution of overall scores. The cutoffs will be no higher than the standard American grade cutoffs for high school: at least a 90% for an A, at least an 80% for a B, and at least a 70% for a C etc.
 
 ## Collaboration and Integrity ##
 You are encouraged to discuss practice problems and homework with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, you must write up all your assignments **on your own**. 
@@ -107,12 +92,4 @@ Copying assignments from other sources is not only dishonest, it also doesn’t 
 
 Stat 88 and Data 88S materials including exams and solutions are the intellectual property of the course developers. From the campus statement on Academic Integrity: “... students may not circulate or post materials (handouts, exams, syllabi, i.e. any class materials) from their classes without the written permission of the instructor.” 
 
-We are tough with dishonest students and we hope that we will not be put in that situation in Data 88S. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
-
-## Device Lending Options ##
-Students can access device lending options through the [Student Technology Equity Program](https://studenttech.berkeley.edu/devicelending). Additionally, laptops are [available to loan](https://www.lib.berkeley.edu/about/device-lending-policy) from the libraries.
-
-
-## Data Science Student Climate ##
-
-[Data Science Undergraduate Studies](https://data.berkeley.edu/academics/undergraduate-programs) faculty and staff are committed to creating a community where every person feels [respected, included, and supported](https://data.berkeley.edu/equity-inclusion). We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to us, but you are also welcome to contact Executive Director Christina Teller at cpteller@berkeley.edu or report an incident anonymously through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSfBwaUe7VMQz6VzkYFvf4KYwNSTve9iJlBSQyAmsXoSE0LnWw/viewform).
+We are tough with dishonest students and we hope that we will not be put in that situation in Data 88S. I expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
