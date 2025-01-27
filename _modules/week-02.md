@@ -9,9 +9,9 @@ Jan 27
 Jan 29
 : **Lecture**{: .label .label-lecture } Updating chances: Bayes' rule
     : Ch [2.3-2.4](http://stat88.org/textbook/content/Chapter_02/03_Bayes_Rule.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } Ch 2 Ex 5, 10, 6
 
 Jan 31
 : **Lecture**{: .label .label-lecture } Bayes' rule examples, independence
     : Ch [2.4-2.5](http://stat88.org/textbook/content/Chapter_02/04_Use_and_Interpretation.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } Ch 2 Ex 11, 12, 4
