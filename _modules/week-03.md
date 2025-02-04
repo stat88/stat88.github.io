@@ -9,9 +9,9 @@ Feb 3
 Feb 5
 : **Lecture**{: .label .label-lecture } Random variables and their distributions
     : Ch [3.2](http://stat88.org/textbook/content/Chapter_03/02_Random_Variables.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } Ch 3 Ex 1, 8, 7
 
 Feb 7
 : **Lecture**{: .label .label-lecture } Random counts: the binomial
     : Ch [3.3](http://stat88.org/textbook/content/Chapter_03/03_The_Binomial_Distribution.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } Ch 3 Ex 2, 9, 3
