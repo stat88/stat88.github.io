@@ -13,7 +13,7 @@ UC Berkeley, Spring 2025
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-3-random-variables){: .btn } 
+[**Jump to current week**](#week-4-random-counts){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}
