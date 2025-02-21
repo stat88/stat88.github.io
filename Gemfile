@@ -29,7 +29,7 @@ group :development, :test do
   gem 'rackup'
   gem 'rspec'
   gem 'selenium-webdriver'
-  gem 'webrick", "~> 1.8'
+  gem 'webrick'
 end
 
 group :development, :rubocop do
