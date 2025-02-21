@@ -37,4 +37,3 @@ group :development, :rubocop do
   gem 'rubocop-capybara', require: false
   gem 'rubocop-rspec', require: false
 end
- 
