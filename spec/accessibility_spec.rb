@@ -50,15 +50,6 @@ ALL_PAGES.each do |path|
   describe "#{path} is accessible", :js, type: :feature do
     context 'when light mode' do
       before do
-        # Check if jtd is defined before running the dark mode toggle script
-        jtd_defined = page.evaluate_script('typeof jtd !== "undefined"')
-
-        if jtd_defined
-          page.execute_script('jtd.setTheme("dark")')
-        else
-          puts "jtd is not defined!"
-        end
-
         visit(path)
         page.execute_script('jtd.setTheme("light")')
       end
@@ -68,15 +59,6 @@ ALL_PAGES.each do |path|
 
     context 'when dark mode' do
       before do
-        # Check if jtd is defined before running the dark mode toggle script
-        jtd_defined = page.evaluate_script('typeof jtd !== "undefined"')
-
-        if jtd_defined
-          page.execute_script('jtd.setTheme("dark")')
-        else
-          puts "jtd is not defined!"
-        end
-        
         visit(path)
         page.execute_script('jtd.setTheme("dark")')
       end
