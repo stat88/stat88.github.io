@@ -30,7 +30,7 @@ jobs:
         run: |
           ruby -v
           bundle -v
-          gem list
+          bundle list
       - name: Run a11y tests
         run: |
           bundle exec rspec
