@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: ruby/setup-ruby@v1
-        with:
+        # with:
           # The Ruby version is determined by either a `.ruby-version` or a `.tool-versions` file in root of the repo.
           # bundler-cache: true
       - name: Run a11y tests
