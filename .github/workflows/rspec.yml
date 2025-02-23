@@ -17,20 +17,6 @@ jobs:
         with:
           # The Ruby version is determined by either a `.ruby-version` or a `.tool-versions` file in root of the repo.
           bundler-cache: true
-      - name: Check Ruby and Gem Versions 1
-        run: |
-          ruby -v
-          bundle -v
-          gem list
-      - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install --force
-      - name: Check Ruby and Gem Versions 2
-        run: |
-          ruby -v
-          bundle -v
-          bundle list
       - name: Run a11y tests
         run: |
           bundle exec rspec
