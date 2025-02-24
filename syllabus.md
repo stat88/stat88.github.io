@@ -6,7 +6,7 @@ description: The course syllabus.
 ---
 
 # Syllabus
-#### Michael Xiao ####
+## Instructor: Michael Xiao ##
 {:.no_toc}
 
 ## Table of Contents

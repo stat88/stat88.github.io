@@ -3,9 +3,9 @@
 .jekyll-cache/
 .jekyll-metadata
 .sass-cache/
-Gemfile.lock
 _site/
 node_modules/
 vendor/
 .DS_Store
 .ipynb_checkpoints
+tmp/
