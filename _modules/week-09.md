@@ -9,9 +9,9 @@ Mar 17
 Mar 19
 : **Lecture**{: .label .label-lecture } The accuracy of a simple random sample
     : Ch [7.2](http://stat88.org/textbook/content/Chapter_07/02_Sampling_Without_Replacement.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } Ch 7 Ex 1, 3a, 8
 
 Mar 21
 : **Lecture**{: .label .label-lecture } Large samples and the law of averages
     : Ch [7.3](http://stat88.org/textbook/content/Chapter_07/03_The_Law_of_Averages.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } No Section
