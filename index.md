@@ -13,7 +13,7 @@ UC Berkeley, Spring 2025
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-9-variance-of-a-sum){: .btn } 
+[**Jump to current week**](#week-11-central-limit-theorem){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}

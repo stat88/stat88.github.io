@@ -9,9 +9,9 @@ Mar 31
 Apr 2
 : **Lecture**{: .label .label-lecture } Central Limit Theorem 2
     : Ch [8.2-8.3](http://stat88.org/textbook/content/Chapter_08/02_Standard_Normal_Curve.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } Ch 8 Ex 1, 2, 3, 4
 
 Apr 4
 : **Lecture**{: .label .label-lecture } Inference: confidence intervals based on the CLT
     : Ch [9.1-9.2](http://stat88.org/textbook/content/Chapter_09/01_Confidence_Intervals_Method.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } Ch 9 Ex 1, 2, 4
