@@ -1,7 +1,7 @@
 ---
 title: Week 1
 week: 1
-date: 2024-01-20
+date: 2025-01-20
 ---
 
 - Welcome to Data 88S! The first lecture will be on Wednesday, January 22nd, from 12-1 PM in Dwinelle 155; the first section will follow the first lecture on Friday, January 24th, and the time / location is based on your section enrollment.
