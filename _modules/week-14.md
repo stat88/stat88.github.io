@@ -9,7 +9,7 @@ Apr 21
 Apr 23
 : **Lecture**{: .label .label-lecture } Some properties of the normal distribution
     : Ch [10.4](http://stat88.org/textbook/content/Chapter_10/04_The_Normal_Distribution.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } Ch 10 Ex 10c, 3, 4, 9
 
 Apr 25
 : **Lecture**{: .label .label-lecture } Estimator: bias and variance
