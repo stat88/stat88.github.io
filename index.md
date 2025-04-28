@@ -13,7 +13,7 @@ UC Berkeley, Spring 2025
 {{ announcement }}
 
 # Calendar
-[**Jump to current week**](#week-14-density-estimation){: .btn } 
+[**Jump to current week**](#week-15-regression){: .btn } 
 
 {% for module in site.modules %}
 {{ module }}

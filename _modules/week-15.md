@@ -9,9 +9,9 @@ Apr 28
 Apr 30
 : **Lecture**{: .label .label-lecture } Correlation
     : Ch [11.3-11.4](http://stat88.org/textbook/content/Chapter_11/03_Least_Squares_Linear_Regression.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } Ch 11 Ex 1, 2, 4
 
 May 2
 : **Lecture**{: .label .label-lecture } The error in regression
     : Ch [11.5](http://stat88.org/textbook/content/Chapter_11/05_The_Error_in_Regression.html)
-: **Section**{: .label .label-disc }
+: **Section**{: .label .label-disc } Ch 11 Ex 6, 7
