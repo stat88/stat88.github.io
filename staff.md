@@ -5,6 +5,11 @@ nav_order: 3
 description: A listing of all the course staff members.
 ---
 
+
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data8.org/)
+
+
 # Staff
 
 Append `@berkeley.edu` to all email addresses. **For questions, concerns, personal circumstances, or sensitive matters,** please use the staff email address **[data88s@berkeley.edu](mailto:data88s@berkeley.edu)**, which is monitored only by the instructor and lead TAs.
