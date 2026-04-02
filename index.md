@@ -7,8 +7,7 @@ description: A week-to-week description of the content covered in the course.
 
 
 {: .warning }
-⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data8.org/)
-
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. 
 
 # Data 88S: Probability and Mathematical Statistics for Data Science
 UC Berkeley, Spring 2025

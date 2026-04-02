@@ -7,7 +7,7 @@ description: The course syllabus.
 
 
 {: .warning }
-⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data8.org/)
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference.
 
 
 # Syllabus
